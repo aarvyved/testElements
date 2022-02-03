@@ -8,6 +8,9 @@ resources:
         include: main
 pipelines:
   - name: TestElement
+    configuration:
+      integrations:
+          - name: s_art
     steps:
       - name: TestElement_1
         type: Bash
