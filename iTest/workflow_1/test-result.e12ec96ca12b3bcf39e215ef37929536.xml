@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.2950" tests="13" failures="0" skipped="13">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:21" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="WORKFLOW_TESTS - environment workFlow tests " timestamp="2022-01-17T17:51:21" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests_1/4383776/setup_PreMatrix/tests/core/workFlow/environments/environmentWorkflow.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Below test cases are for project environments" timestamp="2022-01-17T17:51:21" tests="13" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests_1/4383776/setup_PreMatrix/tests/core/workFlow/environments/environmentWorkflow.js" time="0.0090" failures="0" skipped="13">
+    <testcase name="WORKFLOW_TESTS - environment workFlow tests  Below test cases are for project environments Environments-WF-001. In the yaml for a pipelineSource in project A environment DEV, specify a nodePool from project A environment PROD. Verify that pipelineSync fails." time="0.0000" classname="Environments-WF-001. In the yaml for a pipelineSource in project A environment DEV, specify a nodePool from project A environment PROD. Verify that pipelineSync fails.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - environment workFlow tests  Below test cases are for project environments Environments-WF-002. In the yaml for a pipelineSource in project A environment DEV, specify a nodePool from project A environment DEV. Verify that pipelineSync succeeds." time="0.0000" classname="Environments-WF-002. In the yaml for a pipelineSource in project A environment DEV, specify a nodePool from project A environment DEV. Verify that pipelineSync succeeds.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - environment workFlow tests  Below test cases are for project environments Environments-WF-003. In the yaml for a pipelineSource in project A environment DEV, specify a nodePool from project B environment DEV. Verify that pipelineSync fails." time="0.0000" classname="Environments-WF-003. In the yaml for a pipelineSource in project A environment DEV, specify a nodePool from project B environment DEV. Verify that pipelineSync fails.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - environment workFlow tests  Below test cases are for project environments Environments-WF-004. In the yaml for a pipelineSource in project A environment DEV, specify an integration from project A environment PROD. Verify that pipelineSync fails." time="0.0000" classname="Environments-WF-004. In the yaml for a pipelineSource in project A environment DEV, specify an integration from project A environment PROD. Verify that pipelineSync fails.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - environment workFlow tests  Below test cases are for project environments Environments-WF-005. In the yaml for a pipelineSource in project A environment DEV, specify an integration from project A environment DEV. Verify that pipelineSync succeeds." time="0.0000" classname="Environments-WF-005. In the yaml for a pipelineSource in project A environment DEV, specify an integration from project A environment DEV. Verify that pipelineSync succeeds.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - environment workFlow tests  Below test cases are for project environments Environments-WF-006. In the yaml for a pipelineSource in project A environment DEV, specify an integration from project B environment DEV. Verify that pipelineSync fails." time="0.0000" classname="Environments-WF-006. In the yaml for a pipelineSource in project A environment DEV, specify an integration from project B environment DEV. Verify that pipelineSync fails.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - environment workFlow tests  Below test cases are for project environments Environments-WF-007. After a successful sync where integration and pipelineSource are in DEV environment, update the integration environment to PROD, then trigger a run in that pipelineSource. Verify that the run is created, but step fails state due to inability to access the integration." time="0.0000" classname="Environments-WF-007. After a successful sync where integration and pipelineSource are in DEV environment, update the integration environment to PROD, then trigger a run in that pipelineSource. Verify that the run is created, but step fails state due to inability to access the integration.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - environment workFlow tests  Below test cases are for project environments Environments-WF-008. After a successful sync where nodePool and pipelineSource are in DEV environment, update the nodePool environment to PROD, then trigger a run in that pipelineSource. Verify that the run is created, but step fails state due to inability to access the nodePool." time="0.0000" classname="Environments-WF-008. After a successful sync where nodePool and pipelineSource are in DEV environment, update the nodePool environment to PROD, then trigger a run in that pipelineSource. Verify that the run is created, but step fails state due to inability to access the nodePool.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - environment workFlow tests  Below test cases are for project environments Environments-WF-009. User runs a step in a non-default project pipeline in the DEV environment using a resource from another pipeline source that is in both DEV and PROD environments and has a DEV environment integration successfully." time="0.0000" classname="Environments-WF-009. User runs a step in a non-default project pipeline in the DEV environment using a resource from another pipeline source that is in both DEV and PROD environments and has a DEV environment integration successfully.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - environment workFlow tests  Below test cases are for project environments Environments-WF-010. User tries to run a step in a non-default project pipeline in the DEV environment using a resource with a PROD environment integration and the step status is “error.”" time="0.0000" classname="Environments-WF-010. User tries to run a step in a non-default project pipeline in the DEV environment using a resource with a PROD environment integration and the step status is “error.”">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - environment workFlow tests  Below test cases are for project environments Environments-7524-001. User tries to add a pipeline source in a non-default project in the DEV environment containing a step that uses a resource defined by another pipeline source in the PROD environment. Pipeline sync fails." time="0.0000" classname="Environments-7524-001. User tries to add a pipeline source in a non-default project in the DEV environment containing a step that uses a resource defined by another pipeline source in the PROD environment. Pipeline sync fails.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - environment workFlow tests  Below test cases are for project environments Environments-7524-002. User tries to add a pipeline source in a non-default project in the PROD environment containing a step that uses a resource defined by another pipeline source in the DEV environment. Pipeline sync fails." time="0.0000" classname="Environments-7524-002. User tries to add a pipeline source in a non-default project in the PROD environment containing a step that uses a resource defined by another pipeline source in the DEV environment. Pipeline sync fails.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - environment workFlow tests  Below test cases are for project environments Environments-7524-004. User tries to add a pipeline source in a non-default project in the DEV environment containing a step that uses a resource defined by another pipeline source also in the DEV environment. Pipeline sync succeeds." time="0.0000" classname="Environments-7524-004. User tries to add a pipeline source in a non-default project in the DEV environment containing a step that uses a resource defined by another pipeline source also in the DEV environment. Pipeline sync succeeds.">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

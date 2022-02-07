@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="307.6070" tests="5" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:36" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function" timestamp="2022-01-17T17:51:36" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_3/4383722/setup_PreMatrix/tests/core/steps/PowerShell/PSUtilityfunctions/PSUtilityFunctions.js" time="307.6000" failures="0">
+    <testcase name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function S-PS-UTIL-0001. Verify bump_semver utility function added in thePowerShell step with major action and user sees that step is successand increments the first number in the semver string format" time="89.4490" classname="S-PS-UTIL-0001. Verify bump_semver utility function added in thePowerShell step with major action and user sees that step is successand increments the first number in the semver string format">
+    </testcase>
+    <testcase name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function S-PS-UTIL-0002. Verify bump_semver utility function added in thePowerShell step with minor action and user sees that step is successand increments the second number in the semver string format" time="52.9680" classname="S-PS-UTIL-0002. Verify bump_semver utility function added in thePowerShell step with minor action and user sees that step is successand increments the second number in the semver string format">
+    </testcase>
+    <testcase name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function S-PS-UTIL-0003. Verify bump_semver utility function added in thePowerShell step with patch action and user sees that step is successand increments the third number in the semver string format" time="55.9410" classname="S-PS-UTIL-0003. Verify bump_semver utility function added in thePowerShell step with patch action and user sees that step is successand increments the third number in the semver string format">
+    </testcase>
+    <testcase name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function S-PS-UTIL-0004. Verify bump_semver utility function added in the PowerShell step with alpha action and user sees that step is success and adds alpha or increments the counter" time="54.4700" classname="S-PS-UTIL-0004. Verify bump_semver utility function added in the PowerShell step with alpha action and user sees that step is success and adds alpha or increments the counter">
+    </testcase>
+    <testcase name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function S-PS-UTIL-0005. Verify bump_semver utility function added in the PowerShell step with beta action and user sees that step is success and adds beta or increments the counter" time="54.5990" classname="S-PS-UTIL-0005. Verify bump_semver utility function added in the PowerShell step with beta action and user sees that step is success and adds beta or increments the counter">
+    </testcase>
+  </testsuite>
+</testsuites>

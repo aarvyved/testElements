@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="319.4280" tests="93" failures="0" skipped="4">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API_STEPLETS - Steplets API tests" timestamp="2022-01-17T17:51:38" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383725/setup_PreMatrix/tests/core/api/steplets.js" time="0.0000" failures="0">
+    <testcase name="API_STEPLETS - Steplets API tests 1. Super user can post their pipelineSources to add Steplets" time="18.1540" classname="1. Super user can post their pipelineSources to add Steplets">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases uses pipelineSource" timestamp="2022-01-17T17:51:56" tests="66" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383725/setup_PreMatrix/tests/core/api/steplets.js" time="0.0000" failures="0" skipped="4">
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource 2. Super user can get their pipelines" time="0.1120" classname="2. Super user can get their pipelines">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource 4. Super user can trigger pipelineSteps by Id to add stepletConsoles" time="81.8240" classname="4. Super user can trigger pipelineSteps by Id to add stepletConsoles">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource 5. Super user can get their Runs to add stepletConsoles" time="0.0380" classname="5. Super user can get their Runs to add stepletConsoles">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource 7. super user can get their steps" time="0.0270" classname="7. super user can get their steps">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0001. Super user should be able to get their steplets" time="0.0240" classname="A-Steplets-0001. Super user should be able to get their steplets">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-6531-0058. Users are able to use the include parameter while getting steplets." time="0.0340" classname="A-Steplets-6531-0058. Users are able to use the include parameter while getting steplets.">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0002. Admin should be able to get steplets" time="0.0550" classname="A-Steplets-0002. Admin should be able to get steplets">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0003. Member should be able to get their steplets" time="0.0620" classname="A-Steplets-0003. Member should be able to get their steplets">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0004. Public user cannot get steplets" time="0.0210" classname="A-Steplets-0004. Public user cannot get steplets">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0005. Super user should be able to get steplets by Id" time="0.0560" classname="A-Steplets-0005. Super user should be able to get steplets by Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-6531-0059. Users are able to use the include parameter while getting steplets by Id" time="0.0250" classname="A-Steplets-6531-0059. Users are able to use the include parameter while getting steplets by Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0006. Admin should be able to get steplets by Id" time="0.0400" classname="A-Steplets-0006. Admin should be able to get steplets by Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0007. Member should be able to get steplets by Id" time="0.0700" classname="A-Steplets-0007. Member should be able to get steplets by Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0008. Public user cannot get steplets by Id" time="0.0200" classname="A-Steplets-0008. Public user cannot get steplets by Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0009. Super user can get artifactUrl by steplet Id" time="0.1490" classname="A-Steplets-0009. Super user can get artifactUrl by steplet Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-PO-PP-0037. User with project scope can get artifactUrl by steplet Id" time="0.2690" classname="A-PO-PP-0037. User with project scope can get artifactUrl by steplet Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0010. Admin cannot get artifactUrl by steplet Id" time="0.0200" classname="A-Steplets-0010. Admin cannot get artifactUrl by steplet Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0011. Member cannot get artifactUrl by steplet Id" time="0.0280" classname="A-Steplets-0011. Member cannot get artifactUrl by steplet Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0012. Public user cannot get their artifactUrl by steplet Id" time="0.0220" classname="A-Steplets-0012. Public user cannot get their artifactUrl by steplet Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0041. Super user can get runStateArtifactUrl by steplet Id" time="0.3100" classname="A-Steplets-0041. Super user can get runStateArtifactUrl by steplet Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0042. Admin cannot get runStateArtifactUrl by steplet Id" time="0.0380" classname="A-Steplets-0042. Admin cannot get runStateArtifactUrl by steplet Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0043. Member cannot get runStateArtifactUrl by steplet Id" time="0.0310" classname="A-Steplets-0043. Member cannot get runStateArtifactUrl by steplet Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0044. Public user cannot get runStateArtifactUrl by steplet Id" time="0.0140" classname="A-Steplets-0044. Public user cannot get runStateArtifactUrl by steplet Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0045. Super user gets the `head` field inside the response body of runStateArtifactUrl by steplet Id" time="0.0560" classname="A-Steplets-0045. Super user gets the `head` field inside the response body of runStateArtifactUrl by steplet Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0047. Super user gets the `get` field inside the response body of runStateArtifactUrl by steplet Id" time="0.0900" classname="A-Steplets-0047. Super user gets the `get` field inside the response body of runStateArtifactUrl by steplet Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0048. Super user gets the `put` field inside the response body of runStateArtifactUrl by steplet Id" time="0.2510" classname="A-Steplets-0048. Super user gets the `put` field inside the response body of runStateArtifactUrl by steplet Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0049. Super user gets the `headOpts` field inside the response body of runStateArtifactUrl by steplet Id" time="0.1500" classname="A-Steplets-0049. Super user gets the `headOpts` field inside the response body of runStateArtifactUrl by steplet Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0050. Super user gets the `getOpts` field inside the response body of runStateArtifactUrl by steplet Id" time="0.0470" classname="A-Steplets-0050. Super user gets the `getOpts` field inside the response body of runStateArtifactUrl by steplet Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-7218-0001. Super user gets the `rtAccessTokenExpiresIn` field inside the response body of runStateArtifactUrl by steplet Id and it expires in 10 minutes" time="0.1000" classname="A-Steplets-7218-0001. Super user gets the `rtAccessTokenExpiresIn` field inside the response body of runStateArtifactUrl by steplet Id and it expires in 10 minutes">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0051. Super user gets the `putOpts` field inside the response body of runStateArtifactUrl by steplet Id" time="0.1050" classname="A-Steplets-0051. Super user gets the `putOpts` field inside the response body of runStateArtifactUrl by steplet Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0052. Super user gets the `deleteOpts` field inside the response body of runStateArtifactUrl by steplet Id" time="0.1270" classname="A-Steplets-0052. Super user gets the `deleteOpts` field inside the response body of runStateArtifactUrl by steplet Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0053. Super user gets the `relativePath` field inside the response body of runStateArtifactUrl by steplet Id" time="0.0500" classname="A-Steplets-0053. Super user gets the `relativePath` field inside the response body of runStateArtifactUrl by steplet Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0054. Super user can pass `artifactName` in query  param for runStateArtifactUrl by steplet Id" time="0.0510" classname="A-Steplets-0054. Super user can pass `artifactName` in query  param for runStateArtifactUrl by steplet Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0013. Super user can update the steplets by Id" time="0.0420" classname="A-Steplets-0013. Super user can update the steplets by Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-PO-PP-0038. User with project scope can update the steplets by Id" time="0.0290" classname="A-PO-PP-0038. User with project scope can update the steplets by Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-PUT-PP-0013. ProjectAdminUser should be able to update  steplets by its Id" time="0.0650" classname="A-PUT-PP-0013. ProjectAdminUser should be able to update  steplets by its Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0014. Admin can update the steplets" time="0.0970" classname="A-Steplets-0014. Admin can update the steplets">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0015. Member cannot update the steplets" time="0.0520" classname="A-Steplets-0015. Member cannot update the steplets">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0016. Public user cannot update the steplets" time="0.0170" classname="A-Steplets-0016. Public user cannot update the steplets">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0017. Super user should be able to post their steplets" time="0.0000" classname="A-Steplets-0017. Super user should be able to post their steplets">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-PO-PP-0026. Project Admin User should be able Post steplets " time="0.0350" classname="A-PO-PP-0026. Project Admin User should be able Post steplets ">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0018. Admin cannot post new steplets" time="0.0000" classname="A-Steplets-0018. Admin cannot post new steplets">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0019. Member cannot post new steplets" time="0.0000" classname="A-Steplets-0019. Member cannot post new steplets">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0020. Public user cannot post new steplets" time="0.0000" classname="A-Steplets-0020. Public user cannot post new steplets">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0021. Id in steplets API should not be null and should be a integer type" time="0.0000" classname="A-Steplets-0021. Id in steplets API should not be null and should be a integer type">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0022. ProjectId in steplets API should not be null and should be a integer type" time="0.0000" classname="A-Steplets-0022. ProjectId in steplets API should not be null and should be a integer type">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0023. PipelineId in steplets API should not be null and should be a integer type" time="0.0000" classname="A-Steplets-0023. PipelineId in steplets API should not be null and should be a integer type">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0024. StepId in steplets API should not be null and  should be a integer type" time="0.0000" classname="A-Steplets-0024. StepId in steplets API should not be null and  should be a integer type">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0025. StepletNumber in steplets API should not be null and should be a integer type" time="0.0000" classname="A-Steplets-0025. StepletNumber in steplets API should not be null and should be a integer type">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0026. StatusCode in steplets API should be a integer type" time="0.0000" classname="A-Steplets-0026. StatusCode in steplets API should be a integer type">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0027. TriggeredAt field in steplets API should be an string type" time="0.0010" classname="A-Steplets-0027. TriggeredAt field in steplets API should be an string type">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0028. StartedAt field in steplets API should be an string type" time="0.0000" classname="A-Steplets-0028. StartedAt field in steplets API should be an string type">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0029. EndedAt field in steplets API should be an string type" time="0.0000" classname="A-Steplets-0029. EndedAt field in steplets API should be an string type">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0030. QueuedAt field in steplets API should be an string type" time="0.0000" classname="A-Steplets-0030. QueuedAt field in steplets API should be an string type">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0031. CreatedAt in steplets API should be a string type" time="0.0000" classname="A-Steplets-0031. CreatedAt in steplets API should be a string type">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0032. UpdatedAt in steplets API should be a string type" time="0.0000" classname="A-Steplets-0032. UpdatedAt in steplets API should be a string type">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0033. Public user cannot delete steplets by Id" time="0.0220" classname="A-Steplets-0033. Public user cannot delete steplets by Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0034. Member cannot delete steplets by Id" time="0.0330" classname="A-Steplets-0034. Member cannot delete steplets by Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0035. Admin cannot delete steplets by Id" time="0.0280" classname="A-Steplets-0035. Admin cannot delete steplets by Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-DEL-PP-0025. ProjectAdminUser should be able to delete steplet by its steplet Id" time="0.1750" classname="A-DEL-PP-0025. ProjectAdminUser should be able to delete steplet by its steplet Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0036. Super user should be able to delete steplets by Id" time="0.0930" classname="A-Steplets-0036. Super user should be able to delete steplets by Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0037. Public user cannot delete by Steplets By Pipeline Id" time="0.0180" classname="A-Steplets-0037. Public user cannot delete by Steplets By Pipeline Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0038. Member cannot delete by Steplets By Pipeline Id" time="0.0270" classname="A-Steplets-0038. Member cannot delete by Steplets By Pipeline Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0039. Admin cannot delete by Steplets By Pipeline Id" time="0.0230" classname="A-Steplets-0039. Admin cannot delete by Steplets By Pipeline Id">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-DEL-PP-0026. ProjectAdminUser cannot delete pipeline Id by its steplets" time="0.0360" classname="A-DEL-PP-0026. ProjectAdminUser cannot delete pipeline Id by its steplets">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource A-Steplets-0040. Super user can delete by Steplets By Pipeline Id" time="0.0880" classname="A-Steplets-0040. Super user can delete by Steplets By Pipeline Id">
+    </testcase>
+  </testsuite>
+  <testsuite name="Test cases for old-format run state" timestamp="2022-01-17T17:53:22" tests="8" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383725/setup_PreMatrix/tests/core/api/steplets.js" time="75.3890" failures="0">
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource Test cases for old-format run state A-Steplets-6380-001 Superuser should be able to call GET /steplets/:stepletId/runState and download old-format run state." time="0.1710" classname="A-Steplets-6380-001 Superuser should be able to call GET /steplets/:stepletId/runState and download old-format run state.">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource Test cases for old-format run state A-Steplets-6380-002 Admin user should be able to call GET /steplets/:stepletId/runState for old-format run state." time="0.2730" classname="A-Steplets-6380-002 Admin user should be able to call GET /steplets/:stepletId/runState for old-format run state.">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource Test cases for old-format run state A-Steplets-6380-003 Member user should be able to call GET /steplets/:stepletId/runState for old-format run state." time="0.2070" classname="A-Steplets-6380-003 Member user should be able to call GET /steplets/:stepletId/runState for old-format run state.">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource Test cases for old-format run state A-Steplets-6380-004 Public user shouldn’t be able to call GET /steplets/:stepletId/runState for old-format run state." time="0.0190" classname="A-Steplets-6380-004 Public user shouldn’t be able to call GET /steplets/:stepletId/runState for old-format run state.">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource Test cases for old-format run state A-Steplets-6380-005 Superuser should get 200 calling HEAD /steplets/:stepletId/runState and not download run state with old-format run state." time="0.2560" classname="A-Steplets-6380-005 Superuser should get 200 calling HEAD /steplets/:stepletId/runState and not download run state with old-format run state.">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource Test cases for old-format run state A-Steplets-6380-006 Admin user should get 200 calling HEAD /steplets/:stepletId/runState for old-format run state." time="0.1740" classname="A-Steplets-6380-006 Admin user should get 200 calling HEAD /steplets/:stepletId/runState for old-format run state.">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource Test cases for old-format run state A-Steplets-6380-007 Member user should get 200 calling HEAD /steplets/:stepletId/runState for old-format run state." time="0.2390" classname="A-Steplets-6380-007 Member user should get 200 calling HEAD /steplets/:stepletId/runState for old-format run state.">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource Test cases for old-format run state A-Steplets-6380-008 Public user shouldn’t be able to call HEAD /steplets/:stepletId/runState for old-format run state." time="0.0180" classname="A-Steplets-6380-008 Public user shouldn’t be able to call HEAD /steplets/:stepletId/runState for old-format run state.">
+    </testcase>
+  </testsuite>
+  <testsuite name="Test cases for new-format run state" timestamp="2022-01-17T17:54:37" tests="8" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383725/setup_PreMatrix/tests/core/api/steplets.js" time="44.8350" failures="0">
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource Test cases for new-format run state A-Steplets-6380-009 Superuser should be able to call GET /steplets/:stepletId/runState to download run state." time="0.1110" classname="A-Steplets-6380-009 Superuser should be able to call GET /steplets/:stepletId/runState to download run state.">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource Test cases for new-format run state A-Steplets-6380-010 Admin user should be able to call GET /steplets/:stepletId/runState." time="0.1480" classname="A-Steplets-6380-010 Admin user should be able to call GET /steplets/:stepletId/runState.">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource Test cases for new-format run state A-Steplets-6380-011 Member user should be able to call GET /steplets/:stepletId/runState." time="0.2130" classname="A-Steplets-6380-011 Member user should be able to call GET /steplets/:stepletId/runState.">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource Test cases for new-format run state A-Steplets-6380-012 Public user shouldn’t be able to call GET /steplets/:stepletId/runState." time="0.0150" classname="A-Steplets-6380-012 Public user shouldn’t be able to call GET /steplets/:stepletId/runState.">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource Test cases for new-format run state A-Steplets-6380-013 Superuser should get 200 calling HEAD /steplets/:stepletId/runState and not download run state" time="0.1330" classname="A-Steplets-6380-013 Superuser should get 200 calling HEAD /steplets/:stepletId/runState and not download run state">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource Test cases for new-format run state A-Steplets-6380-014 Admin user should get 200 calling HEAD /steplets/:stepletId/runState." time="0.1160" classname="A-Steplets-6380-014 Admin user should get 200 calling HEAD /steplets/:stepletId/runState.">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource Test cases for new-format run state A-Steplets-6380-015 Member user should get 200 calling HEAD /steplets/:stepletId/runState." time="0.2180" classname="A-Steplets-6380-015 Member user should get 200 calling HEAD /steplets/:stepletId/runState.">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource Test cases for new-format run state A-Steplets-6380-016 Public user shouldn’t be able to call HEAD /steplets/:stepletId/runState." time="0.0210" classname="A-Steplets-6380-016 Public user shouldn’t be able to call HEAD /steplets/:stepletId/runState.">
+    </testcase>
+  </testsuite>
+  <testsuite name="Test cases for no run state" timestamp="2022-01-17T17:55:22" tests="7" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383725/setup_PreMatrix/tests/core/api/steplets.js" time="29.5240" failures="0">
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource Test cases for no run state A-Steplets-6380-017 Superuser should get 404 calling GET /steplets/:stepletId/runState to download run state with no run state." time="0.2570" classname="A-Steplets-6380-017 Superuser should get 404 calling GET /steplets/:stepletId/runState to download run state with no run state.">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource Test cases for no run state A-Steplets-6380-018 Admin user should get 404 calling GET /steplets/:stepletId/runState with no run state." time="0.4190" classname="A-Steplets-6380-018 Admin user should get 404 calling GET /steplets/:stepletId/runState with no run state.">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource Test cases for no run state A-Steplets-6380-018 Member user should get 404 calling GET /steplets/:stepletId/runState with no run state." time="0.2400" classname="A-Steplets-6380-018 Member user should get 404 calling GET /steplets/:stepletId/runState with no run state.">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource Test cases for no run state A-Steplets-6380-019 Public user shouldn’t be able to call GET /steplets/:stepletId/runState with no run state." time="0.0190" classname="A-Steplets-6380-019 Public user shouldn’t be able to call GET /steplets/:stepletId/runState with no run state.">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource Test cases for no run state A-Steplets-6380-020 Superuser should get 404 calling HEAD /steplets/:stepletId/runState with no run state." time="0.1800" classname="A-Steplets-6380-020 Superuser should get 404 calling HEAD /steplets/:stepletId/runState with no run state.">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource Test cases for no run state A-Steplets-6380-021 Admin user should get 404 calling HEAD /steplets/:stepletId/runState with no run state." time="0.2890" classname="A-Steplets-6380-021 Admin user should get 404 calling HEAD /steplets/:stepletId/runState with no run state.">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Below test cases uses pipelineSource Test cases for no run state A-Steplets-6380-022 Member user should get 404 calling HEAD /steplets/:stepletId/runState with no run state." time="0.3390" classname="A-Steplets-6380-022 Member user should get 404 calling HEAD /steplets/:stepletId/runState with no run state.">
+    </testcase>
+  </testsuite>
+  <testsuite name="Steplet console logup tests" timestamp="2022-01-17T17:55:51" tests="3" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383725/setup_PreMatrix/tests/core/api/steplets.js" time="66.0110" failures="0">
+    <testcase name="API_STEPLETS - Steplets API tests Steplet console logup tests A-Steplets-0055. User gets a complete steplet and isConsoleArchived set to true within five minutes of run completion (consoles are uploaded to Artifactory)." time="3.0250" classname="A-Steplets-0055. User gets a complete steplet and isConsoleArchived set to true within five minutes of run completion (consoles are uploaded to Artifactory).">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Steplet console logup tests A-Steplets-0056. User is able to download archived steplet consoles from Artifactory (in a Bash step)." time="25.6350" classname="A-Steplets-0056. User is able to download archived steplet consoles from Artifactory (in a Bash step).">
+    </testcase>
+    <testcase name="API_STEPLETS - Steplets API tests Steplet console logup tests A-Steplets-0057. User is able to get archived steplet consoles from API." time="0.1630" classname="A-Steplets-0057. User is able to get archived steplet consoles from API.">
+    </testcase>
+  </testsuite>
+</testsuites>

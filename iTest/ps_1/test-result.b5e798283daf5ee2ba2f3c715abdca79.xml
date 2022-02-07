@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="215.5990" tests="7" failures="0" skipped="1">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:18" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="STEP_POWERSHELL_ARTIFACTORY_INTEGRATION - PowerShell Step Tests For Artifactory Integration" timestamp="2022-01-17T17:51:18" tests="7" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_1/4383693/setup_PreMatrix/tests/core/steps/PowerShell/PSIntegration/PowerShellArtifactoryIntegration.js" time="215.5930" failures="0" skipped="1">
+    <testcase name="STEP_POWERSHELL_ARTIFACTORY_INTEGRATION - PowerShell Step Tests For Artifactory Integration S-PS-I-Artifactory-0001. User verifies that auto-login is done for an artifactory when artifactory integration is specified in the integration section of the PowerShell step." time="138.4400" classname="S-PS-I-Artifactory-0001. User verifies that auto-login is done for an artifactory when artifactory integration is specified in the integration section of the PowerShell step.">
+    </testcase>
+    <testcase name="STEP_POWERSHELL_ARTIFACTORY_INTEGRATION - PowerShell Step Tests For Artifactory Integration S-PS-I-Artifactory-0002. If the user adds a pipeline sources with the PowerShell step, where  Artifactory integration is mentioned in the integration section, then pipeline sync should success." time="11.1520" classname="S-PS-I-Artifactory-0002. If the user adds a pipeline sources with the PowerShell step, where  Artifactory integration is mentioned in the integration section, then pipeline sync should success.">
+    </testcase>
+    <testcase name="STEP_POWERSHELL_ARTIFACTORY_INTEGRATION - PowerShell Step Tests For Artifactory Integration S-PS-I-Artifactory-0003. User verifies that all the Artifactory integration environment variables are available in execution sections of the PowerShell step." time="54.7190" classname="S-PS-I-Artifactory-0003. User verifies that all the Artifactory integration environment variables are available in execution sections of the PowerShell step.">
+    </testcase>
+    <testcase name="STEP_POWERSHELL_ARTIFACTORY_INTEGRATION - PowerShell Step Tests For Artifactory Integration S-PS-I-Artifactory-0005. User should able to pull/push images from artifactoryRegistry." time="0.0000" classname="S-PS-I-Artifactory-0005. User should able to pull/push images from artifactoryRegistry.">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_POWERSHELL_ARTIFACTORY_INTEGRATION - PowerShell Step Tests For Artifactory Integration 1. User should be able to add new pipelineSources" time="10.2380" classname="1. User should be able to add new pipelineSources">
+    </testcase>
+    <testcase name="STEP_POWERSHELL_ARTIFACTORY_INTEGRATION - PowerShell Step Tests For Artifactory Integration S-PS-I-Artifactory-0004. Users should not be able to delete Artifactory integration if it is dependent on the steps." time="0.1380" classname="S-PS-I-Artifactory-0004. Users should not be able to delete Artifactory integration if it is dependent on the steps.">
+    </testcase>
+    <testcase name="STEP_POWERSHELL_ARTIFACTORY_INTEGRATION - PowerShell Step Tests For Artifactory Integration 2. User can delete pipelineSource by Id" time="0.8000" classname="2. User can delete pipelineSource by Id">
+    </testcase>
+  </testsuite>
+</testsuites>

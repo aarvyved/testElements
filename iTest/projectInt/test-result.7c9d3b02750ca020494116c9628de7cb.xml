@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="23.6280" tests="14" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:52:11" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="DYNAMICINTEGRATIONS_AWS - DynamicAWS integration tests" timestamp="2022-01-17T17:52:11" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383828/setup_PreMatrix/tests/core/projectIntegrations/dynamicAWS.js" time="0.0000" failures="0">
+    <testcase name="DYNAMICINTEGRATIONS_AWS - DynamicAWS integration tests 1. User can get their buildPlaneImages to add nodePools" time="0.0750" classname="1. User can get their buildPlaneImages to add nodePools">
+    </testcase>
+  </testsuite>
+  <testsuite name="below test cases use the buildplane images" timestamp="2022-01-17T17:52:11" tests="13" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383828/setup_PreMatrix/tests/core/projectIntegrations/dynamicAWS.js" time="23.2450" failures="0">
+    <testcase name="DYNAMICINTEGRATIONS_AWS - DynamicAWS integration tests below test cases use the buildplane images DI-AWS-0001. Verify a user can add AWS dynamic integration by providing Name, AccessKeyId, SecretAccessKey" time="17.8370" classname="DI-AWS-0001. Verify a user can add AWS dynamic integration by providing Name, AccessKeyId, SecretAccessKey">
+    </testcase>
+    <testcase name="DYNAMICINTEGRATIONS_AWS - DynamicAWS integration tests below test cases use the buildplane images 2. User can post NodePools for dynamic project integration" time="3.9320" classname="2. User can post NodePools for dynamic project integration">
+    </testcase>
+    <testcase name="DYNAMICINTEGRATIONS_AWS - DynamicAWS integration tests below test cases use the buildplane images DI-AWS-0002. Users should not be able to add the AWS dynamic integration with the invalid name" time="0.0640" classname="DI-AWS-0002. Users should not be able to add the AWS dynamic integration with the invalid name">
+    </testcase>
+    <testcase name="DYNAMICINTEGRATIONS_AWS - DynamicAWS integration tests below test cases use the buildplane images DI-AWS-0003. Users should not be able to edit integration’s Name" time="0.1840" classname="DI-AWS-0003. Users should not be able to edit integration’s Name">
+    </testcase>
+    <testcase name="DYNAMICINTEGRATIONS_AWS - DynamicAWS integration tests below test cases use the buildplane images DI-AWS-0004. Users should be able to edit integration’s AccessKeyId." time="0.3360" classname="DI-AWS-0004. Users should be able to edit integration’s AccessKeyId.">
+    </testcase>
+    <testcase name="DYNAMICINTEGRATIONS_AWS - DynamicAWS integration tests below test cases use the buildplane images DI-AWS-0005. Users should be able to edit the integration’s SecretAccessKey. " time="0.1020" classname="DI-AWS-0005. Users should be able to edit the integration’s SecretAccessKey. ">
+    </testcase>
+    <testcase name="DYNAMICINTEGRATIONS_AWS - DynamicAWS integration tests below test cases use the buildplane images DI-AWS-0006. Users should not be able to delete AWS dynamic integration when it is being used in the node pool" time="0.1800" classname="DI-AWS-0006. Users should not be able to delete AWS dynamic integration when it is being used in the node pool">
+    </testcase>
+    <testcase name="DYNAMICINTEGRATIONS_AWS - DynamicAWS integration tests below test cases use the buildplane images DI-AWS-0008. Users should not be able to add AWS dynamic integration without providing AccessKeyId." time="0.1560" classname="DI-AWS-0008. Users should not be able to add AWS dynamic integration without providing AccessKeyId.">
+    </testcase>
+    <testcase name="DYNAMICINTEGRATIONS_AWS - DynamicAWS integration tests below test cases use the buildplane images DI-AWS-0009. Users should not be able to add AWS dynamic integration without providing a SecretAccessKey" time="0.0870" classname="DI-AWS-0009. Users should not be able to add AWS dynamic integration without providing a SecretAccessKey">
+    </testcase>
+    <testcase name="DYNAMICINTEGRATIONS_AWS - DynamicAWS integration tests below test cases use the buildplane images DI-AWS-0010. Users should not be able to add AWS dynamic integration without providing a name field. " time="0.0220" classname="DI-AWS-0010. Users should not be able to add AWS dynamic integration without providing a name field. ">
+    </testcase>
+    <testcase name="DYNAMICINTEGRATIONS_AWS - DynamicAWS integration tests below test cases use the buildplane images DI-AWS-0013. Users should not be able to update the name field with an empty string." time="0.1100" classname="DI-AWS-0013. Users should not be able to update the name field with an empty string.">
+    </testcase>
+    <testcase name="DYNAMICINTEGRATIONS_AWS - DynamicAWS integration tests below test cases use the buildplane images 3. user should be able to delete nodePools by Id" time="0.1050" classname="3. user should be able to delete nodePools by Id">
+    </testcase>
+    <testcase name="DYNAMICINTEGRATIONS_AWS - DynamicAWS integration tests below test cases use the buildplane images DI-AWS-0007. Users should  be able to delete AWS dynamic integration only if all the nodes and nodePools which are using this integration are deleted." time="0.1230" classname="DI-AWS-0007. Users should  be able to delete AWS dynamic integration only if all the nodes and nodePools which are using this integration are deleted.">
+    </testcase>
+  </testsuite>
+</testsuites>

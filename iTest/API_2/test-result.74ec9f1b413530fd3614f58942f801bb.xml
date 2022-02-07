@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="2.1590" tests="23" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API_SYSTEM_CONFIGS - SystemConfigs API tests" timestamp="2022-01-17T17:51:38" tests="23" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383736/setup_PreMatrix/tests/core/api/systemConfigs.js" time="2.1490" failures="0">
+    <testcase name="API_SYSTEM_CONFIGS - SystemConfigs API tests A-SystemConfigs-0001. Super user can get SystemConfigs" time="0.0520" classname="A-SystemConfigs-0001. Super user can get SystemConfigs">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIGS - SystemConfigs API tests A-SystemConfigs-0002. ProjectAdminUser cannot get system configs" time="0.0390" classname="A-SystemConfigs-0002. ProjectAdminUser cannot get system configs">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIGS - SystemConfigs API tests A-SystemConfigs-0003. Admin user cannot get system configs" time="0.0630" classname="A-SystemConfigs-0003. Admin user cannot get system configs">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIGS - SystemConfigs API tests A-SystemConfigs-0004. Member cannot get system configs" time="0.0450" classname="A-SystemConfigs-0004. Member cannot get system configs">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIGS - SystemConfigs API tests A-SystemConfigs-0005. Public user cannot get system configs" time="0.0320" classname="A-SystemConfigs-0005. Public user cannot get system configs">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIGS - SystemConfigs API tests A-SystemConfigs-0006. Super user can update system configs" time="0.0990" classname="A-SystemConfigs-0006. Super user can update system configs">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIGS - SystemConfigs API tests A-SystemConfigs-0007. ProjectAdminUser cannot update system configs" time="0.1430" classname="A-SystemConfigs-0007. ProjectAdminUser cannot update system configs">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIGS - SystemConfigs API tests A-SystemConfigs-0008. Admin user cannot update system configs" time="0.0670" classname="A-SystemConfigs-0008. Admin user cannot update system configs">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIGS - SystemConfigs API tests A-SystemConfigs-0009. Member cannot update system configs" time="0.0810" classname="A-SystemConfigs-0009. Member cannot update system configs">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIGS - SystemConfigs API tests A-SystemConfigs-0010. Public user cannot update system configs" time="0.0170" classname="A-SystemConfigs-0010. Public user cannot update system configs">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIGS - SystemConfigs API tests A-SystemConfigs-0011. Super user cannot get any SystemConfig other than urlSettings and loggers" time="0.0600" classname="A-SystemConfigs-0011. Super user cannot get any SystemConfig other than urlSettings and loggers">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIGS - SystemConfigs API tests A-SystemConfigs-0012. Super user cannot update any SystemConfig other than urlSettings and loggers" time="0.1170" classname="A-SystemConfigs-0012. Super user cannot update any SystemConfig other than urlSettings and loggers">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIGS - SystemConfigs API tests A-SystemConfigs-0013. MemberUser can get customNodesAllowed config" time="0.1290" classname="A-SystemConfigs-0013. MemberUser can get customNodesAllowed config">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIGS - SystemConfigs API tests A-SystemConfigs-0014. Super user can get SystemConfigs" time="0.0820" classname="A-SystemConfigs-0014. Super user can get SystemConfigs">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIGS - SystemConfigs API tests A-SystemConfigs-0015. ProjectAdminUser cannot get system configs" time="0.1470" classname="A-SystemConfigs-0015. ProjectAdminUser cannot get system configs">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIGS - SystemConfigs API tests A-SystemConfigs-0016. Admin user cannot get system configs" time="0.0540" classname="A-SystemConfigs-0016. Admin user cannot get system configs">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIGS - SystemConfigs API tests A-SystemConfigs-0017. Member cannot get system configs" time="0.0730" classname="A-SystemConfigs-0017. Member cannot get system configs">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIGS - SystemConfigs API tests A-SystemConfigs-0018. Public user cannot get system configs" time="0.0200" classname="A-SystemConfigs-0018. Public user cannot get system configs">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIGS - SystemConfigs API tests A-SystemConfigs-0019. Super user can update system configs" time="0.1830" classname="A-SystemConfigs-0019. Super user can update system configs">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIGS - SystemConfigs API tests A-SystemConfigs-0020. ProjectAdminUser cannot update system configs" time="0.1050" classname="A-SystemConfigs-0020. ProjectAdminUser cannot update system configs">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIGS - SystemConfigs API tests A-SystemConfigs-0021. Admin user cannot update system configs" time="0.1070" classname="A-SystemConfigs-0021. Admin user cannot update system configs">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIGS - SystemConfigs API tests A-SystemConfigs-0022. Member cannot update system configs" time="0.0490" classname="A-SystemConfigs-0022. Member cannot update system configs">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIGS - SystemConfigs API tests A-SystemConfigs-0023. Public user cannot update system configs" time="0.0180" classname="A-SystemConfigs-0023. Public user cannot update system configs">
+    </testcase>
+  </testsuite>
+</testsuites>

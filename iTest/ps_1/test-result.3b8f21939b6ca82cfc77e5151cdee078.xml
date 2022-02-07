@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="172.4030" tests="9" failures="0" skipped="1">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:18" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="STEP_POWERSHELL_AWS_INTEGRATION - PowerShell Step Tests For AWS Integration" timestamp="2022-01-17T17:51:18" tests="9" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_1/4383686/setup_PreMatrix/tests/core/steps/PowerShell/PSIntegration/PowerShellAWSIntegration.js" time="172.3970" failures="0" skipped="1">
+    <testcase name="STEP_POWERSHELL_AWS_INTEGRATION - PowerShell Step Tests For AWS Integration 1. user can add AWS project Integration" time="1.2890" classname="1. user can add AWS project Integration">
+    </testcase>
+    <testcase name="STEP_POWERSHELL_AWS_INTEGRATION - PowerShell Step Tests For AWS Integration S-PS-I-AWS-0001. User verifies that auto-login is done for AWS when AWS integration. is specified in the integration section of the PowerShell step." time="73.1590" classname="S-PS-I-AWS-0001. User verifies that auto-login is done for AWS when AWS integration. is specified in the integration section of the PowerShell step.">
+    </testcase>
+    <testcase name="STEP_POWERSHELL_AWS_INTEGRATION - PowerShell Step Tests For AWS Integration S-PS-I-AWS-0002. If an AWS integration is found in the integration section, then pipeline sync should success." time="12.9200" classname="S-PS-I-AWS-0002. If an AWS integration is found in the integration section, then pipeline sync should success.">
+    </testcase>
+    <testcase name="STEP_POWERSHELL_AWS_INTEGRATION - PowerShell Step Tests For AWS Integration S-PS-I-AWS-0003. User verifies that all the AWS integration  environment variables are available in execution sections of the  PowerShell step." time="72.6990" classname="S-PS-I-AWS-0003. User verifies that all the AWS integration  environment variables are available in execution sections of the  PowerShell step.">
+    </testcase>
+    <testcase name="STEP_POWERSHELL_AWS_INTEGRATION - PowerShell Step Tests For AWS Integration 2. User should be able to add new pipelineSources" time="10.8800" classname="2. User should be able to add new pipelineSources">
+    </testcase>
+    <testcase name="STEP_POWERSHELL_AWS_INTEGRATION - PowerShell Step Tests For AWS Integration S-PS-I-AWS-0004. Users should not able to delete AWS integration if it is dependent on of powerShell steps." time="0.1200" classname="S-PS-I-AWS-0004. Users should not able to delete AWS integration if it is dependent on of powerShell steps.">
+    </testcase>
+    <testcase name="STEP_POWERSHELL_AWS_INTEGRATION - PowerShell Step Tests For AWS Integration S-PS-I-AWS-0005. User should able to pull/push images from amazon container registry." time="0.0000" classname="S-PS-I-AWS-0005. User should able to pull/push images from amazon container registry.">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_POWERSHELL_AWS_INTEGRATION - PowerShell Step Tests For AWS Integration 3. User can delete pipelineSource by Id" time="1.0040" classname="3. User can delete pipelineSource by Id">
+    </testcase>
+    <testcase name="STEP_POWERSHELL_AWS_INTEGRATION - PowerShell Step Tests For AWS Integration 4. User can delete AWS project integration by Id" time="0.1180" classname="4. User can delete AWS project integration by Id">
+    </testcase>
+  </testsuite>
+</testsuites>

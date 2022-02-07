@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="25.1730" tests="9" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:52:11" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="PROJECTINTEGRATIONS_SSHKEY - SSHKey integration tests" timestamp="2022-01-17T17:52:11" tests="9" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383804/setup_PreMatrix/tests/core/projectIntegrations/SSHkey.js" time="25.1510" failures="0">
+    <testcase name="PROJECTINTEGRATIONS_SSHKEY - SSHKey integration tests I-SSHKey-0001. User can add SSHKey project Integration" time="6.4810" classname="I-SSHKey-0001. User can add SSHKey project Integration">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_SSHKEY - SSHKey integration tests 1. User should be able to add new pipelineSources" time="16.8720" classname="1. User should be able to add new pipelineSources">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_SSHKEY - SSHKey integration tests I-SSHKey-0002. SSHKey integration name must adhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/" time="0.0430" classname="I-SSHKey-0002. SSHKey integration name must adhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_SSHKEY - SSHKey integration tests I-SSHKey-0007. User cannot update the integration name field in SSHKey project integration " time="0.0760" classname="I-SSHKey-0007. User cannot update the integration name field in SSHKey project integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_SSHKEY - SSHKey integration tests I-SSHKey-0008. User can update the publicKey field in  SSHKey project integration " time="0.4250" classname="I-SSHKey-0008. User can update the publicKey field in  SSHKey project integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_SSHKEY - SSHKey integration tests I-SSHKey-0009. User can update the privateKey field in  SSHKey project integration " time="0.5060" classname="I-SSHKey-0009. User can update the privateKey field in  SSHKey project integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_SSHKEY - SSHKey integration tests I-SSHKey-0006. Users should not able to delete SSH Key integration if it is dependent on any resources." time="0.0710" classname="I-SSHKey-0006. Users should not able to delete SSH Key integration if it is dependent on any resources.">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_SSHKEY - SSHKey integration tests 2. User can delete pipelineSource by Id" time="0.3500" classname="2. User can delete pipelineSource by Id">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_SSHKEY - SSHKey integration tests I-SSHKey-0003 and I-SSHKey-0005. Users should able to delete SSH Key integration if it is not dependent on any steps." time="0.1140" classname="I-SSHKey-0003 and I-SSHKey-0005. Users should able to delete SSH Key integration if it is not dependent on any steps.">
+    </testcase>
+  </testsuite>
+</testsuites>

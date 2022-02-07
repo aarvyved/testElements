@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="672.4070" tests="5" failures="1">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:50:59" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="WORKFLOW_TESTS - pipeline workFlow tests " timestamp="2022-01-17T17:50:59" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/core/workFlow/pipeline/trigger/pipelineWorkFlow3.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Test cases for pipeline dependencyMode and chronological" timestamp="2022-01-17T17:50:59" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/core/workFlow/pipeline/trigger/pipelineWorkFlow3.js" time="672.2930" failures="1">
+    <testcase name="WORKFLOW_TESTS - pipeline workFlow tests  Test cases for pipeline dependencyMode and chronological P_WF_0013. If chronological is true in the pipelines configuration section, only one run runs at a time." time="77.8060" classname="P_WF_0013. If chronological is true in the pipelines configuration section, only one run runs at a time.">
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - pipeline workFlow tests  Test cases for pipeline dependencyMode and chronological P_WF_0014. If chronological is false in the pipelines configuration section, multiple runs run at the same time." time="334.9680" classname="P_WF_0014. If chronological is false in the pipelines configuration section, multiple runs run at the same time.">
+      <failure message="Run was not created: Error: Max number of back-offs reached
+    at Backoff.&lt;anonymous&gt; (/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/globalWrapper/waitForRunCreation.js:102:9)
+    at Backoff.emit (events.js:376:20)
+    at Backoff.backoff (/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/backoff/lib/backoff.js:41:14)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/globalWrapper/waitForRunCreation.js:69:24
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/globalWrapper/waitForRunCreation.js:130:14
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:2959:19
+    at wrapper (/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:272:20)
+    at replenish (/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:439:29)
+    at iterateeCallback (/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:428:21)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:325:20
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:2957:17
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/globalWrapper/waitForRunCreation.js:276:14
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:325:20
+    at check (/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:4463:32)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/globalWrapper/waitForRunCreation.js:226:14
+    at next (/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:4457:13)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/globalWrapper/waitForRunCreation.js:249:20
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/_common/pipelines/Adapter.js:2573:9
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:2959:19
+    at wrapper (/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:272:20)
+    at replenish (/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:439:29)
+    at iterateeCallback (/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:428:21)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:325:20
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:2957:17
+    at Request._callback (/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/_common/utils.js:126:9)
+    at Request.self.callback (/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/request/request.js:188:22)
+    at Request.emit (events.js:376:20)
+    at Request.&lt;anonymous&gt; (/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/request/request.js:1171:10)
+    at Request.emit (events.js:376:20)
+    at IncomingMessage.&lt;anonymous&gt; (/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:482:28)
+    at IncomingMessage.emit (events.js:388:22)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)" type="Error"><![CDATA[Error: Run was not created: Error: Max number of back-offs reached
+    at Backoff.<anonymous> (globalWrapper/waitForRunCreation.js:102:9)
+    at Backoff.backoff (node_modules/backoff/lib/backoff.js:41:14)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/globalWrapper/waitForRunCreation.js:69:24
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/globalWrapper/waitForRunCreation.js:130:14
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:2959:19
+    at wrapper (node_modules/async/dist/async.js:272:20)
+    at replenish (node_modules/async/dist/async.js:439:29)
+    at iterateeCallback (node_modules/async/dist/async.js:428:21)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:325:20
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:2957:17
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/globalWrapper/waitForRunCreation.js:276:14
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:325:20
+    at check (node_modules/async/dist/async.js:4463:32)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/globalWrapper/waitForRunCreation.js:226:14
+    at next (node_modules/async/dist/async.js:4457:13)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/globalWrapper/waitForRunCreation.js:249:20
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/_common/pipelines/Adapter.js:2573:9
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:2959:19
+    at wrapper (node_modules/async/dist/async.js:272:20)
+    at replenish (node_modules/async/dist/async.js:439:29)
+    at iterateeCallback (node_modules/async/dist/async.js:428:21)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:325:20
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:2957:17
+    at Request._callback (_common/utils.js:126:9)
+    at Request.self.callback (node_modules/request/request.js:188:22)
+    at Request.<anonymous> (node_modules/request/request.js:1171:10)
+    at IncomingMessage.<anonymous> (node_modules/request/request.js:1091:12)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/globalWrapper/triggerStepByPipelineIdAndWaitForRunTriggerToComplete.js:115:13
+    at Backoff.<anonymous> (globalWrapper/waitForRunCreation.js:101:14)
+    at Backoff.backoff (node_modules/backoff/lib/backoff.js:41:14)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/globalWrapper/waitForRunCreation.js:69:24
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/globalWrapper/waitForRunCreation.js:130:14
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:2959:19
+    at wrapper (node_modules/async/dist/async.js:272:20)
+    at replenish (node_modules/async/dist/async.js:439:29)
+    at iterateeCallback (node_modules/async/dist/async.js:428:21)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:325:20
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:2957:17
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/globalWrapper/waitForRunCreation.js:276:14
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:325:20
+    at check (node_modules/async/dist/async.js:4463:32)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/globalWrapper/waitForRunCreation.js:226:14
+    at next (node_modules/async/dist/async.js:4457:13)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/globalWrapper/waitForRunCreation.js:249:20
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/_common/pipelines/Adapter.js:2573:9
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:2959:19
+    at wrapper (node_modules/async/dist/async.js:272:20)
+    at replenish (node_modules/async/dist/async.js:439:29)
+    at iterateeCallback (node_modules/async/dist/async.js:428:21)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:325:20
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/node_modules/async/dist/async.js:2957:17
+    at Request._callback (_common/utils.js:126:9)
+    at Request.self.callback (node_modules/request/request.js:188:22)
+    at Request.<anonymous> (node_modules/request/request.js:1171:10)
+    at IncomingMessage.<anonymous> (node_modules/request/request.js:1091:12)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)]]></failure>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - pipeline workFlow tests  Test cases for pipeline dependencyMode and chronological P_WF_0015. If waitOnParentComplete is true in the pipelines configuration section, the pipeline will not run while a parent is incomplete with multiple parents." time="69.7610" classname="P_WF_0015. If waitOnParentComplete is true in the pipelines configuration section, the pipeline will not run while a parent is incomplete with multiple parents.">
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - pipeline workFlow tests  Test cases for pipeline dependencyMode and chronological P_WF_0016. If waitOnParentComplete is true in the pipelines configuration section, outside resource triggers still create new runs." time="101.3940" classname="P_WF_0016. If waitOnParentComplete is true in the pipelines configuration section, outside resource triggers still create new runs.">
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - pipeline workFlow tests  Test cases for pipeline dependencyMode and chronological P_WF_0017. If waitOnChildComplete is true in the pipelines configuration section, the pipeline will not run while a child is incomplete with multiple children." time="88.3560" classname="P_WF_0017. If waitOnChildComplete is true in the pipelines configuration section, the pipeline will not run while a child is incomplete with multiple children.">
+    </testcase>
+  </testsuite>
+</testsuites>

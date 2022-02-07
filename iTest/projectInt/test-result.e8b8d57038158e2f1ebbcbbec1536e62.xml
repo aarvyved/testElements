@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="22.5020" tests="6" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:52:11" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="PROJECTINTEGRATIONS_AIRBRAKE - Airbrake integration tests" timestamp="2022-01-17T17:52:11" tests="6" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383833/setup_PreMatrix/tests/core/projectIntegrations/Airbrake.js" time="22.4810" failures="0">
+    <testcase name="PROJECTINTEGRATIONS_AIRBRAKE - Airbrake integration tests I-Airbrake-0001. User can add Airbrake project Integration" time="21.3790" classname="I-Airbrake-0001. User can add Airbrake project Integration">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_AIRBRAKE - Airbrake integration tests I-Airbrake-0002. Airbrake integration name must adhere to the  regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/" time="0.1190" classname="I-Airbrake-0002. Airbrake integration name must adhere to the  regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_AIRBRAKE - Airbrake integration tests I-Airbrake-0003. User cannot update the name field in Airbrake integration " time="0.1290" classname="I-Airbrake-0003. User cannot update the name field in Airbrake integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_AIRBRAKE - Airbrake integration tests I-Airbrake-0004. User can update the url field in Airbrake integration" time="0.1420" classname="I-Airbrake-0004. User can update the url field in Airbrake integration">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_AIRBRAKE - Airbrake integration tests I-Airbrake-0005. User can update the token field in Airbrake integration" time="0.0780" classname="I-Airbrake-0005. User can update the token field in Airbrake integration">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_AIRBRAKE - Airbrake integration tests I-Airbrake-0006. Users should be able to delete Airbrake  integration if it is not dependent on any steps." time="0.2520" classname="I-Airbrake-0006. Users should be able to delete Airbrake  integration if it is not dependent on any steps.">
+    </testcase>
+  </testsuite>
+</testsuites>

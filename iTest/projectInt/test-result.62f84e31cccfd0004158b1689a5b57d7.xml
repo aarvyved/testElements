@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="48.5650" tests="20" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:52:11" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="PROJECTINTEGRATIONS_GENERICTESTS - GenericTests tests" timestamp="2022-01-17T17:52:11" tests="20" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383820/setup_PreMatrix/tests/core/projectIntegrations/Generictests.js" time="48.5580" failures="0">
+    <testcase name="PROJECTINTEGRATIONS_GENERICTESTS - GenericTests tests I-Generic-0006. Superuser should be able to include a pipeline source by pattern for the integrations while posting it." time="0.3190" classname="I-Generic-0006. Superuser should be able to include a pipeline source by pattern for the integrations while posting it.">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GENERICTESTS - GenericTests tests I-Generic-0007. ProjectAdminUser should be able to include a pipeline source by pattern  for the integrations while posting it." time="0.3660" classname="I-Generic-0007. ProjectAdminUser should be able to include a pipeline source by pattern  for the integrations while posting it.">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GENERICTESTS - GenericTests tests I-Generic-0008. AdminUser shouldn’t be able to include a pipeline .source by pattern  for the integrations while posting it" time="0.0560" classname="I-Generic-0008. AdminUser shouldn’t be able to include a pipeline .source by pattern  for the integrations while posting it">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GENERICTESTS - GenericTests tests I-Generic-0009. MemberUser shouldn’t be able to include a pipelinesource by pattern  for the integrations while posting it." time="0.0280" classname="I-Generic-0009. MemberUser shouldn’t be able to include a pipelinesource by pattern  for the integrations while posting it.">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GENERICTESTS - GenericTests tests I-Generic-0010. PublicUser shouldn’t be able to include a pipeline source by pattern  for the integrations while posting it." time="0.0180" classname="I-Generic-0010. PublicUser shouldn’t be able to include a pipeline source by pattern  for the integrations while posting it.">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GENERICTESTS - GenericTests tests I-Generic-0021. Superuser should be able to exclude a pipeline source by pattern for the integrations while posting it." time="9.7780" classname="I-Generic-0021. Superuser should be able to exclude a pipeline source by pattern for the integrations while posting it.">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GENERICTESTS - GenericTests tests I-Generic-0022. ProjectAdminUser should be able to exclude a pipeline source by pattern  for the integrations while posting it." time="4.9830" classname="I-Generic-0022. ProjectAdminUser should be able to exclude a pipeline source by pattern  for the integrations while posting it.">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GENERICTESTS - GenericTests tests I-Generic-0023. AdminUser shouldn’t be able to exclude a pipelinesource by pattern  for the integrations while posting it." time="0.0890" classname="I-Generic-0023. AdminUser shouldn’t be able to exclude a pipelinesource by pattern  for the integrations while posting it.">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GENERICTESTS - GenericTests tests I-Generic-0024. MemberUser shouldn’t be able to exclude a pipelinesource by pattern  for the integrations while posting it." time="0.0390" classname="I-Generic-0024. MemberUser shouldn’t be able to exclude a pipelinesource by pattern  for the integrations while posting it.">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GENERICTESTS - GenericTests tests I-Generic-0025. PublicUser shouldn’t be able to exclude a pipeline source by pattern  for the integrations while posting it." time="0.0150" classname="I-Generic-0025. PublicUser shouldn’t be able to exclude a pipeline source by pattern  for the integrations while posting it.">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GENERICTESTS - GenericTests tests I-Generic-0016. Superuser should be able to include a pipeline  source by pattern  for the integrations while Updating it." time="0.1700" classname="I-Generic-0016. Superuser should be able to include a pipeline  source by pattern  for the integrations while Updating it.">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GENERICTESTS - GenericTests tests I-Generic-0017. ProjectAdminUser should be able to include a pipeline source by pattern  for the integrations while Updating it. " time="0.1410" classname="I-Generic-0017. ProjectAdminUser should be able to include a pipeline source by pattern  for the integrations while Updating it. ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GENERICTESTS - GenericTests tests I-Generic-0018. AdminUser shouldn’t be able to include a pipeline source by pattern  for the integrations while Updating it." time="0.0570" classname="I-Generic-0018. AdminUser shouldn’t be able to include a pipeline source by pattern  for the integrations while Updating it.">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GENERICTESTS - GenericTests tests I-Generic-0019. MemberUser shouldn’t be able to include a pipeline source by pattern  for the integrations while Updating it." time="0.0540" classname="I-Generic-0019. MemberUser shouldn’t be able to include a pipeline source by pattern  for the integrations while Updating it.">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GENERICTESTS - GenericTests tests I-Generic-0020. PublicUser shouldn’t be able to include a pipeline source by pattern  for the integrations while Updating it." time="0.0180" classname="I-Generic-0020. PublicUser shouldn’t be able to include a pipeline source by pattern  for the integrations while Updating it.">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GENERICTESTS - GenericTests tests I-Generic-0036. Superuser should be able to exclude a pipeline  source by pattern  for the integrations while Updating it." time="2.5640" classname="I-Generic-0036. Superuser should be able to exclude a pipeline  source by pattern  for the integrations while Updating it.">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GENERICTESTS - GenericTests tests I-Generic-0037. ProjectAdminUser should be able to exclude a pipeline source by pattern  for the integrations while Updating it. " time="3.4580" classname="I-Generic-0037. ProjectAdminUser should be able to exclude a pipeline source by pattern  for the integrations while Updating it. ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GENERICTESTS - GenericTests tests I-Generic-0038. AdminUser shouldn’t be able to exclude a pipeline source by pattern  for the integrations while Updating it." time="0.0270" classname="I-Generic-0038. AdminUser shouldn’t be able to exclude a pipeline source by pattern  for the integrations while Updating it.">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GENERICTESTS - GenericTests tests I-Generic-0039. MemberUser shouldn’t be able to exclude a pipeline source by pattern  for the integrations while Updating it." time="0.0630" classname="I-Generic-0039. MemberUser shouldn’t be able to exclude a pipeline source by pattern  for the integrations while Updating it.">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GENERICTESTS - GenericTests tests I-Generic-0040. PublicUser shouldn’t be able to exclude a pipeline source by pattern  for the integrations while Updating it." time="0.0170" classname="I-Generic-0040. PublicUser shouldn’t be able to exclude a pipeline source by pattern  for the integrations while Updating it.">
+    </testcase>
+  </testsuite>
+</testsuites>

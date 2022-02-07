@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.3690" tests="2" failures="0" skipped="2">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:35" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="POWERSHELL_XRAYSCAN_STEP - PowerShell XrayScan Step Tests" timestamp="2022-01-17T17:51:35" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_3/4383703/setup_PreMatrix/tests/core/steps/PowerShell/PSNative/XrayScan.js" time="0.3270" failures="0" skipped="2">
+    <testcase name="POWERSHELL_XRAYSCAN_STEP - PowerShell XrayScan Step Tests S-PS-XrayScan-6679-001 User runs an XrayScan step with BuildInfo input and scan results are available in the steps api." time="0.0000" classname="S-PS-XrayScan-6679-001 User runs an XrayScan step with BuildInfo input and scan results are available in the steps api.">
+      <skipped/>
+    </testcase>
+    <testcase name="POWERSHELL_XRAYSCAN_STEP - PowerShell XrayScan Step Tests S-PS-XrayScan-7122-001 User runs an XrayScan step with BuildInfo input and failing scan and scan results are available in the steps api." time="0.0000" classname="S-PS-XrayScan-7122-001 User runs an XrayScan step with BuildInfo input and failing scan and scan results are available in the steps api.">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

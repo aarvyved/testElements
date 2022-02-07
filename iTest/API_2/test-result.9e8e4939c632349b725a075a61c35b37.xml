@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="240.7940" tests="69" failures="4" skipped="15">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API_STEPLETTESTREPORTS - StepletTestReports API tests" timestamp="2022-01-17T17:51:38" tests="69" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383726/setup_PreMatrix/tests/core/api/stepletTestReports.js" time="240.7700" failures="4" skipped="15">
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests 1. Super user posts PipelineSources to add pipelines" time="29.7710" classname="1. Super user posts PipelineSources to add pipelines">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests 2. Super user can get their pipelines " time="0.0290" classname="2. Super user can get their pipelines ">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests 3. Super user should be able to get their pipelineSteps" time="0.0250" classname="3. Super user should be able to get their pipelineSteps">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests 4. Super user can trigger pipelineSteps by Id to" time="207.4340" classname="4. Super user can trigger pipelineSteps by Id to">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests 5. super user can get their steps" time="0.0230" classname="5. super user can get their steps">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests 6. Super user should be able to get their steplets" time="0.0200" classname="6. Super user should be able to get their steplets">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests 7. Super user  post Runs to add stepTestReports" time="0.5750" classname="7. Super user  post Runs to add stepTestReports">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests 8. Super user should be able to post their steps" time="0.1060" classname="8. Super user should be able to post their steps">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests 9. Super user should be able to post their steplets" time="0.0220" classname="9. Super user should be able to post their steplets">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-PO-SLTR-0001 Superuser should be able to post stepletTestReports" time="0.0320" classname="A-PO-SLTR-0001 Superuser should be able to post stepletTestReports">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-PO-PP-0039. User with project scope should be able to post stepletTestReports" time="0.0510" classname="A-PO-PP-0039. User with project scope should be able to post stepletTestReports">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-PO-SLTR-0002 Admin user shouldn’t be able to post stepletTestReports" time="0.0310" classname="A-PO-SLTR-0002 Admin user shouldn’t be able to post stepletTestReports">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-PO-SLTR-0003 Member user shouldn’t be able to post stepletTestReports" time="0.0310" classname="A-PO-SLTR-0003 Member user shouldn’t be able to post stepletTestReports">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-PO-SLTR-0004 Public user shouldn’t be able to post  stepletTestReports" time="0.0120" classname="A-PO-SLTR-0004 Public user shouldn’t be able to post  stepletTestReports">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-PO-SLTR-0005 User shouldn’t be able to post stepletTestReports without stepletId field" time="0.0190" classname="A-PO-SLTR-0005 User shouldn’t be able to post stepletTestReports without stepletId field">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-PO-SLTR-0007 User shouldn’t be able to post stepletTestReports with invalid value to the stepletId field" time="0.0320" classname="A-PO-SLTR-0007 User shouldn’t be able to post stepletTestReports with invalid value to the stepletId field">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-PO-SLTR-0009 User shouldn’t be able to post stepletTestReports with invalid value to the durationSeconds field" time="0.0560" classname="A-PO-SLTR-0009 User shouldn’t be able to post stepletTestReports with invalid value to the durationSeconds field">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-PO-SLTR-0010 User shouldn’t be able to post stepletTestReports with invalid value to the errorDetails field" time="0.0190" classname="A-PO-SLTR-0010 User shouldn’t be able to post stepletTestReports with invalid value to the errorDetails field">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-PO-SLTR-0011 User shouldn’t be able to post stepletTestReports with invalid value to the failureDetails field" time="0.0190" classname="A-PO-SLTR-0011 User shouldn’t be able to post stepletTestReports with invalid value to the failureDetails field">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-PO-SLTR-0012 User shouldn’t be able to post stepletTestReports with invalid value to the totalTests field" time="0.0330" classname="A-PO-SLTR-0012 User shouldn’t be able to post stepletTestReports with invalid value to the totalTests field">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-PO-SLTR-0013 User shouldn’t be able to post stepletTestReports with invalid value to the totalErrors field" time="0.0880" classname="A-PO-SLTR-0013 User shouldn’t be able to post stepletTestReports with invalid value to the totalErrors field">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-PO-SLTR-0014 User shouldn’t be able to post stepletTestReports with invalid value to the totalPassing field" time="0.1760" classname="A-PO-SLTR-0014 User shouldn’t be able to post stepletTestReports with invalid value to the totalPassing field">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-PO-SLTR-0015 User shouldn’t be able to post stepletTestReports with invalid value to the totalSkipped field" time="0.0310" classname="A-PO-SLTR-0015 User shouldn’t be able to post stepletTestReports with invalid value to the totalSkipped field">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-PO-SLTR-0016 User shouldn’t be able to post stepletTestReports with invalid value to the totalFailures field" time="0.0410" classname="A-PO-SLTR-0016 User shouldn’t be able to post stepletTestReports with invalid value to the totalFailures field">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-PO-SLTR-0020 The response body of the Post call on stepletTestReports API should contain id field and should not be null" time="0.0000" classname="A-PO-SLTR-0020 The response body of the Post call on stepletTestReports API should contain id field and should not be null">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-PO-SLTR-0021 The response body of the Post call on stepletTestReports API should contain stepId field and should not be null" time="0.0010" classname="A-PO-SLTR-0021 The response body of the Post call on stepletTestReports API should contain stepId field and should not be null">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-PO-SLTR-0022 The response body of the Post call on stepletTestReports API should contain projectId field and should not be null" time="0.0000" classname="A-PO-SLTR-0022 The response body of the Post call on stepletTestReports API should contain projectId field and should not be null">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-PO-SLTR-0023 The response body of the Post  call on stepletTestReports API should contain stepletId field and should not be null" time="0.0000" classname="A-PO-SLTR-0023 The response body of the Post  call on stepletTestReports API should contain stepletId field and should not be null">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-PO-SLTR-0024 The response body of the Post call on stepletTestReports API should contain createdAt field and should not be null" time="0.0000" classname="A-PO-SLTR-0024 The response body of the Post call on stepletTestReports API should contain createdAt field and should not be null">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-PO-SLTR-0025 The response body of the Post call on stepletTestReports API should contain updatedAt field and should not be null" time="0.0000" classname="A-PO-SLTR-0025 The response body of the Post call on stepletTestReports API should contain updatedAt field and should not be null">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-G-SLTR-0001 Superuser should be able to get stepletTestReports" time="0.0250" classname="A-G-SLTR-0001 Superuser should be able to get stepletTestReports">
+      <failure message="Super user cannot get stepletTestReports stepletIds=2987 null" type="Error"><![CDATA[Error: Super user cannot get stepletTestReports stepletIds=2987 null
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383726/setup_PreMatrix/tests/core/api/stepletTestReports.js:887:17
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383726/setup_PreMatrix/tests/_common/pipelines/Adapter.js:2573:9
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383726/setup_PreMatrix/tests/node_modules/async/dist/async.js:2959:19
+    at wrapper (node_modules/async/dist/async.js:272:20)
+    at replenish (node_modules/async/dist/async.js:439:29)
+    at iterateeCallback (node_modules/async/dist/async.js:428:21)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383726/setup_PreMatrix/tests/node_modules/async/dist/async.js:325:20
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383726/setup_PreMatrix/tests/node_modules/async/dist/async.js:2957:17
+    at Request._callback (_common/utils.js:126:9)
+    at Request.self.callback (node_modules/request/request.js:188:22)
+    at Request.<anonymous> (node_modules/request/request.js:1171:10)
+    at IncomingMessage.<anonymous> (node_modules/request/request.js:1091:12)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)]]></failure>
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-G-SLTR-0002 Admin user should be able to get stepletTestReports" time="0.0500" classname="A-G-SLTR-0002 Admin user should be able to get stepletTestReports">
+      <failure message="Admin user cannot get stepletTestReports stepletIds=2987 null" type="Error"><![CDATA[Error: Admin user cannot get stepletTestReports stepletIds=2987 null
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383726/setup_PreMatrix/tests/core/api/stepletTestReports.js:906:17
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383726/setup_PreMatrix/tests/_common/pipelines/Adapter.js:2573:9
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383726/setup_PreMatrix/tests/node_modules/async/dist/async.js:2959:19
+    at wrapper (node_modules/async/dist/async.js:272:20)
+    at replenish (node_modules/async/dist/async.js:439:29)
+    at iterateeCallback (node_modules/async/dist/async.js:428:21)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383726/setup_PreMatrix/tests/node_modules/async/dist/async.js:325:20
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383726/setup_PreMatrix/tests/node_modules/async/dist/async.js:2957:17
+    at Request._callback (_common/utils.js:126:9)
+    at Request.self.callback (node_modules/request/request.js:188:22)
+    at Request.<anonymous> (node_modules/request/request.js:1171:10)
+    at IncomingMessage.<anonymous> (node_modules/request/request.js:1091:12)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)]]></failure>
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-G-SLTR-0003 Member user should be able to get stepletTestReports " time="0.0540" classname="A-G-SLTR-0003 Member user should be able to get stepletTestReports ">
+      <failure message="Member user cannot get stepletTestReports stepletIds=2987 null" type="Error"><![CDATA[Error: Member user cannot get stepletTestReports stepletIds=2987 null
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383726/setup_PreMatrix/tests/core/api/stepletTestReports.js:924:17
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383726/setup_PreMatrix/tests/_common/pipelines/Adapter.js:2573:9
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383726/setup_PreMatrix/tests/node_modules/async/dist/async.js:2959:19
+    at wrapper (node_modules/async/dist/async.js:272:20)
+    at replenish (node_modules/async/dist/async.js:439:29)
+    at iterateeCallback (node_modules/async/dist/async.js:428:21)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383726/setup_PreMatrix/tests/node_modules/async/dist/async.js:325:20
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383726/setup_PreMatrix/tests/node_modules/async/dist/async.js:2957:17
+    at Request._callback (_common/utils.js:126:9)
+    at Request.self.callback (node_modules/request/request.js:188:22)
+    at Request.<anonymous> (node_modules/request/request.js:1171:10)
+    at IncomingMessage.<anonymous> (node_modules/request/request.js:1091:12)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)]]></failure>
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-G-SLTR-0004 Public user shouldn’t be able to get stepletTestReports" time="0.0160" classname="A-G-SLTR-0004 Public user shouldn’t be able to get stepletTestReports">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-G-SLTR-0005 The response body of the get call on stepletTestReports API should contain errorDetails field and should not be null" time="0.0010" classname="A-G-SLTR-0005 The response body of the get call on stepletTestReports API should contain errorDetails field and should not be null">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-G-SLTR-0006 The response body of the get call on stepletTestReports API should contain failureDetails field and should not be null" time="0.0000" classname="A-G-SLTR-0006 The response body of the get call on stepletTestReports API should contain failureDetails field and should not be null">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-G-SLTR-0007 The response body of the get call on stepletTestReports API should contain durationSeconds field and should not be null" time="0.0000" classname="A-G-SLTR-0007 The response body of the get call on stepletTestReports API should contain durationSeconds field and should not be null">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-G-SLTR-0008 The response body of the get call on stepletTestReports API should contain totalTests field and should not be null" time="0.0000" classname="A-G-SLTR-0008 The response body of the get call on stepletTestReports API should contain totalTests field and should not be null">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-G-SLTR-0009 The response body of the get call on stepletTestReports API should contain totalPassing field" time="0.0000" classname="A-G-SLTR-0009 The response body of the get call on stepletTestReports API should contain totalPassing field">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-G-SLTR-0010 The response body of the get call on stepletTestReports API should contain totalFailures field" time="0.0000" classname="A-G-SLTR-0010 The response body of the get call on stepletTestReports API should contain totalFailures field">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-G-SLTR-0011 The response body of the get call on stepletTestReports API should contain lastSyncEndedAt field" time="0.0010" classname="A-G-SLTR-0011 The response body of the get call on stepletTestReports API should contain lastSyncEndedAt field">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-G-SLTR-0012 The response body of the get call on stepletTestReports API should contain totalErrors field" time="0.0000" classname="A-G-SLTR-0012 The response body of the get call on stepletTestReports API should contain totalErrors field">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-G-SLTR-0013 The response body of the get call on stepletTestReports API should contain totalSkipped field" time="0.0010" classname="A-G-SLTR-0013 The response body of the get call on stepletTestReports API should contain totalSkipped field">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-G-SLTR-0014 The response body of the get call on stepletTestReports API should contain id field  and should not be null" time="0.0000" classname="A-G-SLTR-0014 The response body of the get call on stepletTestReports API should contain id field  and should not be null">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-G-SLTR-0015 The response body of the get call on stepletTestReports API should contain projectId field  and should not be null" time="0.0000" classname="A-G-SLTR-0015 The response body of the get call on stepletTestReports API should contain projectId field  and should not be null">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-G-SLTR-0016 The response body of the get call on stepletTestReports API should contain stepId field and should not be null" time="0.0010" classname="A-G-SLTR-0016 The response body of the get call on stepletTestReports API should contain stepId field and should not be null">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-G-SLTR-0017 The response body of the get call on stepletTestReports API should contain stepletId field  and should not be null" time="0.0000" classname="A-G-SLTR-0017 The response body of the get call on stepletTestReports API should contain stepletId field  and should not be null">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-G-SLTR-0018 The response body of the get call on stepletTestReports API should contain createdAt field and should not be null" time="0.0010" classname="A-G-SLTR-0018 The response body of the get call on stepletTestReports API should contain createdAt field and should not be null">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-G-SLTR-0019 The response body of the get call on stepletTestReports API should contain updatedAt field and should not be null" time="0.0000" classname="A-G-SLTR-0019 The response body of the get call on stepletTestReports API should contain updatedAt field and should not be null">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-G-SLTR-0020 Users should be able to pass stepletIds as Query string parameters" time="0.0240" classname="A-G-SLTR-0020 Users should be able to pass stepletIds as Query string parameters">
+      <failure message="user cannot find the stepletTestReports: expected [] not to be empty" type="AssertionError"><![CDATA[AssertionError: user cannot find the stepletTestReports: expected [] not to be empty
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383726/setup_PreMatrix/tests/core/api/stepletTestReports.js:1163:20
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383726/setup_PreMatrix/tests/_common/pipelines/Adapter.js:2573:9
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383726/setup_PreMatrix/tests/node_modules/async/dist/async.js:2959:19
+    at wrapper (node_modules/async/dist/async.js:272:20)
+    at replenish (node_modules/async/dist/async.js:439:29)
+    at iterateeCallback (node_modules/async/dist/async.js:428:21)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383726/setup_PreMatrix/tests/node_modules/async/dist/async.js:325:20
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383726/setup_PreMatrix/tests/node_modules/async/dist/async.js:2957:17
+    at Request._callback (_common/utils.js:126:9)
+    at Request.self.callback (node_modules/request/request.js:188:22)
+    at Request.<anonymous> (node_modules/request/request.js:1171:10)
+    at IncomingMessage.<anonymous> (node_modules/request/request.js:1091:12)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)]]></failure>
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-T-SLTR-0001 Id field in stepletTestReports API should be a integer type" time="0.0000" classname="A-T-SLTR-0001 Id field in stepletTestReports API should be a integer type">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-T-SLTR-0002 projectId field in stepletTestReports  API should be a integer type" time="0.0000" classname="A-T-SLTR-0002 projectId field in stepletTestReports  API should be a integer type">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-T-SLTR-0003 pipelineSourceId field in stepletTestReports API should be a integer type" time="0.0000" classname="A-T-SLTR-0003 pipelineSourceId field in stepletTestReports API should be a integer type">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-T-SLTR-0004 stepId field in stepletTestReports API should be a number type" time="0.0000" classname="A-T-SLTR-0004 stepId field in stepletTestReports API should be a number type">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-T-SLTR-0005 durationSeconds field in stepletTestReports API should be a integer type" time="0.0010" classname="A-T-SLTR-0005 durationSeconds field in stepletTestReports API should be a integer type">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-T-SLTR-0006 errorDetails field in stepletTestReports API should be a Array type" time="0.0000" classname="A-T-SLTR-0006 errorDetails field in stepletTestReports API should be a Array type">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-T-SLTR-0007 failureDetails field in stepletTestReports API should be a Array type" time="0.0000" classname="A-T-SLTR-0007 failureDetails field in stepletTestReports API should be a Array type">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-T-SLTR-0008 totalTests field in stepletTestReports API should be a number type" time="0.0010" classname="A-T-SLTR-0008 totalTests field in stepletTestReports API should be a number type">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-T-SLTR-0009 totalPassing field in stepletTestReports API should be a number  type" time="0.0000" classname="A-T-SLTR-0009 totalPassing field in stepletTestReports API should be a number  type">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-T-SLTR-0010 totalFailures field in stepletTestReports API should be a number type" time="0.0000" classname="A-T-SLTR-0010 totalFailures field in stepletTestReports API should be a number type">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-T-SLTR-0011 totalErrors field in stepletTestReports API should be a number type" time="0.0010" classname="A-T-SLTR-0011 totalErrors field in stepletTestReports API should be a number type">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-T-SLTR-0012 totalSkipped field in stepletTestReports API should be a number type" time="0.0000" classname="A-T-SLTR-0012 totalSkipped field in stepletTestReports API should be a number type">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-T-SLTR-0013 createdAt field in stepletTestReports API should be a string type" time="0.0000" classname="A-T-SLTR-0013 createdAt field in stepletTestReports API should be a string type">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-T-SLTR-0014 updatedAt field in stepletTestReports API should be a string type" time="0.0010" classname="A-T-SLTR-0014 updatedAt field in stepletTestReports API should be a string type">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-D-SLTR-0004 Public user shouldn’t be able to delete stepletTestReport By stepletTestReportId" time="0.0150" classname="A-D-SLTR-0004 Public user shouldn’t be able to delete stepletTestReport By stepletTestReportId">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-D-SLTR-0003 Member user shouldn’t be able to delete stepletTestReport By stepletTestReportId" time="0.0230" classname="A-D-SLTR-0003 Member user shouldn’t be able to delete stepletTestReport By stepletTestReportId">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-D-SLTR-0002 Admin user shouldn’t be able to delete stepletTestReport By stepletTestReportId" time="0.0390" classname="A-D-SLTR-0002 Admin user shouldn’t be able to delete stepletTestReport By stepletTestReportId">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-D-SLTR-0001 Superuser should be able to delete stepletTestReport By stepletTestReportId" time="0.0340" classname="A-D-SLTR-0001 Superuser should be able to delete stepletTestReport By stepletTestReportId">
+    </testcase>
+    <testcase name="API_STEPLETTESTREPORTS - StepletTestReports API tests A-D-SLTR-0005 The response body of the deleteBystepletTestReportId call on stepletTestReports API should contain id field" time="0.0000" classname="A-D-SLTR-0005 The response body of the deleteBystepletTestReportId call on stepletTestReports API should contain id field">
+    </testcase>
+  </testsuite>
+</testsuites>

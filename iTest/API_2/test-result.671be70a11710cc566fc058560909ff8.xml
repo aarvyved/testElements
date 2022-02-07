@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="215.5110" tests="61" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests" timestamp="2022-01-17T17:51:38" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383740/setup_PreMatrix/tests/core/api/runStepConnections.js" time="0.0000" failures="0">
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests 1. Super user can post their pipelineSources to add Steps" time="26.5230" classname="1. Super user can post their pipelineSources to add Steps">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases uses pipelineSource" timestamp="2022-01-17T17:52:05" tests="52" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383740/setup_PreMatrix/tests/core/api/runStepConnections.js" time="0.0000" failures="0">
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource 2. Super user can get their pipelines" time="0.0260" classname="2. Super user can get their pipelines">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource 4. Super user can trigger pipelineSteps by Id" time="185.0040" classname="4. Super user can trigger pipelineSteps by Id">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource 6. Super user can get their Runs" time="0.0740" classname="6. Super user can get their Runs">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource 7. Super user can get their steps" time="0.0740" classname="7. Super user can get their steps">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0001. Super user can post RunStepConnections" time="0.0360" classname="A-RunStepConnections-0001. Super user can post RunStepConnections">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-PO-PP-0023. ProjectAdmin User should be able Post runStepConnections" time="0.0430" classname="A-PO-PP-0023. ProjectAdmin User should be able Post runStepConnections">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0002. Admin user cannot post RunStepConnections" time="0.0530" classname="A-RunStepConnections-0002. Admin user cannot post RunStepConnections">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0003. Member cannot post RunStepConnections" time="0.0370" classname="A-RunStepConnections-0003. Member cannot post RunStepConnections">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0004. Public user cannot post RunStepConnections" time="0.0220" classname="A-RunStepConnections-0004. Public user cannot post RunStepConnections">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0005. Super user can get their RunStepConnections" time="0.0640" classname="A-RunStepConnections-0005. Super user can get their RunStepConnections">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-6531-0001. Users are able to use  the include parameter while getting RunStepConnections" time="0.0720" classname="A-RunStepConnections-6531-0001. Users are able to use  the include parameter while getting RunStepConnections">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0006. Admin user can get their RunStepConnections" time="0.1070" classname="A-RunStepConnections-0006. Admin user can get their RunStepConnections">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0007. Member can get their RunStepConnections" time="0.0890" classname="A-RunStepConnections-0007. Member can get their RunStepConnections">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0008. Public user cannot get their  RunStepConnections" time="0.0230" classname="A-RunStepConnections-0008. Public user cannot get their  RunStepConnections">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0009. Superuser can get RunStepConnections by Id" time="0.0530" classname="A-RunStepConnections-0009. Superuser can get RunStepConnections by Id">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-6531-0002. Users are able to parameter while getting RunStepConnections by Id" time="0.0320" classname="A-RunStepConnections-6531-0002. Users are able to parameter while getting RunStepConnections by Id">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0010. Admin user can get their  RunStepConnections by id" time="0.0810" classname="A-RunStepConnections-0010. Admin user can get their  RunStepConnections by id">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0011. Member can get their RunStepConnections by id" time="0.0600" classname="A-RunStepConnections-0011. Member can get their RunStepConnections by id">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0012. Public user cannot get their RunStepConnections by id" time="0.0170" classname="A-RunStepConnections-0012. Public user cannot get their RunStepConnections by id">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0013. Super user can update the step by id" time="0.0320" classname="A-RunStepConnections-0013. Super user can update the step by id">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-PUT-PP-0012. ProjectAdminUser should be able to update runStepConnections by its Id" time="0.0450" classname="A-PUT-PP-0012. ProjectAdminUser should be able to update runStepConnections by its Id">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0014. Admin user cannot update  RunStepConnections by id" time="0.0320" classname="A-RunStepConnections-0014. Admin user cannot update  RunStepConnections by id">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0015. Member cannot update RunStepConnections by id" time="0.0230" classname="A-RunStepConnections-0015. Member cannot update RunStepConnections by id">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0016. Public user cannot update  RunStepConnections by id" time="0.0150" classname="A-RunStepConnections-0016. Public user cannot update  RunStepConnections by id">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0017. Id field in RunStepConnections API should not be null and should be an integer" time="0.0000" classname="A-RunStepConnections-0017. Id field in RunStepConnections API should not be null and should be an integer">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0018. StepId field in RunStepConnections  API should not be null and should be an integer" time="0.0000" classname="A-RunStepConnections-0018. StepId field in RunStepConnections  API should not be null and should be an integer">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0019. PipelineId field in RunStepConnections API should not be null and should be an integer" time="0.0000" classname="A-RunStepConnections-0019. PipelineId field in RunStepConnections API should not be null and should be an integer">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0020. PipelineSourceId field in  RunStepConnections API should not be null and should be an integer" time="0.0000" classname="A-RunStepConnections-0020. PipelineSourceId field in  RunStepConnections API should not be null and should be an integer">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0021. ProjectId field in RunStepConnections API should not be null and should be an integer" time="0.0000" classname="A-RunStepConnections-0021. ProjectId field in RunStepConnections API should not be null and should be an integer">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0022. RunId field in RunStepConnections API  should not be null and should be an integer" time="0.0000" classname="A-RunStepConnections-0022. RunId field in RunStepConnections API  should not be null and should be an integer">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0023. Operation field in RunStepConnections API should not be null and should be a string" time="0.0010" classname="A-RunStepConnections-0023. Operation field in RunStepConnections API should not be null and should be a string">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0024. OperationRunResourceVersionId field in RunStepConnections API should be an integer" time="0.0000" classname="A-RunStepConnections-0024. OperationRunResourceVersionId field in RunStepConnections API should be an integer">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0025. OperationRunResourceVersionName  field in RunStepConnections API should be an object type" time="0.0000" classname="A-RunStepConnections-0025. OperationRunResourceVersionName  field in RunStepConnections API should be an object type">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0026. OperationStepId field in  RunStepConnections API should be an integer" time="0.0000" classname="A-RunStepConnections-0026. OperationStepId field in  RunStepConnections API should be an integer">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0027. OperationStepName field in RunStepConnections API should be an object type" time="0.0000" classname="A-RunStepConnections-0027. OperationStepName field in RunStepConnections API should be an object type">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0028. OperationIntegrationId field in  RunStepConnections API should be an integer" time="0.0000" classname="A-RunStepConnections-0028. OperationIntegrationId field in  RunStepConnections API should be an integer">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0029. OperationIntegrationName field in RunStepConnections API should be an object type" time="0.0010" classname="A-RunStepConnections-0029. OperationIntegrationName field in RunStepConnections API should be an object type">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0030. IsTrigger field in RunStepConnections API should not be null and should be a boolean" time="0.0000" classname="A-RunStepConnections-0030. IsTrigger field in RunStepConnections API should not be null and should be a boolean">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0031. CreatedBy field in RunStepConnections API should not be null and should be a date" time="0.0000" classname="A-RunStepConnections-0031. CreatedBy field in RunStepConnections API should not be null and should be a date">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0032. UpdatedBy field in RunStepConnections API should not be null and should be a date" time="0.0000" classname="A-RunStepConnections-0032. UpdatedBy field in RunStepConnections API should not be null and should be a date">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0033. CreatedAt field in RunStepConnectionsAPI should not be null and should be a date" time="0.0000" classname="A-RunStepConnections-0033. CreatedAt field in RunStepConnectionsAPI should not be null and should be a date">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0034. UpdatedAt field in RunStepConnections API should not be null and should be a date" time="0.0000" classname="A-RunStepConnections-0034. UpdatedAt field in RunStepConnections API should not be null and should be a date">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0035. Public user cannot delete  RunStepConnections by Id" time="0.0170" classname="A-RunStepConnections-0035. Public user cannot delete  RunStepConnections by Id">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0036. Member cannot delete  RunStepConnections by Id" time="0.0400" classname="A-RunStepConnections-0036. Member cannot delete  RunStepConnections by Id">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0037. Admin cannot delete RunStepConnections by Id" time="0.0380" classname="A-RunStepConnections-0037. Admin cannot delete RunStepConnections by Id">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-DEL-PP-0019. ProjectAdminUser should be able to delete runStepConnection by its Id" time="0.0740" classname="A-DEL-PP-0019. ProjectAdminUser should be able to delete runStepConnection by its Id">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0038. Super user can delete RunStepConnections by Id" time="0.0290" classname="A-RunStepConnections-0038. Super user can delete RunStepConnections by Id">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0039. Public user cannot delete RunStepConnections by PipelineId" time="0.0270" classname="A-RunStepConnections-0039. Public user cannot delete RunStepConnections by PipelineId">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0040. Member cannot delete RunStepConnections by PipelineId" time="0.0670" classname="A-RunStepConnections-0040. Member cannot delete RunStepConnections by PipelineId">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0041. Admin cannot delete RunStepConnections by PipelineId" time="0.0330" classname="A-RunStepConnections-0041. Admin cannot delete RunStepConnections by PipelineId">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-DEL-PP-0020. ProjectAdminUser should be able to delete runStepConnections by pipeline Id" time="0.0270" classname="A-DEL-PP-0020. ProjectAdminUser should be able to delete runStepConnections by pipeline Id">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource A-RunStepConnections-0042. Super user can delete  RunStepConnections by PipelineId" time="0.0280" classname="A-RunStepConnections-0042. Super user can delete  RunStepConnections by PipelineId">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases are for pipeline-level resources" timestamp="2022-01-17T17:55:11" tests="8" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383740/setup_PreMatrix/tests/core/api/runStepConnections.js" time="2.2560" failures="0">
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource Below test cases are for pipeline-level resources A-RunStepConnections-5933-001. Super user can post a runStepConnection with isPipelineConnection true.  The object returned has isPipelineConnection true." time="0.0290" classname="A-RunStepConnections-5933-001. Super user can post a runStepConnection with isPipelineConnection true.  The object returned has isPipelineConnection true.">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource Below test cases are for pipeline-level resources A-RunStepConnections-5933-002. Super user can post a runStepConnection with isPipelineConnection false.  The  object returned has isPipelineConnection false." time="0.0330" classname="A-RunStepConnections-5933-002. Super user can post a runStepConnection with isPipelineConnection false.  The  object returned has isPipelineConnection false.">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource Below test cases are for pipeline-level resources A-RunStepConnections-5933-003. Super user tries to post a runStepConnection with a string isPipelineConnection. It returns 400." time="0.0200" classname="A-RunStepConnections-5933-003. Super user tries to post a runStepConnection with a string isPipelineConnection. It returns 400.">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource Below test cases are for pipeline-level resources A-RunStepConnections-5933-004. Super user can get only runStepConnections with isPipelineConnection true with isPipelineConnection=true." time="0.0250" classname="A-RunStepConnections-5933-004. Super user can get only runStepConnections with isPipelineConnection true with isPipelineConnection=true.">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource Below test cases are for pipeline-level resources A-RunStepConnections-5933-005. Super user can get only runStepConnections with isPipelineConnection false with isPipelineConnection=false." time="0.0240" classname="A-RunStepConnections-5933-005. Super user can get only runStepConnections with isPipelineConnection false with isPipelineConnection=false.">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource Below test cases are for pipeline-level resources A-RunStepConnections-5933-006. Super user can call PUT /runStepConnections/:runStepConnectionId with isPipelineConnection false to update isPipelineConnection to false." time="0.0280" classname="A-RunStepConnections-5933-006. Super user can call PUT /runStepConnections/:runStepConnectionId with isPipelineConnection false to update isPipelineConnection to false.">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource Below test cases are for pipeline-level resources A-RunStepConnections-5933-007. Super user can call PUT /runStepConnections/:runStepConnectionId with isPipelineConnection true to update isPipelineConnection to false." time="0.0300" classname="A-RunStepConnections-5933-007. Super user can call PUT /runStepConnections/:runStepConnectionId with isPipelineConnection true to update isPipelineConnection to false.">
+    </testcase>
+    <testcase name="API_RUNSTEPCONNECTIONS - RunStepConnections API tests Below test cases uses pipelineSource Below test cases are for pipeline-level resources A-RunStepConnections-5933-008. Super user tries to call PUT /runStepConnections/:runStepConnectionId with a string isPipelineConnection. It returns 400." time="0.0230" classname="A-RunStepConnections-5933-008. Super user tries to call PUT /runStepConnections/:runStepConnectionId with a string isPipelineConnection. It returns 400.">
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="98.9880" tests="68" failures="0" skipped="5">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API_PIPELINESTEPS - PipelineSteps API tests" timestamp="2022-01-17T17:51:38" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383746/setup_PreMatrix/tests/core/api/pipelineSteps.js" time="0.0000" failures="0">
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests 1. Super user posts PipelineSources to add pipelines" time="20.2970" classname="1. Super user posts PipelineSources to add pipelines">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases uses pipelineSource" timestamp="2022-01-17T17:51:59" tests="60" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383746/setup_PreMatrix/tests/core/api/pipelineSteps.js" time="0.0000" failures="0" skipped="5">
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource 2. Super user can get their pipelines to add pipelineSteps" time="0.0620" classname="2. Super user can get their pipelines to add pipelineSteps">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0005. Super user can get their pipelineSteps" time="0.1520" classname="A-pipelineSteps-0005. Super user can get their pipelineSteps">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-6531-0058. Users are able to use the include parameter while getting pipelineSteps." time="0.0340" classname="A-pipelineSteps-6531-0058. Users are able to use the include parameter while getting pipelineSteps.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0006. Admin can get their pipelineSteps" time="0.1590" classname="A-pipelineSteps-0006. Admin can get their pipelineSteps">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0007. Member can get their pipelineSteps" time="0.0700" classname="A-pipelineSteps-0007. Member can get their pipelineSteps">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0008. Public cannot get their pipelineSteps" time="0.0220" classname="A-pipelineSteps-0008. Public cannot get their pipelineSteps">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0001. Super user can add new pipelineSteps" time="0.0420" classname="A-pipelineSteps-0001. Super user can add new pipelineSteps">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-PO-PP-0012. Project Admin User should be able to post thepipelineSteps" time="0.0420" classname="A-PO-PP-0012. Project Admin User should be able to post thepipelineSteps">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0002. Admin cannot add new pipelineSteps" time="0.0340" classname="A-pipelineSteps-0002. Admin cannot add new pipelineSteps">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0003. Member cannot add pipelineSteps" time="0.0730" classname="A-pipelineSteps-0003. Member cannot add pipelineSteps">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0004. Public user cannot add new pipelineSteps" time="0.0660" classname="A-pipelineSteps-0004. Public user cannot add new pipelineSteps">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0009. Super user can get pipelineSteps by Id" time="0.1050" classname="A-pipelineSteps-0009. Super user can get pipelineSteps by Id">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0010. Admin can get pipelineSteps by Id" time="0.1290" classname="A-pipelineSteps-0010. Admin can get pipelineSteps by Id">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0011. Member can get pipelineSteps by Id" time="0.4080" classname="A-pipelineSteps-0011. Member can get pipelineSteps by Id">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0012. Public user cannot get pipelineSteps by Id" time="0.0180" classname="A-pipelineSteps-0012. Public user cannot get pipelineSteps by Id">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0013. Super user can trigger pipelineSteps by Id" time="74.2290" classname="A-pipelineSteps-0013. Super user can trigger pipelineSteps by Id">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-PO-PP-0013. Project Admin User should be able to trigger a pipeline Step By Id" time="0.0000" classname="A-PO-PP-0013. Project Admin User should be able to trigger a pipeline Step By Id">
+      <skipped/>
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0014. Admin user can trigger pipelineSteps by Id" time="0.0000" classname="A-pipelineSteps-0014. Admin user can trigger pipelineSteps by Id">
+      <skipped/>
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0015. Member user cannot add new pipelineSteps by Id" time="0.0580" classname="A-pipelineSteps-0015. Member user cannot add new pipelineSteps by Id">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0016. Public user cannot add new pipelineSteps by Id" time="0.0190" classname="A-pipelineSteps-0016. Public user cannot add new pipelineSteps by Id">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0017. Super user can update the pipelineSteps" time="0.0390" classname="A-pipelineSteps-0017. Super user can update the pipelineSteps">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-PO-PP-0007. ProjectAdminUser should be able to updatepipelineSteps by its Id" time="0.0710" classname="A-PO-PP-0007. ProjectAdminUser should be able to updatepipelineSteps by its Id">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0018. Admin cannot update the pipelineSteps" time="0.0680" classname="A-pipelineSteps-0018. Admin cannot update the pipelineSteps">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0019. Member cannot update the pipelineSteps" time="0.0580" classname="A-pipelineSteps-0019. Member cannot update the pipelineSteps">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0020. Public user cannot update the pipelineSteps" time="0.0170" classname="A-pipelineSteps-0020. Public user cannot update the pipelineSteps">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0021. Super user can get their pipelineSteps by artifactUrl" time="0.0380" classname="A-pipelineSteps-0021. Super user can get their pipelineSteps by artifactUrl">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-7218-0001. Super user gets the `rtAccessTokenExpiresIn` field inside the response body of LatestArchive by pipelineStep and it expires in 10 minutes" time="0.0820" classname="A-pipelineSteps-7218-0001. Super user gets the `rtAccessTokenExpiresIn` field inside the response body of LatestArchive by pipelineStep and it expires in 10 minutes">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-G-PP-0002. ProjectAdminUser should not able to get the ArtifactUrl from pipeline step Id" time="0.0410" classname="A-G-PP-0002. ProjectAdminUser should not able to get the ArtifactUrl from pipeline step Id">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0022. Admin cannot get their pipelineSteps byartifactUrl" time="0.0290" classname="A-pipelineSteps-0022. Admin cannot get their pipelineSteps byartifactUrl">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0023. Member cannot get their pipelineSteps by  artifactUrl" time="0.0200" classname="A-pipelineSteps-0023. Member cannot get their pipelineSteps by  artifactUrl">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0024. Public cannot get their pipelineSteps by artifactUrl" time="0.0200" classname="A-pipelineSteps-0024. Public cannot get their pipelineSteps by artifactUrl">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0025. Superuser can get pipelineSteps by latestArchive" time="0.0000" classname="A-pipelineSteps-0025. Superuser can get pipelineSteps by latestArchive">
+      <skipped/>
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0026. Admin can get pipelineSteps by latestArchive" time="0.0000" classname="A-pipelineSteps-0026. Admin can get pipelineSteps by latestArchive">
+      <skipped/>
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0027. Member can get pipelineSteps by latestArchive" time="0.0000" classname="A-pipelineSteps-0027. Member can get pipelineSteps by latestArchive">
+      <skipped/>
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0028. Public user cannot get pipelineSteps by Id" time="0.0160" classname="A-pipelineSteps-0028. Public user cannot get pipelineSteps by Id">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0029. Id field in pipelineSteps API should not be null and should be an integer type" time="0.0000" classname="A-pipelineSteps-0029. Id field in pipelineSteps API should not be null and should be an integer type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0030. PipelineSteps Name field in pipelineSteps API should not be null and should be a string type" time="0.0000" classname="A-pipelineSteps-0030. PipelineSteps Name field in pipelineSteps API should not be null and should be a string type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0035. PipelineSteps ymlConfigPropertyBag in pipelineSteps API should be a object type" time="0.0010" classname="A-pipelineSteps-0035. PipelineSteps ymlConfigPropertyBag in pipelineSteps API should be a object type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0036. PipelineStepsTypeCode field in pipelineSteps API should not be null and should be an integer type" time="0.0010" classname="A-pipelineSteps-0036. PipelineStepsTypeCode field in pipelineSteps API should not be null and should be an integer type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0037. PipelineSteps ymlExecPropertyBag in pipelineSteps API should be a object type" time="0.0000" classname="A-pipelineSteps-0037. PipelineSteps ymlExecPropertyBag in pipelineSteps API should be a object type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0039. PipelineStepsLatestStepId field in pipelineSteps API should be a integer type" time="0.0000" classname="A-pipelineSteps-0039. PipelineStepsLatestStepId field in pipelineSteps API should be a integer type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0040. PipelineStepsProjectId field in pipelineSteps API should not be null and should be a integer type" time="0.0000" classname="A-pipelineSteps-0040. PipelineStepsProjectId field in pipelineSteps API should not be null and should be a integer type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0041. PipelineStepsPipelineSourceId field in pipelineSteps API should not be null and should be a integer type" time="0.0000" classname="A-pipelineSteps-0041. PipelineStepsPipelineSourceId field in pipelineSteps API should not be null and should be a integer type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0042. PipelineStepsPipelineId field in pipelineSteps API should not be null and should be a integer type" time="0.0000" classname="A-pipelineSteps-0042. PipelineStepsPipelineId field in pipelineSteps API should not be null and should be a integer type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0043. PipelineStepsIsDeleted field in pipelineSteps API should be a boolean type" time="0.0000" classname="A-pipelineSteps-0043. PipelineStepsIsDeleted field in pipelineSteps API should be a boolean type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0044. PipelineSteps DeletedAt field in PipelineSteps API should be an object type" time="0.0000" classname="A-pipelineSteps-0044. PipelineSteps DeletedAt field in PipelineSteps API should be an object type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0045. PipelineSteps IsConsistent field in pipelineSteps API should be a boolean type" time="0.0010" classname="A-pipelineSteps-0045. PipelineSteps IsConsistent field in pipelineSteps API should be a boolean type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0046. PipelineSteps IsStale field in pipelineSteps API should be a boolean type" time="0.0000" classname="A-pipelineSteps-0046. PipelineSteps IsStale field in pipelineSteps API should be a boolean type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0047. PipelineStepsStaleAt field in pipelineSteps API should be a string type" time="0.0000" classname="A-pipelineSteps-0047. PipelineStepsStaleAt field in pipelineSteps API should be a string type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0048. PipelineStepsIsPaused field in pipelineSteps API should be a boolean type" time="0.0000" classname="A-pipelineSteps-0048. PipelineStepsIsPaused field in pipelineSteps API should be a boolean type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0049. PipelineStepsYml in pipelineSteps API  should be a object type" time="0.0000" classname="A-pipelineSteps-0049. PipelineStepsYml in pipelineSteps API  should be a object type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0050. PipelineSteps createdBy API shouldnot be null and should be a string type" time="0.0000" classname="A-pipelineSteps-0050. PipelineSteps createdBy API shouldnot be null and should be a string type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0051. PipelineSteps updatedBy API shouldnot be  null and should be a string type" time="0.0000" classname="A-pipelineSteps-0051. PipelineSteps updatedBy API shouldnot be  null and should be a string type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0052. PipelineStepsCreatedAt field in pipelineSteps API should not be null and should be a string type" time="0.0000" classname="A-pipelineSteps-0052. PipelineStepsCreatedAt field in pipelineSteps API should not be null and should be a string type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0053. PipelineStepsUpdatedAt field in pipelineSteps API should not be null and should be a string type" time="0.0000" classname="A-pipelineSteps-0053. PipelineStepsUpdatedAt field in pipelineSteps API should not be null and should be a string type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0054. Public user cannot delete pipelineSteps by Id" time="0.0210" classname="A-pipelineSteps-0054. Public user cannot delete pipelineSteps by Id">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0055. Member user cannot delete pipelineSteps by Id" time="0.0340" classname="A-pipelineSteps-0055. Member user cannot delete pipelineSteps by Id">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0056. Admin cannot delete pipelineSteps by Id" time="0.0300" classname="A-pipelineSteps-0056. Admin cannot delete pipelineSteps by Id">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-DEL-PP-0010. ProjectAdminUser should be able to delete pipelineSteps by its Id" time="0.2580" classname="A-DEL-PP-0010. ProjectAdminUser should be able to delete pipelineSteps by its Id">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource A-pipelineSteps-0057. Super user can deletes pipelineSteps by Id" time="0.0790" classname="A-pipelineSteps-0057. Super user can deletes pipelineSteps by Id">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases are for deleting pipelineSteps by pipelineId" timestamp="2022-01-17T17:53:15" tests="7" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383746/setup_PreMatrix/tests/core/api/pipelineSteps.js" time="1.8890" failures="0">
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource Below test cases are for deleting pipelineSteps by pipelineId A-PipelineSteps-6644-005. Public user cannot delete pipelineSteps by pipelineId" time="0.0190" classname="A-PipelineSteps-6644-005. Public user cannot delete pipelineSteps by pipelineId">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource Below test cases are for deleting pipelineSteps by pipelineId A-PipelineSteps-6644-004. Member cannotdelete pipelineSteps by pipelineId" time="0.0710" classname="A-PipelineSteps-6644-004. Member cannotdelete pipelineSteps by pipelineId">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource Below test cases are for deleting pipelineSteps by pipelineId A-PipelineSteps-6644-003. Admin cannot delete pipelineSteps by pipelineId" time="0.1090" classname="A-PipelineSteps-6644-003. Admin cannot delete pipelineSteps by pipelineId">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource Below test cases are for deleting pipelineSteps by pipelineId A-PipelineSteps-6644-002. ProjectAdminUser cannot delete pipelineStepId by its pipelineId" time="0.0680" classname="A-PipelineSteps-6644-002. ProjectAdminUser cannot delete pipelineStepId by its pipelineId">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource Below test cases are for deleting pipelineSteps by pipelineId A-PipelineSteps-6644-001. Super user can delete by pipelineSteps By pipelineId" time="0.1400" classname="A-PipelineSteps-6644-001. Super user can delete by pipelineSteps By pipelineId">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource Below test cases are for deleting pipelineSteps by pipelineId A-PipelineSteps-6644-006. Calling DELETE /pipelines/:pipelineId/pipelineSteps without a query param will soft delete all the pipelineSteps of a pipeline" time="0.0490" classname="A-PipelineSteps-6644-006. Calling DELETE /pipelines/:pipelineId/pipelineSteps without a query param will soft delete all the pipelineSteps of a pipeline">
+    </testcase>
+    <testcase name="API_PIPELINESTEPS - PipelineSteps API tests Below test cases uses pipelineSource Below test cases are for deleting pipelineSteps by pipelineId A-PipelineSteps-6644-007. Calling DELETE /pipelines/:pipelineId/pipelineSteps with hard=true query param will delete all the pipelineSteps of a pipeline" time="0.1130" classname="A-PipelineSteps-6644-007. Calling DELETE /pipelines/:pipelineId/pipelineSteps with hard=true query param will delete all the pipelineSteps of a pipeline">
+    </testcase>
+  </testsuite>
+</testsuites>

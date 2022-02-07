@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="47.2910" tests="41" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API_RESOURCE_VERSIONS - Resource Version API tests" timestamp="2022-01-17T17:51:38" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383743/setup_PreMatrix/tests/core/api/resourceVersions.js" time="0.0000" failures="0">
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests 1.Super User should be able add new PipelineSources for Resource Version" time="17.8040" classname="1.Super User should be able add new PipelineSources for Resource Version">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases uses pipelineSource" timestamp="2022-01-17T17:51:56" tests="40" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383743/setup_PreMatrix/tests/core/api/resourceVersions.js" time="29.1180" failures="0">
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource 2. Super User can get resource version which is added in  pipeline source" time="0.0900" classname="2. Super User can get resource version which is added in  pipeline source">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0001. Super user can post resource version" time="5.1150" classname="A-ResourceVersion-0001. Super user can post resource version">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-PO-PP-0019. Project Admin User should be able Post resourceVersion" time="5.2860" classname="A-PO-PP-0019. Project Admin User should be able Post resourceVersion">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0002. Admin user cannot post resource version" time="0.0480" classname="A-ResourceVersion-0002. Admin user cannot post resource version">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0003. Member User cannot post resource version" time="0.0760" classname="A-ResourceVersion-0003. Member User cannot post resource version">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-PO-PP-0035. User with project scope should be able Post resourceVersion" time="5.1110" classname="A-PO-PP-0035. User with project scope should be able Post resourceVersion">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0004. Public user cannot post resource version" time="0.0200" classname="A-ResourceVersion-0004. Public user cannot post resource version">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0005. Super user can get resource version by Id" time="0.1160" classname="A-ResourceVersion-0005. Super user can get resource version by Id">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0006. Admin User can get resource version by Id" time="0.1840" classname="A-ResourceVersion-0006. Admin User can get resource version by Id">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0007. Member User can get resource version by Id" time="0.1280" classname="A-ResourceVersion-0007. Member User can get resource version by Id">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0008. Public user cannot get resource version by Id" time="0.0250" classname="A-ResourceVersion-0008. Public user cannot get resource version by Id">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-6531-0033. Users are able to use the include parameter while getting resourceVersions." time="0.0800" classname="A-ResourceVersion-6531-0033. Users are able to use the include parameter while getting resourceVersions.">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0009. Super user can get their resource versions" time="0.0480" classname="A-ResourceVersion-0009. Super user can get their resource versions">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0010. Admin User can get their resource versions" time="0.1750" classname="A-ResourceVersion-0010. Admin User can get their resource versions">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0011. Member User can get their resource versions" time="0.1990" classname="A-ResourceVersion-0011. Member User can get their resource versions">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0012. Public user cannot get their resource versions" time="0.0130" classname="A-ResourceVersion-0012. Public user cannot get their resource versions">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0013. Id field in resource version API should not be null and should be an integer type" time="0.0010" classname="A-ResourceVersion-0013. Id field in resource version API should not be null and should be an integer type">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0014. ProjectId field in resource version API should not be null and should be an integer type" time="0.0000" classname="A-ResourceVersion-0014. ProjectId field in resource version API should not be null and should be an integer type">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0015. ResourceId field in resource version API  should not be null and should be an integer type" time="0.0000" classname="A-ResourceVersion-0015. ResourceId field in resource version API  should not be null and should be an integer type">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0016. ContentPropertyBag field in resource version API should be  an object type" time="0.0010" classname="A-ResourceVersion-0016. ContentPropertyBag field in resource version API should be  an object type">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0017. CreatedByStepId field in resource version API should be an object type" time="0.0000" classname="A-ResourceVersion-0017. CreatedByStepId field in resource version API should be an object type">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0018. CreatedAt field in resource version API  should not be null and should be a string type" time="0.0000" classname="A-ResourceVersion-0018. CreatedAt field in resource version API  should not be null and should be a string type">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0019. UpdatedAt field in resource version API  should not be null and should be a string type" time="0.0000" classname="A-ResourceVersion-0019. UpdatedAt field in resource version API  should not be null and should be a string type">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0028. Member user can filter resourceVersions by createdByRunId." time="0.6210" classname="A-ResourceVersion-0028. Member user can filter resourceVersions by createdByRunId.">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0020. Public user cannot delete resource  version by resource Id" time="0.0200" classname="A-ResourceVersion-0020. Public user cannot delete resource  version by resource Id">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0021. Member user cannot delete resource version by resource Id" time="0.0740" classname="A-ResourceVersion-0021. Member user cannot delete resource version by resource Id">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0022. Admin user cannot delete  resource version by resource Id" time="0.1350" classname="A-ResourceVersion-0022. Admin user cannot delete  resource version by resource Id">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-DEL-PP-0016. ProjectAdminUser should not be able to delete resourceVersions by resource id" time="0.1050" classname="A-DEL-PP-0016. ProjectAdminUser should not be able to delete resourceVersions by resource id">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0023. Super user can delete resource version by resource Id" time="0.0550" classname="A-ResourceVersion-0023. Super user can delete resource version by resource Id">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0024. Public user cannot delete resource version by Id" time="0.0250" classname="A-ResourceVersion-0024. Public user cannot delete resource version by Id">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0025. Member User cannot delete resource version by Id" time="0.0420" classname="A-ResourceVersion-0025. Member User cannot delete resource version by Id">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0026. Admin User cannot delete  resource version by Id" time="0.0480" classname="A-ResourceVersion-0026. Admin User cannot delete  resource version by Id">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-DEL-PP-0015. ProjectAdminUser should be able to delete resourceVersions by its Id" time="0.1070" classname="A-DEL-PP-0015. ProjectAdminUser should be able to delete resourceVersions by its Id">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0027. Super user can delete resource version by Id" time="0.0410" classname="A-ResourceVersion-0027. Super user can delete resource version by Id">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0028. When user posts the resourceVersion with contentPropertyBag and the valid commitSha for gitRepoResource user verifies that api call is successful" time="0.3080" classname="A-ResourceVersion-0028. When user posts the resourceVersion with contentPropertyBag and the valid commitSha for gitRepoResource user verifies that api call is successful">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0029. When user posts the resourceVersion with valid contentPropertyBag and valid branchName for gitRepoResource user verifies that api call is successful" time="0.5820" classname="A-ResourceVersion-0029. When user posts the resourceVersion with valid contentPropertyBag and valid branchName for gitRepoResource user verifies that api call is successful">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0030. When user posts the resourceVersion with invalid contentPropertyBag for gitRepoResource user verifies that api call is unsuccessful and api returns 400 Bad Request status code" time="0.1470" classname="A-ResourceVersion-0030. When user posts the resourceVersion with invalid contentPropertyBag for gitRepoResource user verifies that api call is unsuccessful and api returns 400 Bad Request status code">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0031. When user posts the resourceVersion with invalid contentPropertyBag for gitRepoResource by injecting malicious characters (`) in commitSha user verifies that api call is unsuccessful and api returns 400 Bad Request status code" time="0.2280" classname="A-ResourceVersion-0031. When user posts the resourceVersion with invalid contentPropertyBag for gitRepoResource by injecting malicious characters (`) in commitSha user verifies that api call is unsuccessful and api returns 400 Bad Request status code">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource A-ResourceVersion-0032. When user posts the resourceVersion with invalid contentPropertyBag for gitRepoResource by injecting malicious characters (`) in path user verifies that api call is unsuccessful and api returns 400 Bad Request status code" time="0.1890" classname="A-ResourceVersion-0032. When user posts the resourceVersion with invalid contentPropertyBag for gitRepoResource by injecting malicious characters (`) in path user verifies that api call is unsuccessful and api returns 400 Bad Request status code">
+    </testcase>
+    <testcase name="API_RESOURCE_VERSIONS - Resource Version API tests Below test cases uses pipelineSource 3. Super user can delete pipelineSource by Id" time="9.6590" classname="3. Super user can delete pipelineSource by Id">
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0460" tests="5" failures="0" skipped="5">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:43" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="STEP_POWERSHELL_GITHUBENTERPRISE_INTEGRATION - PowerShell Step Tests For GitHubEnterprise Integration" timestamp="2022-01-17T17:51:43" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_2/4383665/setup_PreMatrix/tests/core/steps/PowerShell/PSIntegration/PowerShellGitHubEnterpriseIntegration.js" time="0.0270" failures="0" skipped="5">
+    <testcase name="STEP_POWERSHELL_GITHUBENTERPRISE_INTEGRATION - PowerShell Step Tests For GitHubEnterprise Integration S-PS-I-GitHubE-0001. If user adds a pipeline sources with the PowerShell step, where  GitHub Enterprise integration is mentioned in the integration section, then pipeline sync should success" time="0.0000" classname="S-PS-I-GitHubE-0001. If user adds a pipeline sources with the PowerShell step, where  GitHub Enterprise integration is mentioned in the integration section, then pipeline sync should success">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_POWERSHELL_GITHUBENTERPRISE_INTEGRATION - PowerShell Step Tests For GitHubEnterprise Integration S-PS-I-GitHubE-0002. User verifies that all the GitHub Enterprise integration environment variables are available in execution sections of the PowerShell step" time="0.0000" classname="S-PS-I-GitHubE-0002. User verifies that all the GitHub Enterprise integration environment variables are available in execution sections of the PowerShell step">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_POWERSHELL_GITHUBENTERPRISE_INTEGRATION - PowerShell Step Tests For GitHubEnterprise Integration 1. User should be able to add new pipelineSources" time="0.0000" classname="1. User should be able to add new pipelineSources">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_POWERSHELL_GITHUBENTERPRISE_INTEGRATION - PowerShell Step Tests For GitHubEnterprise Integration S-PS-I-GitHubE-0003. Users should not be able to delete Github enterprise integration if it is dependent on the steps." time="0.0000" classname="S-PS-I-GitHubE-0003. Users should not be able to delete Github enterprise integration if it is dependent on the steps.">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_POWERSHELL_GITHUBENTERPRISE_INTEGRATION - PowerShell Step Tests For GitHubEnterprise Integration 2. User can delete pipelineSource by Id" time="0.0000" classname="2. User can delete pipelineSource by Id">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

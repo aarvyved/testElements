@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="836.1490" tests="7" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:47" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function" timestamp="2022-01-17T17:51:47" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383613/setup_PreMatrix/tests/core/steps/Bash/BashUtilityFunctions/UtilityFunctions8.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Below test cases are for run state" timestamp="2022-01-17T17:51:48" tests="7" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383613/setup_PreMatrix/tests/core/steps/Bash/BashUtilityFunctions/UtilityFunctions8.js" time="835.8120" failures="0">
+    <testcase name="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function Below test cases are for run state S-Bash-util-6380-001 A user triggers a run where the first step puts an old-format tar run state in the run state containing a directory.  A following step is able to restore that directory." time="139.0860" classname="S-Bash-util-6380-001 A user triggers a run where the first step puts an old-format tar run state in the run state containing a directory.  A following step is able to restore that directory.">
+    </testcase>
+    <testcase name="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function Below test cases are for run state S-Bash-util-6380-002 A user triggers a run where the first step puts an old-format tar run state in the run state containing a file.  A following step is able to restore that file." time="82.2060" classname="S-Bash-util-6380-002 A user triggers a run where the first step puts an old-format tar run state in the run state containing a file.  A following step is able to restore that file.">
+    </testcase>
+    <testcase name="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function Below test cases are for run state S-Bash-util-6380-003 A user triggers a run where a step uses add_run_files to add a directory containing a file named run.env to run state.  A later step is able to restore that directory and it contains the file." time="178.5510" classname="S-Bash-util-6380-003 A user triggers a run where a step uses add_run_files to add a directory containing a file named run.env to run state.  A later step is able to restore that directory and it contains the file.">
+    </testcase>
+    <testcase name="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function Below test cases are for run state S-Bash-util-6380-004 A user triggers a run where a step uses add_run_files to add  a file named my_run.env to run state.  A later step is able to restore that file." time="39.4280" classname="S-Bash-util-6380-004 A user triggers a run where a step uses add_run_files to add  a file named my_run.env to run state.  A later step is able to restore that file.">
+    </testcase>
+    <testcase name="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function Below test cases are for run state S-Bash-util-6380-005 A user uses add_run_files to add two directories, containing differently-named files, with the same name.  Files from both are included when later restoring the name." time="57.7660" classname="S-Bash-util-6380-005 A user uses add_run_files to add two directories, containing differently-named files, with the same name.  Files from both are included when later restoring the name.">
+    </testcase>
+    <testcase name="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function Below test cases are for run state S-Bash-util-6380-006 A user uses restore_run_files to restore the same item from the cache twice.  The logs note that it had already been downloaded the second time." time="36.6570" classname="S-Bash-util-6380-006 A user uses restore_run_files to restore the same item from the cache twice.  The logs note that it had already been downloaded the second time.">
+    </testcase>
+    <testcase name="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function Below test cases are for run state S-Bash-util-6380-013 A user tries to add too many run variables. The step status is error and there is a message in the logs that the limit was exceeded." time="302.0840" classname="S-Bash-util-6380-013 A user tries to add too many run variables. The step status is error and there is a message in the logs that the limit was exceeded.">
+    </testcase>
+  </testsuite>
+</testsuites>

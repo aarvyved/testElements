@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="46.8450" tests="18" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:52:10" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="PROJECTINTEGRATIONS_FILESERVER - FileServer integration tests" timestamp="2022-01-17T17:52:10" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383816/setup_PreMatrix/tests/core/projectIntegrations/FileServer.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Below test cases uses FileServer project integration with FTP" timestamp="2022-01-17T17:52:10" tests="10" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383816/setup_PreMatrix/tests/core/projectIntegrations/FileServer.js" time="33.5610" failures="0">
+    <testcase name="PROJECTINTEGRATIONS_FILESERVER - FileServer integration tests Below test cases uses FileServer project integration with FTP I-FileServer-0001. user can add FileServer using FTP field project Integration" time="17.0800" classname="I-FileServer-0001. user can add FileServer using FTP field project Integration">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_FILESERVER - FileServer integration tests Below test cases uses FileServer project integration with FTP 1. User should be able add new PipelineSources for FileServer" time="14.8730" classname="1. User should be able add new PipelineSources for FileServer">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_FILESERVER - FileServer integration tests Below test cases uses FileServer project integration with FTP 2. User can get FileServer resource which is added in  pipeline source" time="0.1220" classname="2. User can get FileServer resource which is added in  pipeline source">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_FILESERVER - FileServer integration tests Below test cases uses FileServer project integration with FTP I-FileServer-0004. FileServer integration name must  adhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/" time="0.0500" classname="I-FileServer-0004. FileServer integration name must  adhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_FILESERVER - FileServer integration tests Below test cases uses FileServer project integration with FTP I-FileServer-0005. User cannot be able to update the Name field" time="0.0530" classname="I-FileServer-0005. User cannot be able to update the Name field">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_FILESERVER - FileServer integration tests Below test cases uses FileServer project integration with FTP I-FileServer-0006. User can be able to update the url and username  field in FTP FileServer integration " time="0.0780" classname="I-FileServer-0006. User can be able to update the url and username  field in FTP FileServer integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_FILESERVER - FileServer integration tests Below test cases uses FileServer project integration with FTP I-FileServer-0007. User can update the password field in  FTP FileServer integration " time="0.4490" classname="I-FileServer-0007. User can update the password field in  FTP FileServer integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_FILESERVER - FileServer integration tests Below test cases uses FileServer project integration with FTP I-FileServer-0012. User should not able to delete FileServer integration if it is dependent on resource." time="0.3560" classname="I-FileServer-0012. User should not able to delete FileServer integration if it is dependent on resource.">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_FILESERVER - FileServer integration tests Below test cases uses FileServer project integration with FTP 3. user can delete pipelineSource by Id" time="0.1700" classname="3. user can delete pipelineSource by Id">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_FILESERVER - FileServer integration tests Below test cases uses FileServer project integration with FTP I-FileServer-0013. User can delete FTPFileServer integration by Id" time="0.3190" classname="I-FileServer-0013. User can delete FTPFileServer integration by Id">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases uses FileServer project integration with SFTP" timestamp="2022-01-17T17:52:44" tests="4" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383816/setup_PreMatrix/tests/core/projectIntegrations/FileServer.js" time="4.5970" failures="0">
+    <testcase name="PROJECTINTEGRATIONS_FILESERVER - FileServer integration tests Below test cases uses FileServer project integration with SFTP I-FileServer-0002. user can add FileServer using SFTP field project Integration" time="3.7780" classname="I-FileServer-0002. user can add FileServer using SFTP field project Integration">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_FILESERVER - FileServer integration tests Below test cases uses FileServer project integration with SFTP I-FileServer-0008. User can update the url and username field in SFTP FileServer integration " time="0.0950" classname="I-FileServer-0008. User can update the url and username field in SFTP FileServer integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_FILESERVER - FileServer integration tests Below test cases uses FileServer project integration with SFTP I-FileServer-0009. User can update the password field in SFTP FileServer integration " time="0.2060" classname="I-FileServer-0009. User can update the password field in SFTP FileServer integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_FILESERVER - FileServer integration tests Below test cases uses FileServer project integration with SFTP I-FileServer-0013. User can delete SFTPFileServer integration by Id" time="0.5170" classname="I-FileServer-0013. User can delete SFTPFileServer integration by Id">
+    </testcase>
+  </testsuite>
+  <testsuite name="below test case uses FileServer project integration with SMB" timestamp="2022-01-17T17:52:48" tests="4" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383816/setup_PreMatrix/tests/core/projectIntegrations/FileServer.js" time="8.3520" failures="0">
+    <testcase name="PROJECTINTEGRATIONS_FILESERVER - FileServer integration tests below test case uses FileServer project integration with SMB I-FileServer-0003. user can add FileServer using SMB field project Integration" time="7.7230" classname="I-FileServer-0003. user can add FileServer using SMB field project Integration">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_FILESERVER - FileServer integration tests below test case uses FileServer project integration with SMB I-FileServer-0010. User can be able to update the url and username  field in SMB FileServer integration " time="0.0640" classname="I-FileServer-0010. User can be able to update the url and username  field in SMB FileServer integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_FILESERVER - FileServer integration tests below test case uses FileServer project integration with SMB I-FileServer-0011. User can update the password field in SMB FileServer integration " time="0.2280" classname="I-FileServer-0011. User can update the password field in SMB FileServer integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_FILESERVER - FileServer integration tests below test case uses FileServer project integration with SMB I-FileServer-0013. User can delete SMBFileServer integration by Id" time="0.3320" classname="I-FileServer-0013. User can delete SMBFileServer integration by Id">
+    </testcase>
+  </testsuite>
+</testsuites>

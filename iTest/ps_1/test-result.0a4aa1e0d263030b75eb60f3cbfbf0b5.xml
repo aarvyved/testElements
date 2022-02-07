@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0110" tests="7" failures="0" skipped="7">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:19" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="STEP_POWERSHELL_AIRBRAKE_INTEGRATION - PowerShell Step Tests For Airbrake Integration" timestamp="2022-01-17T17:51:19" tests="7" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_1/4383694/setup_PreMatrix/tests/core/steps/PowerShell/PSIntegration/PowerShellAirbrakeIntegration.js" time="0.0050" failures="0" skipped="7">
+    <testcase name="STEP_POWERSHELL_AIRBRAKE_INTEGRATION - PowerShell Step Tests For Airbrake Integration 1. User can add Airbrake project Integration" time="0.0000" classname="1. User can add Airbrake project Integration">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_POWERSHELL_AIRBRAKE_INTEGRATION - PowerShell Step Tests For Airbrake Integration S-PS-I-Airbrake-0001. If the user adds a pipeline sources with the PowerShell step where  Airbrake integration is mentioned in the integration section, then pipeline sync should success " time="0.0000" classname="S-PS-I-Airbrake-0001. If the user adds a pipeline sources with the PowerShell step where  Airbrake integration is mentioned in the integration section, then pipeline sync should success ">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_POWERSHELL_AIRBRAKE_INTEGRATION - PowerShell Step Tests For Airbrake Integration S-PS-I-Airbrake-0002.User verifies that all the Airbrake  integration environment variables are available in execution sections of the PowerShell step." time="0.0000" classname="S-PS-I-Airbrake-0002.User verifies that all the Airbrake  integration environment variables are available in execution sections of the PowerShell step.">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_POWERSHELL_AIRBRAKE_INTEGRATION - PowerShell Step Tests For Airbrake Integration 2. User should be able to add new pipelineSources" time="0.0000" classname="2. User should be able to add new pipelineSources">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_POWERSHELL_AIRBRAKE_INTEGRATION - PowerShell Step Tests For Airbrake Integration S-PS-I-Airbrake-0003. Users should not able to delete Airbrake  integration if it is dependent on any PowerShell steps." time="0.0000" classname="S-PS-I-Airbrake-0003. Users should not able to delete Airbrake  integration if it is dependent on any PowerShell steps.">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_POWERSHELL_AIRBRAKE_INTEGRATION - PowerShell Step Tests For Airbrake Integration 3. User can delete pipelineSource by Id" time="0.0000" classname="3. User can delete pipelineSource by Id">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_POWERSHELL_AIRBRAKE_INTEGRATION - PowerShell Step Tests For Airbrake Integration 4. User can delete Airbrake integrations by Id" time="0.0000" classname="4. User can delete Airbrake integrations by Id">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

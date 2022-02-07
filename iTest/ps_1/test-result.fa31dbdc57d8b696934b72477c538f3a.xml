@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="654.7910" tests="10" failures="0" skipped="2">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:17" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="GENERIC_POWERSHELL - PowerShell Generic tests" timestamp="2022-01-17T17:51:17" tests="10" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_1/4383696/setup_PreMatrix/tests/core/steps/PowerShell/PSGeneric/Trigger/PowerShellGeneric4.js" time="654.7840" failures="0" skipped="2">
+    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-6187-001 User runs a PowerShell step with save_artifact_info for a file and it successfully uploads the stepArtifact." time="120.7610" classname="S-PS-Generic-6187-001 User runs a PowerShell step with save_artifact_info for a file and it successfully uploads the stepArtifact.">
+    </testcase>
+    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-6187-002 User runs a PowerShell step with save_artifact_info for buildInfo and it successfully uploads the stepArtifact." time="100.6840" classname="S-PS-Generic-6187-002 User runs a PowerShell step with save_artifact_info for buildInfo and it successfully uploads the stepArtifact.">
+    </testcase>
+    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-6187-003 User runs a PowerShell step with save_artifact_info with an invalid type and it fails with a &quot;type&quot; error message." time="0.0000" classname="S-PS-Generic-6187-003 User runs a PowerShell step with save_artifact_info with an invalid type and it fails with a &quot;type&quot; error message.">
+      <skipped/>
+    </testcase>
+    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-6187-004 User runs a PowerShell step with save_artifact_info with type buildInfo and no build name or number and it fails." time="55.6690" classname="S-PS-Generic-6187-004 User runs a PowerShell step with save_artifact_info with type buildInfo and no build name or number and it fails.">
+    </testcase>
+    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-6187-005 User runs a PowerShell step with save_artifact_info specifying a project key and the created file contains that key." time="51.3460" classname="S-PS-Generic-6187-005 User runs a PowerShell step with save_artifact_info specifying a project key and the created file contains that key.">
+    </testcase>
+    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-6187-006 User runs a PowerShell step with validate_artifact for buildInfo and it successfully validates the valid stepArtifact." time="70.0050" classname="S-PS-Generic-6187-006 User runs a PowerShell step with validate_artifact for buildInfo and it successfully validates the valid stepArtifact.">
+    </testcase>
+    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-6187-007 User runs a PowerShell step with validate_artifact for buildInfo and with an invalid artifact signature and the validation result shows that it failed." time="0.0000" classname="S-PS-Generic-6187-007 User runs a PowerShell step with validate_artifact for buildInfo and with an invalid artifact signature and the validation result shows that it failed.">
+      <skipped/>
+    </testcase>
+    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-6187-008 User runs a PowerShell step with validate_artifact with an invalid type and it fails with a type error message." time="42.5070" classname="S-PS-Generic-6187-008 User runs a PowerShell step with validate_artifact with an invalid type and it fails with a type error message.">
+    </testcase>
+    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-6187-009 User runs a PowerShell step with validate_artifact with type buildInfo and no build name or number and it fails." time="42.4980" classname="S-PS-Generic-6187-009 User runs a PowerShell step with validate_artifact with type buildInfo and no build name or number and it fails.">
+    </testcase>
+    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-6187-010 User runs a PowerShell step with validate_artifact specifying a project key and validation uses that key." time="171.0110" classname="S-PS-Generic-6187-010 User runs a PowerShell step with validate_artifact specifying a project key and validation uses that key.">
+    </testcase>
+  </testsuite>
+</testsuites>

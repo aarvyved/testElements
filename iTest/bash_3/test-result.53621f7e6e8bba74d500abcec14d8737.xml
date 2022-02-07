@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="155.6450" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:48" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function" timestamp="2022-01-17T17:51:48" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383618/setup_PreMatrix/tests/core/steps/Bash/BashUtilityFunctions/UtilityFunctions2.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Below test cases are for send_notification with Slack" timestamp="2022-01-17T17:51:48" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383618/setup_PreMatrix/tests/core/steps/Bash/BashUtilityFunctions/UtilityFunctions2.js" time="155.3050" failures="0">
+    <testcase name="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function Below test cases are for send_notification with Slack 8. User can call send_notification with a Slack integration" time="139.5680" classname="8. User can call send_notification with a Slack integration">
+    </testcase>
+  </testsuite>
+</testsuites>

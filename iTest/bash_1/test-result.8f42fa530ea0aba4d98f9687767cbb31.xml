@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="468.4530" tests="14" failures="0" skipped="1">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:17" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="STEP_BASH_PAGERDUTY_INTEGRATION - Bash Step Tests For PagerDuty Integration" timestamp="2022-01-17T17:51:17" tests="14" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383565/setup_PreMatrix/tests/core/steps/Bash/BashIntegrations/BashPagerDutyIntegration.js" time="468.4470" failures="0" skipped="1">
+    <testcase name="STEP_BASH_PAGERDUTY_INTEGRATION - Bash Step Tests For PagerDuty Integration 1. User can add PagerDuty project Integration" time="4.2950" classname="1. User can add PagerDuty project Integration">
+    </testcase>
+    <testcase name="STEP_BASH_PAGERDUTY_INTEGRATION - Bash Step Tests For PagerDuty Integration S-Bash-0575. User adds PagerDuty integration in integration section of bash step and verify pipeline sync is success" time="10.8000" classname="S-Bash-0575. User adds PagerDuty integration in integration section of bash step and verify pipeline sync is success">
+    </testcase>
+    <testcase name="STEP_BASH_PAGERDUTY_INTEGRATION - Bash Step Tests For PagerDuty Integration S-Bash-0576. Environment variables for the integration are available in execution section of the Bash step" time="63.9510" classname="S-Bash-0576. Environment variables for the integration are available in execution section of the Bash step">
+    </testcase>
+    <testcase name="STEP_BASH_PAGERDUTY_INTEGRATION - Bash Step Tests For PagerDuty Integration 2. User should be able to add new pipelineSources" time="10.5190" classname="2. User should be able to add new pipelineSources">
+    </testcase>
+    <testcase name="STEP_BASH_PAGERDUTY_INTEGRATION - Bash Step Tests For PagerDuty Integration S-Bash-0577. User should not be able to delete the PagerDuty integration if it is dependent on any step" time="0.1570" classname="S-Bash-0577. User should not be able to delete the PagerDuty integration if it is dependent on any step">
+    </testcase>
+    <testcase name="STEP_BASH_PAGERDUTY_INTEGRATION - Bash Step Tests For PagerDuty Integration 3. User can delete pipelineSource by Id" time="0.9790" classname="3. User can delete pipelineSource by Id">
+    </testcase>
+    <testcase name="STEP_BASH_PAGERDUTY_INTEGRATION - Bash Step Tests For PagerDuty Integration S-Bash-0590. User can issue send_notification command with integration name and --text flag. The step should succeed." time="108.6020" classname="S-Bash-0590. User can issue send_notification command with integration name and --text flag. The step should succeed.">
+    </testcase>
+    <testcase name="STEP_BASH_PAGERDUTY_INTEGRATION - Bash Step Tests For PagerDuty Integration S-Bash-0591. User can issue send_notification command with integration name no additional flags. The step should succeed." time="44.7240" classname="S-Bash-0591. User can issue send_notification command with integration name no additional flags. The step should succeed.">
+    </testcase>
+    <testcase name="STEP_BASH_PAGERDUTY_INTEGRATION - Bash Step Tests For PagerDuty Integration S-Bash-0592. User can issue send_notification command with pagerduty integration with a bad token. The step should fail with a message in the logs." time="169.3650" classname="S-Bash-0592. User can issue send_notification command with pagerduty integration with a bad token. The step should fail with a message in the logs.">
+    </testcase>
+    <testcase name="STEP_BASH_PAGERDUTY_INTEGRATION - Bash Step Tests For PagerDuty Integration 1. User can update PagerDuty project Integration" time="0.0930" classname="1. User can update PagerDuty project Integration">
+    </testcase>
+    <testcase name="STEP_BASH_PAGERDUTY_INTEGRATION - Bash Step Tests For PagerDuty Integration S-Bash-0593. User can issue send_notification command with pagerduty integration with a token that is the wrong length. The step should fail with message about length in the logs." time="30.1890" classname="S-Bash-0593. User can issue send_notification command with pagerduty integration with a token that is the wrong length. The step should fail with message about length in the logs.">
+    </testcase>
+    <testcase name="STEP_BASH_PAGERDUTY_INTEGRATION - Bash Step Tests For PagerDuty Integration S-Bash-0594. User can issue send_notification command with pagerduty integration with a string argument with no --text flag. The step should succeed with &quot;unrecognized option&quot; in the logs." time="24.3680" classname="S-Bash-0594. User can issue send_notification command with pagerduty integration with a string argument with no --text flag. The step should succeed with &quot;unrecognized option&quot; in the logs.">
+    </testcase>
+    <testcase name="STEP_BASH_PAGERDUTY_INTEGRATION - Bash Step Tests For PagerDuty Integration S-Bash-0595. User can issue send_notification command with pagerduty integration and a text argument that uses a single dash. The step should succeed with &quot;unrecognized option&quot; in the logs." time="0.0000" classname="S-Bash-0595. User can issue send_notification command with pagerduty integration and a text argument that uses a single dash. The step should succeed with &quot;unrecognized option&quot; in the logs.">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_BASH_PAGERDUTY_INTEGRATION - Bash Step Tests For PagerDuty Integration 4. User can delete PagerDuty project integration by Id" time="0.2230" classname="4. User can delete PagerDuty project integration by Id">
+    </testcase>
+  </testsuite>
+</testsuites>

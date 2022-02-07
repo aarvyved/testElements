@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="29.6790" tests="9" failures="0" skipped="1">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API_SYSTEM_CONFIG_STATUS - SystemConfigStatus API tests" timestamp="2022-01-17T17:51:38" tests="9" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383735/setup_PreMatrix/tests/core/api/systemConfigStatus.js" time="29.6450" failures="0" skipped="1">
+    <testcase name="API_SYSTEM_CONFIG_STATUS - SystemConfigStatus API tests A-SystemConfigStatus-0001. Super user can GET /system/configStatus" time="0.1600" classname="A-SystemConfigStatus-0001. Super user can GET /system/configStatus">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIG_STATUS - SystemConfigStatus API tests A-SystemConfigStatus-0002. ProjectAdminUser cannot GET /system/configStatus" time="0.0800" classname="A-SystemConfigStatus-0002. ProjectAdminUser cannot GET /system/configStatus">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIG_STATUS - SystemConfigStatus API tests A-SystemConfigStatus-0003. Admin user cannot GET /system/configStatus" time="0.0860" classname="A-SystemConfigStatus-0003. Admin user cannot GET /system/configStatus">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIG_STATUS - SystemConfigStatus API tests A-SystemConfigStatus-0004. Member cannot GET /system/configStatus" time="0.0960" classname="A-SystemConfigStatus-0004. Member cannot GET /system/configStatus">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIG_STATUS - SystemConfigStatus API tests A-SystemConfigStatus-0005. Public user cannot GET /system/configStatus" time="0.0220" classname="A-SystemConfigStatus-0005. Public user cannot GET /system/configStatus">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIG_STATUS - SystemConfigStatus API tests A-SystemConfigStatus-0006. Verify that GET /system/configStatus returns a boolean value for hasPipelinesConfigChanged in the response" time="0.0010" classname="A-SystemConfigStatus-0006. Verify that GET /system/configStatus returns a boolean value for hasPipelinesConfigChanged in the response">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIG_STATUS - SystemConfigStatus API tests A-SystemConfigStatus-0007. If no configs have been added/updated by user, GET /system/configStatus responds with pipelines config hasn’t changed" time="0.0000" classname="A-SystemConfigStatus-0007. If no configs have been added/updated by user, GET /system/configStatus responds with pipelines config hasn’t changed">
+      <skipped/>
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIG_STATUS - SystemConfigStatus API tests A-SystemConfigStatus-0008. If project integration has been added/updated by user, GET /system/configStatus responds with pipelines config has changed" time="20.9230" classname="A-SystemConfigStatus-0008. If project integration has been added/updated by user, GET /system/configStatus responds with pipelines config has changed">
+    </testcase>
+    <testcase name="API_SYSTEM_CONFIG_STATUS - SystemConfigStatus API tests A-SystemConfigStatus-0008. If nodepool has been added/updated by user, GET /system/configStatus responds with pipelines config has changed" time="7.9680" classname="A-SystemConfigStatus-0008. If nodepool has been added/updated by user, GET /system/configStatus responds with pipelines config has changed">
+    </testcase>
+  </testsuite>
+</testsuites>

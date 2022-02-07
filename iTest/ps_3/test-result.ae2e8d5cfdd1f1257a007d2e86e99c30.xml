@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.3230" tests="1" failures="0" skipped="1">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:35" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="POWERSHELL_HELMBLUEGREENROLESWITCH_STEP - PowerShell HelmBlueGreenRoleSwitch Step Tests" timestamp="2022-01-17T17:51:35" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_3/4383711/setup_PreMatrix/tests/core/steps/PowerShell/PSNative/PowerShellHelmBlueGreenRoleSwitch.js" time="0.3110" failures="0" skipped="1">
+    <testcase name="POWERSHELL_HELMBLUEGREENROLESWITCH_STEP - PowerShell HelmBlueGreenRoleSwitch Step Tests S-PS-HBGRoleSwitch-5978-0002 Update chart previously available using HelmBlueGreenRoleSwitch step on a PS node." time="0.0000" classname="S-PS-HBGRoleSwitch-5978-0002 Update chart previously available using HelmBlueGreenRoleSwitch step on a PS node.">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

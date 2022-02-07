@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="251.5850" tests="10" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:17" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="STEP_BASHAQL - BashAql Step Tests" timestamp="2022-01-17T17:51:17" tests="10" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383564/setup_PreMatrix/tests/core/steps/Bash/BashResources/BashAql.js" time="251.5790" failures="0">
+    <testcase name="STEP_BASHAQL - BashAql Step Tests S-Bash-0071.In a Aql resource if inputResource section is found, pipeline sync should success" time="11.9550" classname="S-Bash-0071.In a Aql resource if inputResource section is found, pipeline sync should success">
+    </testcase>
+    <testcase name="STEP_BASHAQL - BashAql Step Tests S-Bash-0073. In inputResource section if trigger is set to “True” then any aql resource version change the Bash step should trigger." time="29.3740" classname="S-Bash-0073. In inputResource section if trigger is set to “True” then any aql resource version change the Bash step should trigger.">
+    </testcase>
+    <testcase name="STEP_BASHAQL - BashAql Step Tests S-Bash-0074. In inputResource section if trigger is set to “False” then any aql resource version change the Bash step should not trigger." time="23.7130" classname="S-Bash-0074. In inputResource section if trigger is set to “False” then any aql resource version change the Bash step should not trigger.">
+    </testcase>
+    <testcase name="STEP_BASHAQL - BashAql Step Tests S-Bash-0077. Environment variables for the resource are available in execution sections of the Bash step." time="118.5820" classname="S-Bash-0077. Environment variables for the resource are available in execution sections of the Bash step.">
+    </testcase>
+    <testcase name="STEP_BASHAQL - BashAql Step Tests S-Bash-0080.In a Aql resource if outputResource section isfound, pipeline sync should success" time="12.5260" classname="S-Bash-0080.In a Aql resource if outputResource section isfound, pipeline sync should success">
+    </testcase>
+    <testcase name="STEP_BASHAQL - BashAql Step Tests S-Bash-0082. User update outputResource in Bash, it should create new version for that resource in execution sections of the Bash step." time="44.4860" classname="S-Bash-0082. User update outputResource in Bash, it should create new version for that resource in execution sections of the Bash step.">
+    </testcase>
+    <testcase name="STEP_BASHAQL - BashAql Step Tests 2. User should be able to add new pipelineSources" time="10.0830" classname="2. User should be able to add new pipelineSources">
+    </testcase>
+    <testcase name="STEP_BASHAQL - BashAql Step Tests 3. User can get their resources" time="0.0270" classname="3. User can get their resources">
+    </testcase>
+    <testcase name="STEP_BASHAQL - BashAql Step Tests S-Bash-0383. User should not be able to delete the resource if it is dependent on any step" time="0.0390" classname="S-Bash-0383. User should not be able to delete the resource if it is dependent on any step">
+    </testcase>
+    <testcase name="STEP_BASHAQL - BashAql Step Tests 4. User can delete pipelineSource by Id" time="0.6980" classname="4. User can delete pipelineSource by Id">
+    </testcase>
+  </testsuite>
+</testsuites>

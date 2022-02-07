@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0060" tests="1" failures="0" skipped="1">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:48" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Inline_Templates - Templates with manual values" timestamp="2022-01-17T17:51:48" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/templates/SCM/InlineTemplates.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Below tests for system templates without gitBranch  and manual values" timestamp="2022-01-17T17:51:48" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/templates/SCM/InlineTemplates.js" time="0.0020" failures="0" skipped="1">
+    <testcase name="Inline_Templates - Templates with manual values Below tests for system templates without gitBranch  and manual values A-TemplateSync-PIPE-6910-0001. Users are able to sync templates with manual values " time="0.0000" classname="A-TemplateSync-PIPE-6910-0001. Users are able to sync templates with manual values ">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

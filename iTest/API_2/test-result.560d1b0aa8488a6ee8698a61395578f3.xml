@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="12.8230" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API_WINDOWSTATICNODEPOOL - Window Static NodePool API tests" timestamp="2022-01-17T17:51:38" tests="4" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383730/setup_PreMatrix/tests/core/api/windowStaticNodePools.js" time="12.8080" failures="0">
+    <testcase name="API_WINDOWSTATICNODEPOOL - Window Static NodePool API tests win-NP-0001. Users should be able to post a nodePool with required fields, by providing name, Architecture and the OS field set to windows." time="9.4040" classname="win-NP-0001. Users should be able to post a nodePool with required fields, by providing name, Architecture and the OS field set to windows.">
+    </testcase>
+    <testcase name="API_WINDOWSTATICNODEPOOL - Window Static NodePool API tests win-NP-0002. Users should be able to post a nodePool with all the fields by providing name, Architecture, OS field set to windows,node Limit ,maximum disk percentage and timeout. " time="2.7310" classname="win-NP-0002. Users should be able to post a nodePool with all the fields by providing name, Architecture, OS field set to windows,node Limit ,maximum disk percentage and timeout. ">
+    </testcase>
+    <testcase name="API_WINDOWSTATICNODEPOOL - Window Static NodePool API tests 2. Super user should be able to delete nodePools by Id" time="0.1950" classname="2. Super user should be able to delete nodePools by Id">
+    </testcase>
+    <testcase name="API_WINDOWSTATICNODEPOOL - Window Static NodePool API tests win-NP-0003. Super user should be able to delete nodePools by Id" time="0.2110" classname="win-NP-0003. Super user should be able to delete nodePools by Id">
+    </testcase>
+  </testsuite>
+</testsuites>

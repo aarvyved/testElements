@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="655.1910" tests="21" failures="0" skipped="1">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:16" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="STEP_BASH_FILESPEC - BashFileSpec Step Tests" timestamp="2022-01-17T17:51:16" tests="21" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383558/setup_PreMatrix/tests/core/steps/Bash/BashResources/BashFileSpec.js" time="655.1610" failures="0" skipped="1">
+    <testcase name="STEP_BASH_FILESPEC - BashFileSpec Step Tests S-Bash-0129. In inputResource section if trigger is set to “True” then any FileSpec resource version change the Bash step should trigger." time="34.1150" classname="S-Bash-0129. In inputResource section if trigger is set to “True” then any FileSpec resource version change the Bash step should trigger.">
+    </testcase>
+    <testcase name="STEP_BASH_FILESPEC - BashFileSpec Step Tests S-Bash-0130. In inputResource section if trigger is set to “False” then any FileSpec resource version change the Bash step should not trigger." time="28.4750" classname="S-Bash-0130. In inputResource section if trigger is set to “False” then any FileSpec resource version change the Bash step should not trigger.">
+    </testcase>
+    <testcase name="STEP_BASH_FILESPEC - BashFileSpec Step Tests S-Bash-0133. Environment variables for the resource are available in execution sections of the Bash step." time="84.8660" classname="S-Bash-0133. Environment variables for the resource are available in execution sections of the Bash step.">
+    </testcase>
+    <testcase name="STEP_BASH_FILESPEC - BashFileSpec Step Tests S-Bash-0396. If user adds invalid pattern in FileSpec resource. This causes Bash to fail" time="44.4100" classname="S-Bash-0396. If user adds invalid pattern in FileSpec resource. This causes Bash to fail">
+    </testcase>
+    <testcase name="STEP_BASH_FILESPEC - BashFileSpec Step Tests S-Bash-0397. If user adds invalid aql in FileSpec resource. This causes Bash to fail" time="34.5750" classname="S-Bash-0397. If user adds invalid aql in FileSpec resource. This causes Bash to fail">
+    </testcase>
+    <testcase name="STEP_BASH_FILESPEC - BashFileSpec Step Tests S-Bash-0434. If user adds invalid props in FileSpec resource. This causes Bash to fail" time="33.8480" classname="S-Bash-0434. If user adds invalid props in FileSpec resource. This causes Bash to fail">
+    </testcase>
+    <testcase name="STEP_BASH_FILESPEC - BashFileSpec Step Tests S-Bash-0435. If user adds invalid archiveEntries in FileSpec resource . This causes Bash to fail" time="29.1650" classname="S-Bash-0435. If user adds invalid archiveEntries in FileSpec resource . This causes Bash to fail">
+    </testcase>
+    <testcase name="STEP_BASH_FILESPEC - BashFileSpec Step Tests S-Bash-0436. If user adds invalid excludePatterns in FileSpec resource. This causes Bash to fail" time="29.0400" classname="S-Bash-0436. If user adds invalid excludePatterns in FileSpec resource. This causes Bash to fail">
+    </testcase>
+    <testcase name="STEP_BASH_FILESPEC - BashFileSpec Step Tests S-Bash-0437. If user adds invalid buildName in FileSpec resource. This causes Bash to fail" time="29.0760" classname="S-Bash-0437. If user adds invalid buildName in FileSpec resource. This causes Bash to fail">
+    </testcase>
+    <testcase name="STEP_BASH_FILESPEC - BashFileSpec Step Tests S-Bash-0438. If user adds invalid buildNumber in FileSpec resource. This causes Bash to fail" time="28.9790" classname="S-Bash-0438. If user adds invalid buildNumber in FileSpec resource. This causes Bash to fail">
+    </testcase>
+    <testcase name="STEP_BASH_FILESPEC - BashFileSpec Step Tests S-Bash-0439. If user adds invalid sortBy in FileSpec resource. This causes Bash to fail" time="29.0670" classname="S-Bash-0439. If user adds invalid sortBy in FileSpec resource. This causes Bash to fail">
+    </testcase>
+    <testcase name="STEP_BASH_FILESPEC - BashFileSpec Step Tests S-Bash-0440. If user adds invalid sortOrder in FileSpec resource. This causes Bash to fail" time="26.8520" classname="S-Bash-0440. If user adds invalid sortOrder in FileSpec resource. This causes Bash to fail">
+    </testcase>
+    <testcase name="STEP_BASH_FILESPEC - BashFileSpec Step Tests S-Bash-0539. User uses filespec with aql to download input resources for a step in bash and triggers the run and sees the run is successful." time="31.8880" classname="S-Bash-0539. User uses filespec with aql to download input resources for a step in bash and triggers the run and sees the run is successful.">
+    </testcase>
+    <testcase name="STEP_BASH_FILESPEC - BashFileSpec Step Tests S-Bash-0543. User uses filespec with pattern, valid sortBy to download input resources for a step in bash and triggers the run and sees the run is successful." time="28.6270" classname="S-Bash-0543. User uses filespec with pattern, valid sortBy to download input resources for a step in bash and triggers the run and sees the run is successful.">
+    </testcase>
+    <testcase name="STEP_BASH_FILESPEC - BashFileSpec Step Tests S-Bash-0544. User uses filespec with pattern, valid  excludePatterns to download input resources for a step in bash and triggers the run and sees the run is successful." time="23.7720" classname="S-Bash-0544. User uses filespec with pattern, valid  excludePatterns to download input resources for a step in bash and triggers the run and sees the run is successful.">
+    </testcase>
+    <testcase name="STEP_BASH_FILESPEC - BashFileSpec Step Tests S-Bash-0545. User uses filespec with pattern, valid exclusions to download input resources for a step in bash and triggers the run and sees the run is successful." time="23.8480" classname="S-Bash-0545. User uses filespec with pattern, valid exclusions to download input resources for a step in bash and triggers the run and sees the run is successful.">
+    </testcase>
+    <testcase name="STEP_BASH_FILESPEC - BashFileSpec Step Tests S-Bash-0546. User uses filespec with pattern, invalid sortBy to download input resources for a step in bash and triggers the run and sees the run is failed." time="28.7860" classname="S-Bash-0546. User uses filespec with pattern, invalid sortBy to download input resources for a step in bash and triggers the run and sees the run is failed.">
+    </testcase>
+    <testcase name="STEP_BASH_FILESPEC - BashFileSpec Step Tests 1. User should be able to add new pipelineSources" time="9.6950" classname="1. User should be able to add new pipelineSources">
+    </testcase>
+    <testcase name="STEP_BASH_FILESPEC - BashFileSpec Step Tests 2. User can get their resources" time="0.0270" classname="2. User can get their resources">
+    </testcase>
+    <testcase name="STEP_BASH_FILESPEC - BashFileSpec Step Tests S-Bash-0508. User should not be able to delete the resource if it is dependent on any step" time="0.0000" classname="S-Bash-0508. User should not be able to delete the resource if it is dependent on any step">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_BASH_FILESPEC - BashFileSpec Step Tests 3. User can delete pipelineSource by Id" time="0.6920" classname="3. User can delete pipelineSource by Id">
+    </testcase>
+  </testsuite>
+</testsuites>

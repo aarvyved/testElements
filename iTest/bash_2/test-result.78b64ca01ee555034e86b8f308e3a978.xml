@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0650" tests="25" failures="0" skipped="25">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:25" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="POSTMATRIX_STEP - PostMatrix Step Tests" timestamp="2022-01-17T17:51:25" tests="25" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_2/4383593/setup_PreMatrix/tests/core/steps/Bash/BashNative/PostMatrix.js" time="0.0220" failures="0" skipped="25">
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests S-PostMatrix-0001 User should able to add PostMatrix step with required fields name, type and in execution section onExecute" time="0.0000" classname="S-PostMatrix-0001 User should able to add PostMatrix step with required fields name, type and in execution section onExecute">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests S-PostMatrix-0010 If user uses get_step_var utility function to get variable then verify every key is constructed like step_name_{steplet_number}_key" time="0.0000" classname="S-PostMatrix-0010 If user uses get_step_var utility function to get variable then verify every key is constructed like step_name_{steplet_number}_key">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests S-PostMatrix-0002 User should able to add more than one PostMatrix step in the same pipeline" time="0.0000" classname="S-PostMatrix-0002 User should able to add more than one PostMatrix step in the same pipeline">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests S-PostMatrix-0003 If user adds a PostMatrix step where step name is invalid then the pipeline sync should fail " time="0.0000" classname="S-PostMatrix-0003 If user adds a PostMatrix step where step name is invalid then the pipeline sync should fail ">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests S-PostMatrix-0004 If user adds pipeline source where more than one Matrix steps as inputSteps to PostMatrix step. Then verify pipelines sync should succeed" time="0.0000" classname="S-PostMatrix-0004 If user adds pipeline source where more than one Matrix steps as inputSteps to PostMatrix step. Then verify pipelines sync should succeed">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests S-PostMatrix-0005 If user adds pipeline source where more than one PerMatrix steps as inputSteps to PostMatrix step. Then verify pipelines sync should succeed" time="0.0000" classname="S-PostMatrix-0005 If user adds pipeline source where more than one PerMatrix steps as inputSteps to PostMatrix step. Then verify pipelines sync should succeed">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests S-PostMatrix-0006 If user adds a pipeline source with PostMatrix step where the step name is missing then the pipeline sync should fail" time="0.0000" classname="S-PostMatrix-0006 If user adds a pipeline source with PostMatrix step where the step name is missing then the pipeline sync should fail">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests S-PostMatrix-0007 If user adds a pipeline source with PostMatrix step where onExecute field in execution section is missing then the pipeline sync should fail" time="0.0000" classname="S-PostMatrix-0007 If user adds a pipeline source with PostMatrix step where onExecute field in execution section is missing then the pipeline sync should fail">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests S-PostMatrix-0008 verify user should able to get  variables in PostMatrix step using get_step_var utility function." time="0.0000" classname="S-PostMatrix-0008 verify user should able to get  variables in PostMatrix step using get_step_var utility function.">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests S-PostMatrix-0012 If any Matrix step is used as inputSteps to PostMatrix step then verify matrix as well as PostMatrix steps state files are available in PostMatrix step" time="0.0000" classname="S-PostMatrix-0012 If any Matrix step is used as inputSteps to PostMatrix step then verify matrix as well as PostMatrix steps state files are available in PostMatrix step">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests S-PostMatrix-0013 If multiple PostMatrix steps are used as inputSteps to PostMatrix step then verify all PostMatrix steps state files are available in PostMatrix step" time="0.0000" classname="S-PostMatrix-0013 If multiple PostMatrix steps are used as inputSteps to PostMatrix step then verify all PostMatrix steps state files are available in PostMatrix step">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests 1 User can add pipeline source to test S-PostMatrix-0014" time="0.0000" classname="1 User can add pipeline source to test S-PostMatrix-0014">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests 2 User can get their pipelineSteps" time="0.0000" classname="2 User can get their pipelineSteps">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests S-PostMatrix-0014 Superuser should be able to trigger PostMatrix step" time="0.0000" classname="S-PostMatrix-0014 Superuser should be able to trigger PostMatrix step">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests 3. user should be able to delete pipelineSource by Id" time="0.0000" classname="3. user should be able to delete pipelineSource by Id">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests 4 User can add pipeline source to test S-PostMatrix-0018" time="0.0000" classname="4 User can add pipeline source to test S-PostMatrix-0018">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests 5. User can get their pipelineSteps" time="0.0000" classname="5. User can get their pipelineSteps">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests S-PostMatrix-0018 Super user should be able to trigger a PostMatrix step with custom config" time="0.0000" classname="S-PostMatrix-0018 Super user should be able to trigger a PostMatrix step with custom config">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests 6. user can get their steps" time="0.0000" classname="6. user can get their steps">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests 7. Super user can see step was successful" time="0.0000" classname="7. Super user can see step was successful">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests 8. User can delete pipelineSource by Id" time="0.0000" classname="8. User can delete pipelineSource by Id">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests 9. User can add pipeline source to test S-PostMatrix-0019" time="0.0000" classname="9. User can add pipeline source to test S-PostMatrix-0019">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests 10. User can get their pipelineSteps" time="0.0000" classname="10. User can get their pipelineSteps">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests 13. User can delete pipelineSource by Id" time="0.0000" classname="13. User can delete pipelineSource by Id">
+      <skipped/>
+    </testcase>
+    <testcase name="POSTMATRIX_STEP - PostMatrix Step Tests S-PostMatrix-0022 User verifies that pipeline sync is successful when newVersionOnly is true on a resource in inputResources for a PostMatrix step." time="0.0000" classname="S-PostMatrix-0022 User verifies that pipeline sync is successful when newVersionOnly is true on a resource in inputResources for a PostMatrix step.">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

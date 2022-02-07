@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="30.9160" tests="122" failures="0" skipped="2">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API_PIPELINESTEPLETS - PipelineSteplets API tests" timestamp="2022-01-17T17:51:38" tests="115" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383747/setup_PreMatrix/tests/core/api/pipelineSteplets.js" time="0.0000" failures="0" skipped="2">
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0001. Superuser should be able to get pipelineSteplets" time="0.0720" classname="A-G-PSL-0001. Superuser should be able to get pipelineSteplets">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-6531-0025. Users are able to use the include parameter while getting pipelineSteplets." time="0.0340" classname="A-G-PSL-6531-0025. Users are able to use the include parameter while getting pipelineSteplets.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0002. Admin user should be able to get pipelineSteplets " time="0.0000" classname="A-G-PSL-0002. Admin user should be able to get pipelineSteplets ">
+      <skipped/>
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0003. Member user should be able to get pipelineSteplets " time="0.0000" classname="A-G-PSL-0003. Member user should be able to get pipelineSteplets ">
+      <skipped/>
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0004. Public user shouldn’t be able to get pipelineSteplets" time="0.1730" classname="A-G-PSL-0004. Public user shouldn’t be able to get pipelineSteplets">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0005. The response body of the get call on pipelineSteplets API should contain id field and should not be null" time="0.0000" classname="A-G-PSL-0005. The response body of the get call on pipelineSteplets API should contain id field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0006. The response body of the get call on pipelineSteplets API should contain name field and should not be null" time="0.0010" classname="A-G-PSL-0006. The response body of the get call on pipelineSteplets API should contain name field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0007.The response body of the get call on pipelineSteplets API should contain pipelineStepId field and should not be null" time="0.0000" classname="A-G-PSL-0007.The response body of the get call on pipelineSteplets API should contain pipelineStepId field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0008. The response body of the get call on pipelineSteplets API should contain projectId field and should not be null" time="0.0000" classname="A-G-PSL-0008. The response body of the get call on pipelineSteplets API should contain projectId field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0009. The response body of the get call on pipelineSteplets API should contain pipelineSourceId field and should not be null" time="0.0000" classname="A-G-PSL-0009. The response body of the get call on pipelineSteplets API should contain pipelineSourceId field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0010. The response body of the get call on pipelineSteplets API should contain pipelineId field and should not be null" time="0.0000" classname="A-G-PSL-0010. The response body of the get call on pipelineSteplets API should contain pipelineId field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0011. The response body of the get call on pipelineSteplets API should contain isDeleted field and should not be null" time="0.0000" classname="A-G-PSL-0011. The response body of the get call on pipelineSteplets API should contain isDeleted field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0012. The response body of the get call on pipelineSteplets API should contain deletedAt field" time="0.0000" classname="A-G-PSL-0012. The response body of the get call on pipelineSteplets API should contain deletedAt field">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0013. The response body of the get call on pipelineSteplets API should contain createdBy field and should not be null" time="0.0000" classname="A-G-PSL-0013. The response body of the get call on pipelineSteplets API should contain createdBy field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0014. The response body of the get call on pipelineSteplets API should contain updatedBy field and should not be null" time="0.0000" classname="A-G-PSL-0014. The response body of the get call on pipelineSteplets API should contain updatedBy field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0015. The response body of the get call on pipelineSteplets API should contain createdAt field and should not be null" time="0.0000" classname="A-G-PSL-0015. The response body of the get call on pipelineSteplets API should contain createdAt field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0016. The response body of the get call on pipelineSteplets API should contain updatedAt field and should not be null" time="0.0000" classname="A-G-PSL-0016. The response body of the get call on pipelineSteplets API should contain updatedAt field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0017. The response body of the get call on pipelineSteplets API should contain configPropertyBag object and should not be null" time="0.0000" classname="A-G-PSL-0017. The response body of the get call on pipelineSteplets API should contain configPropertyBag object and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0018. Users should be able to pass projectIds as Query string parameters." time="0.0320" classname="A-G-PSL-0018. Users should be able to pass projectIds as Query string parameters.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0019. Users should be able to pass name as Query string parameters." time="0.0760" classname="A-G-PSL-0019. Users should be able to pass name as Query string parameters.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0020. Users should be able to pass pipelineSourceIds as Query string parameters." time="0.0680" classname="A-G-PSL-0020. Users should be able to pass pipelineSourceIds as Query string parameters.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0021. Users should be able to pass pipelineStepIds as Query string parameters." time="0.0920" classname="A-G-PSL-0021. Users should be able to pass pipelineStepIds as Query string parameters.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0022. Users should be able to pass isDeleted as Query string parameters." time="0.0810" classname="A-G-PSL-0022. Users should be able to pass isDeleted as Query string parameters.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0023. Users should be able to pass deletedBefore as Query string parameters." time="0.0460" classname="A-G-PSL-0023. Users should be able to pass deletedBefore as Query string parameters.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-G-PSL-0024. Users should be able to pass pipelineIds as Query string parameters." time="0.0300" classname="A-G-PSL-0024. Users should be able to pass pipelineIds as Query string parameters.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-GID-PSL-0001. Super user should be able to get pipelineSteplets by ID" time="0.0900" classname="A-GID-PSL-0001. Super user should be able to get pipelineSteplets by ID">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-GID-PSL-0002. Admin user should be able to get pipelineSteplets by ID" time="0.0850" classname="A-GID-PSL-0002. Admin user should be able to get pipelineSteplets by ID">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-GID-PSL-0003. Member user should be able to get pipelineSteplets by ID" time="0.0610" classname="A-GID-PSL-0003. Member user should be able to get pipelineSteplets by ID">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-GID-PSL-0004. Public user shouldn’t be able to get pipelineSteplets by ID" time="0.0190" classname="A-GID-PSL-0004. Public user shouldn’t be able to get pipelineSteplets by ID">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-GID-PSL-0005. The response body of the get by Id call on pipelineSteplets API should contain id field and should not be null" time="0.0000" classname="A-GID-PSL-0005. The response body of the get by Id call on pipelineSteplets API should contain id field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-GID-PSL-0006. The response body of the get by Id call on pipelineSteplets API should contain name field and should not be null" time="0.0000" classname="A-GID-PSL-0006. The response body of the get by Id call on pipelineSteplets API should contain name field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-GID-PSL-0007. The response body of the get by Id call on pipelineSteplets API should contain pipelineStepId field should not be null " time="0.0010" classname="A-GID-PSL-0007. The response body of the get by Id call on pipelineSteplets API should contain pipelineStepId field should not be null ">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-GID-PSL-0008. The response body of the get by Id call on pipelineSteplets API should contain projectId field and should not be null" time="0.0000" classname="A-GID-PSL-0008. The response body of the get by Id call on pipelineSteplets API should contain projectId field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-GID-PSL-0009. The response body of the get by Id call on pipelineSteplets API should contain pipelineSourceId field and should not be null" time="0.0000" classname="A-GID-PSL-0009. The response body of the get by Id call on pipelineSteplets API should contain pipelineSourceId field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-GID-PSL-0010. The response body of the get by Id call on pipelineSteplets API should contain pipelineId field and should not be null" time="0.0000" classname="A-GID-PSL-0010. The response body of the get by Id call on pipelineSteplets API should contain pipelineId field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-GID-PSL-0011. The response body of the get by Id call on pipelineSteplets API should contain isDeleted field and should not be null" time="0.0000" classname="A-GID-PSL-0011. The response body of the get by Id call on pipelineSteplets API should contain isDeleted field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-GID-PSL-0012. The response body of the get by Id call on pipelineSteplets API should contain deletedAt field" time="0.0000" classname="A-GID-PSL-0012. The response body of the get by Id call on pipelineSteplets API should contain deletedAt field">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-GID-PSL-0013. The response body of the get by Id call on pipelineSteplets API should contain createdBy field and should not be null" time="0.0000" classname="A-GID-PSL-0013. The response body of the get by Id call on pipelineSteplets API should contain createdBy field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-GID-PSL-0014. The response body of the get by Id call on pipelineSteplets API should contain updatedBy field and should not be null" time="0.0000" classname="A-GID-PSL-0014. The response body of the get by Id call on pipelineSteplets API should contain updatedBy field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-GID-PSL-0015. The response body of the get by Id call on pipelineSteplets API should contain createdAt field and should not be null" time="0.0000" classname="A-GID-PSL-0015. The response body of the get by Id call on pipelineSteplets API should contain createdAt field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-GID-PSL-0016. The response body of the get by Id call on pipelineSteplets API should contain updatedAt field and should not be null" time="0.0000" classname="A-GID-PSL-0016. The response body of the get by Id call on pipelineSteplets API should contain updatedAt field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-GID-PSL-0017. The response body of the get by id call on pipelineSteplets API should contain configPropertyBag object and should not be null " time="0.0000" classname="A-GID-PSL-0017. The response body of the get by id call on pipelineSteplets API should contain configPropertyBag object and should not be null ">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-T-PSL-0001. Id field in pipelineSteplets API should be a integer type" time="0.0010" classname="A-T-PSL-0001. Id field in pipelineSteplets API should be a integer type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-T-PSL-0002. Name field in pipelineSteplets API should be a string type" time="0.0010" classname="A-T-PSL-0002. Name field in pipelineSteplets API should be a string type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-T-PSL-0003. configPropertyBag field in pipelineSteplets API should be a object type" time="0.0030" classname="A-T-PSL-0003. configPropertyBag field in pipelineSteplets API should be a object type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-T-PSL-0004. pipelineStepId field in pipelineSteplets API should be a number type" time="0.0000" classname="A-T-PSL-0004. pipelineStepId field in pipelineSteplets API should be a number type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-T-PSL-0005. projectId field in pipelineSteplets API should be a number type" time="0.0000" classname="A-T-PSL-0005. projectId field in pipelineSteplets API should be a number type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-T-PSL-0006. pipelineSourceId field in pipelineSteplets API should be a number type" time="0.0000" classname="A-T-PSL-0006. pipelineSourceId field in pipelineSteplets API should be a number type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-T-PSL-0007. pipelineId field in pipelineSteplets API should be a number type" time="0.0000" classname="A-T-PSL-0007. pipelineId field in pipelineSteplets API should be a number type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-T-PSL-0008. isDeleted field in pipelineSteplets API should be a boolean type" time="0.0010" classname="A-T-PSL-0008. isDeleted field in pipelineSteplets API should be a boolean type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-T-PSL-0010. createdBy field in pipelineSteplets API should be a string type" time="0.0000" classname="A-T-PSL-0010. createdBy field in pipelineSteplets API should be a string type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-T-PSL-0011. updatedBy field in pipelineSteplets API should be a string type" time="0.0000" classname="A-T-PSL-0011. updatedBy field in pipelineSteplets API should be a string type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-T-PSL-0012. createdAt field in pipelineSteplets API should be a string type" time="0.0000" classname="A-T-PSL-0012. createdAt field in pipelineSteplets API should be a string type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-T-PSL-0013. updatedAt field in pipelineSteplets API should be a string type" time="0.0000" classname="A-T-PSL-0013. updatedAt field in pipelineSteplets API should be a string type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-GID-PSL-0018. Users should be able to pass id as Query string parameters to get by id call on pipelineSteplets API." time="0.0350" classname="A-GID-PSL-0018. Users should be able to pass id as Query string parameters to get by id call on pipelineSteplets API.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0001. Superuser should be able to post pipelineSteplets " time="0.0360" classname="A-PO-PSL-0001. Superuser should be able to post pipelineSteplets ">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PP-0030. User with project scope should be able to post pipelineSteplets " time="0.0290" classname="A-PO-PP-0030. User with project scope should be able to post pipelineSteplets ">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0002. Admin user shouldn’t be able to post pipelineSteplets " time="0.0360" classname="A-PO-PSL-0002. Admin user shouldn’t be able to post pipelineSteplets ">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0003. Member user shouldn’t be able to post pipelineSteplets" time="0.0810" classname="A-PO-PSL-0003. Member user shouldn’t be able to post pipelineSteplets">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0004. Public user shouldn’t be able to post pipelineSteplets " time="0.0190" classname="A-PO-PSL-0004. Public user shouldn’t be able to post pipelineSteplets ">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0005. User shouldn’t be able to post pipelineSteplets without name field" time="0.1020" classname="A-PO-PSL-0005. User shouldn’t be able to post pipelineSteplets without name field">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0006. User shouldn’t be able to post pipelineSteplets without projectId field" time="0.0300" classname="A-PO-PSL-0006. User shouldn’t be able to post pipelineSteplets without projectId field">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0007. User shouldn’t be able to post pipelineSteplets without pipelineId field" time="0.0890" classname="A-PO-PSL-0007. User shouldn’t be able to post pipelineSteplets without pipelineId field">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0008. User shouldn’t be able to post pipelineSteplets without pipelineStepId field" time="0.0240" classname="A-PO-PSL-0008. User shouldn’t be able to post pipelineSteplets without pipelineStepId field">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0009. User shouldn’t be able to post pipelineSteplets without pipelineSourceId field" time="0.0520" classname="A-PO-PSL-0009. User shouldn’t be able to post pipelineSteplets without pipelineSourceId field">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0010. User shouldn’t be able to post pipelineSteplets with invalid value to the projectId field" time="0.0420" classname="A-PO-PSL-0010. User shouldn’t be able to post pipelineSteplets with invalid value to the projectId field">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0011. User shouldn’t be able to post pipelineSteplets with invalid value to the pipelineId field" time="0.1190" classname="A-PO-PSL-0011. User shouldn’t be able to post pipelineSteplets with invalid value to the pipelineId field">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0012. User shouldn’t be able to post pipelineSteplets with invalid value to the pipelineStepId field " time="0.0460" classname="A-PO-PSL-0012. User shouldn’t be able to post pipelineSteplets with invalid value to the pipelineStepId field ">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0013. User shouldn’t be able to post pipelineStepId with invalid value to the pipelineSourceId field" time="0.0280" classname="A-PO-PSL-0013. User shouldn’t be able to post pipelineStepId with invalid value to the pipelineSourceId field">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0014. The response body of the Post call on pipelineSteplets API should contain id field and should not be null" time="0.0000" classname="A-PO-PSL-0014. The response body of the Post call on pipelineSteplets API should contain id field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0015. The response body of the Post call on pipelineSteplets API should contain name field and should not be null" time="0.0000" classname="A-PO-PSL-0015. The response body of the Post call on pipelineSteplets API should contain name field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0016. The response body of the Post call on pipelineSteplets API should contain pipelineStepId field" time="0.0000" classname="A-PO-PSL-0016. The response body of the Post call on pipelineSteplets API should contain pipelineStepId field">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0017. The response body of the Post call on pipelineSteplets API should contain projectId field and should not be null" time="0.0000" classname="A-PO-PSL-0017. The response body of the Post call on pipelineSteplets API should contain projectId field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0018. The response body of the Post call on pipelineSteplets API should contain pipelineSourceId field and should not be null" time="0.0010" classname="A-PO-PSL-0018. The response body of the Post call on pipelineSteplets API should contain pipelineSourceId field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0019. The response body of the Post  call on pipelineSteplets API should contain pipelineId field and should not be null" time="0.0000" classname="A-PO-PSL-0019. The response body of the Post  call on pipelineSteplets API should contain pipelineId field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0020. The response body of the Post call on pipelineSteplets API should contain isDeleted field and should not be null" time="0.0000" classname="A-PO-PSL-0020. The response body of the Post call on pipelineSteplets API should contain isDeleted field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0021. The response body of the Post call on pipelineSteplets API should contain deletedAt field" time="0.0010" classname="A-PO-PSL-0021. The response body of the Post call on pipelineSteplets API should contain deletedAt field">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0022. The response body of the Post call on pipelineSteplets API should contain createdBy field and should not be null" time="0.0000" classname="A-PO-PSL-0022. The response body of the Post call on pipelineSteplets API should contain createdBy field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0023. The response body of the Post call on pipelineSteplets API should contain updatedBy field and should not be null" time="0.0000" classname="A-PO-PSL-0023. The response body of the Post call on pipelineSteplets API should contain updatedBy field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0024. The response body of the Post call on pipelineSteplets API should contain createdAt field and should not be null" time="0.0000" classname="A-PO-PSL-0024. The response body of the Post call on pipelineSteplets API should contain createdAt field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PSL-0025. The response body of the Post call on pipelineSteplets API should contain updatedAt field and should not be null" time="0.0000" classname="A-PO-PSL-0025. The response body of the Post call on pipelineSteplets API should contain updatedAt field and should not be null">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0001. Superuser should be able to update pipelineSteplets by Id." time="0.1020" classname="A-PUT-PSL-0001. Superuser should be able to update pipelineSteplets by Id.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PP-0031. User with project scope should be able to update pipelineSteplets by Id." time="0.2040" classname="A-PO-PP-0031. User with project scope should be able to update pipelineSteplets by Id.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0002. Admin user shouldn’t be able to update pipelineSteplets by Id" time="0.1900" classname="A-PUT-PSL-0002. Admin user shouldn’t be able to update pipelineSteplets by Id">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0003. Member user shouldn’t be able to update pipelineSteplets by Id" time="0.0330" classname="A-PUT-PSL-0003. Member user shouldn’t be able to update pipelineSteplets by Id">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0004. Public user shouldn’t be able to update pipelineSteplets by Id" time="0.0230" classname="A-PUT-PSL-0004. Public user shouldn’t be able to update pipelineSteplets by Id">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0005. User should be able to update configPropertyBag field in pipelineSteplets" time="0.2630" classname="A-PUT-PSL-0005. User should be able to update configPropertyBag field in pipelineSteplets">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0006. User should be able to update isDeleted field in pipelineSteplets" time="0.1740" classname="A-PUT-PSL-0006. User should be able to update isDeleted field in pipelineSteplets">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0007. User should be able to update deletedAt field in pipelineSteplets" time="0.0350" classname="A-PUT-PSL-0007. User should be able to update deletedAt field in pipelineSteplets">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0008. User should be able to update name field in pipelineSteplets" time="0.1180" classname="A-PUT-PSL-0008. User should be able to update name field in pipelineSteplets">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0010. User shouldn’t be able to update with a invaild value to isDeleted field in pipelineSteplets" time="0.0220" classname="A-PUT-PSL-0010. User shouldn’t be able to update with a invaild value to isDeleted field in pipelineSteplets">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0011. User shouldn’t be able to update with a invaild value to  deletedAt field in pipelineSteplets" time="0.1140" classname="A-PUT-PSL-0011. User shouldn’t be able to update with a invaild value to  deletedAt field in pipelineSteplets">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0012. User shouldn’t be able to update with a invaild value to name field in pipelineSteplets" time="0.0370" classname="A-PUT-PSL-0012. User shouldn’t be able to update with a invaild value to name field in pipelineSteplets">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0013. The response body of the PUT call on pipelineSteplets API should contain id field and should not be null." time="0.0000" classname="A-PUT-PSL-0013. The response body of the PUT call on pipelineSteplets API should contain id field and should not be null.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0014. The response body of the PUT call on pipelineSteplets API should contain name field and should not be null." time="0.0000" classname="A-PUT-PSL-0014. The response body of the PUT call on pipelineSteplets API should contain name field and should not be null.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0015. The response body of the PUT call on pipelineSteplets API should contain pipelineStepId field should not be null." time="0.0000" classname="A-PUT-PSL-0015. The response body of the PUT call on pipelineSteplets API should contain pipelineStepId field should not be null.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0016. The response body of the PUT call on pipelineSteplets API should contain projectId field and should not be null." time="0.0000" classname="A-PUT-PSL-0016. The response body of the PUT call on pipelineSteplets API should contain projectId field and should not be null.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0017. The response body of the PUT call on pipelineSteplets API should contain pipelineSourceId field and should not be null." time="0.0000" classname="A-PUT-PSL-0017. The response body of the PUT call on pipelineSteplets API should contain pipelineSourceId field and should not be null.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0018. The response body of the PUT call on pipelineSteplets API should contain pipelineId field and should not be null." time="0.0000" classname="A-PUT-PSL-0018. The response body of the PUT call on pipelineSteplets API should contain pipelineId field and should not be null.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0019. The response body of the PUT call on pipelineSteplets API  should contain isDeleted field and should not be null." time="0.0010" classname="A-PUT-PSL-0019. The response body of the PUT call on pipelineSteplets API  should contain isDeleted field and should not be null.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0020. The response body of the PUT call on pipelineSteplets API should contain deletedAt field." time="0.0000" classname="A-PUT-PSL-0020. The response body of the PUT call on pipelineSteplets API should contain deletedAt field.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0021. The response body of the PUT call on pipelineSteplets API should contain createdBy field and should not be null." time="0.0000" classname="A-PUT-PSL-0021. The response body of the PUT call on pipelineSteplets API should contain createdBy field and should not be null.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0022. The response body of the PUT call on pipelineSteplets API should contain updatedBy field and should not be null." time="0.0000" classname="A-PUT-PSL-0022. The response body of the PUT call on pipelineSteplets API should contain updatedBy field and should not be null.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0023. The response body of the PUT call on pipelineSteplets API should contain createdAt field and should not be null." time="0.0000" classname="A-PUT-PSL-0023. The response body of the PUT call on pipelineSteplets API should contain createdAt field and should not be null.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0024. The response body of the PUT  call on pipelineSteplets API should contain updatedAt field and should not be null." time="0.0000" classname="A-PUT-PSL-0024. The response body of the PUT  call on pipelineSteplets API should contain updatedAt field and should not be null.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PUT-PSL-0025. The response body of the PUT  call on pipelineSteplets API should contain configPropertyBag field if that section is updated in requestBody and should not be null." time="0.0000" classname="A-PUT-PSL-0025. The response body of the PUT  call on pipelineSteplets API should contain configPropertyBag field if that section is updated in requestBody and should not be null.">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-D-PSL-0004. Public user shouldn’t be able to delete pipelineSteplet By pipelineStepletId" time="0.0180" classname="A-D-PSL-0004. Public user shouldn’t be able to delete pipelineSteplet By pipelineStepletId">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-D-PSL-0003. Member user shouldn’t be able to delete pipelineSteplet By pipelineStepletId" time="0.0470" classname="A-D-PSL-0003. Member user shouldn’t be able to delete pipelineSteplet By pipelineStepletId">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-D-PSL-0002. Admin user shouldn’t be able to delete pipelineSteplet By pipelineStepletId" time="0.0360" classname="A-D-PSL-0002. Admin user shouldn’t be able to delete pipelineSteplet By pipelineStepletId">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-D-PSL-0001. Superuser should be able to delete pipelineSteplet By pipelineStepletId" time="0.0480" classname="A-D-PSL-0001. Superuser should be able to delete pipelineSteplet By pipelineStepletId">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-PO-PP-0032. User with project scope should be able to delete pipelineSteplet By pipelineStepletId" time="0.0310" classname="A-PO-PP-0032. User with project scope should be able to delete pipelineSteplet By pipelineStepletId">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-D-PSL-0006. The response body of the deleteBypipelineStepletId call on steplets API should contain id field" time="0.0000" classname="A-D-PSL-0006. The response body of the deleteBypipelineStepletId call on steplets API should contain id field">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests 1. User should be able to get pipelineSteplets" time="0.0650" classname="1. User should be able to get pipelineSteplets">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-T-PSL-0009. deletedAt field in pipelineSteplets API should be a string type" time="0.0010" classname="A-T-PSL-0009. deletedAt field in pipelineSteplets API should be a string type">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests A-D-PSL-0005. Users should be able to pass hard as Query string parameters. " time="0.1770" classname="A-D-PSL-0005. Users should be able to pass hard as Query string parameters. ">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases are for deleting pipelineSteplets by pipelineId" timestamp="2022-01-17T17:52:05" tests="7" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383747/setup_PreMatrix/tests/core/api/pipelineSteplets.js" time="3.7600" failures="0">
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests Below test cases are for deleting pipelineSteplets by pipelineId A-PipelineSteplets-6644-005. Public user cannot delete pipelineSteplets by pipelineId" time="0.0170" classname="A-PipelineSteplets-6644-005. Public user cannot delete pipelineSteplets by pipelineId">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests Below test cases are for deleting pipelineSteplets by pipelineId A-PipelineSteplets-6644-004. Member cannotdelete pipelineSteplets by pipelineId" time="0.0500" classname="A-PipelineSteplets-6644-004. Member cannotdelete pipelineSteplets by pipelineId">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests Below test cases are for deleting pipelineSteplets by pipelineId A-PipelineSteplets-6644-003. Admin cannot delete pipelineSteplets by pipelineId" time="0.0550" classname="A-PipelineSteplets-6644-003. Admin cannot delete pipelineSteplets by pipelineId">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests Below test cases are for deleting pipelineSteplets by pipelineId A-PipelineSteplets-6644-002. ProjectAdminUser cannot delete pipelineStepletId by its pipelineId" time="0.0330" classname="A-PipelineSteplets-6644-002. ProjectAdminUser cannot delete pipelineStepletId by its pipelineId">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests Below test cases are for deleting pipelineSteplets by pipelineId A-PipelineSteplets-6644-001. Super user can delete by pipelineSteplets By pipelineId" time="0.0200" classname="A-PipelineSteplets-6644-001. Super user can delete by pipelineSteplets By pipelineId">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests Below test cases are for deleting pipelineSteplets by pipelineId A-PipelineSteplets-6644-006. Calling DELETE /pipelines/:pipelineId/pipelineSteplets without a query param will soft delete all the pipelineSteplets of a pipeline" time="0.1220" classname="A-PipelineSteplets-6644-006. Calling DELETE /pipelines/:pipelineId/pipelineSteplets without a query param will soft delete all the pipelineSteplets of a pipeline">
+    </testcase>
+    <testcase name="API_PIPELINESTEPLETS - PipelineSteplets API tests Below test cases are for deleting pipelineSteplets by pipelineId A-PipelineSteplets-6644-007. Calling DELETE /pipelines/:pipelineId/pipelineSteplets with hard=true query param will delete all the pipelineSteplets of a pipeline" time="0.0510" classname="A-PipelineSteplets-6644-007. Calling DELETE /pipelines/:pipelineId/pipelineSteplets with hard=true query param will delete all the pipelineSteplets of a pipeline">
+    </testcase>
+  </testsuite>
+</testsuites>

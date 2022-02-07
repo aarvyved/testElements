@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1008.4620" tests="16" failures="1" skipped="4">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:16" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="HELMBLUEGREENDEPLOY_STEP - HelmBlueGreenDeploy Step Tests" timestamp="2022-01-17T17:51:16" tests="16" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383543/setup_PreMatrix/tests/core/steps/Bash/BashNative/HelmBlueGreenDeploy.js" time="1008.4400" failures="1" skipped="4">
+    <testcase name="HELMBLUEGREENDEPLOY_STEP - HelmBlueGreenDeploy Step Tests S-LX-HBGDeploy-5978-0001 User deploys chart using HelmBlueGreenDeploy step using HelmChart input resource on a linux based node." time="158.7340" classname="S-LX-HBGDeploy-5978-0001 User deploys chart using HelmBlueGreenDeploy step using HelmChart input resource on a linux based node.">
+      <failure message="the run status is failure" type="Error"><![CDATA[Error: the run status is failure
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383543/setup_PreMatrix/tests/globalWrapper/getRunStatusForQuery.js:59:17
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383543/setup_PreMatrix/tests/_common/pipelines/Adapter.js:2573:9
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383543/setup_PreMatrix/tests/node_modules/async/dist/async.js:2959:19
+    at wrapper (node_modules/async/dist/async.js:272:20)
+    at replenish (node_modules/async/dist/async.js:439:29)
+    at iterateeCallback (node_modules/async/dist/async.js:428:21)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383543/setup_PreMatrix/tests/node_modules/async/dist/async.js:325:20
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383543/setup_PreMatrix/tests/node_modules/async/dist/async.js:2957:17
+    at Request._callback (_common/utils.js:126:9)
+    at Request.self.callback (node_modules/request/request.js:188:22)
+    at Request.<anonymous> (node_modules/request/request.js:1171:10)
+    at IncomingMessage.<anonymous> (node_modules/request/request.js:1091:12)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)]]></failure>
+    </testcase>
+    <testcase name="HELMBLUEGREENDEPLOY_STEP - HelmBlueGreenDeploy Step Tests S-LX-HBGDeploy-5978-0002 user deploys chart using HelmBlueGreenDeploy step using GitRepo input resource on a Bash based node." time="89.1400" classname="S-LX-HBGDeploy-5978-0002 user deploys chart using HelmBlueGreenDeploy step using GitRepo input resource on a Bash based node.">
+    </testcase>
+    <testcase name="HELMBLUEGREENDEPLOY_STEP - HelmBlueGreenDeploy Step Tests S-LX-HBGDeploy-5978-0003 User deploys chart using HelmBlueGreenDeploy step using FileSpec input resource on a Bash based node." time="0.0000" classname="S-LX-HBGDeploy-5978-0003 User deploys chart using HelmBlueGreenDeploy step using FileSpec input resource on a Bash based node.">
+      <skipped/>
+    </testcase>
+    <testcase name="HELMBLUEGREENDEPLOY_STEP - HelmBlueGreenDeploy Step Tests S-LX-HBGDeploy-5978-0004 user deploys chart using HelmBlueGreenDeploy step using BuildInfo input resource on a Bash based node." time="0.0000" classname="S-LX-HBGDeploy-5978-0004 user deploys chart using HelmBlueGreenDeploy step using BuildInfo input resource on a Bash based node.">
+      <skipped/>
+    </testcase>
+    <testcase name="HELMBLUEGREENDEPLOY_STEP - HelmBlueGreenDeploy Step Tests S-LX-HBGDeploy-5978-0005 user deploys chart using HelmBlueGreenDeploy step using ReleaseBundle input resource on a Bash based node." time="0.0000" classname="S-LX-HBGDeploy-5978-0005 user deploys chart using HelmBlueGreenDeploy step using ReleaseBundle input resource on a Bash based node.">
+      <skipped/>
+    </testcase>
+    <testcase name="HELMBLUEGREENDEPLOY_STEP - HelmBlueGreenDeploy Step Tests S-LX-HBGDeploy-5978-0006 Update chart using HelmBlueGreenDeploy step on Bash based node." time="103.9800" classname="S-LX-HBGDeploy-5978-0006 Update chart using HelmBlueGreenDeploy step on Bash based node.">
+    </testcase>
+    <testcase name="HELMBLUEGREENDEPLOY_STEP - HelmBlueGreenDeploy Step Tests S-LX-HBGDeploy-5978-0007 user deploys chart using HelmBlueGreenDeploy step for a release previously made live on Bash based node." time="0.0000" classname="S-LX-HBGDeploy-5978-0007 user deploys chart using HelmBlueGreenDeploy step for a release previously made live on Bash based node.">
+      <skipped/>
+    </testcase>
+    <testcase name="HELMBLUEGREENDEPLOY_STEP - HelmBlueGreenDeploy Step Tests S-LX-HBGDeploy-5978-0008 user deploys chart using HelmBlueGreenDeploy step with custom flags on a Bash based node." time="45.2690" classname="S-LX-HBGDeploy-5978-0008 user deploys chart using HelmBlueGreenDeploy step with custom flags on a Bash based node.">
+    </testcase>
+    <testcase name="HELMBLUEGREENDEPLOY_STEP - HelmBlueGreenDeploy Step Tests S-LX-HBGDeploy-5978-0009 user deploys chart using HelmBlueGreenDeploy step with value file path on a Bash based node." time="45.4680" classname="S-LX-HBGDeploy-5978-0009 user deploys chart using HelmBlueGreenDeploy step with value file path on a Bash based node.">
+    </testcase>
+    <testcase name="HELMBLUEGREENDEPLOY_STEP - HelmBlueGreenDeploy Step Tests S-LX-HBGDeploy-5978-0010 user deploys chart using HelmBlueGreenDeploy step using helm2 on Bash based node." time="57.4750" classname="S-LX-HBGDeploy-5978-0010 user deploys chart using HelmBlueGreenDeploy step using helm2 on Bash based node.">
+    </testcase>
+    <testcase name="HELMBLUEGREENDEPLOY_STEP - HelmBlueGreenDeploy Step Tests S-LX-HBGDeploy-5978-0012 user deploys chart using HelmBlueGreenDeploy step with lint flag enabled on Bash based node. Verify if the chart is linted" time="45.5410" classname="S-LX-HBGDeploy-5978-0012 user deploys chart using HelmBlueGreenDeploy step with lint flag enabled on Bash based node. Verify if the chart is linted">
+    </testcase>
+    <testcase name="HELMBLUEGREENDEPLOY_STEP - HelmBlueGreenDeploy Step Tests S-LX-HBGDeploy-5978-0013 user deploys chart using HelmBlueGreenDeploy step with lint lint flags enabled on Bash based node. Verify if the chart is linted" time="45.4190" classname="S-LX-HBGDeploy-5978-0013 user deploys chart using HelmBlueGreenDeploy step with lint lint flags enabled on Bash based node. Verify if the chart is linted">
+    </testcase>
+    <testcase name="HELMBLUEGREENDEPLOY_STEP - HelmBlueGreenDeploy Step Tests S-LX-HBGDeploy-5978-0014 user deploys chart using HelmBlueGreenDeploy step with test flag enabled on Bash based node. Verify if the chart is tested" time="123.9420" classname="S-LX-HBGDeploy-5978-0014 user deploys chart using HelmBlueGreenDeploy step with test flag enabled on Bash based node. Verify if the chart is tested">
+    </testcase>
+    <testcase name="HELMBLUEGREENDEPLOY_STEP - HelmBlueGreenDeploy Step Tests S-LX-HBGDeploy-5978-0015 user deploys chart using HelmBlueGreenDeploy step with test lint flags enabled on Bash based node. Verify if the chart is lint and tested" time="171.7450" classname="S-LX-HBGDeploy-5978-0015 user deploys chart using HelmBlueGreenDeploy step with test lint flags enabled on Bash based node. Verify if the chart is lint and tested">
+    </testcase>
+    <testcase name="HELMBLUEGREENDEPLOY_STEP - HelmBlueGreenDeploy Step Tests S-LX-HBGDeploy-5978-0016 user deploys chart using HelmBlueGreenDeploy step with custom idle service properties on a Bash based node." time="52.0200" classname="S-LX-HBGDeploy-5978-0016 user deploys chart using HelmBlueGreenDeploy step with custom idle service properties on a Bash based node.">
+    </testcase>
+    <testcase name="HELMBLUEGREENDEPLOY_STEP - HelmBlueGreenDeploy Step Tests S-LX-HBGDeploy-5978-0017 user deploys chart using HelmBlueGreenDeploy step with dryRun enabled on a Bash based node." time="69.4270" classname="S-LX-HBGDeploy-5978-0017 user deploys chart using HelmBlueGreenDeploy step with dryRun enabled on a Bash based node.">
+    </testcase>
+  </testsuite>
+</testsuites>

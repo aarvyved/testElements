@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="10.7110" tests="7" failures="0" skipped="2">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:50:49" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Templates_HelmPublishAndDeploy - HelmPublishAndDeploy Template Tests" timestamp="2022-01-17T17:50:49" tests="7" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383752/setup_PreMatrix/tests/core/templates/HelmPublishAndDeploy.js" time="10.7060" failures="0" skipped="2">
+    <testcase name="Templates_HelmPublishAndDeploy - HelmPublishAndDeploy Template Tests T-HelmPublishAndDeploy-0001. Super user can get HelmPublishAndDeploy(1.0.0) template" time="0.0370" classname="T-HelmPublishAndDeploy-0001. Super user can get HelmPublishAndDeploy(1.0.0) template">
+    </testcase>
+    <testcase name="Templates_HelmPublishAndDeploy - HelmPublishAndDeploy Template Tests T-HelmPublishAndDeploy-0002. User should be able to download templateDefinition.yml for HelmPublishAndDeploy(1.0.0)" time="0.0780" classname="T-HelmPublishAndDeploy-0002. User should be able to download templateDefinition.yml for HelmPublishAndDeploy(1.0.0)">
+    </testcase>
+    <testcase name="Templates_HelmPublishAndDeploy - HelmPublishAndDeploy Template Tests T-HelmPublishAndDeploy-0003. User should be able to download readme.md for HelmPublishAndDeploy(1.0.0)" time="0.0240" classname="T-HelmPublishAndDeploy-0003. User should be able to download readme.md for HelmPublishAndDeploy(1.0.0)">
+    </testcase>
+    <testcase name="Templates_HelmPublishAndDeploy - HelmPublishAndDeploy Template Tests T-HelmPublishAndDeploy-0004. User should be able to download values.yml.example for HelmPublishAndDeploy(1.0.0)" time="0.0280" classname="T-HelmPublishAndDeploy-0004. User should be able to download values.yml.example for HelmPublishAndDeploy(1.0.0)">
+    </testcase>
+    <testcase name="Templates_HelmPublishAndDeploy - HelmPublishAndDeploy Template Tests T-HelmPublishAndDeploy-0006. User will fail to create a single branchpipeline source from HelmPublishAndDeploy template if values.yaml doesn’t contain the data required by the template" time="9.8220" classname="T-HelmPublishAndDeploy-0006. User will fail to create a single branchpipeline source from HelmPublishAndDeploy template if values.yaml doesn’t contain the data required by the template">
+    </testcase>
+    <testcase name="Templates_HelmPublishAndDeploy - HelmPublishAndDeploy Template Tests T-HelmPublishAndDeploy-0009 User should be able to successfully run a pipeline from HelmPublishAndDeploy template when using a valid templateId and valid values file. (full pipeline)" time="0.0000" classname="T-HelmPublishAndDeploy-0009 User should be able to successfully run a pipeline from HelmPublishAndDeploy template when using a valid templateId and valid values file. (full pipeline)">
+      <skipped/>
+    </testcase>
+    <testcase name="Templates_HelmPublishAndDeploy - HelmPublishAndDeploy Template Tests T-HelmPublishAndDeploy-0010 User should be able to successfully run a pipeline from HelmPublishAndDeploy template when using a valid templateId and valid values file. (without promotion)" time="0.0000" classname="T-HelmPublishAndDeploy-0010 User should be able to successfully run a pipeline from HelmPublishAndDeploy template when using a valid templateId and valid values file. (without promotion)">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="306.1220" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:49" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function" timestamp="2022-01-17T17:51:49" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383619/setup_PreMatrix/tests/core/steps/Bash/BashUtilityFunctions/UtilityFunctions1.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Below test cases basic utility function cases" timestamp="2022-01-17T17:51:49" tests="4" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383619/setup_PreMatrix/tests/core/steps/Bash/BashUtilityFunctions/UtilityFunctions1.js" time="305.9410" failures="0">
+    <testcase name="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function Below test cases basic utility function cases S-Bash-util-0009. Add save_tests utility function in the Bash step where the input source the directory with no xml files and the user sees that step is success." time="112.9210" classname="S-Bash-util-0009. Add save_tests utility function in the Bash step where the input source the directory with no xml files and the user sees that step is success.">
+    </testcase>
+    <testcase name="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function Below test cases basic utility function cases S-Bash-util-0010. Add save_tests utility function in the Bash step where the input source the folder with no xml files and the user sees that step is success." time="84.9940" classname="S-Bash-util-0010. Add save_tests utility function in the Bash step where the input source the folder with no xml files and the user sees that step is success.">
+    </testcase>
+    <testcase name="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function Below test cases basic utility function cases S-Bash-util-0011. Add save_tests utility function in the Bash step where the input source the directory with invalid xml files and the user sees that step should go to error state" time="57.5820" classname="S-Bash-util-0011. Add save_tests utility function in the Bash step where the input source the directory with invalid xml files and the user sees that step should go to error state">
+    </testcase>
+    <testcase name="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function Below test cases basic utility function cases S-Bash-util-0012. Add save_tests utility function in the Bash step where the input source the folder with invalid xml files and  the user sees that step should go to error state." time="50.4330" classname="S-Bash-util-0012. Add save_tests utility function in the Bash step where the input source the folder with invalid xml files and  the user sees that step should go to error state.">
+    </testcase>
+  </testsuite>
+</testsuites>

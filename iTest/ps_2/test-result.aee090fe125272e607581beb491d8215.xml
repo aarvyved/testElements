@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1276.6310" tests="5" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:44" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="POWERSHELL_LANGUAGE_IMAGE - PowerShell Go Language Image test cases" timestamp="2022-01-17T17:51:44" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_2/4383680/setup_PreMatrix/tests/core/steps/PowerShell/PSLanguages/GoLanguageImages.js" time="1276.6250" failures="0">
+    <testcase name="POWERSHELL_LANGUAGE_IMAGE - PowerShell Go Language Image test cases S-PS-Language-0007. User verifies if type is set to image/auto, language set “Go” and version set to “1.12.17” then PowerShell step should run on that particular specific Go version windows node." time="444.3760" classname="S-PS-Language-0007. User verifies if type is set to image/auto, language set “Go” and version set to “1.12.17” then PowerShell step should run on that particular specific Go version windows node.">
+    </testcase>
+    <testcase name="POWERSHELL_LANGUAGE_IMAGE - PowerShell Go Language Image test cases S-PS-Language-0008. User verifies if type is set to image/auto, language set “Go” and version set to “1.11.13” then PowerShell step should run on that particular specific Go version windows node." time="386.4820" classname="S-PS-Language-0008. User verifies if type is set to image/auto, language set “Go” and version set to “1.11.13” then PowerShell step should run on that particular specific Go version windows node.">
+    </testcase>
+    <testcase name="POWERSHELL_LANGUAGE_IMAGE - PowerShell Go Language Image test cases S-PS-Language-0009. User verifies if type is set to image/auto, language set “Go” and version set to “1.13.12” then PowerShell step should run on that particular specific Go version windows node." time="378.0880" classname="S-PS-Language-0009. User verifies if type is set to image/auto, language set “Go” and version set to “1.13.12” then PowerShell step should run on that particular specific Go version windows node.">
+    </testcase>
+    <testcase name="POWERSHELL_LANGUAGE_IMAGE - PowerShell Go Language Image test cases S-PS-Language-0015. User verifies if type is set to image/auto, language set “Go” and version set to “1.15” then PowerShell step should run on that particular specific Go version windows node." time="33.8160" classname="S-PS-Language-0015. User verifies if type is set to image/auto, language set “Go” and version set to “1.15” then PowerShell step should run on that particular specific Go version windows node.">
+    </testcase>
+    <testcase name="POWERSHELL_LANGUAGE_IMAGE - PowerShell Go Language Image test cases S-PS-Language-0017. User verifies if type is set to image/auto, language set “Go” and version set to “1.16” then PowerShell step should run on that particular specific Go version windows node." time="33.7650" classname="S-PS-Language-0017. User verifies if type is set to image/auto, language set “Go” and version set to “1.16” then PowerShell step should run on that particular specific Go version windows node.">
+    </testcase>
+  </testsuite>
+</testsuites>

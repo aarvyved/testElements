@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="21.6600" tests="5" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:52:11" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="PROJECTINTEGRATIONS_KUBERNETES - Kubernetes integration tests" timestamp="2022-01-17T17:52:11" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383810/setup_PreMatrix/tests/core/projectIntegrations/Kubernetes.js" time="21.6420" failures="0">
+    <testcase name="PROJECTINTEGRATIONS_KUBERNETES - Kubernetes integration tests I-Kubernetes-0001. User can add Kubernetes project Integration" time="20.4450" classname="I-Kubernetes-0001. User can add Kubernetes project Integration">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_KUBERNETES - Kubernetes integration tests I-Kubernetes-0002. Kubernetes integration name must  adhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/" time="0.1060" classname="I-Kubernetes-0002. Kubernetes integration name must  adhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_KUBERNETES - Kubernetes integration tests I-Kubernetes-0003. User cannot update the name field in Kubernetes integration " time="0.1610" classname="I-Kubernetes-0003. User cannot update the name field in Kubernetes integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_KUBERNETES - Kubernetes integration tests I-Kubernetes-0004. User can update the kubeconfig field in  Kubernetes integration " time="0.1460" classname="I-Kubernetes-0004. User can update the kubeconfig field in  Kubernetes integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_KUBERNETES - Kubernetes integration tests I-Kubernetes-0005 . Users should be able to delete Kubernetes  integration if it is not dependent on any steps and resource " time="0.5600" classname="I-Kubernetes-0005 . Users should be able to delete Kubernetes  integration if it is not dependent on any steps and resource ">
+    </testcase>
+  </testsuite>
+</testsuites>

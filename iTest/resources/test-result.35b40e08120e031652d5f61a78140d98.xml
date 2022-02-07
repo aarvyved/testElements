@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="38.5260" tests="10" failures="0" skipped="1">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:50:59" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="RESOURCES_FILESPEC - FileSpec Resource tests" timestamp="2022-01-17T17:50:59" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383795/setup_PreMatrix/tests/core/resources/FileSpec.js" time="0.0000" failures="0">
+    <testcase name="RESOURCES_FILESPEC - FileSpec Resource tests R-FileSpec-0030. User add invalid integration name in resource yml pipelineSync should fail" time="10.0160" classname="R-FileSpec-0030. User add invalid integration name in resource yml pipelineSync should fail">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases use artifactory Project Integration" timestamp="2022-01-17T17:51:09" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383795/setup_PreMatrix/tests/core/resources/FileSpec.js" time="0.0000" failures="0">
+    <testcase name="RESOURCES_FILESPEC - FileSpec Resource tests Below test cases use artifactory Project Integration R-FileSpec-0031. User does not specify values for any mentioned fields in resource yml  pipelineSync should fail" time="10.2990" classname="R-FileSpec-0031. User does not specify values for any mentioned fields in resource yml  pipelineSync should fail">
+    </testcase>
+    <testcase name="RESOURCES_FILESPEC - FileSpec Resource tests Below test cases use artifactory Project Integration  1. User should be able to add new pipelineSources" time="16.1140" classname="1. User should be able to add new pipelineSources">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases uses pipelineSource for FileSpec resource" timestamp="2022-01-17T17:51:36" tests="8" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383795/setup_PreMatrix/tests/core/resources/FileSpec.js" time="1.9900" failures="0" skipped="1">
+    <testcase name="RESOURCES_FILESPEC - FileSpec Resource tests Below test cases use artifactory Project Integration  Below test cases uses pipelineSource for FileSpec resource R-FileSpec-0001. User can get FileSpec resource which is added in pipeline source" time="0.0790" classname="R-FileSpec-0001. User can get FileSpec resource which is added in pipeline source">
+    </testcase>
+    <testcase name="RESOURCES_FILESPEC - FileSpec Resource tests Below test cases use artifactory Project Integration  Below test cases uses pipelineSource for FileSpec resource R-FileSpec-0002. User should not able to add the same resource with the duplicate resource name" time="0.0500" classname="R-FileSpec-0002. User should not able to add the same resource with the duplicate resource name">
+    </testcase>
+    <testcase name="RESOURCES_FILESPEC - FileSpec Resource tests Below test cases use artifactory Project Integration  Below test cases uses pipelineSource for FileSpec resource R-FileSpec-0003. User should able to update name field in FileSpec resource " time="0.1180" classname="R-FileSpec-0003. User should able to update name field in FileSpec resource ">
+    </testcase>
+    <testcase name="RESOURCES_FILESPEC - FileSpec Resource tests Below test cases use artifactory Project Integration  Below test cases uses pipelineSource for FileSpec resource R-FileSpec-0004. User should able to use pattern with all the fields to update the FileSpec resource " time="0.0990" classname="R-FileSpec-0004. User should able to use pattern with all the fields to update the FileSpec resource ">
+    </testcase>
+    <testcase name="RESOURCES_FILESPEC - FileSpec Resource tests Below test cases use artifactory Project Integration  Below test cases uses pipelineSource for FileSpec resource R-FileSpec-0005. User should able to use aql with all the  require fields to update the FileSpec resource " time="0.0640" classname="R-FileSpec-0005. User should able to use aql with all the  require fields to update the FileSpec resource ">
+    </testcase>
+    <testcase name="RESOURCES_FILESPEC - FileSpec Resource tests Below test cases use artifactory Project Integration  Below test cases uses pipelineSource for FileSpec resource R-FileSpec-0006. Verify a user should able to delete a FileSpec resource when it is not being used in a pipeline which is running" time="0.1680" classname="R-FileSpec-0006. Verify a user should able to delete a FileSpec resource when it is not being used in a pipeline which is running">
+    </testcase>
+    <testcase name="RESOURCES_FILESPEC - FileSpec Resource tests Below test cases use artifactory Project Integration  Below test cases uses pipelineSource for FileSpec resource R-FileSpec-0028. Verify a user should not be able to delete a FileSpec resource when it being used in apipeline which is running" time="0.0000" classname="R-FileSpec-0028. Verify a user should not be able to delete a FileSpec resource when it being used in apipeline which is running">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_FILESPEC - FileSpec Resource tests Below test cases use artifactory Project Integration  Below test cases uses pipelineSource for FileSpec resource 2. User can delete pipelineSource by Id" time="1.4030" classname="2. User can delete pipelineSource by Id">
+    </testcase>
+  </testsuite>
+</testsuites>

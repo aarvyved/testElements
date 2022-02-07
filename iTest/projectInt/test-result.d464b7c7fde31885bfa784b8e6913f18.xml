@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="20.1530" tests="26" failures="0" skipped="23">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:52:10" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests" timestamp="2022-01-17T17:52:10" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383813/setup_PreMatrix/tests/core/projectIntegrations/OutgoingWebhook.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Below test cases uses OutgoingWebhook project integration with auth type " timestamp="2022-01-17T17:52:11" tests="3" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383813/setup_PreMatrix/tests/core/projectIntegrations/OutgoingWebhook.js" time="19.7050" failures="0">
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook project integration with auth type  I-OutgoingWebhook-0002. User can add OutgoingWebhook project Integration for authorization Credentials" time="17.2740" classname="I-OutgoingWebhook-0002. User can add OutgoingWebhook project Integration for authorization Credentials">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook project integration with auth type  I-OutgoingWebhook-0007. User can update the authorization field in OutgoingWebhook integration " time="0.3390" classname="I-OutgoingWebhook-0007. User can update the authorization field in OutgoingWebhook integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook project integration with auth type  I-OutgoingWebhook-0010 . User should able to delete outgoing  webhook integration if it is not dependent on any resources in the pipelines" time="2.0860" classname="I-OutgoingWebhook-0010 . User should able to delete outgoing  webhook integration if it is not dependent on any resources in the pipelines">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases uses OutgoingWebhook projectintegration with user name and password " timestamp="2022-01-17T17:52:30" tests="23" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383813/setup_PreMatrix/tests/core/projectIntegrations/OutgoingWebhook.js" time="0.0050" failures="0" skipped="23">
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook projectintegration with user name and password  I-OutgoingWebhook-0001. User can add OutgoingWebhook project Integration for username and password Credentials" time="0.0000" classname="I-OutgoingWebhook-0001. User can add OutgoingWebhook project Integration for username and password Credentials">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook projectintegration with user name and password  1. User should be able add new PipelineSources for OutgoingWebhook" time="0.0000" classname="1. User should be able add new PipelineSources for OutgoingWebhook">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook projectintegration with user name and password  2. User can get OutgoingWebhook resource which is added in  pipeline source" time="0.0000" classname="2. User can get OutgoingWebhook resource which is added in  pipeline source">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook projectintegration with user name and password  I-OutgoingWebhook-0003. OutgoingWebhook integration name must adhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/" time="0.0000" classname="I-OutgoingWebhook-0003. OutgoingWebhook integration name must adhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook projectintegration with user name and password  I-OutgoingWebhook-0004. User cannot update the user integration name field in OutgoingWebhook integration " time="0.0000" classname="I-OutgoingWebhook-0004. User cannot update the user integration name field in OutgoingWebhook integration ">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook projectintegration with user name and password  I-OutgoingWebhook-0005. User can update the userName field in OutgoingWebhook integration " time="0.0000" classname="I-OutgoingWebhook-0005. User can update the userName field in OutgoingWebhook integration ">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook projectintegration with user name and password  I-OutgoingWebhook-0006. User can update the Password field in OutgoingWebhook integration " time="0.0000" classname="I-OutgoingWebhook-0006. User can update the Password field in OutgoingWebhook integration ">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook projectintegration with user name and password  I-OutgoingWebhook-0008. User can update the URL field in OutgoingWebhook integration " time="0.0000" classname="I-OutgoingWebhook-0008. User can update the URL field in OutgoingWebhook integration ">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook projectintegration with user name and password  I-OutgoingWebhook-0011. Users should be able to update Basic authType to hmac with a value set to the secret field in outgoingWebhook integration" time="0.0000" classname="I-OutgoingWebhook-0011. Users should be able to update Basic authType to hmac with a value set to the secret field in outgoingWebhook integration">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook projectintegration with user name and password  I-OutgoingWebhook-0021. The response body should contain only the Username and password fields with only one ComputedHookURL field when the user updates the type of authorization from Basic AuthType to HMAC." time="0.0000" classname="I-OutgoingWebhook-0021. The response body should contain only the Username and password fields with only one ComputedHookURL field when the user updates the type of authorization from Basic AuthType to HMAC.">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook projectintegration with user name and password  I-OutgoingWebhook-0016. Users should be able to update hmac  to authorization with a value set to the secret field in outgoingWebhook integration" time="0.0000" classname="I-OutgoingWebhook-0016. Users should be able to update hmac  to authorization with a value set to the secret field in outgoingWebhook integration">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook projectintegration with user name and password  I-OutgoingWebhook-0017. The response body should contain only theauthorization field with only one ComputedHookURL field when the user updates the type of authorization from Hmac to authorization. " time="0.0000" classname="I-OutgoingWebhook-0017. The response body should contain only theauthorization field with only one ComputedHookURL field when the user updates the type of authorization from Hmac to authorization. ">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook projectintegration with user name and password  I-OutgoingWebhook-0012. Users should be able to update authorization to hmac with a value set to the secret field in outgoingWebhook integration" time="0.0000" classname="I-OutgoingWebhook-0012. Users should be able to update authorization to hmac with a value set to the secret field in outgoingWebhook integration">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook projectintegration with user name and password  I-OutgoingWebhook-0022. The response body should contain only the Username and password fields with only one ComputedHookURL field when the user updates the type of authorization from authorization to HMAC" time="0.0000" classname="I-OutgoingWebhook-0022. The response body should contain only the Username and password fields with only one ComputedHookURL field when the user updates the type of authorization from authorization to HMAC">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook projectintegration with user name and password  I-OutgoingWebhook-0013. Users should be able to update hmac to Basic authType with a value set to the secret field in outgoingWebhook integration" time="0.0000" classname="I-OutgoingWebhook-0013. Users should be able to update hmac to Basic authType with a value set to the secret field in outgoingWebhook integration">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook projectintegration with user name and password  I-OutgoingWebhook-0020. The response body should contain only the Username and password fields with only one ComputedHookURL field when. the user updates the type of authorization from HMAC to Basic AuthType.  " time="0.0000" classname="I-OutgoingWebhook-0020. The response body should contain only the Username and password fields with only one ComputedHookURL field when. the user updates the type of authorization from HMAC to Basic AuthType.  ">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook projectintegration with user name and password  I-OutgoingWebhook-0015. Users should be able to update Basic authType to authorization with a value set to the secret field in outgoingWebhook integration" time="0.0000" classname="I-OutgoingWebhook-0015. Users should be able to update Basic authType to authorization with a value set to the secret field in outgoingWebhook integration">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook projectintegration with user name and password  I-OutgoingWebhook-0018. The response body should contain only. The authorization field with only one ComputedHookURL field when the user updates the type of authorization from Basic AuthType to authorization " time="0.0000" classname="I-OutgoingWebhook-0018. The response body should contain only. The authorization field with only one ComputedHookURL field when the user updates the type of authorization from Basic AuthType to authorization ">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook projectintegration with user name and password  I-OutgoingWebhook-0014. Users should be able to update authorizationto Basic authType with a value set to the secret field in outgoingWebhook integration" time="0.0000" classname="I-OutgoingWebhook-0014. Users should be able to update authorizationto Basic authType with a value set to the secret field in outgoingWebhook integration">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook projectintegration with user name and password  I-OutgoingWebhook-0019. The response body should contain only theUsername and password fields with only one ComputedHookURL field whenthe user updates the type of authorization from authorization to Basic AuthType.  " time="0.0000" classname="I-OutgoingWebhook-0019. The response body should contain only theUsername and password fields with only one ComputedHookURL field whenthe user updates the type of authorization from authorization to Basic AuthType.  ">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook projectintegration with user name and password  I-OutgoingWebhook-0009. User should not able to delete outgoing webhook integration if it is dependent on any resources in the pipelines " time="0.0000" classname="I-OutgoingWebhook-0009. User should not able to delete outgoing webhook integration if it is dependent on any resources in the pipelines ">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook projectintegration with user name and password  3. User can delete pipelineSource by Id" time="0.0000" classname="3. User can delete pipelineSource by Id">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_OUTGOINGWEBHOOK - OutgoingWebhook integration tests Below test cases uses OutgoingWebhook projectintegration with user name and password  I-OutgoingWebhook-0010 . User should able to delete outgoing  webhook integration if it is not dependent on any resources in the pipelines" time="0.0000" classname="I-OutgoingWebhook-0010 . User should able to delete outgoing  webhook integration if it is not dependent on any resources in the pipelines">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

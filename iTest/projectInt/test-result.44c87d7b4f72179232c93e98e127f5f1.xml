@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="64.5810" tests="25" failures="0" skipped="5">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:52:11" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests" timestamp="2022-01-17T17:52:11" tests="15" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383822/setup_PreMatrix/tests/core/projectIntegrations/GitHub.js" time="0.0000" failures="0" skipped="5">
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests I-GitHub-0001. User can add GitHub project Integration" time="20.0730" classname="I-GitHub-0001. User can add GitHub project Integration">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests I-GitHub-0006. User is able to fetch repositories from GitHub integration to add pipeline source" time="0.6380" classname="I-GitHub-0006. User is able to fetch repositories from GitHub integration to add pipeline source">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests 1. User should be able add new PipelineSources for GitHub" time="12.4840" classname="1. User should be able add new PipelineSources for GitHub">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests 2. User can get GitHub resource which is added in  pipeline source" time="0.0240" classname="2. User can get GitHub resource which is added in  pipeline source">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests I-GitHub-0002. GitHub integration name must adhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/" time="0.0680" classname="I-GitHub-0002. GitHub integration name must adhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests I-GitHub-0006. Users should not able to delete GitHub integration if it is dependent on resource." time="0.2190" classname="I-GitHub-0006. Users should not able to delete GitHub integration if it is dependent on resource.">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests 3. user can delete pipelineSource by Id" time="0.8770" classname="3. user can delete pipelineSource by Id">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests I-GitHub-5986-001. User should be able add two single-branch pipeline sources for the same GitHub repository" time="0.0000" classname="I-GitHub-5986-001. User should be able add two single-branch pipeline sources for the same GitHub repository">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests I-GitHub-5986-002. User adds a multi-branch GitHub pipeline source and then pushes a new branch matching the pattern to the repository.  Pipeline sync runs for the new branch." time="0.0000" classname="I-GitHub-5986-002. User adds a multi-branch GitHub pipeline source and then pushes a new branch matching the pattern to the repository.  Pipeline sync runs for the new branch.">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests I-GitHub-5968-003  User adds a single-branch GitHub pipeline source for a branch that does not exist and then pushes a new branch matching the pattern to the repository.  Pipeline sync runs for the new branch." time="0.0000" classname="I-GitHub-5968-003  User adds a single-branch GitHub pipeline source for a branch that does not exist and then pushes a new branch matching the pattern to the repository.  Pipeline sync runs for the new branch.">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests I-GitHub-5968-004 User updates a file matching the file filter in a single-branch pipeline source and pipeline sync is triggered for that pipeline source." time="0.0000" classname="I-GitHub-5968-004 User updates a file matching the file filter in a single-branch pipeline source and pipeline sync is triggered for that pipeline source.">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests I-GitHub-5968-005 User updates a file matching the file filter in a multi-branch pipeline source and pipeline sync is triggered for that pipeline source and branch." time="0.0000" classname="I-GitHub-5968-005 User updates a file matching the file filter in a multi-branch pipeline source and pipeline sync is triggered for that pipeline source and branch.">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests I-GitHub-0003. User cannot update the name field in GitHub integration " time="0.0920" classname="I-GitHub-0003. User cannot update the name field in GitHub integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests I-GitHub-0004. User can update the token field in GitHub integration " time="0.1090" classname="I-GitHub-0004. User can update the token field in GitHub integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests I-GitHub-0005. Users should able to delete GitHub integration if it is not dependent on any resource." time="0.3970" classname="I-GitHub-0005. Users should able to delete GitHub integration if it is not dependent on any resource.">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases are for testIntegration" timestamp="2022-01-17T17:52:46" tests="7" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383822/setup_PreMatrix/tests/core/projectIntegrations/GitHub.js" time="20.3970" failures="0">
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests Below test cases are for testIntegration I-GitHub-TestConnection-0001. User gets &quot;Connection was successful&quot; response when using valid github data" time="3.0260" classname="I-GitHub-TestConnection-0001. User gets &quot;Connection was successful&quot; response when using valid github data">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests Below test cases are for testIntegration I-GitHub-TestConnection-0003. User gets 400 bad request if the github token was missing in request body" time="0.0290" classname="I-GitHub-TestConnection-0003. User gets 400 bad request if the github token was missing in request body">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests Below test cases are for testIntegration I-GitHub-TestConnection-0006. User gets &quot;failure&quot; status if the repositoryFullName was missing in request body when using performExtraChecks=true in URL" time="0.0450" classname="I-GitHub-TestConnection-0006. User gets &quot;failure&quot; status if the repositoryFullName was missing in request body when using performExtraChecks=true in URL">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests Below test cases are for testIntegration I-GitHub-TestConnection-0009. User gets &quot;Connection was successful&quot; response when using valid github repo with admin permissions and performExtraChecks=true in URL" time="3.0630" classname="I-GitHub-TestConnection-0009. User gets &quot;Connection was successful&quot; response when using valid github repo with admin permissions and performExtraChecks=true in URL">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests Below test cases are for testIntegration I-GitHub-TestConnection-0010. User gets &quot;Connection was not successful&quot; response when using invalid github data" time="3.0320" classname="I-GitHub-TestConnection-0010. User gets &quot;Connection was not successful&quot; response when using invalid github data">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests Below test cases are for testIntegration I-GitHub-TestConnectionById-0001. User gets &quot;Connection was successful&quot; response when using valid github integration" time="3.0780" classname="I-GitHub-TestConnectionById-0001. User gets &quot;Connection was successful&quot; response when using valid github integration">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests Below test cases are for testIntegration I-GitHub-TestConnectionById-0008. User gets &quot;Connection was not successful&quot; response when using invalid github integration" time="3.0810" classname="I-GitHub-TestConnectionById-0008. User gets &quot;Connection was not successful&quot; response when using invalid github integration">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases for testing passthrough error messages" timestamp="2022-01-17T17:53:07" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383822/setup_PreMatrix/tests/core/projectIntegrations/GitHub.js" time="5.3280" failures="0">
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests Below test cases for testing passthrough error messages A-Github-6377-0001. fetchRepos api would report unauthorized error when invalid token is passed in the integration." time="0.2020" classname="A-Github-6377-0001. fetchRepos api would report unauthorized error when invalid token is passed in the integration.">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests Below test cases for testing passthrough error messages A-Github-6377-0002. fetchBranches api would report unauthorized error when invalid token is passed in the integration." time="0.4290" classname="A-Github-6377-0002. fetchBranches api would report unauthorized error when invalid token is passed in the integration.">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases for testing for fetchBranches with invalid repository name." timestamp="2022-01-17T17:53:12" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383822/setup_PreMatrix/tests/core/projectIntegrations/GitHub.js" time="3.6940" failures="0">
+    <testcase name="PROJECTINTEGRATIONS_GITHUB - GitHub integration tests Below test cases for testing for fetchBranches with invalid repository name. A-Github-6377-0003. fetchBranches api would report  inalid repository error when invalid repository name is passed." time="0.5110" classname="A-Github-6377-0003. fetchBranches api would report  inalid repository error when invalid repository name is passed.">
+    </testcase>
+  </testsuite>
+</testsuites>

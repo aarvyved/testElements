@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="607.6140" tests="5" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:49" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="MATRIX_STEP - Matrix Step Tests 1 out 3" timestamp="2022-01-17T17:51:49" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383610/setup_PreMatrix/tests/core/steps/Bash/BashNative/Matrix5.js" time="607.6080" failures="0">
+    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0014. If multiple environment variables are mentioned for the same stepletMultipliers section inside Matrix step. Verify each steplet will execute on same execution section. " time="135.2560" classname="S-Matrix-0014. If multiple environment variables are mentioned for the same stepletMultipliers section inside Matrix step. Verify each steplet will execute on same execution section. ">
+    </testcase>
+    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0015. If multiple environment variables are mentioned for the same stepletMultipliers section inside Matrix step. Verify each steplet will have one set of environment variable " time="193.6290" classname="S-Matrix-0015. If multiple environment variables are mentioned for the same stepletMultipliers section inside Matrix step. Verify each steplet will have one set of environment variable ">
+    </testcase>
+    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0017. If multiple runtimes are mentioned for the same matrix section inside Matrix step. Verify each steplet will execute on same execution section. " time="89.3440" classname="S-Matrix-0017. If multiple runtimes are mentioned for the same matrix section inside Matrix step. Verify each steplet will execute on same execution section. ">
+    </testcase>
+    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0018. If multiple runtimes are mentioned for the same matrix section inside Matrix step. Verify multiple steplets will be created for each runtime " time="92.4720" classname="S-Matrix-0018. If multiple runtimes are mentioned for the same matrix section inside Matrix step. Verify multiple steplets will be created for each runtime ">
+    </testcase>
+    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0020. If user specifies 2 sets of env variables and 2 runtimes under same stepletMultipliers section in Matrix step. Verify 4 steplets are created " time="96.6470" classname="S-Matrix-0020. If user specifies 2 sets of env variables and 2 runtimes under same stepletMultipliers section in Matrix step. Verify 4 steplets are created ">
+    </testcase>
+  </testsuite>
+</testsuites>

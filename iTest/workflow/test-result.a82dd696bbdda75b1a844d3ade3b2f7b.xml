@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="924.8190" tests="1" failures="1">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:50:59" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="WORKFLOW_TESTS - pipeline workFlow tests " timestamp="2022-01-17T17:50:59" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383771/setup_PreMatrix/tests/core/workFlow/pipeline/trigger/pipelineWorkFlowComplexPipelines1.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Test cases with complex pipelines in workflow tests" timestamp="2022-01-17T17:50:59" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383771/setup_PreMatrix/tests/core/workFlow/pipeline/trigger/pipelineWorkFlowComplexPipelines1.js" time="924.6590" failures="1">
+    <testcase name="WORKFLOW_TESTS - pipeline workFlow tests  Test cases with complex pipelines in workflow tests SMOKE_TEST. P_WF_0027. Complex pipeline" time="924.6540" classname="SMOKE_TEST. P_WF_0027. Complex pipeline">
+      <failure message="Max number of back-offs reached" type="Error"><![CDATA[Error: Max number of back-offs reached
+    at Backoff.<anonymous> (globalWrapper/getRunStatusForQuery.js:101:11)
+    at Backoff.backoff (node_modules/backoff/lib/backoff.js:41:14)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383771/setup_PreMatrix/tests/globalWrapper/getRunStatusForQuery.js:82:26
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383771/setup_PreMatrix/tests/_common/pipelines/Adapter.js:2573:9
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383771/setup_PreMatrix/tests/node_modules/async/dist/async.js:2959:19
+    at wrapper (node_modules/async/dist/async.js:272:20)
+    at replenish (node_modules/async/dist/async.js:439:29)
+    at iterateeCallback (node_modules/async/dist/async.js:428:21)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383771/setup_PreMatrix/tests/node_modules/async/dist/async.js:325:20
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383771/setup_PreMatrix/tests/node_modules/async/dist/async.js:2957:17
+    at Request._callback (_common/utils.js:126:9)
+    at Request.self.callback (node_modules/request/request.js:188:22)
+    at Request.<anonymous> (node_modules/request/request.js:1171:10)
+    at IncomingMessage.<anonymous> (node_modules/request/request.js:1091:12)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="106.1280" tests="48" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests" timestamp="2022-01-17T17:51:38" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383744/setup_PreMatrix/tests/core/api/runResourceVersions.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Below test cases uses DockerRegistry project " timestamp="2022-01-17T17:51:38" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383744/setup_PreMatrix/tests/core/api/runResourceVersions.js" time="0.0000" failures="0">
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  1. Super user can post their pipelineSources to add Steps" time="23.8150" classname="1. Super user can post their pipelineSources to add Steps">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases uses pipelineSource" timestamp="2022-01-17T17:52:02" tests="47" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383744/setup_PreMatrix/tests/core/api/runResourceVersions.js" time="81.9710" failures="0">
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource 2. Super user should be able to get their pipelines" time="0.1040" classname="2. Super user should be able to get their pipelines">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource 4. Super user can trigger pipelineSteps by Id" time="79.4880" classname="4. Super user can trigger pipelineSteps by Id">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource 5. Super user can get their Runs" time="0.0680" classname="5. Super user can get their Runs">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource 6. Super user can get steps" time="0.0680" classname="6. Super user can get steps">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-6531-0036. Users are able to use the  include parameter while getting runResourceVersions." time="0.0590" classname="A-RunResourceVersions-6531-0036. Users are able to use the  include parameter while getting runResourceVersions.">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource 8. Super user can get their RunStepConnections for delete runResourceVersions" time="0.0380" classname="8. Super user can get their RunStepConnections for delete runResourceVersions">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0005. Super user can get their  RunResourceVersions" time="0.0230" classname="A-RunResourceVersions-0005. Super user can get their  RunResourceVersions">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0006. Admin user can get their RunResourceVersions" time="0.0590" classname="A-RunResourceVersions-0006. Admin user can get their RunResourceVersions">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0007. Member can get their RunResourceVersions" time="0.0350" classname="A-RunResourceVersions-0007. Member can get their RunResourceVersions">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0008. Public user cannot get their  RunResourceVersions" time="0.0170" classname="A-RunResourceVersions-0008. Public user cannot get their  RunResourceVersions">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0013. Superuser can get  RunResourceVersions by Id" time="0.0300" classname="A-RunResourceVersions-0013. Superuser can get  RunResourceVersions by Id">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0014. Admin user can get their  RunResourceVersions by id" time="0.0510" classname="A-RunResourceVersions-0014. Admin user can get their  RunResourceVersions by id">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0015. Member can get their  RunResourceVersions by id" time="0.0700" classname="A-RunResourceVersions-0015. Member can get their  RunResourceVersions by id">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0016. Public user cannot get their RunResourceVersions by id" time="0.0210" classname="A-RunResourceVersions-0016. Public user cannot get their RunResourceVersions by id">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0001. Super user can post RunResourceVersions" time="0.0310" classname="A-RunResourceVersions-0001. Super user can post RunResourceVersions">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-PO-PP-0020. Project Admin User should be able Post RunResourceVersions" time="0.0330" classname="A-PO-PP-0020. Project Admin User should be able Post RunResourceVersions">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0002. Admin user cannot post RunResourceVersions" time="0.0330" classname="A-RunResourceVersions-0002. Admin user cannot post RunResourceVersions">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0003. Member cannot post RunResourceVersions" time="0.0330" classname="A-RunResourceVersions-0003. Member cannot post RunResourceVersions">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0004. Public user cannot post  RunResourceVersions" time="0.0210" classname="A-RunResourceVersions-0004. Public user cannot post  RunResourceVersions">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0009. Super user can update the  RunResourceVersions by Id" time="0.0480" classname="A-RunResourceVersions-0009. Super user can update the  RunResourceVersions by Id">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-PUT-PP-0010. ProjectAdminUser should be able to update   RunResourceVersions by its Id" time="0.0500" classname="A-PUT-PP-0010. ProjectAdminUser should be able to update   RunResourceVersions by its Id">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0010. Admin cannot update the  RunResourceVersions by Id" time="0.0430" classname="A-RunResourceVersions-0010. Admin cannot update the  RunResourceVersions by Id">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0011. Member cannot update the  RunResourceVersions by Id" time="0.0270" classname="A-RunResourceVersions-0011. Member cannot update the  RunResourceVersions by Id">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0012. Public user cannot update the  RunResourceVersions by Id" time="0.0270" classname="A-RunResourceVersions-0012. Public user cannot update the  RunResourceVersions by Id">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0017. Id field in RunResourceVersions API should not be null and should be an integer" time="0.0000" classname="A-RunResourceVersions-0017. Id field in RunResourceVersions API should not be null and should be an integer">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0018. ProjectId field in RunResourceVersions API should not be null and should be an integer" time="0.0000" classname="A-RunResourceVersions-0018. ProjectId field in RunResourceVersions API should not be null and should be an integer">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0019. PipelineSourceId field in RunResourceVersions API should not be null and should be an integer" time="0.0000" classname="A-RunResourceVersions-0019. PipelineSourceId field in RunResourceVersions API should not be null and should be an integer">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0020. PipelineId field in RunResourceVersions API should not be null and should be an integer" time="0.0000" classname="A-RunResourceVersions-0020. PipelineId field in RunResourceVersions API should not be null and should be an integer">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0021. RunId field in  RunResourceVersions API should not be null and should be an integer" time="0.0000" classname="A-RunResourceVersions-0021. RunId field in  RunResourceVersions API should not be null and should be an integer">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0022. StepId field in RunResourceVersions API should not be null and should be an integer" time="0.0000" classname="A-RunResourceVersions-0022. StepId field in RunResourceVersions API should not be null and should be an integer">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0023. ResourceName field in RunResourceVersions API should not be null and should be a string" time="0.0000" classname="A-RunResourceVersions-0023. ResourceName field in RunResourceVersions API should not be null and should be a string">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0024. ResourceTypeCode field in RunResourceVersions API should not be null and should be an integer" time="0.0000" classname="A-RunResourceVersions-0024. ResourceTypeCode field in RunResourceVersions API should not be null and should be an integer">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0025. ResourceVersionId field inRunResourceVersions API should not be null and should be an integer" time="0.0000" classname="A-RunResourceVersions-0025. ResourceVersionId field inRunResourceVersions API should not be null and should be an integer">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0026. ResourceStaticPropertyBagfield in RunResourceVersions API should be an object" time="0.0000" classname="A-RunResourceVersions-0026. ResourceStaticPropertyBagfield in RunResourceVersions API should be an object">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0027. ResourceConfigPropertyBag field in RunResourceVersions API should be an object" time="0.0000" classname="A-RunResourceVersions-0027. ResourceConfigPropertyBag field in RunResourceVersions API should be an object">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0028.  ResourceVersionContentPropertyBag field in RunResourceVersions API should be an object" time="0.0000" classname="A-RunResourceVersions-0028.  ResourceVersionContentPropertyBag field in RunResourceVersions API should be an object">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0029. ResourceVersionCreatedByStepId field in RunResourceVersions API should be an integer" time="0.0000" classname="A-RunResourceVersions-0029. ResourceVersionCreatedByStepId field in RunResourceVersions API should be an integer">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0030. CreatedAt field in RunResourceVersions API should not be null and should be a date" time="0.0000" classname="A-RunResourceVersions-0030. CreatedAt field in RunResourceVersions API should not be null and should be a date">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0031. UpdatedAt field in RunResourceVersions API should not be null and should be a date" time="0.0000" classname="A-RunResourceVersions-0031. UpdatedAt field in RunResourceVersions API should not be null and should be a date">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource 9. ProjectAdminUser can delete runStepConnection by Id" time="0.0570" classname="9. ProjectAdminUser can delete runStepConnection by Id">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource 10. Super user can delete RunStepConnections by Id" time="0.0320" classname="10. Super user can delete RunStepConnections by Id">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0032. Public user cannot delete RunResourceVersions by PipelineId" time="0.0220" classname="A-RunResourceVersions-0032. Public user cannot delete RunResourceVersions by PipelineId">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0033. Member cannot delete  RunResourceVersions by PipelineId" time="0.0360" classname="A-RunResourceVersions-0033. Member cannot delete  RunResourceVersions by PipelineId">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0034. Admin cannot delete RunResourceVersions by PipelineId" time="0.0460" classname="A-RunResourceVersions-0034. Admin cannot delete RunResourceVersions by PipelineId">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-DEL-PP-0017. ProjectAdminUser should be able to delete RunResourceVersions by Pipeline Id" time="0.0450" classname="A-DEL-PP-0017. ProjectAdminUser should be able to delete RunResourceVersions by Pipeline Id">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource A-RunResourceVersions-0035. Super user can delete RunResourceVersions by PipelineId" time="0.0270" classname="A-RunResourceVersions-0035. Super user can delete RunResourceVersions by PipelineId">
+    </testcase>
+    <testcase name="API_RUNRESOURCEVERSIONS - RunResourceVersions API tests Below test cases uses DockerRegistry project  Below test cases uses pipelineSource 11. Super user can delete pipelineSource by Id" time="1.2080" classname="11. Super user can delete pipelineSource by Id">
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1.7890" tests="20" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API_PROJECTPERMISSIONS - ProjectPermissions API tests" timestamp="2022-01-17T17:51:38" tests="20" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383738/setup_PreMatrix/tests/core/api/projectPermissions.js" time="1.7650" failures="0">
+    <testcase name="API_PROJECTPERMISSIONS - ProjectPermissions API tests A-ProjectPermissions-0001. Super user can post projectPermissions" time="0.0920" classname="A-ProjectPermissions-0001. Super user can post projectPermissions">
+    </testcase>
+    <testcase name="API_PROJECTPERMISSIONS - ProjectPermissions API tests A-PO-PP-0017. ProjectAdmin User cannot Post project Permission" time="0.0960" classname="A-PO-PP-0017. ProjectAdmin User cannot Post project Permission">
+    </testcase>
+    <testcase name="API_PROJECTPERMISSIONS - ProjectPermissions API tests A-ProjectPermissions-0002. Admin cannot post projectPermissions" time="0.0740" classname="A-ProjectPermissions-0002. Admin cannot post projectPermissions">
+    </testcase>
+    <testcase name="API_PROJECTPERMISSIONS - ProjectPermissions API tests A-ProjectPermissions-0003. Member cannot post projectPermissions" time="0.1310" classname="A-ProjectPermissions-0003. Member cannot post projectPermissions">
+    </testcase>
+    <testcase name="API_PROJECTPERMISSIONS - ProjectPermissions API tests A-ProjectPermissions-0004. Public user cannot post projectPermissions" time="0.0230" classname="A-ProjectPermissions-0004. Public user cannot post projectPermissions">
+    </testcase>
+    <testcase name="API_PROJECTPERMISSIONS - ProjectPermissions API tests A-ProjectPermissions-0005. Super user can get projectPermissions" time="0.1850" classname="A-ProjectPermissions-0005. Super user can get projectPermissions">
+    </testcase>
+    <testcase name="API_PROJECTPERMISSIONS - ProjectPermissions API tests A-ProjectPermissions-0006. Admin can get projectPermissions" time="0.0960" classname="A-ProjectPermissions-0006. Admin can get projectPermissions">
+    </testcase>
+    <testcase name="API_PROJECTPERMISSIONS - ProjectPermissions API tests A-ProjectPermissions-0007. Member can get projectPermissions" time="0.1060" classname="A-ProjectPermissions-0007. Member can get projectPermissions">
+    </testcase>
+    <testcase name="API_PROJECTPERMISSIONS - ProjectPermissions API tests A-ProjectPermissions-0008. Public user cannot get projectPermissions " time="0.0270" classname="A-ProjectPermissions-0008. Public user cannot get projectPermissions ">
+    </testcase>
+    <testcase name="API_PROJECTPERMISSIONS - ProjectPermissions API tests A-ProjectPermissions-0009. Id field in projectPermissions API should not be null and should be an integer type" time="0.0000" classname="A-ProjectPermissions-0009. Id field in projectPermissions API should not be null and should be an integer type">
+    </testcase>
+    <testcase name="API_PROJECTPERMISSIONS - ProjectPermissions API tests A-ProjectPermissions-0010. IdentityId field in ProjectPermissions API should not be null and should be an integer type" time="0.0010" classname="A-ProjectPermissions-0010. IdentityId field in ProjectPermissions API should not be null and should be an integer type">
+    </testcase>
+    <testcase name="API_PROJECTPERMISSIONS - ProjectPermissions API tests A-ProjectPermissions-0011. ProjectId field in ProjectPermissions API should not be null and should be an integer type" time="0.0000" classname="A-ProjectPermissions-0011. ProjectId field in ProjectPermissions API should not be null and should be an integer type">
+    </testcase>
+    <testcase name="API_PROJECTPERMISSIONS - ProjectPermissions API tests A-ProjectPermissions-0012. RoleCode field in ProjectPermissions API should not be null and should be an integer type" time="0.0000" classname="A-ProjectPermissions-0012. RoleCode field in ProjectPermissions API should not be null and should be an integer type">
+    </testcase>
+    <testcase name="API_PROJECTPERMISSIONS - ProjectPermissions API tests A-ProjectPermissions-0013. CreatedAt field in ProjectPermissions API should not be null and should be a string" time="0.0010" classname="A-ProjectPermissions-0013. CreatedAt field in ProjectPermissions API should not be null and should be a string">
+    </testcase>
+    <testcase name="API_PROJECTPERMISSIONS - ProjectPermissions API tests A-ProjectPermissions-0014. UpdatedAt field in ProjectPermissions API should not be null and should be a string" time="0.0000" classname="A-ProjectPermissions-0014. UpdatedAt field in ProjectPermissions API should not be null and should be a string">
+    </testcase>
+    <testcase name="API_PROJECTPERMISSIONS - ProjectPermissions API tests A-ProjectPermissions-0015. Public user cannot delete projectPermissions by Id" time="0.0210" classname="A-ProjectPermissions-0015. Public user cannot delete projectPermissions by Id">
+    </testcase>
+    <testcase name="API_PROJECTPERMISSIONS - ProjectPermissions API tests A-ProjectPermissions-0016. Member user cannot delete projectPermissions by Id" time="0.0620" classname="A-ProjectPermissions-0016. Member user cannot delete projectPermissions by Id">
+    </testcase>
+    <testcase name="API_PROJECTPERMISSIONS - ProjectPermissions API tests A-ProjectPermissions-0017. Admin cannot delete projectPermissions by Id" time="0.0980" classname="A-ProjectPermissions-0017. Admin cannot delete projectPermissions by Id">
+    </testcase>
+    <testcase name="API_PROJECTPERMISSIONS - ProjectPermissions API tests A-DEL-PP-0013. ProjectAdminUser cannot delete projectPermissions by Id" time="0.1470" classname="A-DEL-PP-0013. ProjectAdminUser cannot delete projectPermissions by Id">
+    </testcase>
+    <testcase name="API_PROJECTPERMISSIONS - ProjectPermissions API tests A-ProjectPermissions-0018. SuperUser can delete projectPermissions by Id" time="0.2220" classname="A-ProjectPermissions-0018. SuperUser can delete projectPermissions by Id">
+    </testcase>
+  </testsuite>
+</testsuites>

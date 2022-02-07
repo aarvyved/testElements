@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="587.4160" tests="5" failures="0" skipped="1">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:48" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="GENERIC_BASH - 2 out of 7 - Generic Bash tests " timestamp="2022-01-17T17:51:48" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383604/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/BashGeneric3.js" time="587.4100" failures="0" skipped="1">
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0067. In Bash step runtime field is not there and its there in pipelines, then Bash step uses the pipelines runtime field to download the images." time="230.5380" classname="S-Bash-0067. In Bash step runtime field is not there and its there in pipelines, then Bash step uses the pipelines runtime field to download the images.">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0068. In Bash step runtime field is there and its there inpipelines, then Bash step uses the steps runtime field to downloadthe images." time="100.1440" classname="S-Bash-0068. In Bash step runtime field is there and its there inpipelines, then Bash step uses the steps runtime field to downloadthe images.">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0023.  If a timeout duration is specified, step times out in the specified number of minutes." time="0.0000" classname="S-Bash-0023.  If a timeout duration is specified, step times out in the specified number of minutes.">
+      <skipped/>
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0040.  If type is set to image/auto, the correct default image  for the specified language and version is selected." time="24.1640" classname="S-Bash-0040.  If type is set to image/auto, the correct default image  for the specified language and version is selected.">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S_Bash_0579. A user runs a step on Linux with a custom build image using an Artifactory integration successfully." time="232.2850" classname="S_Bash_0579. A user runs a step on Linux with a custom build image using an Artifactory integration successfully.">
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0130" tests="4" failures="0" skipped="4">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:21" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="WORKFLOW_TESTS - 2 out of 4 - node cleanup tests " timestamp="2022-01-17T17:51:21" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests_1/4383786/setup_PreMatrix/tests/core/workFlow/step/nodeCleanup.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Below test cases were added for PIPE-5034" timestamp="2022-01-17T17:51:21" tests="4" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests_1/4383786/setup_PreMatrix/tests/core/workFlow/step/nodeCleanup.js" time="0.0050" failures="0" skipped="4">
+    <testcase name="WORKFLOW_TESTS - 2 out of 4 - node cleanup tests  Below test cases were added for PIPE-5034 S-NC-Bash-001. Docker containers created by a step on a linux based node should still be available for subsequent steps on the same affinity group." time="0.0000" classname="S-NC-Bash-001. Docker containers created by a step on a linux based node should still be available for subsequent steps on the same affinity group.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 2 out of 4 - node cleanup tests  Below test cases were added for PIPE-5034 S-NC-Bash-002. When starting execution of a new affinity group on a linux based node that has docker containers created, the containers should be deleted before the first step is initiated." time="0.0000" classname="S-NC-Bash-002. When starting execution of a new affinity group on a linux based node that has docker containers created, the containers should be deleted before the first step is initiated.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 2 out of 4 - node cleanup tests  Below test cases were added for PIPE-5034 S-NC-PS-001. Docker containers created by a step on a windows node should still be available for subsequent steps on the same affinity group." time="0.0000" classname="S-NC-PS-001. Docker containers created by a step on a windows node should still be available for subsequent steps on the same affinity group.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 2 out of 4 - node cleanup tests  Below test cases were added for PIPE-5034 S-NC-PS-002. When starting execution of a new affinity group on a windows node that has docker containers created, the containers should be deleted before the first step is initiated." time="0.0000" classname="S-NC-PS-002. When starting execution of a new affinity group on a windows node that has docker containers created, the containers should be deleted before the first step is initiated.">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

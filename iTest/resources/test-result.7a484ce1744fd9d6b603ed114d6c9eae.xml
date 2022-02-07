@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="119.5030" tests="31" failures="0" skipped="8">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:50:59" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="RESOURCE_REMOTEFILE - RemoteFile Resource tests" timestamp="2022-01-17T17:50:59" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383802/setup_PreMatrix/tests/core/resources/RemoteFile.js" time="0.0000" failures="0">
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests R-RemoteFile-0022.User not specified source in resource then Pipeline sync should fail" time="10.1000" classname="R-RemoteFile-0022.User not specified source in resource then Pipeline sync should fail">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases use GoogleCloud project Integration" timestamp="2022-01-17T17:51:09" tests="10" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383802/setup_PreMatrix/tests/core/resources/RemoteFile.js" time="71.3910" failures="0">
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases use GoogleCloud project Integration 1. User can add GoogleCloud project Integration" time="0.9680" classname="1. User can add GoogleCloud project Integration">
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases use GoogleCloud project Integration 2. User should be able add new pipelineSource to add RemoteFile resource" time="9.7060" classname="2. User should be able add new pipelineSource to add RemoteFile resource">
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases use GoogleCloud project Integration R-RemoteFile-00014. User can add RemoteFile resource using a source pointing to Google Cloud Integration and with a valid fileLocation" time="0.0500" classname="R-RemoteFile-00014. User can add RemoteFile resource using a source pointing to Google Cloud Integration and with a valid fileLocation">
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases use GoogleCloud project Integration R-RemoteFile-00015. User can add RemoteFile resource using a source pointing to Google Cloud Integration, fileLocation, fileName, fileDateTime" time="0.0260" classname="R-RemoteFile-00015. User can add RemoteFile resource using a source pointing to Google Cloud Integration, fileLocation, fileName, fileDateTime">
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases use GoogleCloud project Integration 3. User can delete pipelineSource by Id" time="0.2040" classname="3. User can delete pipelineSource by Id">
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases use GoogleCloud project Integration R-RemoteFile-0003. User add invalid integration name in resource yml pipelineSync should fail" time="10.0050" classname="R-RemoteFile-0003. User add invalid integration name in resource yml pipelineSync should fail">
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases use GoogleCloud project Integration R-RemoteFile-0020. User not specified fileDateTime which is  optional in resource then Pipeline sync should pass" time="10.4870" classname="R-RemoteFile-0020. User not specified fileDateTime which is  optional in resource then Pipeline sync should pass">
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases use GoogleCloud project Integration R-RemoteFile-0021.User not specified fileLocation in resource then Pipeline sync should fail" time="18.9990" classname="R-RemoteFile-0021.User not specified fileLocation in resource then Pipeline sync should fail">
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases use GoogleCloud project Integration R-RemoteFile-0023.User not specified fileName in resource then Pipeline sync should fail" time="19.7760" classname="R-RemoteFile-0023.User not specified fileName in resource then Pipeline sync should fail">
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases use GoogleCloud project Integration 4. User can delete integrations by Id" time="1.1630" classname="4. User can delete integrations by Id">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases uses AWS Project Integration" timestamp="2022-01-17T17:52:21" tests="6" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383802/setup_PreMatrix/tests/core/resources/RemoteFile.js" time="22.7380" failures="0">
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases uses AWS Project Integration 5. User can add AWS project Integration" time="9.2010" classname="5. User can add AWS project Integration">
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases uses AWS Project Integration 6. User should be able add new pipelineSource to add RemoteFile resource" time="12.2630" classname="6. User should be able add new pipelineSource to add RemoteFile resource">
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases uses AWS Project Integration R-RemoteFile-0008. User can add RemoteFile resource using a source pointing to AWS Integration and with a valid fileLocation" time="0.0310" classname="R-RemoteFile-0008. User can add RemoteFile resource using a source pointing to AWS Integration and with a valid fileLocation">
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases uses AWS Project Integration R-RemoteFile-0009. User can add RemoteFile resource using a source pointing to AWS Integration, fileLocation, fileName, fileDateTime" time="0.2550" classname="R-RemoteFile-0009. User can add RemoteFile resource using a source pointing to AWS Integration, fileLocation, fileName, fileDateTime">
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases uses AWS Project Integration 7. User can delete pipelineSource by Id" time="0.3300" classname="7. User can delete pipelineSource by Id">
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases uses AWS Project Integration 8. User can delete integrations by Id" time="0.6550" classname="8. User can delete integrations by Id">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases uses fileserver Project Integration" timestamp="2022-01-17T17:52:43" tests="4" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383802/setup_PreMatrix/tests/core/resources/RemoteFile.js" time="0.0000" failures="0" skipped="4">
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases uses fileserver Project Integration 9. User can add fileserver project Integration" time="0.0000" classname="9. User can add fileserver project Integration">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases uses fileserver Project Integration 10. User should be able add new pipelineSource to add RemoteFile resource" time="0.0000" classname="10. User should be able add new pipelineSource to add RemoteFile resource">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases uses fileserver Project Integration 11. User can delete pipelineSource by Id" time="0.0000" classname="11. User can delete pipelineSource by Id">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases uses fileserver Project Integration 12. User can delete integrations by Id" time="0.0000" classname="12. User can delete integrations by Id">
+      <skipped/>
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases uses AzureKeys Project Integration" timestamp="2022-01-17T17:52:43" tests="4" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383802/setup_PreMatrix/tests/core/resources/RemoteFile.js" time="0.0000" failures="0" skipped="4">
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases uses AzureKeys Project Integration 13. user can add AzureKeys project Integration" time="0.0000" classname="13. user can add AzureKeys project Integration">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases uses AzureKeys Project Integration 14. User should be able add new pipelineSource to add RemoteFile resource" time="0.0000" classname="14. User should be able add new pipelineSource to add RemoteFile resource">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases uses AzureKeys Project Integration 15. User can delete pipelineSource by Id" time="0.0000" classname="15. User can delete pipelineSource by Id">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases uses AzureKeys Project Integration 16. User can delete integrations by Id" time="0.0000" classname="16. User can delete integrations by Id">
+      <skipped/>
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases uses Artifactory Project Integrations for remoteFile resource" timestamp="2022-01-17T17:52:43" tests="6" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383802/setup_PreMatrix/tests/core/resources/RemoteFile.js" time="15.1430" failures="0">
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases uses Artifactory Project Integrations for remoteFile resource 17. User should be able add new pipelineSource to add RemoteFile resource" time="14.3800" classname="17. User should be able add new pipelineSource to add RemoteFile resource">
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases uses Artifactory Project Integrations for remoteFile resource R-RemoteFile-0001. User can add RemoteFile resource using a source pointing to Artifactory Integration" time="0.1750" classname="R-RemoteFile-0001. User can add RemoteFile resource using a source pointing to Artifactory Integration">
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases uses Artifactory Project Integrations for remoteFile resource R-RemoteFile-0005. User can get their RemoteFile resource using artifactory integration" time="0.0260" classname="R-RemoteFile-0005. User can get their RemoteFile resource using artifactory integration">
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases uses Artifactory Project Integrations for remoteFile resource R-RemoteFile-00016. User can update the RemoteFile resource" time="0.0350" classname="R-RemoteFile-00016. User can update the RemoteFile resource">
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases uses Artifactory Project Integrations for remoteFile resource R-RemoteFile-0018. User can delete RemoteFile resource which is not dependent on any pipelines" time="0.3330" classname="R-RemoteFile-0018. User can delete RemoteFile resource which is not dependent on any pipelines">
+    </testcase>
+    <testcase name="RESOURCE_REMOTEFILE - RemoteFile Resource tests Below test cases uses Artifactory Project Integrations for remoteFile resource 18. User can delete pipelineSource by Id" time="0.1890" classname="18. User can delete pipelineSource by Id">
+    </testcase>
+  </testsuite>
+</testsuites>

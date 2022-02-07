@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="193.5950" tests="6" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:17" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="STEP_BASH_ARTIFACTORY_INTEGRATION - Bash Step Tests For Artifactory Integration" timestamp="2022-01-17T17:51:17" tests="6" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383566/setup_PreMatrix/tests/core/steps/Bash/BashIntegrations/BashArtifactoryIntegration.js" time="193.5890" failures="0">
+    <testcase name="STEP_BASH_ARTIFACTORY_INTEGRATION - Bash Step Tests For Artifactory Integration S-Bash-0234. User should see automatic login is done for Artifactory integration in bash" time="30.0550" classname="S-Bash-0234. User should see automatic login is done for Artifactory integration in bash">
+    </testcase>
+    <testcase name="STEP_BASH_ARTIFACTORY_INTEGRATION - Bash Step Tests For Artifactory Integration S-Bash-0237. User adds artifactory integration in integration section of bash step and verify pipeline sync is success" time="17.8950" classname="S-Bash-0237. User adds artifactory integration in integration section of bash step and verify pipeline sync is success">
+    </testcase>
+    <testcase name="STEP_BASH_ARTIFACTORY_INTEGRATION - Bash Step Tests For Artifactory Integration S-Bash-0239. Environment variables for the integration are available in execution section of the Bash step" time="134.2900" classname="S-Bash-0239. Environment variables for the integration are available in execution section of the Bash step">
+    </testcase>
+    <testcase name="STEP_BASH_ARTIFACTORY_INTEGRATION - Bash Step Tests For Artifactory Integration 1. User should be able to add new pipelineSources" time="10.5630" classname="1. User should be able to add new pipelineSources">
+    </testcase>
+    <testcase name="STEP_BASH_ARTIFACTORY_INTEGRATION - Bash Step Tests For Artifactory Integration S-Bash-0410. Users should not able to delete Artifactory integration if it is dependent on any steps." time="0.1260" classname="S-Bash-0410. Users should not able to delete Artifactory integration if it is dependent on any steps.">
+    </testcase>
+    <testcase name="STEP_BASH_ARTIFACTORY_INTEGRATION - Bash Step Tests For Artifactory Integration 2. User can delete pipelineSource by Id" time="0.5470" classname="2. User can delete pipelineSource by Id">
+    </testcase>
+  </testsuite>
+</testsuites>

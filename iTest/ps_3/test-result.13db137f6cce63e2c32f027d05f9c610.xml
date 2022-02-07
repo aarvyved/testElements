@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="469.0790" tests="11" failures="0" skipped="1">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:35" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function" timestamp="2022-01-17T17:51:35" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_3/4383714/setup_PreMatrix/tests/core/steps/PowerShell/PSUtilityfunctions/PSUtilityFunctions6.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Below test cases are for write_output " timestamp="2022-01-17T17:51:36" tests="11" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_3/4383714/setup_PreMatrix/tests/core/steps/PowerShell/PSUtilityfunctions/PSUtilityFunctions6.js" time="468.7920" failures="0" skipped="1">
+    <testcase name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function Below test cases are for write_output  3. User can add DockerRegistry project Integration" time="4.7970" classname="3. User can add DockerRegistry project Integration">
+    </testcase>
+    <testcase name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function Below test cases are for write_output  S-PS-UTIL-0026. Verify write_output utility function added in the PowerShell step and user sees that step is success" time="105.1510" classname="S-PS-UTIL-0026. Verify write_output utility function added in the PowerShell step and user sees that step is success">
+    </testcase>
+    <testcase name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function Below test cases are for write_output  4. User can delete Docker integration by Id" time="0.1440" classname="4. User can delete Docker integration by Id">
+    </testcase>
+    <testcase name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function Below test cases are for write_output  S_PS_UTIL_0073. A user runs a step with a write_output that has no = and the step fails." time="0.0000" classname="S_PS_UTIL_0073. A user runs a step with a write_output that has no = and the step fails.">
+      <skipped/>
+    </testcase>
+    <testcase name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function Below test cases are for write_output  S_PS_UTIL_0074. A user runs a step with a write_output that has no value and the step succeeds." time="54.8870" classname="S_PS_UTIL_0074. A user runs a step with a write_output that has no value and the step succeeds.">
+    </testcase>
+    <testcase name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function Below test cases are for write_output  S_PS_UTIL_0075. A user runs a step where write_output has a space after the = and it fails." time="61.0400" classname="S_PS_UTIL_0075. A user runs a step where write_output has a space after the = and it fails.">
+    </testcase>
+    <testcase name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function Below test cases are for write_output  S_PS_UTIL_0076. A user runs a step that has write_output update a value starting with &quot;s&quot; and it is successful." time="49.5650" classname="S_PS_UTIL_0076. A user runs a step that has write_output update a value starting with &quot;s&quot; and it is successful.">
+    </testcase>
+    <testcase name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function Below test cases are for write_output  S_PS_UTIL_0077. User should be able to use the helper function `get_integration_name` for windows node by passing the integration type." time="44.1790" classname="S_PS_UTIL_0077. User should be able to use the helper function `get_integration_name` for windows node by passing the integration type.">
+    </testcase>
+    <testcase name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function Below test cases are for write_output  S_PS_UTIL_0078. User should be able to use the helper function `get_resource_name`for windows node by passing the resource operation and resource type(default namespace is jfrog)" time="50.5360" classname="S_PS_UTIL_0078. User should be able to use the helper function `get_resource_name`for windows node by passing the resource operation and resource type(default namespace is jfrog)">
+    </testcase>
+    <testcase name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function Below test cases are for write_output  S_PS_UTIL_0079. User should be able to use the helper function `get_resource_name` for windows node by passing the resource operation, resource type, namespace" time="49.2860" classname="S_PS_UTIL_0079. User should be able to use the helper function `get_resource_name` for windows node by passing the resource operation, resource type, namespace">
+    </testcase>
+    <testcase name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function Below test cases are for write_output  S_PS_UTIL_0080. User should be able to use the helper function `get_resource_name`for windows node by passing the resource operation, resource type, resource version" time="49.1950" classname="S_PS_UTIL_0080. User should be able to use the helper function `get_resource_name`for windows node by passing the resource operation, resource type, resource version">
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="117.9720" tests="23" failures="0" skipped="1">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:37" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API_STEPSCONSOLES - stepConsoles API tests" timestamp="2022-01-17T17:51:38" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383733/setup_PreMatrix/tests/core/api/stepConsoles.js" time="0.0000" failures="0">
+    <testcase name="API_STEPSCONSOLES - stepConsoles API tests 1. Super user can post their pipelineSources to add StepConsoles" time="30.0810" classname="1. Super user can post their pipelineSources to add StepConsoles">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases uses pipelineSource" timestamp="2022-01-17T17:52:08" tests="22" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383733/setup_PreMatrix/tests/core/api/stepConsoles.js" time="87.5280" failures="0" skipped="1">
+    <testcase name="API_STEPSCONSOLES - stepConsoles API tests Below test cases uses pipelineSource 2. Super user can get their pipelines" time="0.0760" classname="2. Super user can get their pipelines">
+    </testcase>
+    <testcase name="API_STEPSCONSOLES - stepConsoles API tests Below test cases uses pipelineSource 4. Super user can trigger pipelineSteps by Id" time="85.3370" classname="4. Super user can trigger pipelineSteps by Id">
+    </testcase>
+    <testcase name="API_STEPSCONSOLES - stepConsoles API tests Below test cases uses pipelineSource 9. super user can get their steps" time="0.0860" classname="9. super user can get their steps">
+    </testcase>
+    <testcase name="API_STEPSCONSOLES - stepConsoles API tests Below test cases uses pipelineSource A-StepConsoles-0001. Super user can post their stepConsoles" time="0.0320" classname="A-StepConsoles-0001. Super user can post their stepConsoles">
+    </testcase>
+    <testcase name="API_STEPSCONSOLES - stepConsoles API tests Below test cases uses pipelineSource A-StepConsoles-6769-0001. Users can post more than  1000 stepConsoles at a time." time="0.3680" classname="A-StepConsoles-6769-0001. Users can post more than  1000 stepConsoles at a time.">
+    </testcase>
+    <testcase name="API_STEPSCONSOLES - stepConsoles API tests Below test cases uses pipelineSource A-StepConsoles-6769-0002. Posted BulkStepConsoles exist or  not." time="0.0000" classname="A-StepConsoles-6769-0002. Posted BulkStepConsoles exist or  not.">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPSCONSOLES - stepConsoles API tests Below test cases uses pipelineSource A-StepConsoles-6769-0003. api should return error on passing invalid consoles to it." time="0.0320" classname="A-StepConsoles-6769-0003. api should return error on passing invalid consoles to it.">
+    </testcase>
+    <testcase name="API_STEPSCONSOLES - stepConsoles API tests Below test cases uses pipelineSource A-PO-PP-0024. Project Admin User cannot Post step Consoles" time="0.0560" classname="A-PO-PP-0024. Project Admin User cannot Post step Consoles">
+    </testcase>
+    <testcase name="API_STEPSCONSOLES - stepConsoles API tests Below test cases uses pipelineSource A-StepConsoles-0002. Admin cannot post their stepConsoles" time="0.0390" classname="A-StepConsoles-0002. Admin cannot post their stepConsoles">
+    </testcase>
+    <testcase name="API_STEPSCONSOLES - stepConsoles API tests Below test cases uses pipelineSource A-StepConsoles-0003. Member cannot post their stepConsoles" time="0.1020" classname="A-StepConsoles-0003. Member cannot post their stepConsoles">
+    </testcase>
+    <testcase name="API_STEPSCONSOLES - stepConsoles API tests Below test cases uses pipelineSource A-StepConsoles-0004. Public user cannot post stepConsoles" time="0.0190" classname="A-StepConsoles-0004. Public user cannot post stepConsoles">
+    </testcase>
+    <testcase name="API_STEPSCONSOLES - stepConsoles API tests Below test cases uses pipelineSource A-StepConsoles-0025. Public user cannot deletes  stepConsoles by stepId" time="0.0180" classname="A-StepConsoles-0025. Public user cannot deletes  stepConsoles by stepId">
+    </testcase>
+    <testcase name="API_STEPSCONSOLES - stepConsoles API tests Below test cases uses pipelineSource A-StepConsoles-0026. Member user cannot deletes  stepConsoles by stepId" time="0.0250" classname="A-StepConsoles-0026. Member user cannot deletes  stepConsoles by stepId">
+    </testcase>
+    <testcase name="API_STEPSCONSOLES - stepConsoles API tests Below test cases uses pipelineSource A-StepConsoles-0027. Admin user cannot delete stepConsoles by stepId" time="0.0310" classname="A-StepConsoles-0027. Admin user cannot delete stepConsoles by stepId">
+    </testcase>
+    <testcase name="API_STEPSCONSOLES - stepConsoles API tests Below test cases uses pipelineSource A-DEL-PP-0022. ProjectAdminUser cannot delete  stepConsoles by step Id" time="0.0270" classname="A-DEL-PP-0022. ProjectAdminUser cannot delete  stepConsoles by step Id">
+    </testcase>
+    <testcase name="API_STEPSCONSOLES - stepConsoles API tests Below test cases uses pipelineSource A-StepConsoles-0028 Super user can delete stepConsoles by stepId" time="0.0270" classname="A-StepConsoles-0028 Super user can delete stepConsoles by stepId">
+    </testcase>
+    <testcase name="API_STEPSCONSOLES - stepConsoles API tests Below test cases uses pipelineSource A-StepConsoles-0021. Public user cannot deletes  stepConsoles by pipelineId" time="0.0150" classname="A-StepConsoles-0021. Public user cannot deletes  stepConsoles by pipelineId">
+    </testcase>
+    <testcase name="API_STEPSCONSOLES - stepConsoles API tests Below test cases uses pipelineSource A-StepConsoles-0022. Member user cannot deletes  stepConsoles by pipelineId" time="0.0340" classname="A-StepConsoles-0022. Member user cannot deletes  stepConsoles by pipelineId">
+    </testcase>
+    <testcase name="API_STEPSCONSOLES - stepConsoles API tests Below test cases uses pipelineSource A-StepConsoles-0023. Admin user cannot delete stepConsoles by pipelineId" time="0.0720" classname="A-StepConsoles-0023. Admin user cannot delete stepConsoles by pipelineId">
+    </testcase>
+    <testcase name="API_STEPSCONSOLES - stepConsoles API tests Below test cases uses pipelineSource A-DEL-PP-0021. ProjectAdminUser should be able to delete stepConsoles by pipeline id" time="0.0330" classname="A-DEL-PP-0021. ProjectAdminUser should be able to delete stepConsoles by pipeline id">
+    </testcase>
+    <testcase name="API_STEPSCONSOLES - stepConsoles API tests Below test cases uses pipelineSource A-StepConsoles-0024. Super user can delete stepConsoles by pipelineId" time="0.0180" classname="A-StepConsoles-0024. Super user can delete stepConsoles by pipelineId">
+    </testcase>
+    <testcase name="API_STEPSCONSOLES - stepConsoles API tests Below test cases uses pipelineSource 8. Super user can delete pipelineSource by Id for stepConsoles" time="1.0680" classname="8. Super user can delete pipelineSource by Id for stepConsoles">
+    </testcase>
+  </testsuite>
+</testsuites>

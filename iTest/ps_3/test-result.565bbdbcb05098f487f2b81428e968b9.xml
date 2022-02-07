@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="210.8160" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:35" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="POWERSHELL_SIGNRELEASEBUNDLE_STEP - PowerShell SignReleaseBundle Step Tests" timestamp="2022-01-17T17:51:35" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_3/4383708/setup_PreMatrix/tests/core/steps/PowerShell/PSNative/SignReleaseBundle.js" time="210.8100" failures="0">
+    <testcase name="POWERSHELL_SIGNRELEASEBUNDLE_STEP - PowerShell SignReleaseBundle Step Tests S_PS_SignReleaseBundle_0001 User runs a SignReleaseBundle step on Windows with a ReleaseBundle output successfully and the output ReleaseBundle has the correct name and number and isSigned true." time="210.5770" classname="S_PS_SignReleaseBundle_0001 User runs a SignReleaseBundle step on Windows with a ReleaseBundle output successfully and the output ReleaseBundle has the correct name and number and isSigned true.">
+    </testcase>
+  </testsuite>
+</testsuites>

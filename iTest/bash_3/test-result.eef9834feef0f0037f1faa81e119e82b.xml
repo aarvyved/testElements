@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="108.5520" tests="9" failures="0" skipped="2">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:49" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="MATRIX_STEP - Matrix Step Tests 1 out 3" timestamp="2022-01-17T17:51:49" tests="9" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383609/setup_PreMatrix/tests/core/steps/Bash/BashNative/MatrixSync.js" time="108.5260" failures="0" skipped="2">
+    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0003. User should add to add Matrix step where name must adhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/. Then verify pipelines sync should succeed" time="33.4370" classname="S-Matrix-0003. User should add to add Matrix step where name must adhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/. Then verify pipelines sync should succeed">
+    </testcase>
+    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0004. If user adds pipeline source with one stepletMultipliers sectionin Matrix step of the YAML. Then verify pipelines sync should succeed" time="0.0000" classname="S-Matrix-0004. If user adds pipeline source with one stepletMultipliers sectionin Matrix step of the YAML. Then verify pipelines sync should succeed">
+      <skipped/>
+    </testcase>
+    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0005. If user adds pipeline source where more than onePreMatrix steps asinputSteps to Matrix step. Then verify pipelines sync should succeed" time="18.6430" classname="S-Matrix-0005. If user adds pipeline source where more than onePreMatrix steps asinputSteps to Matrix step. Then verify pipelines sync should succeed">
+    </testcase>
+    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0006. If user adds a pipeline source with Matrix step where the step name is missing then the pipeline sync should fail" time="10.8110" classname="S-Matrix-0006. If user adds a pipeline source with Matrix step where the step name is missing then the pipeline sync should fail">
+    </testcase>
+    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0007. If user adds a pipeline source with Matrix step where onExecute field in execution section is missing then the pipelinesync should fail" time="10.8720" classname="S-Matrix-0007. If user adds a pipeline source with Matrix step where onExecute field in execution section is missing then the pipelinesync should fail">
+    </testcase>
+    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0008. SCM_CASE If multiple stepletMultipliers sections are mentioned inside the same Matrix step. Then verify pipeline sync will fail" time="0.0000" classname="S-Matrix-0008. SCM_CASE If multiple stepletMultipliers sections are mentioned inside the same Matrix step. Then verify pipeline sync will fail">
+      <skipped/>
+    </testcase>
+    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0009. If user adds pipeline source with stepletMultipliers section mentioned without environment variables in the Matrix step of the YAML. Then verify pipelines sync should fail" time="10.8210" classname="S-Matrix-0009. If user adds pipeline source with stepletMultipliers section mentioned without environment variables in the Matrix step of the YAML. Then verify pipelines sync should fail">
+    </testcase>
+    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0010. If user adds a pipeline source with Matrix step where execution section is having set_step_var utility function. Then verify pipelines sync should succeed." time="12.7450" classname="S-Matrix-0010. If user adds a pipeline source with Matrix step where execution section is having set_step_var utility function. Then verify pipelines sync should succeed.">
+    </testcase>
+    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0019. If user adds pipeline source with runtimes section mentioned without its value in stepletMultipliers section of the Matrix step of the YAML. Then verify pipelines sync should fail" time="10.8880" classname="S-Matrix-0019. If user adds pipeline source with runtimes section mentioned without its value in stepletMultipliers section of the Matrix step of the YAML. Then verify pipelines sync should fail">
+    </testcase>
+  </testsuite>
+</testsuites>

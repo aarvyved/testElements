@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="177.1020" tests="34" failures="0" skipped="1">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:50:49" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="PIPEINFO - PipeInfo Tests" timestamp="2022-01-17T17:50:49" tests="34" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383753/setup_PreMatrix/tests/core/pipeInfo/pipeInfo.js" time="177.0980" failures="0" skipped="1">
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0001. Verify head.json contains fields present in name, projectName, pipelineSource (Object), run (object), pipelinesYaml (object) and version" time="0.0020" classname="A-PipeInfo-0001. Verify head.json contains fields present in name, projectName, pipelineSource (Object), run (object), pipelinesYaml (object) and version">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0002. Verify head.json contains fields present in pipelineSource (Object) which are repositoryFullName, isMultiBranch, branchName, projectIntegration (object) whichname and type" time="0.0000" classname="A-PipeInfo-0002. Verify head.json contains fields present in pipelineSource (Object) which are repositoryFullName, isMultiBranch, branchName, projectIntegration (object) whichname and type">
+      <skipped/>
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0003. Verify head.json contains fields present in run (Object) which are runNumber and triggeredBy object" time="0.0000" classname="A-PipeInfo-0003. Verify head.json contains fields present in run (Object) which are runNumber and triggeredBy object">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0004. Verify head.json contains fields present in pipelinesYaml (Object) which are configuration if present, steps, and resources" time="0.0010" classname="A-PipeInfo-0004. Verify head.json contains fields present in pipelinesYaml (Object) which are configuration if present, steps, and resources">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0005. Verify steps, resources and configuration present in head.json in pipelinesYaml (Object) matches in the pipeline" time="0.0010" classname="A-PipeInfo-0005. Verify steps, resources and configuration present in head.json in pipelinesYaml (Object) matches in the pipeline">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0006. Verify info.json contains fields present which are runStatus, runStartedAt, runEndedAt, durationMillisand version" time="0.0000" classname="A-PipeInfo-0006. Verify info.json contains fields present which are runStatus, runStartedAt, runEndedAt, durationMillisand version">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0007. Verify the number of step.json matches the number of steps in the pipelines" time="0.0010" classname="A-PipeInfo-0007. Verify the number of step.json matches the number of steps in the pipelines">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0008. Verify each step object contains the fields: name, type, inputs (object), nodePools (array), outputs (object), affinityGroup, triggeredBy (object), durationMillis and version" time="0.0000" classname="A-PipeInfo-0008. Verify each step object contains the fields: name, type, inputs (object), nodePools (array), outputs (object), affinityGroup, triggeredBy (object), durationMillis and version">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0009. Verify each step object contains inputs array which contains , steps (array) if present" time="0.0000" classname="A-PipeInfo-0009. Verify each step object contains inputs array which contains , steps (array) if present">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0010. Verify each step object contains inputs array which contains resources (array), and integrations (array) if present" time="0.0010" classname="A-PipeInfo-0010. Verify each step object contains inputs array which contains resources (array), and integrations (array) if present">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0011. Verify each step object contains resources (array) in inputs object which contains name, type and version(object) for each resource" time="0.0010" classname="A-PipeInfo-0011. Verify each step object contains resources (array) in inputs object which contains name, type and version(object) for each resource">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0012. Verify each step object contains steps (array) in inputs object which contains name, type for each step" time="0.0000" classname="A-PipeInfo-0012. Verify each step object contains steps (array) in inputs object which contains name, type for each step">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0013. Verify each step object contains integrations (array) in inputs object which contains name, type for each integration" time="0.0000" classname="A-PipeInfo-0013. Verify each step object contains integrations (array) in inputs object which contains name, type for each integration">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0014. Verify each step object contains outputs object which contains resources (array) if present" time="0.0000" classname="A-PipeInfo-0014. Verify each step object contains outputs object which contains resources (array) if present">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0015. Verify each step object contains resources array in outputs object which contains name, type and version for each resource" time="0.0000" classname="A-PipeInfo-0015. Verify each step object contains resources array in outputs object which contains name, type and version for each resource">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0016. Verify each step object contains steplets array when the steplets for a step are more than 1" time="0.0010" classname="A-PipeInfo-0016. Verify each step object contains steplets array when the steplets for a step are more than 1">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0017. Verify each step object contains steplets array where each steplet contains name stepletNumber, status, environmentVariables, startedAt and endedAt" time="0.0000" classname="A-PipeInfo-0017. Verify each step object contains steplets array where each steplet contains name stepletNumber, status, environmentVariables, startedAt and endedAt">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0018. Verify each step object contains timestamps object which contains triggeredAt, groupStartedAt, readyAt, queuedAt, startedAt, and endedAt" time="0.0010" classname="A-PipeInfo-0018. Verify each step object contains timestamps object which contains triggeredAt, groupStartedAt, readyAt, queuedAt, startedAt, and endedAt">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0019. Verify each step object contains nodePools arrays " time="0.0000" classname="A-PipeInfo-0019. Verify each step object contains nodePools arrays ">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0020. Verify each step object contains nodePools arrays which contains a nodePool object where step got executed Each nodePool object contains name, type, isCacheEnabled, operatingSystem, architecture, and nodes array, and node object in nodes contain nodeName, stepletNumbers and buildPlaneVersion" time="0.0010" classname="A-PipeInfo-0020. Verify each step object contains nodePools arrays which contains a nodePool object where step got executed Each nodePool object contains name, type, isCacheEnabled, operatingSystem, architecture, and nodes array, and node object in nodes contain nodeName, stepletNumbers and buildPlaneVersion">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0021. For each step, verify the input resources array is the appropriate size for the number of resources in each step" time="0.0000" classname="A-PipeInfo-0021. For each step, verify the input resources array is the appropriate size for the number of resources in each step">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0022. For each step, verify the input steps array is the appropriate size for the number of steps in each step" time="0.0000" classname="A-PipeInfo-0022. For each step, verify the input steps array is the appropriate size for the number of steps in each step">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0023. For each step, verify the input integrations array is the appropriate size for the number of integrations in each step" time="0.0000" classname="A-PipeInfo-0023. For each step, verify the input integrations array is the appropriate size for the number of integrations in each step">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0024. For each step, verify the output resources array is the appropriate size for the number of output resources in each step" time="0.0000" classname="A-PipeInfo-0024. For each step, verify the output resources array is the appropriate size for the number of output resources in each step">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0025. For each step, verify the steplets array is the appropriate size for the number of steplets in each step if the steplet count is greater than 1" time="0.0230" classname="A-PipeInfo-0025. For each step, verify the steplets array is the appropriate size for the number of steplets in each step if the steplet count is greater than 1">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0027. User should be able to verify head.json.sig exists in artifactory" time="0.0000" classname="A-PipeInfo-0027. User should be able to verify head.json.sig exists in artifactory">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0028. User should be able to verify info.json.sig exists in artifactory" time="0.0000" classname="A-PipeInfo-0028. User should be able to verify info.json.sig exists in artifactory">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0029. Verify the number of step*.json.sig matches the number of step*.json in artifactory" time="0.0000" classname="A-PipeInfo-0029. Verify the number of step*.json.sig matches the number of step*.json in artifactory">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0030. User should be able to verify step*.json.sig exists in artifactory" time="0.0000" classname="A-PipeInfo-0030. User should be able to verify step*.json.sig exists in artifactory">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0031. Verify that run pub key exists in run object" time="0.0000" classname="A-PipeInfo-0031. Verify that run pub key exists in run object">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0032. Verify that merkle tree exists and have expected string length" time="0.0000" classname="A-PipeInfo-0032. Verify that merkle tree exists and have expected string length">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0033. Verify that expected number of merkle leaves exists in run object" time="0.0000" classname="A-PipeInfo-0033. Verify that expected number of merkle leaves exists in run object">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0034. Verify that run key (private) is deleted after the run by calling getRunKey and expect error" time="0.0280" classname="A-PipeInfo-0034. Verify that run key (private) is deleted after the run by calling getRunKey and expect error">
+    </testcase>
+    <testcase name="PIPEINFO - PipeInfo Tests A-PipeInfo-0026. User deletes the pipeline source, pipeInfo should also be deleted;" time="1.7620" classname="A-PipeInfo-0026. User deletes the pipeline source, pipeInfo should also be deleted;">
+    </testcase>
+  </testsuite>
+</testsuites>

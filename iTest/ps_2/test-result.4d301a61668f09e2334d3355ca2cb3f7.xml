@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0610" tests="7" failures="0" skipped="7">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:43" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="STEP_POWERSHELL_JIRAINTEGRATION - PowerShell Step Tests Jira Integration" timestamp="2022-01-17T17:51:43" tests="7" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_2/4383657/setup_PreMatrix/tests/core/steps/PowerShell/PSIntegration/PowerShellJiraIntegration.js" time="0.0220" failures="0" skipped="7">
+    <testcase name="STEP_POWERSHELL_JIRAINTEGRATION - PowerShell Step Tests Jira Integration 1. User can add Jira project Integration" time="0.0000" classname="1. User can add Jira project Integration">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_POWERSHELL_JIRAINTEGRATION - PowerShell Step Tests Jira Integration S-PS-I-Jira-0001. If the user adds a pipeline sources with the PowerShell step, where  Jira integration is mentioned in the integration section, then pipeline sync should success" time="0.0000" classname="S-PS-I-Jira-0001. If the user adds a pipeline sources with the PowerShell step, where  Jira integration is mentioned in the integration section, then pipeline sync should success">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_POWERSHELL_JIRAINTEGRATION - PowerShell Step Tests Jira Integration S-PS-I-Jira-0002. User verifies that all the Jira integration environment variables are available in execution sections of the PowerShell step." time="0.0000" classname="S-PS-I-Jira-0002. User verifies that all the Jira integration environment variables are available in execution sections of the PowerShell step.">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_POWERSHELL_JIRAINTEGRATION - PowerShell Step Tests Jira Integration 2. User should be able to add new pipelineSources" time="0.0000" classname="2. User should be able to add new pipelineSources">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_POWERSHELL_JIRAINTEGRATION - PowerShell Step Tests Jira Integration S-PS-I-Jira-0003. Users should not be able to delete Jira integration if it is dependent on steps." time="0.0000" classname="S-PS-I-Jira-0003. Users should not be able to delete Jira integration if it is dependent on steps.">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_POWERSHELL_JIRAINTEGRATION - PowerShell Step Tests Jira Integration 3. User can delete pipelineSource by Id" time="0.0000" classname="3. User can delete pipelineSource by Id">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_POWERSHELL_JIRAINTEGRATION - PowerShell Step Tests Jira Integration 4. User can delete Jira project integration by Id" time="0.0000" classname="4. User can delete Jira project integration by Id">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1.3380" tests="13" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API_SYSTEM_HEALTH - systemHealth API tests" timestamp="2022-01-17T17:51:38" tests="13" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383731/setup_PreMatrix/tests/core/api/systemHealth.js" time="1.3280" failures="0">
+    <testcase name="API_SYSTEM_HEALTH - systemHealth API tests A-systemHealth-5659-0001. Liveness API returns OK" time="0.0540" classname="A-systemHealth-5659-0001. Liveness API returns OK">
+    </testcase>
+    <testcase name="API_SYSTEM_HEALTH - systemHealth API tests A-systemHealth-5659-0002. Readiness API returns OK by fetching result from the cache" time="0.0170" classname="A-systemHealth-5659-0002. Readiness API returns OK by fetching result from the cache">
+    </testcase>
+    <testcase name="API_SYSTEM_HEALTH - systemHealth API tests A-systemHealth-5659-0003. Readiness API returns OK by calculating result when requested to not use cache" time="0.1460" classname="A-systemHealth-5659-0003. Readiness API returns OK by calculating result when requested to not use cache">
+    </testcase>
+    <testcase name="API_SYSTEM_HEALTH - systemHealth API tests A-systemHealth-6813-0004. System info member permission" time="0.1410" classname="A-systemHealth-6813-0004. System info member permission">
+    </testcase>
+    <testcase name="API_SYSTEM_HEALTH - systemHealth API tests A-systemHealth-6813-0005. System info public user permission" time="0.0130" classname="A-systemHealth-6813-0005. System info public user permission">
+    </testcase>
+    <testcase name="API_SYSTEM_HEALTH - systemHealth API tests A-systemHealth-6813-0006. System info project admin permission" time="0.0830" classname="A-systemHealth-6813-0006. System info project admin permission">
+    </testcase>
+    <testcase name="API_SYSTEM_HEALTH - systemHealth API tests A-systemHealth-6813-0007. System info Super permission" time="0.1500" classname="A-systemHealth-6813-0007. System info Super permission">
+    </testcase>
+    <testcase name="API_SYSTEM_HEALTH - systemHealth API tests A-systemHealth-6813-0008. System info admin permission" time="0.0720" classname="A-systemHealth-6813-0008. System info admin permission">
+    </testcase>
+    <testcase name="API_SYSTEM_HEALTH - systemHealth API tests A-systemHealth-6813-0010. Health check member user permission" time="0.0880" classname="A-systemHealth-6813-0010. Health check member user permission">
+    </testcase>
+    <testcase name="API_SYSTEM_HEALTH - systemHealth API tests A-systemHealth-6813-0011. Health check public user permission" time="0.0210" classname="A-systemHealth-6813-0011. Health check public user permission">
+    </testcase>
+    <testcase name="API_SYSTEM_HEALTH - systemHealth API tests A-systemHealth-6813-0012. Health check project admin user permission" time="0.1030" classname="A-systemHealth-6813-0012. Health check project admin user permission">
+    </testcase>
+    <testcase name="API_SYSTEM_HEALTH - systemHealth API tests A-systemHealth-6813-0013. Health check super user permission" time="0.0550" classname="A-systemHealth-6813-0013. Health check super user permission">
+    </testcase>
+    <testcase name="API_SYSTEM_HEALTH - systemHealth API tests A-systemHealth-6813-0014. Health check admin user permission" time="0.1160" classname="A-systemHealth-6813-0014. Health check admin user permission">
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="123.1430" tests="37" failures="0" skipped="32">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:50:59" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="RESOURCES_GITREPO - GitRepo Resource tests" timestamp="2022-01-17T17:50:59" tests="3" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383794/setup_PreMatrix/tests/core/resources/GitRepo.js" time="0.0000" failures="0">
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests R-GitRepo-0006. If integrationName doesnot exist,  pipeline sync fails with helpful error" time="10.1540" classname="R-GitRepo-0006. If integrationName doesnot exist,  pipeline sync fails with helpful error">
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests R-GitRepo-0002. User does not specify `GitRepo` type field in GitRepo resources then pipelineSync should fail" time="10.2990" classname="R-GitRepo-0002. User does not specify `GitRepo` type field in GitRepo resources then pipelineSync should fail">
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests R-GitRepo-0003. Integration can only be from Bitbucket/GitHub/GitHub Enterprise/GitLab and Bitbucket Server" time="17.0290" classname="R-GitRepo-0003. Integration can only be from Bitbucket/GitHub/GitHub Enterprise/GitLab and Bitbucket Server">
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  R-GitRepo-0005. In configuration section if gitProvider and path is not mentioned Pipeline sync fail with helpful error" time="23.3090" classname="R-GitRepo-0005. In configuration section if gitProvider and path is not mentioned Pipeline sync fail with helpful error">
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  R-GitRepo-0007. Invalid repoPath will lead to a  failure during a run with helpful error in logs" time="20.4620" classname="R-GitRepo-0007. Invalid repoPath will lead to a  failure during a run with helpful error in logs">
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  R-GitRepo-0009. Files section cannot contain both exclude and include. If there are both sections present , Pipeline sync fails" time="19.8810" classname="R-GitRepo-0009. Files section cannot contain both exclude and include. If there are both sections present , Pipeline sync fails">
+    </testcase>
+  </testsuite>
+  <testsuite name="below test cases use BitBucketServer project integration" timestamp="2022-01-17T17:52:40" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383794/setup_PreMatrix/tests/core/resources/GitRepo.js" time="0.0000" failures="0" skipped="1">
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  below test cases use BitBucketServer project integration  1. User should be able to add new pipelineSources" time="0.0000" classname="1. User should be able to add new pipelineSources">
+      <skipped/>
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases uses pipelineSource" timestamp="2022-01-17T17:52:40" tests="11" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383794/setup_PreMatrix/tests/core/resources/GitRepo.js" time="0.0010" failures="0" skipped="11">
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  below test cases use BitBucketServer project integration  Below test cases uses pipelineSource R-GitRepo-0001. User can get their GitRepo resource using BitbucketServer integration" time="0.0000" classname="R-GitRepo-0001. User can get their GitRepo resource using BitbucketServer integration">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  below test cases use BitBucketServer project integration  Below test cases uses pipelineSource R-GitRepo-0039. User should not able to add the same resource with the duplicate resource name" time="0.0000" classname="R-GitRepo-0039. User should not able to add the same resource with the duplicate resource name">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  below test cases use BitBucketServer project integration  Below test cases uses pipelineSource R-GitRepo-0038.1. User should able to update files name in GitRepo resource" time="0.0000" classname="R-GitRepo-0038.1. User should able to update files name in GitRepo resource">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  below test cases use BitBucketServer project integration  Below test cases uses pipelineSource R-GitRepo-0038.2. User should able to update regular expression in include and exclude fields in files section" time="0.0000" classname="R-GitRepo-0038.2. User should able to update regular expression in include and exclude fields in files section">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  below test cases use BitBucketServer project integration  Below test cases uses pipelineSource R-GitRepo-0037.1. User should able to update files name in GitRepo resource" time="0.0000" classname="R-GitRepo-0037.1. User should able to update files name in GitRepo resource">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  below test cases use BitBucketServer project integration  Below test cases uses pipelineSource R-GitRepo-0037.2. User should able to update regular expression in include and exclude field in branches section" time="0.0000" classname="R-GitRepo-0037.2. User should able to update regular expression in include and exclude field in branches section">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  below test cases use BitBucketServer project integration  Below test cases uses pipelineSource R-GitRepo-0036.1. User should able to update tags for a file in using include and exclude fields in tags section" time="0.0000" classname="R-GitRepo-0036.1. User should able to update tags for a file in using include and exclude fields in tags section">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  below test cases use BitBucketServer project integration  Below test cases uses pipelineSource R-GitRepo-0038.2. User should able to update regular expression in include and exclude fields in tags section" time="0.0000" classname="R-GitRepo-0038.2. User should able to update regular expression in include and exclude fields in tags section">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  below test cases use BitBucketServer project integration  Below test cases uses pipelineSource R-GitRepo-0045. User should able to update  shallowDepth field of the resource" time="0.0000" classname="R-GitRepo-0045. User should able to update  shallowDepth field of the resource">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  below test cases use BitBucketServer project integration  Below test cases uses pipelineSource R-GitRepo-0044. User should able to update buildOn section commit pullRequestCreate, pullRequestClose, releaseCreate and tagCreate, all these fields should be Boolean expression in GitRepo resource" time="0.0000" classname="R-GitRepo-0044. User should able to update buildOn section commit pullRequestCreate, pullRequestClose, releaseCreate and tagCreate, all these fields should be Boolean expression in GitRepo resource">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  below test cases use BitBucketServer project integration  Below test cases uses pipelineSource 2. User can delete pipelineSource by Id" time="0.0000" classname="2. User can delete pipelineSource by Id">
+      <skipped/>
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases use gitHub Project Integration" timestamp="2022-01-17T17:52:40" tests="3" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383794/setup_PreMatrix/tests/core/resources/GitRepo.js" time="21.8910" failures="0">
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  Below test cases use gitHub Project Integration R-GitRepo-0004. ONLY_SYNC User should be able to add new pipelineSources" time="21.4530" classname="R-GitRepo-0004. ONLY_SYNC User should be able to add new pipelineSources">
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  Below test cases use gitHub Project Integration R-GitRepo-0041. User can get their GitRepo resource using GitHub integration" time="0.0750" classname="R-GitRepo-0041. User can get their GitRepo resource using GitHub integration">
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  Below test cases use gitHub Project Integration 4. User can delete pipelineSource by Id" time="0.3620" classname="4. User can delete pipelineSource by Id">
+    </testcase>
+  </testsuite>
+  <testsuite name="below test cases use gitHub Enterprise Project Integration" timestamp="2022-01-17T17:53:02" tests="3" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383794/setup_PreMatrix/tests/core/resources/GitRepo.js" time="0.0000" failures="0" skipped="3">
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  below test cases use gitHub Enterprise Project Integration 5. User should be able to add new pipelineSources" time="0.0000" classname="5. User should be able to add new pipelineSources">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  below test cases use gitHub Enterprise Project Integration R-GitRepo-0042. User can get their GitRepo resource using GitHub Enterprise integration" time="0.0000" classname="R-GitRepo-0042. User can get their GitRepo resource using GitHub Enterprise integration">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  below test cases use gitHub Enterprise Project Integration 6. User can delete pipelineSource by Id" time="0.0000" classname="6. User can delete pipelineSource by Id">
+      <skipped/>
+    </testcase>
+  </testsuite>
+  <testsuite name="below test cases use gitLab Project Integration" timestamp="2022-01-17T17:53:02" tests="3" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383794/setup_PreMatrix/tests/core/resources/GitRepo.js" time="0.0000" failures="0" skipped="3">
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  below test cases use gitLab Project Integration 7. User should be able to add new pipelineSources" time="0.0000" classname="7. User should be able to add new pipelineSources">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  below test cases use gitLab Project Integration GitRepo-0043. User can get their GitRepo resource using GitLab integration" time="0.0000" classname="GitRepo-0043. User can get their GitRepo resource using GitLab integration">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  below test cases use gitLab Project Integration 8. User can delete pipelineSource by Id" time="0.0000" classname="8. User can delete pipelineSource by Id">
+      <skipped/>
+    </testcase>
+  </testsuite>
+  <testsuite name="below test cases use Bitbucket Project Integration" timestamp="2022-01-17T17:53:02" tests="3" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383794/setup_PreMatrix/tests/core/resources/GitRepo.js" time="0.0020" failures="0" skipped="3">
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  below test cases use Bitbucket Project Integration 9. User should be able to add new pipelineSources" time="0.0000" classname="9. User should be able to add new pipelineSources">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  below test cases use Bitbucket Project Integration R-GitRepo-0040. User can get their GitRepo resource using Bitbucket integration" time="0.0010" classname="R-GitRepo-0040. User can get their GitRepo resource using Bitbucket integration">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests  below test cases use Bitbucket Project Integration 10. User can delete pipelineSource by Id" time="0.0000" classname="10. User can delete pipelineSource by Id">
+      <skipped/>
+    </testcase>
+  </testsuite>
+  <testsuite name="Pull request webhook branch filtering tests" timestamp="2022-01-17T17:53:02" tests="11" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383794/setup_PreMatrix/tests/core/resources/GitRepo.js" time="0.0010" failures="0" skipped="11">
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests Pull request webhook branch filtering tests R-GitRepo-5961-001 User opens or updates a pull request with a GitRepo with a pullRequestSourceBranch include pattern matching the source branch.  A resource version is created." time="0.0000" classname="R-GitRepo-5961-001 User opens or updates a pull request with a GitRepo with a pullRequestSourceBranch include pattern matching the source branch.  A resource version is created.">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests Pull request webhook branch filtering tests R-GitRepo-5961-002 User opens or updates a pull request with a GitRepo with a pullRequestSourceBranch exclude pattern matching the source branch.  No resource version is created." time="0.0000" classname="R-GitRepo-5961-002 User opens or updates a pull request with a GitRepo with a pullRequestSourceBranch exclude pattern matching the source branch.  No resource version is created.">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests Pull request webhook branch filtering tests R-GitRepo-5961-003 User opens or updates a pull request with a GitRepo with pullRequestSourceBranch include and exclude patterns both matching the source branch.  No resource version is created." time="0.0000" classname="R-GitRepo-5961-003 User opens or updates a pull request with a GitRepo with pullRequestSourceBranch include and exclude patterns both matching the source branch.  No resource version is created.">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests Pull request webhook branch filtering tests R-GitRepo-5961-004 User opens or updates a pull request with a GitRepo with a pullRequestTargetBranch include pattern matching the target branch.  A resource version is created." time="0.0000" classname="R-GitRepo-5961-004 User opens or updates a pull request with a GitRepo with a pullRequestTargetBranch include pattern matching the target branch.  A resource version is created.">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests Pull request webhook branch filtering tests R-GitRepo-5961-005 User opens or updates a pull request with a GitRepo with a pullRequestTargetBranch exclude pattern matching the target branch.  No resource version is created." time="0.0000" classname="R-GitRepo-5961-005 User opens or updates a pull request with a GitRepo with a pullRequestTargetBranch exclude pattern matching the target branch.  No resource version is created.">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests Pull request webhook branch filtering tests R-GitRepo-5961-006 User opens or updates a pull request with a GitRepo with pullRequestTargetBranch include and exclude patterns both matching the target branch.  No resource version is created." time="0.0000" classname="R-GitRepo-5961-006 User opens or updates a pull request with a GitRepo with pullRequestTargetBranch include and exclude patterns both matching the target branch.  No resource version is created.">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests Pull request webhook branch filtering tests R-GitRepo-5961-007 User opens or updates a pull request with a GitRepo with a pullRequestSourceBranch include pattern matching the source branch and a pullRequestTargetBranch exclude pattern also matching.  No resource version is created." time="0.0000" classname="R-GitRepo-5961-007 User opens or updates a pull request with a GitRepo with a pullRequestSourceBranch include pattern matching the source branch and a pullRequestTargetBranch exclude pattern also matching.  No resource version is created.">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests Pull request webhook branch filtering tests R-GitRepo-5961-008 User opens or updates a pull request with a GitRepo with a pullRequestSourceBranch exclude pattern matching the source branch and a pullRequestTargetBranch include pattern also matching the target branch.  No resource version is created." time="0.0000" classname="R-GitRepo-5961-008 User opens or updates a pull request with a GitRepo with a pullRequestSourceBranch exclude pattern matching the source branch and a pullRequestTargetBranch include pattern also matching the target branch.  No resource version is created.">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests Pull request webhook branch filtering tests R-GitRepo-5961-009 User opens or updates a pull request with a GitRepo with no pullRequestSourceBranch or pullRequestTargetBranch patterns and a branch exclude pattern matching the target branch.  No resource version is created." time="0.0000" classname="R-GitRepo-5961-009 User opens or updates a pull request with a GitRepo with no pullRequestSourceBranch or pullRequestTargetBranch patterns and a branch exclude pattern matching the target branch.  No resource version is created.">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests Pull request webhook branch filtering tests R-GitRepo-5961-010 User opens or updates a pull request with a GitRepo with no pullRequestSourceBranch or pullRequestTargetBranch patterns and a branch include pattern matching the target branch.  A resource version is created." time="0.0000" classname="R-GitRepo-5961-010 User opens or updates a pull request with a GitRepo with no pullRequestSourceBranch or pullRequestTargetBranch patterns and a branch include pattern matching the target branch.  A resource version is created.">
+      <skipped/>
+    </testcase>
+    <testcase name="RESOURCES_GITREPO - GitRepo Resource tests Pull request webhook branch filtering tests R-GitRepo-5961-011 User opens or updates a pull request with a GitRepo with no branch patterns at all.  A resource version is created." time="0.0000" classname="R-GitRepo-5961-011 User opens or updates a pull request with a GitRepo with no branch patterns at all.  A resource version is created.">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

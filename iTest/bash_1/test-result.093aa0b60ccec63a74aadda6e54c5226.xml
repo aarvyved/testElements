@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="112.7630" tests="7" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:17" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="STEP_BASHGENERICINTEGRATION - Bash Step Tests For Generic Integration" timestamp="2022-01-17T17:51:17" tests="7" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383563/setup_PreMatrix/tests/core/steps/Bash/BashIntegrations/BashGenericIntegration.js" time="112.7590" failures="0">
+    <testcase name="STEP_BASHGENERICINTEGRATION - Bash Step Tests For Generic Integration 1. User can add Generic project Integration" time="3.0050" classname="1. User can add Generic project Integration">
+    </testcase>
+    <testcase name="STEP_BASHGENERICINTEGRATION - Bash Step Tests For Generic Integration S-Bash-0297. Environment variables for the resource are available in execution sections of the Bash step." time="73.1480" classname="S-Bash-0297. Environment variables for the resource are available in execution sections of the Bash step.">
+    </testcase>
+    <testcase name="STEP_BASHGENERICINTEGRATION - Bash Step Tests For Generic Integration S-Bash-0295. User adds Generic integration in integration section of Bash step and verify pipeline sync is success" time="13.7710" classname="S-Bash-0295. User adds Generic integration in integration section of Bash step and verify pipeline sync is success">
+    </testcase>
+    <testcase name="STEP_BASHGENERICINTEGRATION - Bash Step Tests For Generic Integration 2. User should be able to add new pipelineSources" time="21.5430" classname="2. User should be able to add new pipelineSources">
+    </testcase>
+    <testcase name="STEP_BASHGENERICINTEGRATION - Bash Step Tests For Generic Integration S-Bash-0298. Users should not able to delete generic integration if it is dependent on any steps." time="0.1870" classname="S-Bash-0298. Users should not able to delete generic integration if it is dependent on any steps.">
+    </testcase>
+    <testcase name="STEP_BASHGENERICINTEGRATION - Bash Step Tests For Generic Integration 3. User can delete pipelineSource by Id" time="0.7490" classname="3. User can delete pipelineSource by Id">
+    </testcase>
+    <testcase name="STEP_BASHGENERICINTEGRATION - Bash Step Tests For Generic Integration 4. User can delete Generic project integration by Id" time="0.1360" classname="4. User can delete Generic project integration by Id">
+    </testcase>
+  </testsuite>
+</testsuites>

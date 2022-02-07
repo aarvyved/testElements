@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0080" tests="1" failures="0" skipped="1">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:50:49" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="ENTITLEMENTS - Entitlements values tests" timestamp="2022-01-17T17:50:49" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383749/setup_PreMatrix/tests/core/entitlements/validateEntitlementsValues.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Test cases to check different entitlements values" timestamp="2022-01-17T17:50:49" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383749/setup_PreMatrix/tests/core/entitlements/validateEntitlementsValues.js" time="0.0030" failures="0" skipped="1">
+    <testcase name="ENTITLEMENTS - Entitlements values tests Test cases to check different entitlements values E-entitlement-6265-0001. Super user can post and delete hooks via an api that validates license via entitlements" time="0.0000" classname="E-entitlement-6265-0001. Super user can post and delete hooks via an api that validates license via entitlements">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="328.6920" tests="5" failures="0" skipped="1">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:21" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="WORKFLOW_TESTS - 4 out of 4 - step workFlow tests " timestamp="2022-01-17T17:51:21" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests_1/4383782/setup_PreMatrix/tests/core/workFlow/step/stepWorkflow23.js" time="328.6820" failures="0" skipped="1">
+    <testcase name="WORKFLOW_TESTS - 4 out of 4 - step workFlow tests  S-WF-040. If chronological is true in the step configuration of more than one step in a pipeline, one step will not wait for the other." time="0.0000" classname="S-WF-040. If chronological is true in the step configuration of more than one step in a pipeline, one step will not wait for the other.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 4 out of 4 - step workFlow tests  S-WF-035. User verifies that a resourceVersion created by a step has createdByRunId." time="83.0840" classname="S-WF-035. User verifies that a resourceVersion created by a step has createdByRunId.">
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 4 out of 4 - step workFlow tests  S-WF-036. User verifies that a run triggered by a resourceVersion created by another run has parentRunId." time="151.0740" classname="S-WF-036. User verifies that a run triggered by a resourceVersion created by another run has parentRunId.">
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 4 out of 4 - step workFlow tests  S-WF-041. User runs a step in a default project pipeline using a resource from another pipeline source that has an integration successfully." time="47.6310" classname="S-WF-041. User runs a step in a default project pipeline using a resource from another pipeline source that has an integration successfully.">
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 4 out of 4 - step workFlow tests  S-WF-6379-001. A user runs a Bash step that adds run variables using add_run_variables and the variables are available in a following step that is only connected through a resource." time="46.5910" classname="S-WF-6379-001. A user runs a Bash step that adds run variables using add_run_variables and the variables are available in a following step that is only connected through a resource.">
+    </testcase>
+  </testsuite>
+</testsuites>

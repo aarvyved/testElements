@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1350.2760" tests="53" failures="1" skipped="6">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:15" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="HELMDEPLOY_STEP - HelmDeploy Step Tests" timestamp="2022-01-17T17:51:15" tests="53" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383546/setup_PreMatrix/tests/core/steps/Bash/BashNative/HelmDeploy.js" time="1350.2670" failures="1" skipped="6">
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0001 User verifies that pipeline sync is successful when newVersionOnly is true on a resource in inputResources for a HelmDeploy step." time="11.4190" classname="S-HelmDeploy-0001 User verifies that pipeline sync is successful when newVersionOnly is true on a resource in inputResources for a HelmDeploy step.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0002 User verifies that pipeline sync is successful when FileSpec is an input resource for a HelmDeploy step." time="12.6070" classname="S-HelmDeploy-0002 User verifies that pipeline sync is successful when FileSpec is an input resource for a HelmDeploy step.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0003 User verifies that pipeline sync is successful when chartPath is provided and FileSpec is the input resource for a HelmDeploy step." time="18.6380" classname="S-HelmDeploy-0003 User verifies that pipeline sync is successful when chartPath is provided and FileSpec is the input resource for a HelmDeploy step.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0004 User verifies that pipeline sync fails when required chartPath isn’t provided and FileSpec is the input resource for a HelmDeploy step." time="18.5230" classname="S-HelmDeploy-0004 User verifies that pipeline sync fails when required chartPath isn’t provided and FileSpec is the input resource for a HelmDeploy step.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0005 User verifies that pipeline sync is successful when chartName and chartVersion are provided and FileSpec is the input resource for a HelmDeploy step." time="17.3920" classname="S-HelmDeploy-0005 User verifies that pipeline sync is successful when chartName and chartVersion are provided and FileSpec is the input resource for a HelmDeploy step.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0006 User verifies that pipeline sync fails when chartVersion is provided and chartName isn&apos;t provided when FileSpec is the input resource for a HelmDeploy step." time="11.8050" classname="S-HelmDeploy-0006 User verifies that pipeline sync fails when chartVersion is provided and chartName isn&apos;t provided when FileSpec is the input resource for a HelmDeploy step.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0007 User verifies that pipeline sync fails when chartName is provided and chartVersion isn&apos;t provided when FileSpec is the input resource for a HelmDeploy step." time="13.3680" classname="S-HelmDeploy-0007 User verifies that pipeline sync fails when chartName is provided and chartVersion isn&apos;t provided when FileSpec is the input resource for a HelmDeploy step.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0008 User verifies that pipeline sync is successful when HelmChart is an input resource for a HelmDeploy step." time="11.7870" classname="S-HelmDeploy-0008 User verifies that pipeline sync is successful when HelmChart is an input resource for a HelmDeploy step.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0009 User verifies that pipeline sync is successful when GitRepo is an input resource for a HelmDeploy step." time="18.2230" classname="S-HelmDeploy-0009 User verifies that pipeline sync is successful when GitRepo is an input resource for a HelmDeploy step.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0010 User verifies that pipeline sync fails when FileSpec and GitRepo are set together as input resources for a HelmDeploy step." time="10.4070" classname="S-HelmDeploy-0010 User verifies that pipeline sync fails when FileSpec and GitRepo are set together as input resources for a HelmDeploy step.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0011 User verifies that pipeline sync fails when FileSpec and HelmChart are set together as input resources for a HelmDeploy step." time="10.2950" classname="S-HelmDeploy-0011 User verifies that pipeline sync fails when FileSpec and HelmChart are set together as input resources for a HelmDeploy step.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0012 User verifies that pipeline sync fails when GitRepo and HelmChart are set together as input resources for a HelmDeploy step." time="10.4540" classname="S-HelmDeploy-0012 User verifies that pipeline sync fails when GitRepo and HelmChart are set together as input resources for a HelmDeploy step.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0013 User can run HelmDeploy step successfully when using FileSpec that points to Artifactory Generic repository as an input resource." time="252.7810" classname="S-HelmDeploy-0013 User can run HelmDeploy step successfully when using FileSpec that points to Artifactory Generic repository as an input resource.">
+      <failure message="Run error" type="Error"><![CDATA[Error: Run error
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383546/setup_PreMatrix/tests/globalWrapper/triggerStepToGetRunStatus.js:121:25
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383546/setup_PreMatrix/tests/node_modules/async/dist/async.js:2959:19
+    at wrapper (node_modules/async/dist/async.js:272:20)
+    at iterateeCallback (node_modules/async/dist/async.js:417:21)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383546/setup_PreMatrix/tests/node_modules/async/dist/async.js:325:20
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383546/setup_PreMatrix/tests/node_modules/async/dist/async.js:2957:17
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383546/setup_PreMatrix/tests/globalWrapper/triggerStepToGetRunStatus.js:184:18
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383546/setup_PreMatrix/tests/globalWrapper/getRunStatusForQuery.js:68:22
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383546/setup_PreMatrix/tests/_common/pipelines/Adapter.js:2573:9
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383546/setup_PreMatrix/tests/node_modules/async/dist/async.js:2959:19
+    at wrapper (node_modules/async/dist/async.js:272:20)
+    at replenish (node_modules/async/dist/async.js:439:29)
+    at iterateeCallback (node_modules/async/dist/async.js:428:21)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383546/setup_PreMatrix/tests/node_modules/async/dist/async.js:325:20
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383546/setup_PreMatrix/tests/node_modules/async/dist/async.js:2957:17
+    at Request._callback (_common/utils.js:126:9)
+    at Request.self.callback (node_modules/request/request.js:188:22)
+    at Request.<anonymous> (node_modules/request/request.js:1171:10)
+    at IncomingMessage.<anonymous> (node_modules/request/request.js:1091:12)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)]]></failure>
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0014 User can run HelmDeploy step successfully when using FileSpec that points to Artifactory Helm repository as an input resource." time="0.0000" classname="S-HelmDeploy-0014 User can run HelmDeploy step successfully when using FileSpec that points to Artifactory Helm repository as an input resource.">
+      <skipped/>
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0015 User will fail to run HelmDeploy step when using FileSpec that points to Artifactory Generic repository and chartPath configuration property doesn&apos;t include valid charts." time="0.0000" classname="S-HelmDeploy-0015 User will fail to run HelmDeploy step when using FileSpec that points to Artifactory Generic repository and chartPath configuration property doesn&apos;t include valid charts.">
+      <skipped/>
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0016 User will fail to run HelmDeploy step when using FileSpec that points to Artifactory Helm repository and chartPath configuration property doesn&apos;t include valid charts." time="86.5860" classname="S-HelmDeploy-0016 User will fail to run HelmDeploy step when using FileSpec that points to Artifactory Helm repository and chartPath configuration property doesn&apos;t include valid charts.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0017 User verifies that pipeline sync is successful when BuildInfo is an input resource for a HelmDeploy step. User also verifies that the required configuration property chartPath is provided when BuildInfo is the input resource." time="10.1970" classname="S-HelmDeploy-0017 User verifies that pipeline sync is successful when BuildInfo is an input resource for a HelmDeploy step. User also verifies that the required configuration property chartPath is provided when BuildInfo is the input resource.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0019 User verifies that pipeline sync fails when required chartPath isn’t provided and BuildInfo is the input resource for a HelmDeploy step." time="9.8230" classname="S-HelmDeploy-0019 User verifies that pipeline sync fails when required chartPath isn’t provided and BuildInfo is the input resource for a HelmDeploy step.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0020 User verifies that pipeline sync is successful when chartName and chartVersion are provided and BuildInfo is the input resource for a HelmDeploy step." time="10.5090" classname="S-HelmDeploy-0020 User verifies that pipeline sync is successful when chartName and chartVersion are provided and BuildInfo is the input resource for a HelmDeploy step.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0021 User verifies that pipeline sync fails when chartName is provided and chartVersion isn&apos;t provided when BuildInfo is the input resource for a HelmDeploy step." time="9.7530" classname="S-HelmDeploy-0021 User verifies that pipeline sync fails when chartName is provided and chartVersion isn&apos;t provided when BuildInfo is the input resource for a HelmDeploy step.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0022 User verifies that pipeline sync fails when chartVersion is provided and chartName isn&apos;t provided when BuildInfo is the input resource for a HelmDeploy step." time="9.7950" classname="S-HelmDeploy-0022 User verifies that pipeline sync fails when chartVersion is provided and chartName isn&apos;t provided when BuildInfo is the input resource for a HelmDeploy step.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0023 User verifies that pipeline sync fails when BuildInfo and GitRepo are set together as input resources for a HelmDeploy step." time="9.8330" classname="S-HelmDeploy-0023 User verifies that pipeline sync fails when BuildInfo and GitRepo are set together as input resources for a HelmDeploy step.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0024 User can run HelmDeploy step successfully when using BuildInfo that represents Artifactory Generic repository with Helm charts an input resource." time="0.0000" classname="S-HelmDeploy-0024 User can run HelmDeploy step successfully when using BuildInfo that represents Artifactory Generic repository with Helm charts an input resource.">
+      <skipped/>
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0025 User can run HelmDeploy step successfully when using BuildInfo that represents Artifactory Helm repository as an input resource." time="0.0000" classname="S-HelmDeploy-0025 User can run HelmDeploy step successfully when using BuildInfo that represents Artifactory Helm repository as an input resource.">
+      <skipped/>
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0026 User will fail to run HelmDeploy step when using BuildInfo that respresents Artifactory Generic repository and chartPath configuration property doesn&apos;t include valid charts." time="39.4580" classname="S-HelmDeploy-0026 User will fail to run HelmDeploy step when using BuildInfo that respresents Artifactory Generic repository and chartPath configuration property doesn&apos;t include valid charts.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0027 User verifies that pipeline sync is successful when ReleaseBundle is an input resource for a HelmDeploy step. User also verifies that the required configuration property chartPath is provided when ReleaseBundle is the input resource." time="10.5080" classname="S-HelmDeploy-0027 User verifies that pipeline sync is successful when ReleaseBundle is an input resource for a HelmDeploy step. User also verifies that the required configuration property chartPath is provided when ReleaseBundle is the input resource.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0028 User verifies that pipeline sync fails when required chartPath isn’t provided and ReleaseBundle is the input resource for a HelmDeploy step." time="9.8510" classname="S-HelmDeploy-0028 User verifies that pipeline sync fails when required chartPath isn’t provided and ReleaseBundle is the input resource for a HelmDeploy step.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0029 User verifies that pipeline sync is successful when chartName and chartVersion are provided and ReleaseBundle is the input resource for a HelmDeploy step." time="10.2440" classname="S-HelmDeploy-0029 User verifies that pipeline sync is successful when chartName and chartVersion are provided and ReleaseBundle is the input resource for a HelmDeploy step.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0030 User verifies that pipeline sync fails when chartName is provided and chartVersion isn&apos;t provided when ReleaseBundle is the input resource for a HelmDeploy step." time="9.8120" classname="S-HelmDeploy-0030 User verifies that pipeline sync fails when chartName is provided and chartVersion isn&apos;t provided when ReleaseBundle is the input resource for a HelmDeploy step.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0031 User verifies that pipeline sync fails when chartVersion is provided and chartName isn&apos;t provided when ReleaseBundle is the input resource for a HelmDeploy step." time="9.6970" classname="S-HelmDeploy-0031 User verifies that pipeline sync fails when chartVersion is provided and chartName isn&apos;t provided when ReleaseBundle is the input resource for a HelmDeploy step.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0032 User verifies that pipeline sync fails when ReleaseBundle and GitRepo are set together as input resources for a HelmDeploy step." time="9.9850" classname="S-HelmDeploy-0032 User verifies that pipeline sync fails when ReleaseBundle and GitRepo are set together as input resources for a HelmDeploy step.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0033 User can run HelmDeploy step successfully when using ReleaseBundle that represents Artifactory Generic repository with Helm charts an input resource." time="112.1730" classname="S-HelmDeploy-0033 User can run HelmDeploy step successfully when using ReleaseBundle that represents Artifactory Generic repository with Helm charts an input resource.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0034 User can run HelmDeploy step successfully when using ReleaseBundle that represents Artifactory Helm repository as an input resource." time="0.0000" classname="S-HelmDeploy-0034 User can run HelmDeploy step successfully when using ReleaseBundle that represents Artifactory Helm repository as an input resource.">
+      <skipped/>
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0035 User will fail to run HelmDeploy step when using ReleaseBundle that respresents Artifactory Generic repository and chartPath configuration property doesn&apos;t include valid charts." time="51.4520" classname="S-HelmDeploy-0035 User will fail to run HelmDeploy step when using ReleaseBundle that respresents Artifactory Generic repository and chartPath configuration property doesn&apos;t include valid charts.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0036 User will fail to run HelmDeploy step when using ReleaseBundle that respresents Artifactory Generic repository and the provided Release Bundle doesn&apos;t exist." time="41.4310" classname="S-HelmDeploy-0036 User will fail to run HelmDeploy step when using ReleaseBundle that respresents Artifactory Generic repository and the provided Release Bundle doesn&apos;t exist.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-0037 User verifies that pipeline sync fails when there’s no Artifactory input integration to HelmDeploy step, when ReleaseBundle is an input resource for a HelmDeploy step." time="9.9370" classname="S-HelmDeploy-0037 User verifies that pipeline sync fails when there’s no Artifactory input integration to HelmDeploy step, when ReleaseBundle is an input resource for a HelmDeploy step.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-5933-001 User adds a HelmDeploy step with a Kubernetes integration at the pipeline level and another at the step level.  Sync fails." time="12.0790" classname="S-HelmDeploy-5933-001 User adds a HelmDeploy step with a Kubernetes integration at the pipeline level and another at the step level.  Sync fails.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-5933-002 User adds a HelmDeploy step with a GitRepo input resource at the pipeline level.  Sync is successful." time="10.8840" classname="S-HelmDeploy-5933-002 User adds a HelmDeploy step with a GitRepo input resource at the pipeline level.  Sync is successful.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-5933-003 User adds a HelmDeploy step with a GitRepo input resource at the pipeline level and another at the step level.  Sync fails." time="9.6980" classname="S-HelmDeploy-5933-003 User adds a HelmDeploy step with a GitRepo input resource at the pipeline level and another at the step level.  Sync fails.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-5933-004 User adds a HelmDeploy step with a HelmChart input resource at the pipeline level.  Sync is successful." time="10.1850" classname="S-HelmDeploy-5933-004 User adds a HelmDeploy step with a HelmChart input resource at the pipeline level.  Sync is successful.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-5933-005 User adds a HelmDeploy step with a HelmChart input resource at the pipeline level and another at the step level.  Sync fails." time="9.7700" classname="S-HelmDeploy-5933-005 User adds a HelmDeploy step with a HelmChart input resource at the pipeline level and another at the step level.  Sync fails.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-5933-006 User adds a HelmDeploy step with a FileSpec input resource at the pipeline level.  Sync is successful." time="10.9140" classname="S-HelmDeploy-5933-006 User adds a HelmDeploy step with a FileSpec input resource at the pipeline level.  Sync is successful.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-5933-007 User adds a HelmDeploy step with a FileSpec input resource at the pipeline level and another at the step level.  Sync fails." time="9.7670" classname="S-HelmDeploy-5933-007 User adds a HelmDeploy step with a FileSpec input resource at the pipeline level and another at the step level.  Sync fails.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-5933-008 User adds a HelmDeploy step with a BuildInfo input resource at the pipeline level.  Sync is successful." time="10.2340" classname="S-HelmDeploy-5933-008 User adds a HelmDeploy step with a BuildInfo input resource at the pipeline level.  Sync is successful.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-5933-009 User adds a HelmDeploy step with a BuildInfo input resource at the pipeline level and another at the step level.  Sync fails." time="9.7410" classname="S-HelmDeploy-5933-009 User adds a HelmDeploy step with a BuildInfo input resource at the pipeline level and another at the step level.  Sync fails.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-5933-010 User adds a HelmDeploy step with a ReleaseBundle input resource at the pipeline level.  Sync is successful." time="10.2230" classname="S-HelmDeploy-5933-010 User adds a HelmDeploy step with a ReleaseBundle input resource at the pipeline level.  Sync is successful.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-5933-011 User adds a HelmDeploy step with a ReleaseBundle input resource at the pipeline level and another at the step level.  Sync fails." time="9.7850" classname="S-HelmDeploy-5933-011 User adds a HelmDeploy step with a ReleaseBundle input resource at the pipeline level and another at the step level.  Sync fails.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-5933-012 User runs a HelmDeploy step with a GitRepo input resource at the pipeline level successfully." time="75.3730" classname="S-HelmDeploy-5933-012 User runs a HelmDeploy step with a GitRepo input resource at the pipeline level successfully.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-5933-013 User runs a HelmDeploy step with a HelmChart input resource at the pipeline level successfully." time="102.6140" classname="S-HelmDeploy-5933-013 User runs a HelmDeploy step with a HelmChart input resource at the pipeline level successfully.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-5933-014 User runs a HelmDeploy step with a FileSpec input resource at the pipeline level successfully." time="84.6340" classname="S-HelmDeploy-5933-014 User runs a HelmDeploy step with a FileSpec input resource at the pipeline level successfully.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-5933-015 User runs a HelmDeploy step with a BuildInfo input resource at the pipeline level successfully." time="84.7860" classname="S-HelmDeploy-5933-015 User runs a HelmDeploy step with a BuildInfo input resource at the pipeline level successfully.">
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-5933-016 User runs a HelmDeploy step with a ReleaseBundle input resource at the pipeline level successfully." time="0.0000" classname="S-HelmDeploy-5933-016 User runs a HelmDeploy step with a ReleaseBundle input resource at the pipeline level successfully.">
+      <skipped/>
+    </testcase>
+    <testcase name="HELMDEPLOY_STEP - HelmDeploy Step Tests S-HelmDeploy-5933-017 User adds a HelmDeploy step with a Kubernetes integration at the pipeline level and sync is successful." time="10.3660" classname="S-HelmDeploy-5933-017 User adds a HelmDeploy step with a Kubernetes integration at the pipeline level and sync is successful.">
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="373.8940" tests="3" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:16" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="HELMBLUEGREENCLEANUP_STEP - HelmBlueGreenCleanup Step Tests" timestamp="2022-01-17T17:51:16" tests="3" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383547/setup_PreMatrix/tests/core/steps/Bash/BashNative/HelmBlueGreenCleanup.js" time="373.8780" failures="0">
+    <testcase name="HELMBLUEGREENCLEANUP_STEP - HelmBlueGreenCleanup Step Tests S-LX-HBGCleanUp-5978-0001 user runs a HelmBlueGreenCleanup to clean up idle environment on a bash based node. Verify if the idle environment is cleaned up" time="165.8270" classname="S-LX-HBGCleanUp-5978-0001 user runs a HelmBlueGreenCleanup to clean up idle environment on a bash based node. Verify if the idle environment is cleaned up">
+    </testcase>
+    <testcase name="HELMBLUEGREENCLEANUP_STEP - HelmBlueGreenCleanup Step Tests S-LX-HBGCleanUp-5978-0002 user runs a HelmBlueGreenCleanup step with flags to clean up idle environment on a bash based node. Verify if the idle environment are cleaned up" time="106.8850" classname="S-LX-HBGCleanUp-5978-0002 user runs a HelmBlueGreenCleanup step with flags to clean up idle environment on a bash based node. Verify if the idle environment are cleaned up">
+    </testcase>
+    <testcase name="HELMBLUEGREENCLEANUP_STEP - HelmBlueGreenCleanup Step Tests S-LX-HBGCleanUp-5978-0003 User runs a HelmBlueGreenCleanup step when there is no idle release. Verify if run is successful and nothing is cleaned up." time="100.7690" classname="S-LX-HBGCleanUp-5978-0003 User runs a HelmBlueGreenCleanup step when there is no idle release. Verify if run is successful and nothing is cleaned up.">
+    </testcase>
+  </testsuite>
+</testsuites>

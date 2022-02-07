@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="48.0750" tests="16" failures="0" skipped="2">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:52:10" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="PROJECTINTEGRATIONS_DOCKERREGISTRY - DockerRegistry integration tests" timestamp="2022-01-17T17:52:10" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383832/setup_PreMatrix/tests/core/projectIntegrations/DockerRegistry.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Below test cases uses DockerRegistry project " timestamp="2022-01-17T17:52:11" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383832/setup_PreMatrix/tests/core/projectIntegrations/DockerRegistry.js" time="18.9860" failures="0">
+    <testcase name="PROJECTINTEGRATIONS_DOCKERREGISTRY - DockerRegistry integration tests Below test cases uses DockerRegistry project  I-DockerRegistry-0001. User can add DockerRegistry project Integration" time="18.7360" classname="I-DockerRegistry-0001. User can add DockerRegistry project Integration">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DOCKERREGISTRY - DockerRegistry integration tests Below test cases uses DockerRegistry project  I-DockerRegistry-0011. Users should able to delete docker registry integration if it is not dependent on any steps or resources in the pipelines" time="0.2460" classname="I-DockerRegistry-0011. Users should able to delete docker registry integration if it is not dependent on any steps or resources in the pipelines">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases uses trusted DockerRegistry project " timestamp="2022-01-17T17:52:30" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383832/setup_PreMatrix/tests/core/projectIntegrations/DockerRegistry.js" time="0.0010" failures="0" skipped="2">
+    <testcase name="PROJECTINTEGRATIONS_DOCKERREGISTRY - DockerRegistry integration tests Below test cases uses trusted DockerRegistry project  I-DockerRegistry-0003. User can add DockerRegistry projectIntegration for trusted registry" time="0.0000" classname="I-DockerRegistry-0003. User can add DockerRegistry projectIntegration for trusted registry">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DOCKERREGISTRY - DockerRegistry integration tests Below test cases uses trusted DockerRegistry project  I-DockerRegistry-0011. Users should able to delete docker registry integration if it is not dependent on any steps or resources in the pipelines" time="0.0000" classname="I-DockerRegistry-0011. Users should able to delete docker registry integration if it is not dependent on any steps or resources in the pipelines">
+      <skipped/>
+    </testcase>
+  </testsuite>
+  <testsuite name="below test cases uses Private DockerRegistry project integration" timestamp="2022-01-17T17:52:30" tests="12" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383832/setup_PreMatrix/tests/core/projectIntegrations/DockerRegistry.js" time="28.7750" failures="0">
+    <testcase name="PROJECTINTEGRATIONS_DOCKERREGISTRY - DockerRegistry integration tests below test cases uses Private DockerRegistry project integration I-DockerRegistry-0002. User can add DockerRegistry projectIntegration for private registry" time="3.9530" classname="I-DockerRegistry-0002. User can add DockerRegistry projectIntegration for private registry">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DOCKERREGISTRY - DockerRegistry integration tests below test cases uses Private DockerRegistry project integration 1. User should be able add PipelineSources" time="23.4880" classname="1. User should be able add PipelineSources">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DOCKERREGISTRY - DockerRegistry integration tests below test cases uses Private DockerRegistry project integration 2. User can get DockerRegistry resource which is added in  pipeline source" time="0.0270" classname="2. User can get DockerRegistry resource which is added in  pipeline source">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DOCKERREGISTRY - DockerRegistry integration tests below test cases uses Private DockerRegistry project integration I-DockerRegistry-0004. DockerRegistry integration name mustadhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/" time="0.0700" classname="I-DockerRegistry-0004. DockerRegistry integration name mustadhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DOCKERREGISTRY - DockerRegistry integration tests below test cases uses Private DockerRegistry project integration I-DockerRegistry-0005. User cannot update the user integration namefield in DockerRegistry integration " time="0.1510" classname="I-DockerRegistry-0005. User cannot update the user integration namefield in DockerRegistry integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DOCKERREGISTRY - DockerRegistry integration tests below test cases uses Private DockerRegistry project integration I-DockerRegistry-0006.User can update the URL field in DockerRegistry integration " time="0.2300" classname="I-DockerRegistry-0006.User can update the URL field in DockerRegistry integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DOCKERREGISTRY - DockerRegistry integration tests below test cases uses Private DockerRegistry project integration I-DockerRegistry-0007. User can update the username field inDockerRegistry integration " time="0.0990" classname="I-DockerRegistry-0007. User can update the username field inDockerRegistry integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DOCKERREGISTRY - DockerRegistry integration tests below test cases uses Private DockerRegistry project integration I-DockerRegistry-0008. User can update the password field in DockerRegistry integration " time="0.1250" classname="I-DockerRegistry-0008. User can update the password field in DockerRegistry integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DOCKERREGISTRY - DockerRegistry integration tests below test cases uses Private DockerRegistry project integration I-DockerRegistry-0009. User can update the email field inDockerRegistry integration " time="0.1810" classname="I-DockerRegistry-0009. User can update the email field inDockerRegistry integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DOCKERREGISTRY - DockerRegistry integration tests below test cases uses Private DockerRegistry project integration I-DockerRegistry-0010. Users should not able to delete docker registry integration if it is dependent on any steps or resources in the pipelines" time="0.0530" classname="I-DockerRegistry-0010. Users should not able to delete docker registry integration if it is dependent on any steps or resources in the pipelines">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DOCKERREGISTRY - DockerRegistry integration tests below test cases uses Private DockerRegistry project integration 3. User can delete pipelineSource by Id" time="0.2790" classname="3. User can delete pipelineSource by Id">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DOCKERREGISTRY - DockerRegistry integration tests below test cases uses Private DockerRegistry project integration I-DockerRegistry-0011. Users should able to delete docker registry integration if it is not dependent on any steps or resources in the pipelines" time="0.1090" classname="I-DockerRegistry-0011. Users should able to delete docker registry integration if it is not dependent on any steps or resources in the pipelines">
+    </testcase>
+  </testsuite>
+</testsuites>

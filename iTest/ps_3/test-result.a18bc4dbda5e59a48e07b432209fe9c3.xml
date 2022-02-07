@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="2869.5160" tests="18" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:36" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="POWERSHELL_UPLOADARTIFACT_STEP - PowerShell UploadArtifact Step Tests" timestamp="2022-01-17T17:51:36" tests="18" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_3/4383709/setup_PreMatrix/tests/core/steps/PowerShell/PSNative/PowerShellUploadArtifact.js" time="2869.4950" failures="0">
+    <testcase name="POWERSHELL_UPLOADARTIFACT_STEP - PowerShell UploadArtifact Step Tests EXT-S-PS-AU-0001 User runs an UploadArtifact step on Windows with just a FileSpec input resource and uploads the intended resource." time="277.4380" classname="EXT-S-PS-AU-0001 User runs an UploadArtifact step on Windows with just a FileSpec input resource and uploads the intended resource.">
+    </testcase>
+    <testcase name="POWERSHELL_UPLOADARTIFACT_STEP - PowerShell UploadArtifact Step Tests EXT-S-PS-AU-0002 User runs an UploadArtifact step on Windows with just a RemoteFile input resource and uploads the intended resource." time="111.9130" classname="EXT-S-PS-AU-0002 User runs an UploadArtifact step on Windows with just a RemoteFile input resource and uploads the intended resource.">
+    </testcase>
+    <testcase name="POWERSHELL_UPLOADARTIFACT_STEP - PowerShell UploadArtifact Step Tests EXT-S-PS-AU-0003 User runs an UploadArtifact step on Windows with FileSpec and RemoteFile resources and uploads files from both." time="93.8040" classname="EXT-S-PS-AU-0003 User runs an UploadArtifact step on Windows with FileSpec and RemoteFile resources and uploads files from both.">
+    </testcase>
+    <testcase name="POWERSHELL_UPLOADARTIFACT_STEP - PowerShell UploadArtifact Step Tests EXT-S-PS-AU-0004 User runs an UploadArtifact step on Windows with a FileSpec output resource and no regExp and the resource is updated with the uploaded files." time="106.6000" classname="EXT-S-PS-AU-0004 User runs an UploadArtifact step on Windows with a FileSpec output resource and no regExp and the resource is updated with the uploaded files.">
+    </testcase>
+    <testcase name="POWERSHELL_UPLOADARTIFACT_STEP - PowerShell UploadArtifact Step Tests EXT-S-PS-AU-0005 User runs an UploadArtifact step on Windows with a FileSpec output resource and regExp and the resource is updated with the uploaded files." time="99.5660" classname="EXT-S-PS-AU-0005 User runs an UploadArtifact step on Windows with a FileSpec output resource and regExp and the resource is updated with the uploaded files.">
+    </testcase>
+    <testcase name="POWERSHELL_UPLOADARTIFACT_STEP - PowerShell UploadArtifact Step Tests EXT-S-PS-AU-0006 User runs an UploadArtifact step on Windows with autoPublishBuildInfo and an output BuildInfo resource and the output BuildInfo resource is updated for the published BuildInfo." time="111.8570" classname="EXT-S-PS-AU-0006 User runs an UploadArtifact step on Windows with autoPublishBuildInfo and an output BuildInfo resource and the output BuildInfo resource is updated for the published BuildInfo.">
+    </testcase>
+    <testcase name="POWERSHELL_UPLOADARTIFACT_STEP - PowerShell UploadArtifact Step Tests EXT-S-PS-AU-0007 User runs an UploadArtifact step on Windows with properties and the properties are on the uploaded files." time="99.9450" classname="EXT-S-PS-AU-0007 User runs an UploadArtifact step on Windows with properties and the properties are on the uploaded files.">
+    </testcase>
+    <testcase name="POWERSHELL_UPLOADARTIFACT_STEP - PowerShell UploadArtifact Step Tests EXT-S-PS-AU-0008 User runs an UploadArtifact step on Windows with properties containing variables and the properties on the uploaded files have the expected values." time="231.2660" classname="EXT-S-PS-AU-0008 User runs an UploadArtifact step on Windows with properties containing variables and the properties on the uploaded files have the expected values.">
+    </testcase>
+    <testcase name="POWERSHELL_UPLOADARTIFACT_STEP - PowerShell UploadArtifact Step Tests EXT-S-PS-AU-0009 User runs an UploadArtifact step on Windows with flat true and nested directories and uploaded files do not have the directory structure." time="213.4600" classname="EXT-S-PS-AU-0009 User runs an UploadArtifact step on Windows with flat true and nested directories and uploaded files do not have the directory structure.">
+    </testcase>
+    <testcase name="POWERSHELL_UPLOADARTIFACT_STEP - PowerShell UploadArtifact Step Tests EXT-S-PS-AU-0010 User runs an UploadArtifact step on Windows with flat false and nested directories and uploaded files do have the directory structure." time="94.0360" classname="EXT-S-PS-AU-0010 User runs an UploadArtifact step on Windows with flat false and nested directories and uploaded files do have the directory structure.">
+    </testcase>
+    <testcase name="POWERSHELL_UPLOADARTIFACT_STEP - PowerShell UploadArtifact Step Tests EXT-S-PS-AU-0011 User runs an UploadArtifact step on Windows with module and the uploaded artifact has the correct module." time="93.9890" classname="EXT-S-PS-AU-0011 User runs an UploadArtifact step on Windows with module and the uploaded artifact has the correct module.">
+    </testcase>
+    <testcase name="POWERSHELL_UPLOADARTIFACT_STEP - PowerShell UploadArtifact Step Tests EXT-S-PS-AU-0012 User runs an UploadArtifact step on Windows with deb and the uploaded artifact has the correct Debian distribution information." time="345.1960" classname="EXT-S-PS-AU-0012 User runs an UploadArtifact step on Windows with deb and the uploaded artifact has the correct Debian distribution information.">
+    </testcase>
+    <testcase name="POWERSHELL_UPLOADARTIFACT_STEP - PowerShell UploadArtifact Step Tests EXT-S-PS-AU-0013 User runs an UploadArtifact step on Windows with recursive false and no files in subdirectories are uploaded." time="211.3630" classname="EXT-S-PS-AU-0013 User runs an UploadArtifact step on Windows with recursive false and no files in subdirectories are uploaded.">
+    </testcase>
+    <testcase name="POWERSHELL_UPLOADARTIFACT_STEP - PowerShell UploadArtifact Step Tests EXT-S-PS-AU-0014 User runs an UploadArtifact step on Windows with dryRun true and no files are uploaded." time="189.8280" classname="EXT-S-PS-AU-0014 User runs an UploadArtifact step on Windows with dryRun true and no files are uploaded.">
+    </testcase>
+    <testcase name="POWERSHELL_UPLOADARTIFACT_STEP - PowerShell UploadArtifact Step Tests EXT-S-PS-AU-0015 User runs an UploadArtifact step on Windows with symlinks true and a symlink and the symlink is uploaded." time="254.2330" classname="EXT-S-PS-AU-0015 User runs an UploadArtifact step on Windows with symlinks true and a symlink and the symlink is uploaded.">
+    </testcase>
+    <testcase name="POWERSHELL_UPLOADARTIFACT_STEP - PowerShell UploadArtifact Step Tests EXT-S-PS-AU-0016 User runs an UploadArtifact step on Windows with explode true and the uploaded file is expanded." time="93.7430" classname="EXT-S-PS-AU-0016 User runs an UploadArtifact step on Windows with explode true and the uploaded file is expanded.">
+    </testcase>
+    <testcase name="POWERSHELL_UPLOADARTIFACT_STEP - PowerShell UploadArtifact Step Tests EXT-S-PS-AU-0017 User runs an UploadArtifact step on Windows with includeDirs and the correct files are uploaded." time="75.6570" classname="EXT-S-PS-AU-0017 User runs an UploadArtifact step on Windows with includeDirs and the correct files are uploaded.">
+    </testcase>
+    <testcase name="POWERSHELL_UPLOADARTIFACT_STEP - PowerShell UploadArtifact Step Tests EXT-S-PS-AU-0018 User runs an UploadArtifact step on Windows with syncDeletes and other files in that path are removed." time="165.4180" classname="EXT-S-PS-AU-0018 User runs an UploadArtifact step on Windows with syncDeletes and other files in that path are removed.">
+    </testcase>
+  </testsuite>
+</testsuites>

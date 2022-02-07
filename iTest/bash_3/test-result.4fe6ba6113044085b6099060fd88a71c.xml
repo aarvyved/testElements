@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="372.4300" tests="25" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:49" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="GENERIC_BASH - 2 out of 7 - Generic Bash tests " timestamp="2022-01-17T17:51:49" tests="25" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383601/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/BashGeneric2.js" time="372.4120" failures="0">
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  2. User should be able to add new pipelineSources." time="26.2890" classname="2. User should be able to add new pipelineSources.">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  3. User should be able to get their pipelines" time="80.3630" classname="3. User should be able to get their pipelines">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  4. User can get their steps" time="3.2930" classname="4. User can get their steps">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  5. User can get their steplets" time="0.0240" classname="5. User can get their steplets">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0061. onFailure commands should execute on failed completion of onExecute." time="0.0610" classname="S-Bash-0061. onFailure commands should execute on failed completion of onExecute.">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  6. User can delete pipelineSource by Id" time="1.4530" classname="6. User can delete pipelineSource by Id">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  7. User should be able to add new pipelineSources" time="10.0040" classname="7. User should be able to add new pipelineSources">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  8. User should be able to get their pipelines" time="67.6440" classname="8. User should be able to get their pipelines">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  9. User can get their steps" time="3.0960" classname="9. User can get their steps">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  10. User can get their steplets" time="0.0370" classname="10. User can get their steplets">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0062. onSuccess commands should execute on successful completion of onExecute." time="0.0640" classname="S-Bash-0062. onSuccess commands should execute on successful completion of onExecute.">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  11. User can delete pipelineSource by Id" time="0.8860" classname="11. User can delete pipelineSource by Id">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0063. OnSuccess does not execute when any command fails in onExecute " time="44.7460" classname="S-Bash-0063. OnSuccess does not execute when any command fails in onExecute ">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  12. User should be able to add new pipelineSources" time="10.0990" classname="12. User should be able to add new pipelineSources">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  13. User should be able to get their pipelines" time="25.7330" classname="13. User should be able to get their pipelines">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  14. User can get their steps" time="3.0560" classname="14. User can get their steps">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  15. User can get their steplets" time="0.0240" classname="15. User can get their steplets">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0064. onComplete commands should execute on completion of onExecute ." time="0.0930" classname="S-Bash-0064. onComplete commands should execute on completion of onExecute .">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  16. User can delete pipelineSource by Id" time="0.7970" classname="16. User can delete pipelineSource by Id">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  17. User should be able to add new pipelineSources" time="9.8360" classname="17. User should be able to add new pipelineSources">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S_Bash_0066. If user update pipelines environmentVariables in Bash step then bash step should fail." time="19.4080" classname="S_Bash_0066. If user update pipelines environmentVariables in Bash step then bash step should fail.">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  18. User can get their steps" time="3.0990" classname="18. User can get their steps">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  19. User can delete pipelineSource by Id" time="0.9110" classname="19. User can delete pipelineSource by Id">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0032. If no runtime section is specified Bash step should execute using default image." time="29.1790" classname="S-Bash-0032. If no runtime section is specified Bash step should execute using default image.">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0035. If type is set to image but no image section is specified step runs on default image." time="32.0720" classname="S-Bash-0035. If type is set to image but no image section is specified step runs on default image.">
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="276.4360" tests="11" failures="2" skipped="4">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:14" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="DISTRIBUTERELEASEBUNDLE_STEP - DistributeReleaseBundle Step Tests" timestamp="2022-01-17T17:51:14" tests="10" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383548/setup_PreMatrix/tests/core/steps/Bash/BashNative/DistributeReleaseBundle.js" time="0.0000" failures="0" skipped="4">
+    <testcase name="DISTRIBUTERELEASEBUNDLE_STEP - DistributeReleaseBundle Step Tests S-DistributeReleaseBundle-5933-001 User adds a DistributeReleaseBundle step with a DistributionRule input resource at the pipeline level. Sync is successful." time="11.3650" classname="S-DistributeReleaseBundle-5933-001 User adds a DistributeReleaseBundle step with a DistributionRule input resource at the pipeline level. Sync is successful.">
+    </testcase>
+    <testcase name="DISTRIBUTERELEASEBUNDLE_STEP - DistributeReleaseBundle Step Tests S-DistributeReleaseBundle-5933-002 User adds a DistributeReleaseBundle step with a DistributionRule input resource at the pipeline level and another at the step level. Sync fails." time="10.4740" classname="S-DistributeReleaseBundle-5933-002 User adds a DistributeReleaseBundle step with a DistributionRule input resource at the pipeline level and another at the step level. Sync fails.">
+    </testcase>
+    <testcase name="DISTRIBUTERELEASEBUNDLE_STEP - DistributeReleaseBundle Step Tests S-DistributeReleaseBundle-5933-003 User adds a DistributeReleaseBundle step with a ReleaseBundle input resource at the pipeline level. Sync is successful." time="20.2220" classname="S-DistributeReleaseBundle-5933-003 User adds a DistributeReleaseBundle step with a ReleaseBundle input resource at the pipeline level. Sync is successful.">
+    </testcase>
+    <testcase name="DISTRIBUTERELEASEBUNDLE_STEP - DistributeReleaseBundle Step Tests S-DistributeReleaseBundle-5933-004 User adds a DistributeReleaseBundle step with a ReleaseBundle input resource at the pipeline level and another at the step level.  Sync fails." time="19.7180" classname="S-DistributeReleaseBundle-5933-004 User adds a DistributeReleaseBundle step with a ReleaseBundle input resource at the pipeline level and another at the step level.  Sync fails.">
+    </testcase>
+    <testcase name="DISTRIBUTERELEASEBUNDLE_STEP - DistributeReleaseBundle Step Tests S-DistributeReleaseBundle-5933-005 User adds a DistributeReleaseBundle step with a ReleaseBundle output resource at the pipeline level. Sync is successful." time="24.4540" classname="S-DistributeReleaseBundle-5933-005 User adds a DistributeReleaseBundle step with a ReleaseBundle output resource at the pipeline level. Sync is successful.">
+    </testcase>
+    <testcase name="DISTRIBUTERELEASEBUNDLE_STEP - DistributeReleaseBundle Step Tests S-DistributeReleaseBundle-5933-006 User adds a DistributeReleaseBundle step with a ReleaseBundle output resource at the pipeline level and another at the step level. Sync fails." time="15.2820" classname="S-DistributeReleaseBundle-5933-006 User adds a DistributeReleaseBundle step with a ReleaseBundle output resource at the pipeline level and another at the step level. Sync fails.">
+    </testcase>
+    <testcase name="DISTRIBUTERELEASEBUNDLE_STEP - DistributeReleaseBundle Step Tests S-DistributeReleaseBundle-0001 User runs a DistributeReleaseBundle step on Linux with “dryRun: true” and a signed ReleaseBundle input successfully." time="0.0000" classname="S-DistributeReleaseBundle-0001 User runs a DistributeReleaseBundle step on Linux with “dryRun: true” and a signed ReleaseBundle input successfully.">
+      <skipped/>
+    </testcase>
+    <testcase name="DISTRIBUTERELEASEBUNDLE_STEP - DistributeReleaseBundle Step Tests S-DistributeReleaseBundle-0002 User runs a DistributeReleaseBundle step on Linux with “dryRun: false” and no ReleaseBundle output successfully." time="0.0000" classname="S-DistributeReleaseBundle-0002 User runs a DistributeReleaseBundle step on Linux with “dryRun: false” and no ReleaseBundle output successfully.">
+      <skipped/>
+    </testcase>
+    <testcase name="DISTRIBUTERELEASEBUNDLE_STEP - DistributeReleaseBundle Step Tests S-DistributeReleaseBundle-0003 User runs a DistributeReleaseBundle step on Linux with a signed ReleaseBundle input successfully and a ReleaseBundle output is updated with the correct name and number and isSigned." time="0.0000" classname="S-DistributeReleaseBundle-0003 User runs a DistributeReleaseBundle step on Linux with a signed ReleaseBundle input successfully and a ReleaseBundle output is updated with the correct name and number and isSigned.">
+      <skipped/>
+    </testcase>
+    <testcase name="DISTRIBUTERELEASEBUNDLE_STEP - DistributeReleaseBundle Step Tests S-DistributeReleaseBundle-5933-007 User runs a DistributeReleaseBundle step with DistributionRule and ReleaseBundle input resources and a ReleaseBundle output resource at the pipeline level successfully." time="0.0000" classname="S-DistributeReleaseBundle-5933-007 User runs a DistributeReleaseBundle step with DistributionRule and ReleaseBundle input resources and a ReleaseBundle output resource at the pipeline level successfully.">
+      <skipped/>
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases are for PIPE-5876" timestamp="2022-01-17T17:52:56" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383548/setup_PreMatrix/tests/core/steps/Bash/BashNative/DistributeReleaseBundle.js" time="174.5050" failures="2">
+    <testcase name="DISTRIBUTERELEASEBUNDLE_STEP - DistributeReleaseBundle Step Tests Below test cases are for PIPE-5876 S-DistributeReleaseBundle-5876-0001 User runs a DistributeRleaseBundle step on Linux with trailing slash in distribution interation integration successfully." time="167.9950" classname="S-DistributeReleaseBundle-5876-0001 User runs a DistributeRleaseBundle step on Linux with trailing slash in distribution interation integration successfully.">
+      <failure message="the run status is failure" type="Error"><![CDATA[Error: the run status is failure
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383548/setup_PreMatrix/tests/globalWrapper/getRunStatusForQuery.js:59:17
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383548/setup_PreMatrix/tests/_common/pipelines/Adapter.js:2573:9
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383548/setup_PreMatrix/tests/node_modules/async/dist/async.js:2959:19
+    at wrapper (node_modules/async/dist/async.js:272:20)
+    at replenish (node_modules/async/dist/async.js:439:29)
+    at iterateeCallback (node_modules/async/dist/async.js:428:21)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383548/setup_PreMatrix/tests/node_modules/async/dist/async.js:325:20
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383548/setup_PreMatrix/tests/node_modules/async/dist/async.js:2957:17
+    at Request._callback (_common/utils.js:126:9)
+    at Request.self.callback (node_modules/request/request.js:188:22)
+    at Request.<anonymous> (node_modules/request/request.js:1171:10)
+    at IncomingMessage.<anonymous> (node_modules/request/request.js:1091:12)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)]]></failure>
+    </testcase>
+    <testcase name="DISTRIBUTERELEASEBUNDLE_STEP - DistributeReleaseBundle Step Tests Below test cases are for PIPE-5876 &quot;after all&quot; hook for &quot;S-DistributeReleaseBundle-5876-0001 User runs a DistributeRleaseBundle step on Linux with trailing slash in distribution interation integration successfully.&quot;" time="0.1080" classname="&quot;after all&quot; hook for &quot;S-DistributeReleaseBundle-5876-0001 User runs a DistributeRleaseBundle step on Linux with trailing slash in distribution interation integration successfully.&quot;">
+      <failure message="User can delete integration id: 315, err: 400, {
+  id: 4005,
+  message: &apos;This integration cannot be deleted while it is in use.  Delete or update the following resources first: S_DistributeReleaseBundle_5876_0001_ReleaseBundle, S_DistributeReleaseBundle_5876_0001_DistributionRule&apos;
+}" type="Error"><![CDATA[Error: User can delete integration id: 315, err: 400, {
+  id: 4005,
+  message: 'This integration cannot be deleted while it is in use.  Delete or update the following resources first: S_DistributeReleaseBundle_5876_0001_ReleaseBundle, S_DistributeReleaseBundle_5876_0001_DistributionRule'
+}
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383548/setup_PreMatrix/tests/core/steps/Bash/BashNative/DistributeReleaseBundle.js:402:19
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383548/setup_PreMatrix/tests/_common/pipelines/Adapter.js:2790:9
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383548/setup_PreMatrix/tests/node_modules/async/dist/async.js:2959:19
+    at wrapper (node_modules/async/dist/async.js:272:20)
+    at replenish (node_modules/async/dist/async.js:439:29)
+    at iterateeCallback (node_modules/async/dist/async.js:428:21)
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383548/setup_PreMatrix/tests/node_modules/async/dist/async.js:325:20
+    at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383548/setup_PreMatrix/tests/node_modules/async/dist/async.js:2957:17
+    at Request._callback (_common/utils.js:126:9)
+    at Request.self.callback (node_modules/request/request.js:188:22)
+    at Request.<anonymous> (node_modules/request/request.js:1171:10)
+    at IncomingMessage.<anonymous> (node_modules/request/request.js:1091:12)
+    at endReadableNT (internal/streams/readable.js:1336:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>

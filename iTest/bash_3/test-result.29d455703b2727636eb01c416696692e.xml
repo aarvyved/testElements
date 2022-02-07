@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="366.0530" tests="5" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:47" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="MATRIX_STEP - Matrix Step Tests 1 out 3" timestamp="2022-01-17T17:51:47" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383605/setup_PreMatrix/tests/core/steps/Bash/BashNative/Matrix4.js" time="366.0470" failures="0">
+    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0001. User should able to add Matrix step with required  fields name, type, stepMode and in execution section onExecute" time="97.5330" classname="S-Matrix-0001. User should able to add Matrix step with required  fields name, type, stepMode and in execution section onExecute">
+    </testcase>
+    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0002. User should able to add more than one Matrix step in the same pipeline" time="107.0830" classname="S-Matrix-0002. User should able to add more than one Matrix step in the same pipeline">
+    </testcase>
+    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0011. If user specifies set_step_var in Matrix step these variables can be accessed in PostMatrix step " time="58.2170" classname="S-Matrix-0011. If user specifies set_step_var in Matrix step these variables can be accessed in PostMatrix step ">
+    </testcase>
+    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0012. If user sets variables using set_step_var in PreMatrix step. Then verify those variables can be accessed in Matrix step " time="51.5300" classname="S-Matrix-0012. If user sets variables using set_step_var in PreMatrix step. Then verify those variables can be accessed in Matrix step ">
+    </testcase>
+    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0013. If user sets variables using set_step_var in PreMatrix step. In Matrix step verify every key is constructed like step_name_key" time="51.3650" classname="S-Matrix-0013. If user sets variables using set_step_var in PreMatrix step. In Matrix step verify every key is constructed like step_name_key">
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.1490" tests="1" failures="0" skipped="1">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:18" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="GENERIC_POWERSHELL - console log streaming tests " timestamp="2022-01-17T17:51:18" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_1/4383692/setup_PreMatrix/tests/core/steps/PowerShell/PSGeneric/Trigger/consoleLogStreaming.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Test console log streaming for PowerShell based steps" timestamp="2022-01-17T17:51:19" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_1/4383692/setup_PreMatrix/tests/core/steps/PowerShell/PSGeneric/Trigger/consoleLogStreaming.js" time="0.0060" failures="0" skipped="1">
+    <testcase name="GENERIC_POWERSHELL - console log streaming tests  Test console log streaming for PowerShell based steps S-PS-Generic-3941-0001. PowerShell based steps should get their console logs streamed." time="0.0000" classname="S-PS-Generic-3941-0001. PowerShell based steps should get their console logs streamed.">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

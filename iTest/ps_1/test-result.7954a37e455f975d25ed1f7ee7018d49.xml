@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="109.8450" tests="7" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:18" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="STEP_POWERSHELL_GENERIC_INTEGRATION - PowerShell Step Tests For Generic Integration" timestamp="2022-01-17T17:51:18" tests="7" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_1/4383683/setup_PreMatrix/tests/core/steps/PowerShell/PSIntegration/PowerShellGenericIntegration.js" time="109.8350" failures="0">
+    <testcase name="STEP_POWERSHELL_GENERIC_INTEGRATION - PowerShell Step Tests For Generic Integration 1. User can add Generic project Integration" time="1.5850" classname="1. User can add Generic project Integration">
+    </testcase>
+    <testcase name="STEP_POWERSHELL_GENERIC_INTEGRATION - PowerShell Step Tests For Generic Integration S-PS-I-Generic-0001. If user adds a pipeline sources with the PowerShell step, where  Generic Integration integration is mentioned in the integration section, then pipeline sync should success" time="17.4420" classname="S-PS-I-Generic-0001. If user adds a pipeline sources with the PowerShell step, where  Generic Integration integration is mentioned in the integration section, then pipeline sync should success">
+    </testcase>
+    <testcase name="STEP_POWERSHELL_GENERIC_INTEGRATION - PowerShell Step Tests For Generic Integration S-PS-I-Generic-0002. User verifies that all the Generic Integration integration environment variables are available in execution sections  of the PowerShell step." time="78.4950" classname="S-PS-I-Generic-0002. User verifies that all the Generic Integration integration environment variables are available in execution sections  of the PowerShell step.">
+    </testcase>
+    <testcase name="STEP_POWERSHELL_GENERIC_INTEGRATION - PowerShell Step Tests For Generic Integration 2. User should be able to add new pipelineSources" time="11.0960" classname="2. User should be able to add new pipelineSources">
+    </testcase>
+    <testcase name="STEP_POWERSHELL_GENERIC_INTEGRATION - PowerShell Step Tests For Generic Integration S-PS-I-Generic-0003. Users should not be able to delete Generic  integration if it is dependent on any steps." time="0.0840" classname="S-PS-I-Generic-0003. Users should not be able to delete Generic  integration if it is dependent on any steps.">
+    </testcase>
+    <testcase name="STEP_POWERSHELL_GENERIC_INTEGRATION - PowerShell Step Tests For Generic Integration 3. User can delete pipelineSource by Id" time="0.7280" classname="3. User can delete pipelineSource by Id">
+    </testcase>
+    <testcase name="STEP_POWERSHELL_GENERIC_INTEGRATION - PowerShell Step Tests For Generic Integration 4. User can delete Generic project integration by Id" time="0.1990" classname="4. User can delete Generic project integration by Id">
+    </testcase>
+  </testsuite>
+</testsuites>

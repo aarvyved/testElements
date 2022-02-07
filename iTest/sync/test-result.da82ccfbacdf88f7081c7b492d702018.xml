@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="295.7040" tests="24" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:50:41" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests" timestamp="2022-01-17T17:50:41" tests="24" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/step_sync_tests/4383650/setup_PreMatrix/tests/core/steps/Sync/HelmBlueGreenDeploy.js" time="295.6990" failures="0">
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5978-0001 User adds pipeline Source with HelmBlueGreenDeploy step with all required configuration properties. verify if pipeline Sync should succeed." time="10.4600" classname="S-SYC-HBGDeploy-5978-0001 User adds pipeline Source with HelmBlueGreenDeploy step with all required configuration properties. verify if pipeline Sync should succeed.">
+    </testcase>
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5978-0002 User adds pipeline Source with HelmBlueGreenDeploy step with all optional configuration properties. verify if pipeline Sync should succeed." time="10.1430" classname="S-SYC-HBGDeploy-5978-0002 User adds pipeline Source with HelmBlueGreenDeploy step with all optional configuration properties. verify if pipeline Sync should succeed.">
+    </testcase>
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5978-0003 User adds pipeline Source with HelmBlueGreenDeploy using GitRepo as input resource. verify if pipeline Sync should succeed." time="10.4150" classname="S-SYC-HBGDeploy-5978-0003 User adds pipeline Source with HelmBlueGreenDeploy using GitRepo as input resource. verify if pipeline Sync should succeed.">
+    </testcase>
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5978-0004 user adds pipeline Source with HelmBlueGreenDeploy step using FileSpec input resource. verify if pipeline Sync should succeed." time="12.7380" classname="S-SYC-HBGDeploy-5978-0004 user adds pipeline Source with HelmBlueGreenDeploy step using FileSpec input resource. verify if pipeline Sync should succeed.">
+    </testcase>
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5978-0005 User adds pipeline Source with HelmBlueGreenDeploy step using BuildInfo as input resource. verify if pipeline Sync should succeed." time="11.5550" classname="S-SYC-HBGDeploy-5978-0005 User adds pipeline Source with HelmBlueGreenDeploy step using BuildInfo as input resource. verify if pipeline Sync should succeed.">
+    </testcase>
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5978-0006 User adds pipeline source with HelmBlueGreenDeploy step using ReleaseBundle as input resource. verify if pipeline Sync should succeed." time="24.1850" classname="S-SYC-HBGDeploy-5978-0006 User adds pipeline source with HelmBlueGreenDeploy step using ReleaseBundle as input resource. verify if pipeline Sync should succeed.">
+    </testcase>
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5978-0007 User adds pipeline source with HelmBlueGreenDeploy step using helmChart as input resource. verify if pipeline Sync should succeed." time="18.7540" classname="S-SYC-HBGDeploy-5978-0007 User adds pipeline source with HelmBlueGreenDeploy step using helmChart as input resource. verify if pipeline Sync should succeed.">
+    </testcase>
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5978-0008 User adds pipeline source with HelmBlueGreenDeploy step missing step name property. verify if pipeline sync should fail." time="18.5330" classname="S-SYC-HBGDeploy-5978-0008 User adds pipeline source with HelmBlueGreenDeploy step missing step name property. verify if pipeline sync should fail.">
+    </testcase>
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5978-0009 User adds pipeline source with HelmBlueGreenDeploy step invalid step name property. verify if pipeline sync should fail." time="12.4610" classname="S-SYC-HBGDeploy-5978-0009 User adds pipeline source with HelmBlueGreenDeploy step invalid step name property. verify if pipeline sync should fail.">
+    </testcase>
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5978-0010 User adds pipeline Source with HelmBlueGreenDeploy step missing namespace property. verify if pipeline sync should fail." time="12.4180" classname="S-SYC-HBGDeploy-5978-0010 User adds pipeline Source with HelmBlueGreenDeploy step missing namespace property. verify if pipeline sync should fail.">
+    </testcase>
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5978-0011 User adds pipeline source with HelmBlueGreenDeploy step missing greenReleaseName property. verify if pipeline sync should fail." time="10.4550" classname="S-SYC-HBGDeploy-5978-0011 User adds pipeline source with HelmBlueGreenDeploy step missing greenReleaseName property. verify if pipeline sync should fail.">
+    </testcase>
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5978-0012 User adds pipeline source with HelmBlueGreenDeploy step missing blueReleaseName property. verify if pipeline sync should fail." time="11.5050" classname="S-SYC-HBGDeploy-5978-0012 User adds pipeline source with HelmBlueGreenDeploy step missing blueReleaseName property. verify if pipeline sync should fail.">
+    </testcase>
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5978-0013 User adds pipeline source with HelmBlueGreenDeploy step with roleService missing blueReferenceName property. verify if pipeline sync should fail." time="11.4960" classname="S-SYC-HBGDeploy-5978-0013 User adds pipeline source with HelmBlueGreenDeploy step with roleService missing blueReferenceName property. verify if pipeline sync should fail.">
+    </testcase>
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5978-0014 User adds pipeline source with HelmBlueGreenDeploy step with roleService missing greenReferenceName properties. verify if pipeline sync should fail." time="10.6550" classname="S-SYC-HBGDeploy-5978-0014 User adds pipeline source with HelmBlueGreenDeploy step with roleService missing greenReferenceName properties. verify if pipeline sync should fail.">
+    </testcase>
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5978-0015 User adds pipeline source with HelmBlueGreenDeploy step with roleService missing idleName property. verify if pipeline sync should fail." time="10.2390" classname="S-SYC-HBGDeploy-5978-0015 User adds pipeline source with HelmBlueGreenDeploy step with roleService missing idleName property. verify if pipeline sync should fail.">
+    </testcase>
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5978-0016 User adds pipeline source with HelmBlueGreenDeploy step with roleService missing liveName property. verify if pipeline sync should fail." time="11.6870" classname="S-SYC-HBGDeploy-5978-0016 User adds pipeline source with HelmBlueGreenDeploy step with roleService missing liveName property. verify if pipeline sync should fail.">
+    </testcase>
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5978-0021 User adds pipeline source with HelmBlueGreenDeploy step missing integration property. verify if pipeline sync should fail." time="10.6560" classname="S-SYC-HBGDeploy-5978-0021 User adds pipeline source with HelmBlueGreenDeploy step missing integration property. verify if pipeline sync should fail.">
+    </testcase>
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5978-0023 User adds pipeline source with HelmBlueGreenDeploy step using non kubernetes integration. verify if pipeline sync should fail." time="10.4660" classname="S-SYC-HBGDeploy-5978-0023 User adds pipeline source with HelmBlueGreenDeploy step using non kubernetes integration. verify if pipeline sync should fail.">
+    </testcase>
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5978-0024 User adds pipeline source with HelmBlueGreenDeploy step missing input resources. verify if pipeline sync should fail." time="10.5020" classname="S-SYC-HBGDeploy-5978-0024 User adds pipeline source with HelmBlueGreenDeploy step missing input resources. verify if pipeline sync should fail.">
+    </testcase>
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5978-0025 User adds pipeline source with HelmBlueGreenDeploy step with multiple input resources. verify if pipeline sync should fail." time="10.3300" classname="S-SYC-HBGDeploy-5978-0025 User adds pipeline source with HelmBlueGreenDeploy step with multiple input resources. verify if pipeline sync should fail.">
+    </testcase>
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5933-001 User adds a HelmBlueGreenDeploy step with the required input resource at the pipeline level.  Sync is successful." time="10.9600" classname="S-SYC-HBGDeploy-5933-001 User adds a HelmBlueGreenDeploy step with the required input resource at the pipeline level.  Sync is successful.">
+    </testcase>
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5933-002 User adds a HelmBlueGreenDeploy step with a required input resource at the pipeline level and another at the step level.  Sync fails." time="10.2590" classname="S-SYC-HBGDeploy-5933-002 User adds a HelmBlueGreenDeploy step with a required input resource at the pipeline level and another at the step level.  Sync fails.">
+    </testcase>
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5933-003 User adds a HelmBlueGreenDeploy step with a Kubernetes integration at the pipeline level.  Sync is successful." time="11.1340" classname="S-SYC-HBGDeploy-5933-003 User adds a HelmBlueGreenDeploy step with a Kubernetes integration at the pipeline level.  Sync is successful.">
+    </testcase>
+    <testcase name="SYNC_HELMBLUGREENDEPLOY_STEP - HelmBlueGreenDeploy Sync Tests S-SYC-HBGDeploy-5933-004 User adds a HelmBlueGreenDeploy step with Kubernetes integrations at the pipeline and step levels.  Sync fails." time="13.6240" classname="S-SYC-HBGDeploy-5933-004 User adds a HelmBlueGreenDeploy step with Kubernetes integrations at the pipeline and step levels.  Sync fails.">
+    </testcase>
+  </testsuite>
+</testsuites>

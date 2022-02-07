@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="455.4800" tests="5" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:21" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests " timestamp="2022-01-17T17:51:21" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests_1/4383778/setup_PreMatrix/tests/core/workFlow/step/stepWorkflow12.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Below test cases were added for PIPE-3850" timestamp="2022-01-17T17:51:21" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests_1/4383778/setup_PreMatrix/tests/core/workFlow/step/stepWorkflow12.js" time="455.2900" failures="0">
+    <testcase name="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests  Below test cases were added for PIPE-3850 S-WF-016. User verifies that all the steps in a pipeline which runs on a linux node, will get executed in the right order." time="144.9060" classname="S-WF-016. User verifies that all the steps in a pipeline which runs on a linux node, will get executed in the right order.">
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests  Below test cases were added for PIPE-3850 S-WF-017. User verifies that if there are steps grouped in an affinity group in a pipeline they all get executed in the same linux build node." time="124.5790" classname="S-WF-017. User verifies that if there are steps grouped in an affinity group in a pipeline they all get executed in the same linux build node.">
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests  Below test cases were added for PIPE-3850 S-WF-018. User verifies that if there are steps grouped in an affinity group in a pipeline which run on linux node, they all get executed in the correct order i.e. when their parent step(s) have executed." time="64.4200" classname="S-WF-018. User verifies that if there are steps grouped in an affinity group in a pipeline which run on linux node, they all get executed in the correct order i.e. when their parent step(s) have executed.">
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests  Below test cases were added for PIPE-3850 S-WF-019. User verifies that if there are steps grouped in an affinity group in a pipeline which run on linux node, with priority specified, they all get executed based on the priority when there are more than one step that can be executed." time="84.9070" classname="S-WF-019. User verifies that if there are steps grouped in an affinity group in a pipeline which run on linux node, with priority specified, they all get executed based on the priority when there are more than one step that can be executed.">
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests  Below test cases were added for PIPE-3850 S-WF-020. User verifies that if there are steps grouped in an affinity group in a pipeline which run on linux node, and one of the steps is failed, all the next steps should get skipped." time="36.4720" classname="S-WF-020. User verifies that if there are steps grouped in an affinity group in a pipeline which run on linux node, and one of the steps is failed, all the next steps should get skipped.">
+    </testcase>
+  </testsuite>
+</testsuites>

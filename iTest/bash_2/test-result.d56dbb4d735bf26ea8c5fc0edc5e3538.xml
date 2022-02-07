@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.6050" tests="3" failures="0" skipped="3">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:25" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="GENERIC_BASH_MAC - 3 out of 7 - Generic Bash tests for MacOS(runs only when MacOS nodePool is set as default)" timestamp="2022-01-17T17:51:25" tests="3" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_2/4383584/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/BashMac.js" time="0.5710" failures="0" skipped="3">
+    <testcase name="GENERIC_BASH_MAC - 3 out of 7 - Generic Bash tests for MacOS(runs only when MacOS nodePool is set as default) S-Bash-Mac-5679-0001. If no runtime is specified, the step runs on the host." time="0.0000" classname="S-Bash-Mac-5679-0001. If no runtime is specified, the step runs on the host.">
+      <skipped/>
+    </testcase>
+    <testcase name="GENERIC_BASH_MAC - 3 out of 7 - Generic Bash tests for MacOS(runs only when MacOS nodePool is set as default) S-Bash-Mac-5679-0002. If type is set to image and a MacOS node pool is specified, sync fails." time="0.0000" classname="S-Bash-Mac-5679-0002. If type is set to image and a MacOS node pool is specified, sync fails.">
+      <skipped/>
+    </testcase>
+    <testcase name="GENERIC_BASH_MAC - 3 out of 7 - Generic Bash tests for MacOS(runs only when MacOS nodePool is set as default) S-Bash-Mac-5679-0003. If type is set to image on a MacOS default node pool, the step status is error." time="0.0000" classname="S-Bash-Mac-5679-0003. If type is set to image on a MacOS default node pool, the step status is error.">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

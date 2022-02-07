@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="116.4610" tests="5" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:43" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="STEP_POWERSHELL_GITHUBINTEGRATION - PowerShell Step Tests For GitHub Integration" timestamp="2022-01-17T17:51:43" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_2/4383669/setup_PreMatrix/tests/core/steps/PowerShell/PSIntegration/PowerShellGitHubIntegration.js" time="116.4420" failures="0">
+    <testcase name="STEP_POWERSHELL_GITHUBINTEGRATION - PowerShell Step Tests For GitHub Integration S-PS-I-GitHub-0001. If the user adds a pipeline sources with the PowerShell step, where  GitHub integration is mentioned in the integration section, then pipeline sync should success" time="35.2070" classname="S-PS-I-GitHub-0001. If the user adds a pipeline sources with the PowerShell step, where  GitHub integration is mentioned in the integration section, then pipeline sync should success">
+    </testcase>
+    <testcase name="STEP_POWERSHELL_GITHUBINTEGRATION - PowerShell Step Tests For GitHub Integration S-PS-I-GitHub-0002. User verifies that all the GitHub integration environment variables are available in execution sections of the PowerShell step." time="68.7710" classname="S-PS-I-GitHub-0002. User verifies that all the GitHub integration environment variables are available in execution sections of the PowerShell step.">
+    </testcase>
+    <testcase name="STEP_POWERSHELL_GITHUBINTEGRATION - PowerShell Step Tests For GitHub Integration 1. User should be able to add new pipelineSources" time="10.2180" classname="1. User should be able to add new pipelineSources">
+    </testcase>
+    <testcase name="STEP_POWERSHELL_GITHUBINTEGRATION - PowerShell Step Tests For GitHub Integration S-PS-I-GitHub-0003. Users should not be able to delete GitHub integration if it is dependent on any steps." time="0.1620" classname="S-PS-I-GitHub-0003. Users should not be able to delete GitHub integration if it is dependent on any steps.">
+    </testcase>
+    <testcase name="STEP_POWERSHELL_GITHUBINTEGRATION - PowerShell Step Tests For GitHub Integration 2. User can delete pipelineSource by Id" time="1.7360" classname="2. User can delete pipelineSource by Id">
+    </testcase>
+  </testsuite>
+</testsuites>

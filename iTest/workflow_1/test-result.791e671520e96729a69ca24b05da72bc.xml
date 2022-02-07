@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0140" tests="13" failures="0" skipped="13">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:21" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="WORKFLOW_TESTS - 1 out of 4 - conditional workflows" timestamp="2022-01-17T17:51:21" tests="13" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests_1/4383781/setup_PreMatrix/tests/core/workFlow/step/conditionalWorkflow.js" time="0.0070" failures="0" skipped="13">
+    <testcase name="WORKFLOW_TESTS - 1 out of 4 - conditional workflows S-CWF-5858-0001. User should be able to add status in the  inputSteps section of step definition." time="0.0000" classname="S-CWF-5858-0001. User should be able to add status in the  inputSteps section of step definition.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 1 out of 4 - conditional workflows S-CWF-5858-0002. User sees that the pipelineSync fails if an invalid status string is added in the inputSteps section." time="0.0000" classname="S-CWF-5858-0002. User sees that the pipelineSync fails if an invalid status string is added in the inputSteps section.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 1 out of 4 - conditional workflows S-CWF-5858-0003. User should be able to give array of status strings as value to the status from the inputSteps section." time="0.0000" classname="S-CWF-5858-0003. User should be able to give array of status strings as value to the status from the inputSteps section.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 1 out of 4 - conditional workflows S-CWF-5858-0004. User sees that the bash step skips if its input step status does not match/contain with yml definition." time="0.0000" classname="S-CWF-5858-0004. User sees that the bash step skips if its input step status does not match/contain with yml definition.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 1 out of 4 - conditional workflows S-CWF-5858-0005. User sees that the bash step succeeds if its input step status does match/contain with yml definition." time="0.0000" classname="S-CWF-5858-0005. User sees that the bash step succeeds if its input step status does match/contain with yml definition.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 1 out of 4 - conditional workflows S-CWF-5858-0006. User sees that the bash step succeeds if its input step status does match/contain with yml definition for success status." time="0.0000" classname="S-CWF-5858-0006. User sees that the bash step succeeds if its input step status does match/contain with yml definition for success status.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 1 out of 4 - conditional workflows S-CWF-5858-0007. User sees that the bash step succeeds if its input step status does match/contain with yml definition for cancelled status." time="0.0000" classname="S-CWF-5858-0007. User sees that the bash step succeeds if its input step status does match/contain with yml definition for cancelled status.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 1 out of 4 - conditional workflows S-CWF-5858-0008. User sees that the bash step succeeds if its input step status does match/contain with yml definition for skipped status." time="0.0000" classname="S-CWF-5858-0008. User sees that the bash step succeeds if its input step status does match/contain with yml definition for skipped status.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 1 out of 4 - conditional workflows S-CWF-5858-0009. User sees that the bash step succeeds if its input step status does match/contain with yml definition for unstable status." time="0.0000" classname="S-CWF-5858-0009. User sees that the bash step succeeds if its input step status does match/contain with yml definition for unstable status.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 1 out of 4 - conditional workflows S-CWF-5858-0010. User sees that the bash step succeeds if its input step status does match/contain with yml definition for timeout status." time="0.0000" classname="S-CWF-5858-0010. User sees that the bash step succeeds if its input step status does match/contain with yml definition for timeout status.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 1 out of 4 - conditional workflows S-CWF-5858-0011. User sees that the bash step succeeds if its multiple input step status does match/contain with yml definition." time="0.0000" classname="S-CWF-5858-0011. User sees that the bash step succeeds if its multiple input step status does match/contain with yml definition.">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 1 out of 4 - conditional workflows S-CWF-6596-0001. User can use step_&lt;inputStepName&gt;_statusName environment variable in runTime" time="0.0000" classname="S-CWF-6596-0001. User can use step_&lt;inputStepName&gt;_statusName environment variable in runTime">
+      <skipped/>
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 1 out of 4 - conditional workflows S-CWF-6665-0001. User sees that the bash step succeeds if its input step status does contain with yml definition for skipped status with newVersionOnly." time="0.0000" classname="S-CWF-6665-0001. User sees that the bash step succeeds if its input step status does contain with yml definition for skipped status with newVersionOnly.">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

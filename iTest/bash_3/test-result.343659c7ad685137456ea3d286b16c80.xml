@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.3490" tests="6" failures="0" skipped="6">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:47" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="GENERIC_BASH - 2 out of 7 - Generic Bash tests " timestamp="2022-01-17T17:51:47" tests="6" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383595/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/BashGeneric5.js" time="0.3210" failures="0" skipped="6">
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-6237-001 User runs a Bash step with save_artifact_info with type releaseBundle and no bundle name or version and it fails." time="0.0000" classname="S-Bash-6237-001 User runs a Bash step with save_artifact_info with type releaseBundle and no bundle name or version and it fails.">
+      <skipped/>
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-BASH-6152-0001 User shouldn&apos;t be able to mount host devices when running on k8s node pool." time="0.0000" classname="S-BASH-6152-0001 User shouldn&apos;t be able to mount host devices when running on k8s node pool.">
+      <skipped/>
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-BASH-6152-0002 User shouldn&apos;t be able to run docker containers in --privileged mode in k8s node pool." time="0.0000" classname="S-BASH-6152-0002 User shouldn&apos;t be able to run docker containers in --privileged mode in k8s node pool.">
+      <skipped/>
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-7229-0001 User adds a step with a propertyBag resource. User kicks off 2 runs. The first uses the correct run variables, not run variables added in the second run." time="0.0000" classname="S-Bash-7229-0001 User adds a step with a propertyBag resource. User kicks off 2 runs. The first uses the correct run variables, not run variables added in the second run.">
+      <skipped/>
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-BASH-6805-0001 User saves a junit testReport with nested testSuites and testCases with every status. TestElements api returns the expected objects and Artifactory has the stackTraces." time="0.0000" classname="S-BASH-6805-0001 User saves a junit testReport with nested testSuites and testCases with every status. TestElements api returns the expected objects and Artifactory has the stackTraces.">
+      <skipped/>
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-BASH-6805-0002 In a matrix step, User saves 2 junit testReports with nested testSuites and testCases with every status. TestElements api returns the expected objects and Artifactory has the stackTraces." time="0.0000" classname="S-BASH-6805-0002 In a matrix step, User saves 2 junit testReports with nested testSuites and testCases with every status. TestElements api returns the expected objects and Artifactory has the stackTraces.">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

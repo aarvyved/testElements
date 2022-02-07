@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="218.4260" tests="5" failures="0" skipped="3">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:34" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function" timestamp="2022-01-17T17:51:34" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_3/4383719/setup_PreMatrix/tests/core/steps/PowerShell/PSUtilityfunctions/PSUtilityFunctions4.js" time="218.4210" failures="0" skipped="3">
+    <testcase name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function S-PS-UTIL-0065. User adds a variable using add_pipeline_files utility function in the powerShell step and if the file is exported in bash step. Then verify if the file is in the same format." time="152.3230" classname="S-PS-UTIL-0065. User adds a variable using add_pipeline_files utility function in the powerShell step and if the file is exported in bash step. Then verify if the file is in the same format.">
+    </testcase>
+    <testcase name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function S-PS-UTIL-0066. Add save_tests utility function in the powerShell step where the input source  empty directory and the user sees that step is success." time="0.0000" classname="S-PS-UTIL-0066. Add save_tests utility function in the powerShell step where the input source  empty directory and the user sees that step is success.">
+      <skipped/>
+    </testcase>
+    <testcase name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function S-PS-UTIL-0067. Add save_tests utility function in the powerShell step where the input source  empty folder and the user sees that step is success." time="65.8430" classname="S-PS-UTIL-0067. Add save_tests utility function in the powerShell step where the input source  empty folder and the user sees that step is success.">
+    </testcase>
+    <testcase name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function S-PS-UTIL-0068. Add save_tests utility function in the powerShell step where the input source the directory with no xml files and the user sees that step is success." time="0.0000" classname="S-PS-UTIL-0068. Add save_tests utility function in the powerShell step where the input source the directory with no xml files and the user sees that step is success.">
+      <skipped/>
+    </testcase>
+    <testcase name="POWERSHELL_STEP_UTILITYFUNCTIONS - Powershell Step Tests For Utility Function S-PS-UTIL-0069. Add save_tests utility function in the powerShell step where the input source the folder with no xml files and the user sees that step is success." time="0.0000" classname="S-PS-UTIL-0069. Add save_tests utility function in the powerShell step where the input source the folder with no xml files and the user sees that step is success.">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

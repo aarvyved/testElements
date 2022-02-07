@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.2520" tests="2" failures="0" skipped="2">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:26" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="GENERIC_BASH - 7 out of 7 - usage metrics tests " timestamp="2022-01-17T17:51:26" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_2/4383582/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/usageMetrics.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Test usage metrics steps" timestamp="2022-01-17T17:51:26" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_2/4383582/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/usageMetrics.js" time="0.0230" failures="0" skipped="2">
+    <testcase name="GENERIC_BASH - 7 out of 7 - usage metrics tests  Test usage metrics steps S-Bash-Generic-5900-0001. Steplets that run for less than 1 minute should report 1 minute (60000 milliseconds) of usage time when api/v1/internal/usage is invoked" time="0.0000" classname="S-Bash-Generic-5900-0001. Steplets that run for less than 1 minute should report 1 minute (60000 milliseconds) of usage time when api/v1/internal/usage is invoked">
+      <skipped/>
+    </testcase>
+    <testcase name="GENERIC_BASH - 7 out of 7 - usage metrics tests  Test usage metrics steps S-Bash-Generic-5900-0002. Steplets that run for 1 minute or more should report their processing time as usage time when api/v1/internal/usage is invoked." time="0.0000" classname="S-Bash-Generic-5900-0002. Steplets that run for 1 minute or more should report their processing time as usage time when api/v1/internal/usage is invoked.">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

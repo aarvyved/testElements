@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="56.9970" tests="21" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:52:11" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="PROJECTINTEGRATIONS_DISTRIBUTE - Distribute integration tests" timestamp="2022-01-17T17:52:11" tests="13" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383831/setup_PreMatrix/tests/core/projectIntegrations/Distribute.js" time="0.0000" failures="0">
+    <testcase name="PROJECTINTEGRATIONS_DISTRIBUTE - Distribute integration tests I-Distribute-0001. User can add Distribute project Integration" time="17.9040" classname="I-Distribute-0001. User can add Distribute project Integration">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DISTRIBUTE - Distribute integration tests 1. User should be able add new PipelineSources for Distribute" time="13.4340" classname="1. User should be able add new PipelineSources for Distribute">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DISTRIBUTE - Distribute integration tests 2. User can get Distribute resource which is added in  pipeline source" time="0.0380" classname="2. User can get Distribute resource which is added in  pipeline source">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DISTRIBUTE - Distribute integration tests I-Distribute-0002. Distribute integration name must adhere  to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/" time="0.0410" classname="I-Distribute-0002. Distribute integration name must adhere  to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DISTRIBUTE - Distribute integration tests I-Distribute-0007. User cannot update the user name field in Distribute integration " time="0.1010" classname="I-Distribute-0007. User cannot update the user name field in Distribute integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DISTRIBUTE - Distribute integration tests I-Distribute-0011. User can add optional signingKeyPassphrase property to a new Distribution integration" time="4.0690" classname="I-Distribute-0011. User can add optional signingKeyPassphrase property to a new Distribution integration">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DISTRIBUTE - Distribute integration tests I-Distribute-0008. User can update the API Key field in Distribute integration " time="0.2770" classname="I-Distribute-0008. User can update the API Key field in Distribute integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DISTRIBUTE - Distribute integration tests I-Distribute-0009. User can update the integration url in Distribute integration " time="0.3080" classname="I-Distribute-0009. User can update the integration url in Distribute integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DISTRIBUTE - Distribute integration tests I-Distribute-0010. User can update the username field inDistribute integration " time="0.1950" classname="I-Distribute-0010. User can update the username field inDistribute integration ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DISTRIBUTE - Distribute integration tests I-Distribute-0012. User should be able to update Distribute project integration by adding the optional signingKeyPassphrase field. " time="0.3070" classname="I-Distribute-0012. User should be able to update Distribute project integration by adding the optional signingKeyPassphrase field. ">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DISTRIBUTE - Distribute integration tests I-Distribute-0006. Users should not able to delete Distribution integration if it is dependent on any resources." time="0.2070" classname="I-Distribute-0006. Users should not able to delete Distribution integration if it is dependent on any resources.">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DISTRIBUTE - Distribute integration tests 3. User can delete pipelineSource by Id" time="0.1740" classname="3. User can delete pipelineSource by Id">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DISTRIBUTE - Distribute integration tests I-Distribute-0003 and I-Distribute-0005 .Users should able to delete Distribution integration if it is not dependent on any steps" time="0.4170" classname="I-Distribute-0003 and I-Distribute-0005 .Users should able to delete Distribution integration if it is not dependent on any steps">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases are for testIntegration" timestamp="2022-01-17T17:52:49" tests="8" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383831/setup_PreMatrix/tests/core/projectIntegrations/Distribute.js" time="19.2610" failures="0">
+    <testcase name="PROJECTINTEGRATIONS_DISTRIBUTE - Distribute integration tests Below test cases are for testIntegration I-Distribute-TestConnection-0001. User gets &quot;Connection was successful&quot; response when using valid distribute data" time="3.1020" classname="I-Distribute-TestConnection-0001. User gets &quot;Connection was successful&quot; response when using valid distribute data">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DISTRIBUTE - Distribute integration tests Below test cases are for testIntegration I-Distribute-TestConnection-0002. User gets 400 bad request if the distribute url was missing in request body" time="0.0690" classname="I-Distribute-TestConnection-0002. User gets 400 bad request if the distribute url was missing in request body">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DISTRIBUTE - Distribute integration tests Below test cases are for testIntegration I-Distribute-TestConnection-0003. User gets 400 bad requestif the distribute user was missing in request body" time="0.0310" classname="I-Distribute-TestConnection-0003. User gets 400 bad requestif the distribute user was missing in request body">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DISTRIBUTE - Distribute integration tests Below test cases are for testIntegration I-Distribute-TestConnection-0004. User gets 400 bad requestif the distribute apikey was missing in request body" time="0.0820" classname="I-Distribute-TestConnection-0004. User gets 400 bad requestif the distribute apikey was missing in request body">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DISTRIBUTE - Distribute integration tests Below test cases are for testIntegration I-Distribute-TestConnection-0007. User gets &quot;Connection was not successful&quot; response when using invalid distribution data" time="3.0430" classname="I-Distribute-TestConnection-0007. User gets &quot;Connection was not successful&quot; response when using invalid distribution data">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DISTRIBUTE - Distribute integration tests Below test cases are for testIntegration I-Distribute-TestConnectionById-0001. User gets &quot;Connection was successful&quot; response when using valid distribute integration" time="3.0420" classname="I-Distribute-TestConnectionById-0001. User gets &quot;Connection was successful&quot; response when using valid distribute integration">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DISTRIBUTE - Distribute integration tests Below test cases are for testIntegration I-Distribute-TestConnectionById-004. User gets &quot;Connection was not successful&quot; response when using invalid distribution data" time="3.0390" classname="I-Distribute-TestConnectionById-004. User gets &quot;Connection was not successful&quot; response when using invalid distribution data">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_DISTRIBUTE - Distribute integration tests Below test cases are for testIntegration I-Distribute-TestConnection-5876-001. User gets &quot;Connection was successful&quot; response when there is a trailing slash in theDistribution test URL." time="3.0470" classname="I-Distribute-TestConnection-5876-001. User gets &quot;Connection was successful&quot; response when there is a trailing slash in theDistribution test URL.">
+    </testcase>
+  </testsuite>
+</testsuites>

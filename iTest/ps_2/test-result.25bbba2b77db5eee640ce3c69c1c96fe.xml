@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0350" tests="5" failures="0" skipped="5">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:43" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="STEP_POWERSHELL_GITLAB_INTEGRATION - PowerShall Step Tests For gitLab Integration" timestamp="2022-01-17T17:51:43" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_2/4383664/setup_PreMatrix/tests/core/steps/PowerShell/PSIntegration/PowerShellGitLabIntegration.js" time="0.0060" failures="0" skipped="5">
+    <testcase name="STEP_POWERSHELL_GITLAB_INTEGRATION - PowerShall Step Tests For gitLab Integration S-PS-I-GitLab-0001. If the user adds a pipeline sources with the PowerShell step, where  GitLab integration is mentioned in the integration section, then pipeline sync should success" time="0.0000" classname="S-PS-I-GitLab-0001. If the user adds a pipeline sources with the PowerShell step, where  GitLab integration is mentioned in the integration section, then pipeline sync should success">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_POWERSHELL_GITLAB_INTEGRATION - PowerShall Step Tests For gitLab Integration S-PS-I-GitLab-0002. User verifies that all the GitLab integration environment variables are available in execution sections of the PowerShell step." time="0.0000" classname="S-PS-I-GitLab-0002. User verifies that all the GitLab integration environment variables are available in execution sections of the PowerShell step.">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_POWERSHELL_GITLAB_INTEGRATION - PowerShall Step Tests For gitLab Integration 1. User should be able to add new pipelineSources" time="0.0000" classname="1. User should be able to add new pipelineSources">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_POWERSHELL_GITLAB_INTEGRATION - PowerShall Step Tests For gitLab Integration S-POWERSHELL-0003. Users should not be able to delete GitLab integration if it is dependent on any steps." time="0.0000" classname="S-POWERSHELL-0003. Users should not be able to delete GitLab integration if it is dependent on any steps.">
+      <skipped/>
+    </testcase>
+    <testcase name="STEP_POWERSHELL_GITLAB_INTEGRATION - PowerShall Step Tests For gitLab Integration 2. User can delete pipelineSource by Id" time="0.0000" classname="2. User can delete pipelineSource by Id">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

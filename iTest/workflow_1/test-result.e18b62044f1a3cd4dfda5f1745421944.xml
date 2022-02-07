@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="486.2350" tests="5" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:21" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests " timestamp="2022-01-17T17:51:21" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests_1/4383780/setup_PreMatrix/tests/core/workFlow/step/stepWorkflow13.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Below test cases were added for PIPE-3850" timestamp="2022-01-17T17:51:21" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests_1/4383780/setup_PreMatrix/tests/core/workFlow/step/stepWorkflow13.js" time="486.0870" failures="0">
+    <testcase name="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests  Below test cases were added for PIPE-3850 S-WF-021. User verifies that if there are steps grouped in an affinity group in a pipeline which run on linux node, and one of the steps has a dependency outside the affinity group, which get failed, all the next steps in the group should get skipped." time="145.1280" classname="S-WF-021. User verifies that if there are steps grouped in an affinity group in a pipeline which run on linux node, and one of the steps has a dependency outside the affinity group, which get failed, all the next steps in the group should get skipped.">
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests  Below test cases were added for PIPE-3850 S-WF-022. User verifies that the steps in a pipeline that run on linux node, do not run if their parent step(s) is/are failed and they should get skipped." time="109.3160" classname="S-WF-022. User verifies that the steps in a pipeline that run on linux node, do not run if their parent step(s) is/are failed and they should get skipped.">
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests  Below test cases were added for PIPE-3850 S-WF-023. User verifies that In a pipeline, If there is a resource between two steps, the second step should not get executed when the step which produces the resource is not successful on linux node." time="73.9680" classname="S-WF-023. User verifies that In a pipeline, If there is a resource between two steps, the second step should not get executed when the step which produces the resource is not successful on linux node.">
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests  Below test cases were added for PIPE-3850 S-WF-024. User verifies that if there are steps grouped in an affinity group in a pipeline which run on linux node, should get queued only when their input dependencies are successfully executed." time="69.8670" classname="S-WF-024. User verifies that if there are steps grouped in an affinity group in a pipeline which run on linux node, should get queued only when their input dependencies are successfully executed.">
+    </testcase>
+    <testcase name="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests  Below test cases were added for PIPE-3850 S-WF-025. User verifies that all the steps in a pipeline which runs on a windows node, will get executed in the right order." time="87.8010" classname="S-WF-025. User verifies that all the steps in a pipeline which runs on a windows node, will get executed in the right order.">
+    </testcase>
+  </testsuite>
+</testsuites>

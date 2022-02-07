@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1203.5740" tests="15" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:26" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="LANGUAGE IMAGE - language Image tests on u18 node" timestamp="2022-01-17T17:51:26" tests="15" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_2/4383575/setup_PreMatrix/tests/core/steps/Bash/BashLanguages/LanguageImagesu18.js" time="1203.5630" failures="0">
+    <testcase name="LANGUAGE IMAGE - language Image tests on u18 node S-Bash-0042. If type is set to image/auto, language set java and version set to 11 then Bash step should run on that particular specific java version for u18." time="74.5130" classname="S-Bash-0042. If type is set to image/auto, language set java and version set to 11 then Bash step should run on that particular specific java version for u18.">
+    </testcase>
+    <testcase name="LANGUAGE IMAGE - language Image tests on u18 node S-Bash-0463. If type is set to image/auto, language set java and version set to 13 then Bash step should run on that particular specific java version for u18." time="186.0120" classname="S-Bash-0463. If type is set to image/auto, language set java and version set to 13 then Bash step should run on that particular specific java version for u18.">
+    </testcase>
+    <testcase name="LANGUAGE IMAGE - language Image tests on u18 node S-Bash-0470. If type is set to image/auto, language set java and version set to 8 then Bash step should run on that particular specific java version for u18." time="34.1750" classname="S-Bash-0470. If type is set to image/auto, language set java and version set to 8 then Bash step should run on that particular specific java version for u18.">
+    </testcase>
+    <testcase name="LANGUAGE IMAGE - language Image tests on u18 node S-Bash-0048. If type is set to image/auto, language set NodeJs and version set to 12 then Bash step should run on that particular specific NodeJs version for u18." time="29.5090" classname="S-Bash-0048. If type is set to image/auto, language set NodeJs and version set to 12 then Bash step should run on that particular specific NodeJs version for u18.">
+    </testcase>
+    <testcase name="LANGUAGE IMAGE - language Image tests on u18 node S-Bash-0044. If type is set to image/auto, language set NodeJs and version set to 14 then Bash step should run on that particular specific NodeJs version for u18." time="29.2900" classname="S-Bash-0044. If type is set to image/auto, language set NodeJs and version set to 14 then Bash step should run on that particular specific NodeJs version for u18.">
+    </testcase>
+    <testcase name="LANGUAGE IMAGE - language Image tests on u18 node S-Bash-0518. If type is set to image/auto, language set NodeJs and version set to 16 then Bash step should run on that particular specific NodeJs version for u18." time="27.3470" classname="S-Bash-0518. If type is set to image/auto, language set NodeJs and version set to 16 then Bash step should run on that particular specific NodeJs version for u18.">
+    </testcase>
+    <testcase name="LANGUAGE IMAGE - language Image tests on u18 node S-Bash-0046. If type is set to image/auto, language set Go and version set to 1.11.13 then Bash step should run on that particular specific Go version for u18." time="94.2510" classname="S-Bash-0046. If type is set to image/auto, language set Go and version set to 1.11.13 then Bash step should run on that particular specific Go version for u18.">
+    </testcase>
+    <testcase name="LANGUAGE IMAGE - language Image tests on u18 node S-Bash-0461. If type is set to image/auto, language set Go and version set to 1.12.17 then Bash step should run on that particular specific Go version for u18." time="102.4050" classname="S-Bash-0461. If type is set to image/auto, language set Go and version set to 1.12.17 then Bash step should run on that particular specific Go version for u18.">
+    </testcase>
+    <testcase name="LANGUAGE IMAGE - language Image tests on u18 node S-Bash-0519. If type is set to image/auto, language set Go and version set to 1.13.12 then Bash step should run on that particular specific Go version for u18." time="99.0660" classname="S-Bash-0519. If type is set to image/auto, language set Go and version set to 1.13.12 then Bash step should run on that particular specific Go version for u18.">
+    </testcase>
+    <testcase name="LANGUAGE IMAGE - language Image tests on u18 node S-Bash-0047. If type is set to image/auto, language set cpp and version set to 8.0.0 then Bash step should run on that particular specific cpp version for u18." time="175.5090" classname="S-Bash-0047. If type is set to image/auto, language set cpp and version set to 8.0.0 then Bash step should run on that particular specific cpp version for u18.">
+    </testcase>
+    <testcase name="LANGUAGE IMAGE - language Image tests on u18 node S-Bash-0462. If type is set to image/auto, language set cpp and version set to 9.0.0 then Bash step should run on that particular specific cpp version for u18." time="150.5670" classname="S-Bash-0462. If type is set to image/auto, language set cpp and version set to 9.0.0 then Bash step should run on that particular specific cpp version for u18.">
+    </testcase>
+    <testcase name="LANGUAGE IMAGE - language Image tests on u18 node S-Bash-0533. If type is set to image/auto, language set Go and version set to 1.15 then Bash step should run on that particular specific Go version for u18." time="28.6990" classname="S-Bash-0533. If type is set to image/auto, language set Go and version set to 1.15 then Bash step should run on that particular specific Go version for u18.">
+    </testcase>
+    <testcase name="LANGUAGE IMAGE - language Image tests on u18 node S-Bash-0542. If type is set to image/auto, language set Go and version set to 1.16 then Bash step should run on that particular specific Go version for u18." time="23.9090" classname="S-Bash-0542. If type is set to image/auto, language set Go and version set to 1.16 then Bash step should run on that particular specific Go version for u18.">
+    </testcase>
+    <testcase name="LANGUAGE IMAGE - language Image tests on u18 node S-Bash-0534. If type is set to image/auto, language set cpp and version set to 10.0.0 then Bash step should run on that particular specific cpp version for u18." time="28.8140" classname="S-Bash-0534. If type is set to image/auto, language set cpp and version set to 10.0.0 then Bash step should run on that particular specific cpp version for u18.">
+    </testcase>
+    <testcase name="LANGUAGE IMAGE - language Image tests on u18 node S-Bash-0537. If type is set to image/auto, language set java and version set to 14 then Bash step should run on that particular specific java version for u18." time="119.2880" classname="S-Bash-0537. If type is set to image/auto, language set java and version set to 14 then Bash step should run on that particular specific java version for u18.">
+    </testcase>
+  </testsuite>
+</testsuites>

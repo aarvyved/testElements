@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="10.3730" tests="3" failures="0" skipped="1">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:48" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="GENERIC_BASH - 2 out of 7 - Generic Bash tests " timestamp="2022-01-17T17:51:48" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383599/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/BashGeneric7.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Below test cases use GoogleCloud project Integration" timestamp="2022-01-17T17:51:48" tests="3" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383599/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/BashGeneric7.js" time="9.8440" failures="0" skipped="1">
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  Below test cases use GoogleCloud project Integration 3. User can add GoogleCloud project Integration" time="9.6190" classname="3. User can add GoogleCloud project Integration">
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  Below test cases use GoogleCloud project Integration S-Bash-0426.Verify if the user updates autoPull field to true image should get pulled with google container registry" time="0.0000" classname="S-Bash-0426.Verify if the user updates autoPull field to true image should get pulled with google container registry">
+      <skipped/>
+    </testcase>
+    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  Below test cases use GoogleCloud project Integration 4. User can delete Google project integrations by Id" time="0.2180" classname="4. User can delete Google project integrations by Id">
+    </testcase>
+  </testsuite>
+</testsuites>

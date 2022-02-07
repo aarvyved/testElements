@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="12.8600" tests="26" failures="0" skipped="22">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:52:11" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests" timestamp="2022-01-17T17:52:11" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383814/setup_PreMatrix/tests/core/projectIntegrations/IncomingWebhook.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Below test cases uses IncomingWebhook project integration with Username and password. " timestamp="2022-01-17T17:52:12" tests="21" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383814/setup_PreMatrix/tests/core/projectIntegrations/IncomingWebhook.js" time="0.0070" failures="0" skipped="21">
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Username and password.  I-IncomingWebhook-0001. User can add IncomingWebhook projectIntegration for username and password Credentials" time="0.0000" classname="I-IncomingWebhook-0001. User can add IncomingWebhook projectIntegration for username and password Credentials">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Username and password.  1. User should be able add PipelineSources for IncomingWebhook " time="0.0000" classname="1. User should be able add PipelineSources for IncomingWebhook ">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Username and password.  2. User can get IncomingWebhook resource which is added in  pipeline source" time="0.0000" classname="2. User can get IncomingWebhook resource which is added in  pipeline source">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Username and password.  I-IncomingWebhook-0004. User cannot update the integration name field in IncomingWebhook integration " time="0.0000" classname="I-IncomingWebhook-0004. User cannot update the integration name field in IncomingWebhook integration ">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Username and password.  I-IncomingWebhook-0005. User can able to update username field in IncomingWebhook integration" time="0.0000" classname="I-IncomingWebhook-0005. User can able to update username field in IncomingWebhook integration">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Username and password.  I-IncomingWebhook-0006. Users can able to update password field inIncomingWebhook integration" time="0.0000" classname="I-IncomingWebhook-0006. Users can able to update password field inIncomingWebhook integration">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Username and password.  I-IncomingWebhook-0012. Users should be able to update Basic authType to hmac with a value set to the secret field in IncomingWebhook integration" time="0.0000" classname="I-IncomingWebhook-0012. Users should be able to update Basic authType to hmac with a value set to the secret field in IncomingWebhook integration">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Username and password.  I-IncomingWebhook-0022. The response body should contain only the Username and password fields with only one ComputedHookURL field when the user updates the type of authorization from Basic AuthType to HMAC." time="0.0000" classname="I-IncomingWebhook-0022. The response body should contain only the Username and password fields with only one ComputedHookURL field when the user updates the type of authorization from Basic AuthType to HMAC.">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Username and password.  I-IncomingWebhook-0017. Users should be able to update hmac  to authorization with a value set to the secret field in IncomingWebhook integration" time="0.0000" classname="I-IncomingWebhook-0017. Users should be able to update hmac  to authorization with a value set to the secret field in IncomingWebhook integration">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Username and password.  I-IncomingWebhook-0018. The response body should contain only theauthorization field with only one ComputedHookURL field when the user updates the type of authorization from Hmac to authorization. " time="0.0000" classname="I-IncomingWebhook-0018. The response body should contain only theauthorization field with only one ComputedHookURL field when the user updates the type of authorization from Hmac to authorization. ">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Username and password.  I-IncomingWebhook-0013. Users should be able to update authorization to hmac with a value set to the secret field in IncomingWebhook integration" time="0.0000" classname="I-IncomingWebhook-0013. Users should be able to update authorization to hmac with a value set to the secret field in IncomingWebhook integration">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Username and password.  I-IncomingWebhook-0023. The response body should contain only the Username and password fields with only one ComputedHookURL field when the user updates the type of authorization from authorization to HMAC" time="0.0000" classname="I-IncomingWebhook-0023. The response body should contain only the Username and password fields with only one ComputedHookURL field when the user updates the type of authorization from authorization to HMAC">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Username and password.  I-IncomingWebhook-0014. Users should be able to update hmac to Basic authType with a value set to the secret field in IncomingWebhook integration" time="0.0000" classname="I-IncomingWebhook-0014. Users should be able to update hmac to Basic authType with a value set to the secret field in IncomingWebhook integration">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Username and password.  I-IncomingWebhook-0021. The response body should contain only the Username and password fields with only one ComputedHookURL field when.the user updates the type of authorization from HMAC to Basic AuthType.  " time="0.0000" classname="I-IncomingWebhook-0021. The response body should contain only the Username and password fields with only one ComputedHookURL field when.the user updates the type of authorization from HMAC to Basic AuthType.  ">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Username and password.  I-IncomingWebhook-0016. Users should be able to update Basic authType to authorization with a value set to the secret field in IncomingWebhook integration" time="0.0000" classname="I-IncomingWebhook-0016. Users should be able to update Basic authType to authorization with a value set to the secret field in IncomingWebhook integration">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Username and password.  I-IncomingWebhook-0019. The response body should contain only. The authorization field with only one ComputedHookURL field when the user updates the type of authorization from Basic AuthType to authorization " time="0.0000" classname="I-IncomingWebhook-0019. The response body should contain only. The authorization field with only one ComputedHookURL field when the user updates the type of authorization from Basic AuthType to authorization ">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Username and password.  I-IncomingWebhook-0015. Users should be able to update authorizationto Basic authType with a value set to the secret field in IncomingWebhook integration" time="0.0000" classname="I-IncomingWebhook-0015. Users should be able to update authorizationto Basic authType with a value set to the secret field in IncomingWebhook integration">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Username and password.  I-IncomingWebhook-0020. The response body should contain only theUsername and password fields with only one ComputedHookURL field whenthe user updates the type of authorization from authorization to Basic AuthType.  " time="0.0000" classname="I-IncomingWebhook-0020. The response body should contain only theUsername and password fields with only one ComputedHookURL field whenthe user updates the type of authorization from authorization to Basic AuthType.  ">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Username and password.  I-IncomingWebhook-00010. User should not able to delete Incoming webhook integration if it is dependent on any resources in the pipelines" time="0.0000" classname="I-IncomingWebhook-00010. User should not able to delete Incoming webhook integration if it is dependent on any resources in the pipelines">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Username and password.  3. User can delete pipelineSource by Id" time="0.0000" classname="3. User can delete pipelineSource by Id">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Username and password.  I-IncomingWebhook-0011 . User should able to delete Incoming  webhook integration if it is not dependent on any resources in the pipelines" time="0.0000" classname="I-IncomingWebhook-0011 . User should able to delete Incoming  webhook integration if it is not dependent on any resources in the pipelines">
+      <skipped/>
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases uses IncomingWebhook project integration with Auth type " timestamp="2022-01-17T17:52:12" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383814/setup_PreMatrix/tests/core/projectIntegrations/IncomingWebhook.js" time="12.6120" failures="0" skipped="1">
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Auth type  I-IncomingWebhook-0002. User can add IncomingWebhook projectIntegration for authorization Credentials" time="11.8380" classname="I-IncomingWebhook-0002. User can add IncomingWebhook projectIntegration for authorization Credentials">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Auth type  I-IncomingWebhook-0003. IncomingWebhook integration  name must adhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/" time="0.0410" classname="I-IncomingWebhook-0003. IncomingWebhook integration  name must adhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Auth type  I-IncomingWebhook-0007. Users can able to update authorization  Field in IncomingWebhook integration" time="0.1150" classname="I-IncomingWebhook-0007. Users can able to update authorization  Field in IncomingWebhook integration">
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Auth type  I-IncomingWebhook-0008. User can be able to post to generated  webhook URL then a new resource version should be created" time="0.0000" classname="I-IncomingWebhook-0008. User can be able to post to generated  webhook URL then a new resource version should be created">
+      <skipped/>
+    </testcase>
+    <testcase name="PROJECTINTEGRATIONS_INCOMINGWEBHOOK - IncomingWebhook integration tests Below test cases uses IncomingWebhook project integration with Auth type  I-IncomingWebhook-0011 . User should able to delete Incoming  webhook integration if it is not dependent on any resources in the pipelines" time="0.6160" classname="I-IncomingWebhook-0011 . User should able to delete Incoming  webhook integration if it is not dependent on any resources in the pipelines">
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.1110" tests="33" failures="0" skipped="33">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:52:12" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests" timestamp="2022-01-17T17:52:12" tests="17" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383825/setup_PreMatrix/tests/core/projectIntegrations/BitBucketServer.js" time="0.0000" failures="0" skipped="17">
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests I-BitbucketServer-0001. User can add bitbucket server project integration to add pipeline source" time="0.0000" classname="I-BitbucketServer-0001. User can add bitbucket server project integration to add pipeline source">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests I-BitbucketServer-0009. User can fetch repositories from bitbucket server project integration to add pipeline source" time="0.0000" classname="I-BitbucketServer-0009. User can fetch repositories from bitbucket server project integration to add pipeline source">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests 1. User should be able add new  for BitBucketServer" time="0.0000" classname="1. User should be able add new  for BitBucketServer">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests 2. User can get BitBucketServer resource which is added in  pipeline source" time="0.0000" classname="2. User can get BitBucketServer resource which is added in  pipeline source">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests I-BitbucketServer-0002. Integration name must adhere to the regular  expression /^[a-zA-Z_][a-zA-Z0-9_]*$/" time="0.0000" classname="I-BitbucketServer-0002. Integration name must adhere to the regular  expression /^[a-zA-Z_][a-zA-Z0-9_]*$/">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests I-BitbucketServer-0007. User should not able to delete bitbucket server integration if it is dependent on any pipelineSource or resources in the pipelines" time="0.0000" classname="I-BitbucketServer-0007. User should not able to delete bitbucket server integration if it is dependent on any pipelineSource or resources in the pipelines">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests 3. User can delete pipelineSource by Id" time="0.0000" classname="3. User can delete pipelineSource by Id">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests I-BitbucketServer-5986-001. User should be able add two single-branch pipeline sources for the same Bitbucket repository" time="0.0000" classname="I-BitbucketServer-5986-001. User should be able add two single-branch pipeline sources for the same Bitbucket repository">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests I-BitbucketServer-5986-002. User adds a multi-branch Bitbucket Server pipeline source and then pushes a new branch matching the pattern to the repository.  Pipeline sync runs for the new branch." time="0.0000" classname="I-BitbucketServer-5986-002. User adds a multi-branch Bitbucket Server pipeline source and then pushes a new branch matching the pattern to the repository.  Pipeline sync runs for the new branch.">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests I-BitbucketServer-5968-003  User adds a single-branch Bitbucket Server pipeline source for a branch that does not exist and then pushes a new branch matching the pattern to the repository.  Pipeline sync runs for the new branch." time="0.0000" classname="I-BitbucketServer-5968-003  User adds a single-branch Bitbucket Server pipeline source for a branch that does not exist and then pushes a new branch matching the pattern to the repository.  Pipeline sync runs for the new branch.">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests I-BitbucketServer-5968-004 User updates a file matching the file filter in a single-branch pipeline source and pipeline sync is triggered for that pipeline source." time="0.0000" classname="I-BitbucketServer-5968-004 User updates a file matching the file filter in a single-branch pipeline source and pipeline sync is triggered for that pipeline source.">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests I-BitbucketServer-5968-005 User updates a file matching the file filter in a multi-branch pipeline source and pipeline sync is triggered for that pipeline source and branch." time="0.0000" classname="I-BitbucketServer-5968-005 User updates a file matching the file filter in a multi-branch pipeline source and pipeline sync is triggered for that pipeline source and branch.">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests I-BitbucketServer-0003.Users should not be able to update integration name" time="0.0000" classname="I-BitbucketServer-0003.Users should not be able to update integration name">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests I-BitbucketServer-0004. Users should be able to update integration  username" time="0.0000" classname="I-BitbucketServer-0004. Users should be able to update integration  username">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests I-BitbucketServer-0005. Users should be able to update integration password" time="0.0000" classname="I-BitbucketServer-0005. Users should be able to update integration password">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests I-BitbucketServer-0006. Users should be able to update integration URL" time="0.0000" classname="I-BitbucketServer-0006. Users should be able to update integration URL">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests I-BitbucketServer-0008. User should able to delete bitbucket server integration if it is not dependent on any pipelineSource or  resources in the pipelines" time="0.0000" classname="I-BitbucketServer-0008. User should able to delete bitbucket server integration if it is not dependent on any pipelineSource or  resources in the pipelines">
+      <skipped/>
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases are for testIntegration" timestamp="2022-01-17T17:52:12" tests="11" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383825/setup_PreMatrix/tests/core/projectIntegrations/BitBucketServer.js" time="0.0040" failures="0" skipped="11">
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests Below test cases are for testIntegration I-BitbucketServer-TestConnection-0001. User gets &quot;Connection was successful&quot; response when using valid bitbucketServer data" time="0.0000" classname="I-BitbucketServer-TestConnection-0001. User gets &quot;Connection was successful&quot; response when using valid bitbucketServer data">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests Below test cases are for testIntegration I-BitbucketServer-TestConnection-0002. User gets 400 bad request if the bitbucketServer url was missing in request body" time="0.0000" classname="I-BitbucketServer-TestConnection-0002. User gets 400 bad request if the bitbucketServer url was missing in request body">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests Below test cases are for testIntegration I-BitbucketServer-TestConnection-0003. User gets 400 bad request if the bitbucketServer username was missing in request body" time="0.0000" classname="I-BitbucketServer-TestConnection-0003. User gets 400 bad request if the bitbucketServer username was missing in request body">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests Below test cases are for testIntegration I-BitbucketServer-TestConnection-0004. User gets 400 bad request if the bitbucketServer password was missing in request body" time="0.0000" classname="I-BitbucketServer-TestConnection-0004. User gets 400 bad request if the bitbucketServer password was missing in request body">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests Below test cases are for testIntegration I-BitbucketServer-TestConnection-0007. User gets &quot;failure&quot; status if the repositoryFullName was missing in request body when using performExtraChecks=true in URL" time="0.0000" classname="I-BitbucketServer-TestConnection-0007. User gets &quot;failure&quot; status if the repositoryFullName was missing in request body when using performExtraChecks=true in URL">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests Below test cases are for testIntegration I-BitbucketServer-TestConnection-0010. User gets &quot;Connection was successful&quot; response when using valid bitbucketServer repo with admin permissions and performExtraChecks=true in URL" time="0.0000" classname="I-BitbucketServer-TestConnection-0010. User gets &quot;Connection was successful&quot; response when using valid bitbucketServer repo with admin permissions and performExtraChecks=true in URL">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests Below test cases are for testIntegration I-BitbucketServer-TestConnection-0011. User gets &quot;Connection was not successful&quot; response when using invalid bbs data" time="0.0000" classname="I-BitbucketServer-TestConnection-0011. User gets &quot;Connection was not successful&quot; response when using invalid bbs data">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests Below test cases are for testIntegration I-BitbucketServer-TestConnectionById-0001. User gets &quot;Connection was successful&quot; response when using valid bitbucketServer integration" time="0.0000" classname="I-BitbucketServer-TestConnectionById-0001. User gets &quot;Connection was successful&quot; response when using valid bitbucketServer integration">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests Below test cases are for testIntegration I-BitbucketServer-TestConnectionById-0004. User gets &quot;failure&quot; status if the bitbucketServer repositoryFullName was missing in request body when performExtraChecks=true in URL is passed" time="0.0000" classname="I-BitbucketServer-TestConnectionById-0004. User gets &quot;failure&quot; status if the bitbucketServer repositoryFullName was missing in request body when performExtraChecks=true in URL is passed">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests Below test cases are for testIntegration I-BitbucketServer-TestConnectionById-0007. User gets &quot;Connection was successful&quot; response when using valid bitbucketServer repo with admin permissions and performExtraChecks=true in URL" time="0.0000" classname="I-BitbucketServer-TestConnectionById-0007. User gets &quot;Connection was successful&quot; response when using valid bitbucketServer repo with admin permissions and performExtraChecks=true in URL">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests Below test cases are for testIntegration I-BitbucketServer-TestConnectionById-0008. User gets &quot;Connection was not successful&quot; response when using invalid bbs integration" time="0.0000" classname="I-BitbucketServer-TestConnectionById-0008. User gets &quot;Connection was not successful&quot; response when using invalid bbs integration">
+      <skipped/>
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases for testing for fetchRepos and fetchBranches with unauthorized access" timestamp="2022-01-17T17:52:12" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383825/setup_PreMatrix/tests/core/projectIntegrations/BitBucketServer.js" time="0.0010" failures="0" skipped="2">
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests Below test cases for testing for fetchRepos and fetchBranches with unauthorized access A-BitBucketServer-6377-0001. fetchRepos api would report  unauthorized error when invalid token is passed in the integration." time="0.0000" classname="A-BitBucketServer-6377-0001. fetchRepos api would report  unauthorized error when invalid token is passed in the integration.">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests Below test cases for testing for fetchRepos and fetchBranches with unauthorized access A-BitbucketServer-6377-0002. fetchBranches api would report  unauthorized error when invalid token is passed in the integration." time="0.0000" classname="A-BitbucketServer-6377-0002. fetchBranches api would report  unauthorized error when invalid token is passed in the integration.">
+      <skipped/>
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases for testing for fetchRepos and fetchBranches with invalid api url" timestamp="2022-01-17T17:52:12" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383825/setup_PreMatrix/tests/core/projectIntegrations/BitBucketServer.js" time="0.0000" failures="0" skipped="2">
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests Below test cases for testing for fetchRepos and fetchBranches with invalid api url A-BitbucketServer-6377-0003. fetchRepos api would report invalid apiUrl error when invalid apiUrl is passed in the integration." time="0.0000" classname="A-BitbucketServer-6377-0003. fetchRepos api would report invalid apiUrl error when invalid apiUrl is passed in the integration.">
+      <skipped/>
+    </testcase>
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests Below test cases for testing for fetchRepos and fetchBranches with invalid api url A-BitbucketServer-6377-0004. fetchBranches api would report invalid apiUrl error when invalid apiurl is passed in the integration." time="0.0000" classname="A-BitbucketServer-6377-0004. fetchBranches api would report invalid apiUrl error when invalid apiurl is passed in the integration.">
+      <skipped/>
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases for testing for fetchBranches with invalid repository name." timestamp="2022-01-17T17:52:12" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383825/setup_PreMatrix/tests/core/projectIntegrations/BitBucketServer.js" time="0.0030" failures="0" skipped="1">
+    <testcase name="INTEGRATIONS_BITBUCKETSERVER - Bitbucket Server Integration tests Below test cases for testing for fetchBranches with invalid repository name. A-BitbucketServer-6377-0005. fetchBranches api would report  inalid repository error when invalid repository name is passed." time="0.0000" classname="A-BitbucketServer-6377-0005. fetchBranches api would report  inalid repository error when invalid repository name is passed.">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>
