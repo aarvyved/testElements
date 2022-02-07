@@ -1,0 +1,8 @@
+<!-- 
+  spec for junit test cases : http://llg.cubic.org/docs/junit/
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nosetests1" tests="2" errors="0" failures="0" skip="0">
+  <testcase classname="test.TestSuite" name="test" time="0.001"></testcase>
+  <testcase classname="test.AnotherTestSuite" name="test" time="0.002"></testcase>
+</testsuite>
