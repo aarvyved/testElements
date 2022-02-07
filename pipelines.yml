@@ -19,7 +19,29 @@ pipelines:
             - name: myRepoResource
         execution:
           onExecute:
-            - save_tests "$res_myRepoResource_resourcePath/tests/junit/errorv2.xml"
-            - save_tests "$res_myRepoResource_resourcePath/tests/junit/failurev2.xml"
-            - save_tests "$res_myRepoResource_resourcePath/tests/junit/successv2.xml"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr1"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr2"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr3"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr4"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr5"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr6"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr7"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr8"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr9"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr10"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr11"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr12"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr13"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr14"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr15"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr16"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr17"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr18"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr19"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr20"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr21"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr22"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr23"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr24"
+            
             
