@@ -19,4 +19,7 @@ pipelines:
             - name: myRepoResource
         execution:
           onExecute:
-            - save_tests "$res_myRepoResource_resourcePath/tests/junit/*"
+            - save_tests "$res_myRepoResource_resourcePath/tests/junit/error.xml"
+            - save_tests "$res_myRepoResource_resourcePath/tests/junit/failure.xml"
+            - save_tests "$res_myRepoResource_resourcePath/tests/junit/success.xml"
+            
