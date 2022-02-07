@@ -12,7 +12,7 @@ pipelines:
       integrations:
           - name: s_art
     steps:
-       - name: TestElement_1
+      - name: TestElement_1
         type: Bash
         configuration:
           inputResources:
