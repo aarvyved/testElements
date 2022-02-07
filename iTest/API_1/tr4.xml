@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="185.4440" tests="5" failures="0" skipped="2">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:37" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API_CANCEL_RUN - cancelRun - cancelRun tests" timestamp="2022-01-17T17:51:37" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383643/setup_PreMatrix/tests/core/api/cancelRun.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Validate that runs can be cancelled using the api." timestamp="2022-01-17T17:51:37" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383643/setup_PreMatrix/tests/core/api/cancelRun.js" time="185.1980" failures="0" skipped="2">
+    <testcase name="API_CANCEL_RUN - cancelRun - cancelRun tests Validate that runs can be cancelled using the api. S_Bash_CancelRun_6110_0001 User creates a pipeline with multiple steps and starts a run. User cancels the run while the run is Waiting. The run state moves to cancelled." time="0.0000" classname="S_Bash_CancelRun_6110_0001 User creates a pipeline with multiple steps and starts a run. User cancels the run while the run is Waiting. The run state moves to cancelled.">
+      <skipped/>
+    </testcase>
+    <testcase name="API_CANCEL_RUN - cancelRun - cancelRun tests Validate that runs can be cancelled using the api. S_Bash_CancelRun_6110_0002 User creates a pipeline with multiple steps and starts a run. User cancels the run while the run is Processing. The run state moves to cancelled." time="133.9180" classname="S_Bash_CancelRun_6110_0002 User creates a pipeline with multiple steps and starts a run. User cancels the run while the run is Processing. The run state moves to cancelled.">
+    </testcase>
+    <testcase name="API_CANCEL_RUN - cancelRun - cancelRun tests Validate that runs can be cancelled using the api. S_Bash_CancelRun_6110_0003. Admin user should be able to a cancel run" time="26.0150" classname="S_Bash_CancelRun_6110_0003. Admin user should be able to a cancel run">
+    </testcase>
+    <testcase name="API_CANCEL_RUN - cancelRun - cancelRun tests Validate that runs can be cancelled using the api. S_Bash_CancelRun_6110_0004. Member user shouldn&apos;t be able to a cancel run" time="25.2590" classname="S_Bash_CancelRun_6110_0004. Member user shouldn&apos;t be able to a cancel run">
+    </testcase>
+    <testcase name="API_CANCEL_RUN - cancelRun - cancelRun tests Validate that runs can be cancelled using the api. S_Bash_CancelRun_6110_0005. User creates two runs with the same pipeline. User cancels the first run. The second run is not cancelled." time="0.0000" classname="S_Bash_CancelRun_6110_0005. User creates two runs with the same pipeline. User cancels the first run. The second run is not cancelled.">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="215.2940" tests="29" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:37" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests" timestamp="2022-01-17T17:51:37" tests="23" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383645/setup_PreMatrix/tests/core/api/buildPlaneMessages.js" time="0.0000" failures="0">
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests A-BuildPlaneMessages-0001. PublicUser is not able to POST buildPlaneMessages" time="0.0380" classname="A-BuildPlaneMessages-0001. PublicUser is not able to POST buildPlaneMessages">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests A-BuildPlaneMessages-0002. Admin user cannot post BuildPlaneMessages" time="0.0330" classname="A-BuildPlaneMessages-0002. Admin user cannot post BuildPlaneMessages">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests A-BuildPlameMessages-0003. ProjectAdminUser shouldn’t be able to POST the BuildPlaneMessages" time="0.0830" classname="A-BuildPlameMessages-0003. ProjectAdminUser shouldn’t be able to POST the BuildPlaneMessages">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests A-BuildPlaneMessages-0004. Member cannot post BuildPlaneMessages" time="0.1480" classname="A-BuildPlaneMessages-0004. Member cannot post BuildPlaneMessages">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests A-BuildPlameMessages-0005. BuildNode user cannot post BuildPlaneMessages" time="0.0220" classname="A-BuildPlameMessages-0005. BuildNode user cannot post BuildPlaneMessages">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests A-BuildPlaneMessages-0006. Super user can post BuildPlaneMessages" time="0.0890" classname="A-BuildPlaneMessages-0006. Super user can post BuildPlaneMessages">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests A-BuildPlaneMessages-0007. Super user can get BuildPlaneMessages" time="0.1370" classname="A-BuildPlaneMessages-0007. Super user can get BuildPlaneMessages">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests A-BuildPlaneMessages-6531-0025. Users are able to use the include parameter while getting buildPlaneMessages" time="0.0300" classname="A-BuildPlaneMessages-6531-0025. Users are able to use the include parameter while getting buildPlaneMessages">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests A-BuildPlaneMessages-6531-0026. If user passes wrong values in include parameter, the request would fail" time="0.0210" classname="A-BuildPlaneMessages-6531-0026. If user passes wrong values in include parameter, the request would fail">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests A-BuildPlameMessages-0008. ProjectAdmin cannot get BuildPlaneMessages" time="0.0330" classname="A-BuildPlameMessages-0008. ProjectAdmin cannot get BuildPlaneMessages">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests A-BuildPlaneMessages-0009. Admin cannot get BuildPlaneMessages" time="0.0430" classname="A-BuildPlaneMessages-0009. Admin cannot get BuildPlaneMessages">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests A-BuildPlaneMessages-0010. Member can get BuildPlaneMessages" time="0.0540" classname="A-BuildPlaneMessages-0010. Member can get BuildPlaneMessages">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests A-BuildPlaneMessages-0011. Public user cannot get BuildPlaneMessages" time="0.1720" classname="A-BuildPlaneMessages-0011. Public user cannot get BuildPlaneMessages">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests A-BuildPlameMessages-0012. Super user can update the BuildPlaneMessages by Id" time="0.0520" classname="A-BuildPlameMessages-0012. Super user can update the BuildPlaneMessages by Id">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests A-BuildPlameMessages-0013. ProjectAdminUser shouldn’t  be able to UPDATE the BuildPlaneMessages by id" time="0.1970" classname="A-BuildPlameMessages-0013. ProjectAdminUser shouldn’t  be able to UPDATE the BuildPlaneMessages by id">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests A-BuildPlameMessages-0014. Admin user cannot update the BuildPlaneMessages by Id" time="0.0510" classname="A-BuildPlameMessages-0014. Admin user cannot update the BuildPlaneMessages by Id">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests A-BuildPlameMessages-0015. Member cannot update the  BuildPlaneMessages by Id" time="0.0340" classname="A-BuildPlameMessages-0015. Member cannot update the  BuildPlaneMessages by Id">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests A-BuildPlameMessages-0016. Public user cannot update the BuildPlaneMessages by Id" time="0.0180" classname="A-BuildPlameMessages-0016. Public user cannot update the BuildPlaneMessages by Id">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests A-BuildPlameMessages-0017. Public user cannot delete BuildPlaneMessages by Id" time="0.0240" classname="A-BuildPlameMessages-0017. Public user cannot delete BuildPlaneMessages by Id">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests A-BuildPlameMessages-0018. Member cannot delete BuildPlaneMessages by Id" time="0.1290" classname="A-BuildPlameMessages-0018. Member cannot delete BuildPlaneMessages by Id">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests A-BuildPlameMessages-0019. Admin cannot delete BuildPlaneMessages by Id" time="0.0350" classname="A-BuildPlameMessages-0019. Admin cannot delete BuildPlaneMessages by Id">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests A-BuildPlameMessages-0020. ProjectAdminUser shouldn’t be able to DELETE theBuildPlaneMessages by id" time="0.0760" classname="A-BuildPlameMessages-0020. ProjectAdminUser shouldn’t be able to DELETE theBuildPlaneMessages by id">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests A-BuildPlameMessages-0021. Super user can delete BuildPlaneMessages by Id" time="0.1180" classname="A-BuildPlameMessages-0021. Super user can delete BuildPlaneMessages by Id">
+    </testcase>
+  </testsuite>
+  <testsuite name="User with build-node scope test cases" timestamp="2022-01-17T17:51:57" tests="4" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383645/setup_PreMatrix/tests/core/api/buildPlaneMessages.js" time="0.7980" failures="0">
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests User with build-node scope test cases A-BuildPlaneMessages-0022. User sees that when buildNodeUser calls POST /nodes/:nodeId/nextMessage, the valid data (buildPlaneMessage) is received and it contains the nodeId as passed in the path parameters." time="0.3330" classname="A-BuildPlaneMessages-0022. User sees that when buildNodeUser calls POST /nodes/:nodeId/nextMessage, the valid data (buildPlaneMessage) is received and it contains the nodeId as passed in the path parameters.">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests User with build-node scope test cases A-BuildPlaneMessages-0024. User verifies that no buildNodeUsers get the same messagewhen POST /nodes/:nodeId/nextMessage is called at the same time." time="0.0000" classname="A-BuildPlaneMessages-0024. User verifies that no buildNodeUsers get the same messagewhen POST /nodes/:nodeId/nextMessage is called at the same time.">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests User with build-node scope test cases A-BuildPlameMessages-0025. BuildNodeUser can update the BuildPlaneMessages by Id with nodeId" time="0.2090" classname="A-BuildPlameMessages-0025. BuildNodeUser can update the BuildPlaneMessages by Id with nodeId">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests User with build-node scope test cases A-BuildPlameMessages-0026. BuildNodeUser can delete the BuildPlaneMessages by Id with nodeId" time="0.1340" classname="A-BuildPlameMessages-0026. BuildNodeUser can delete the BuildPlaneMessages by Id with nodeId">
+    </testcase>
+  </testsuite>
+  <testsuite name="PIPE-6882 Test cases" timestamp="2022-01-17T17:51:58" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383645/setup_PreMatrix/tests/core/api/buildPlaneMessages.js" time="194.1540" failures="0">
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests PIPE-6882 Test cases S_BASH_BPM_PIPE-6882-01. User triggers the run and upon completion of a run, the user verifies that there are no buildPlaneMessages present for the run." time="98.4720" classname="S_BASH_BPM_PIPE-6882-01. User triggers the run and upon completion of a run, the user verifies that there are no buildPlaneMessages present for the run.">
+    </testcase>
+    <testcase name="API_BUILD_PLANE_MESSAGES - Build Plane Messages API tests PIPE-6882 Test cases S_BASH_BPM_PIPE-6882-02. User triggers the run and upon cancelling a run from processing state, the user verifies that there are no buildPlaneMessages present for the run." time="95.3730" classname="S_BASH_BPM_PIPE-6882-02. User triggers the run and upon cancelling a run from processing state, the user verifies that there are no buildPlaneMessages present for the run.">
+    </testcase>
+  </testsuite>
+</testsuites>

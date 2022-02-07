@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="154.5670" tests="47" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:36" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API_HOOKS - Hooks API tests" timestamp="2022-01-17T17:51:36" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383639/setup_PreMatrix/tests/core/api/hooks.js" time="0.0000" failures="0">
+    <testcase name="API_HOOKS - Hooks API tests 1.Super user posts PipelineSources to add pipelines" time="18.2980" classname="1.Super user posts PipelineSources to add pipelines">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases uses pipelineSource" timestamp="2022-01-17T17:51:54" tests="46" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383639/setup_PreMatrix/tests/core/api/hooks.js" time="136.0250" failures="0">
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0017. Super user can get their Hooks" time="0.0810" classname="A-Hooks-0017. Super user can get their Hooks">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-6531-0040. Users are able to use the include parameter while getting hooks." time="0.0260" classname="A-Hooks-6531-0040. Users are able to use the include parameter while getting hooks.">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0018. Admin can get their Hooks" time="0.0440" classname="A-Hooks-0018. Admin can get their Hooks">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0019. Member can get their Hooks" time="0.1180" classname="A-Hooks-0019. Member can get their Hooks">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0020. Public user cannot get their hooks" time="0.0210" classname="A-Hooks-0020. Public user cannot get their hooks">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0001. Super user can post Hooks" time="0.2200" classname="A-Hooks-0001. Super user can post Hooks">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0002. Admin user cannot post Hooks" time="0.1500" classname="A-Hooks-0002. Admin user cannot post Hooks">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0003. Member cannot post Hooks" time="0.0460" classname="A-Hooks-0003. Member cannot post Hooks">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0004. Public user cannot post Hooks" time="0.0180" classname="A-Hooks-0004. Public user cannot post Hooks">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0005. Super user can post Hooks by hook" time="0.1510" classname="A-Hooks-0005. Super user can post Hooks by hook">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0006. Admin user can post Hooks by hook" time="0.2350" classname="A-Hooks-0006. Admin user can post Hooks by hook">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0007. Member can post Hooks by hook" time="0.0530" classname="A-Hooks-0007. Member can post Hooks by hook">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0008. Public user can post Hooks by hook" time="0.0670" classname="A-Hooks-0008. Public user can post Hooks by hook">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0009. Super user can get Hooks by Id" time="0.0590" classname="A-Hooks-0009. Super user can get Hooks by Id">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-6531-0041. Users are able to use the include parameter while getting Hooks by Id" time="0.1190" classname="A-Hooks-6531-0041. Users are able to use the include parameter while getting Hooks by Id">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0010. Admin can get Hooks by Id" time="0.0450" classname="A-Hooks-0010. Admin can get Hooks by Id">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0011. Member can get Hooks by Id" time="0.0760" classname="A-Hooks-0011. Member can get Hooks by Id">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0012. Public user cannot get their hooks by id" time="0.0170" classname="A-Hooks-0012. Public user cannot get their hooks by id">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0013. Super user can update the Hooks" time="132.5680" classname="A-Hooks-0013. Super user can update the Hooks">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0014. Admin user cannot update the Hooks" time="0.0500" classname="A-Hooks-0014. Admin user cannot update the Hooks">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0015. Member cannot update the Hooks" time="0.0290" classname="A-Hooks-0015. Member cannot update the Hooks">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0016. Public user cannot update the Hooks" time="0.0200" classname="A-Hooks-0016. Public user cannot update the Hooks">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0036. Super user should not get the sensitive fields in response" time="0.1360" classname="A-Hooks-0036. Super user should not get the sensitive fields in response">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0037. Admin user should not get the sensitive fields in response" time="0.0360" classname="A-Hooks-0037. Admin user should not get the sensitive fields in response">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0038. Member user should not get the sensitive fields in response" time="0.0360" classname="A-Hooks-0038. Member user should not get the sensitive fields in response">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0039. Public user should not get the hook" time="0.0210" classname="A-Hooks-0039. Public user should not get the hook">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0021. Id field in Hooks API should not be null and should be an integer" time="0.0000" classname="A-Hooks-0021. Id field in Hooks API should not be null and should be an integer">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0022. ProjectId field in Hooks API should not be null and should be an integer" time="0.0000" classname="A-Hooks-0022. ProjectId field in Hooks API should not be null and should be an integer">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0023. ProjectIntegrationId field in Hooks API should not be null and should be an integer" time="0.0000" classname="A-Hooks-0023. ProjectIntegrationId field in Hooks API should not be null and should be an integer">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0024. IdentifierName field in Hooks API should not be null and should be a string" time="0.0000" classname="A-Hooks-0024. IdentifierName field in Hooks API should not be null and should be a string">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0025. IdentifierValue field in Hooks API should not be null and should be a string" time="0.0000" classname="A-Hooks-0025. IdentifierValue field in Hooks API should not be null and should be a string">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0026. ResourceTypeCode field in Hooks API should not be  null and should be an integer" time="0.0000" classname="A-Hooks-0026. ResourceTypeCode field in Hooks API should not be  null and should be an integer">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0027. PropertyBag field in Hooks API should be an object type" time="0.0000" classname="A-Hooks-0027. PropertyBag field in Hooks API should be an object type">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0028. CreatedAt field in Hooks API should not be null and should be an string" time="0.0000" classname="A-Hooks-0028. CreatedAt field in Hooks API should not be null and should be an string">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0029. UpdatedAt field in Hooks API should not be null and should be a string" time="0.0000" classname="A-Hooks-0029. UpdatedAt field in Hooks API should not be null and should be a string">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0030. CreatedBy field in Hooks API should not be null and  should be an integer type" time="0.0000" classname="A-Hooks-0030. CreatedBy field in Hooks API should not be null and  should be an integer type">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0031. UpdatedBy field in Hooks API should not be null and should be an integer type" time="0.0000" classname="A-Hooks-0031. UpdatedBy field in Hooks API should not be null and should be an integer type">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0032. Public user cannot delete hooks by Id" time="0.0190" classname="A-Hooks-0032. Public user cannot delete hooks by Id">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0033. Member cannot delete hooks by Id" time="0.0460" classname="A-Hooks-0033. Member cannot delete hooks by Id">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0034. Admin cannot delete hooks by Id" time="0.0430" classname="A-Hooks-0034. Admin cannot delete hooks by Id">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-Hooks-0035. Super user can delete hooks by Id" time="0.0580" classname="A-Hooks-0035. Super user can delete hooks by Id">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-PO-PP-0001. Project Admin User should be able to post the hooks " time="0.0700" classname="A-PO-PP-0001. Project Admin User should be able to post the hooks ">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-PO-PP-0002. User with project scope should be able to update the hooks " time="0.0650" classname="A-PO-PP-0002. User with project scope should be able to update the hooks ">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-PO-PP-0003. User with project scope should be able to delete the hooks " time="0.0500" classname="A-PO-PP-0003. User with project scope should be able to delete the hooks ">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource A-PO-PP-0004. User with project scope should be able to post the hooks " time="0.1780" classname="A-PO-PP-0004. User with project scope should be able to post the hooks ">
+    </testcase>
+    <testcase name="API_HOOKS - Hooks API tests Below test cases uses pipelineSource 2. Super user can delete pipelineSource by Id " time="0.8940" classname="2. Super user can delete pipelineSource by Id ">
+    </testcase>
+  </testsuite>
+</testsuites>

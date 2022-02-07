@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="40.5050" tests="95" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:36" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API_NODES - Nodes API tests" timestamp="2022-01-17T17:51:36" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383636/setup_PreMatrix/tests/core/api/nodes.js" time="0.0000" failures="0">
+    <testcase name="API_NODES - Nodes API tests 2. Super user posts PipelineSources to add pipelines" time="20.5410" classname="2. Super user posts PipelineSources to add pipelines">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases use for static node" timestamp="2022-01-17T17:51:57" tests="94" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383636/setup_PreMatrix/tests/core/api/nodes.js" time="19.7850" failures="0">
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node 1. Super user should be able to post NodePools" time="8.9480" classname="1. Super user should be able to post NodePools">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0001. Super user should be able to post Nodes" time="0.5130" classname="A-Nodes-0001. Super user should be able to post Nodes">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-PO-PP-0007. Project Admin User should be able to post the nodes" time="0.2740" classname="A-PO-PP-0007. Project Admin User should be able to post the nodes">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0002. Admin user cannot post Nodes" time="0.0300" classname="A-Nodes-0002. Admin user cannot post Nodes">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0003. Member user cannot post Nodes" time="0.1020" classname="A-Nodes-0003. Member user cannot post Nodes">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0004. Public user cannot post Nodes" time="0.0210" classname="A-Nodes-0004. Public user cannot post Nodes">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0005. Super user can post Nodes by updateStatistics" time="0.2210" classname="A-Nodes-0005. Super user can post Nodes by updateStatistics">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-PO-PP-0006. Project Admin User should not be able to post the updateStatistics" time="0.0640" classname="A-PO-PP-0006. Project Admin User should not be able to post the updateStatistics">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0006. Admin user cannot post Nodes by updateStatistics" time="0.0580" classname="A-Nodes-0006. Admin user cannot post Nodes by updateStatistics">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0007. Member user cannot post Nodes by updateStatistics" time="0.0300" classname="A-Nodes-0007. Member user cannot post Nodes by updateStatistics">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0008. Public user cannot post Nodes by updateStatistics" time="0.0190" classname="A-Nodes-0008. Public user cannot post Nodes by updateStatistics">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0009. Super user can get Nodes by Id" time="0.0810" classname="A-Nodes-0009. Super user can get Nodes by Id">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-6531-0090. Users are able to use the include parameter while getting Nodes by Id" time="0.0370" classname="A-Nodes-6531-0090. Users are able to use the include parameter while getting Nodes by Id">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0010. Admin user can get their Nodes by id" time="0.1950" classname="A-Nodes-0010. Admin user can get their Nodes by id">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0011. Member user can get their Nodes by id" time="0.0690" classname="A-Nodes-0011. Member user can get their Nodes by id">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0012. Public user cannot get their Nodes by id" time="0.0180" classname="A-Nodes-0012. Public user cannot get their Nodes by id">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0013. Super user can get Nodes by validate" time="0.0650" classname="A-Nodes-0013. Super user can get Nodes by validate">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-6234-0001. Super user can post Nodes by validate" time="0.0720" classname="A-Nodes-6234-0001. Super user can post Nodes by validate">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0014. Admin user can not get their Nodes by validate" time="0.0280" classname="A-Nodes-0014. Admin user can not get their Nodes by validate">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-6234-0002. Admin user can not post their Nodes by validate" time="0.0500" classname="A-Nodes-6234-0002. Admin user can not post their Nodes by validate">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0015. Member user can not get their Nodes by validate" time="0.0290" classname="A-Nodes-0015. Member user can not get their Nodes by validate">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-6234-0003. Member user can not post their Nodes by validate" time="0.0430" classname="A-Nodes-6234-0003. Member user can not post their Nodes by validate">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0016. Public user should not get their Nodes by validate" time="0.0190" classname="A-Nodes-0016. Public user should not get their Nodes by validate">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-6234-0004. Public user should not post their Nodes by validate" time="0.0160" classname="A-Nodes-6234-0004. Public user should not post their Nodes by validate">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0017. Super user can get Nodes by InitScript" time="0.0910" classname="A-Nodes-0017. Super user can get Nodes by InitScript">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0018. Admin user can get their Nodes by InitScript" time="0.4870" classname="A-Nodes-0018. Admin user can get their Nodes by InitScript">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0019. Member user can get their Nodes by InitScript" time="0.2190" classname="A-Nodes-0019. Member user can get their Nodes by InitScript">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0020. Public user cannot get their Nodes by InitScript" time="0.0160" classname="A-Nodes-0020. Public user cannot get their Nodes by InitScript">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0021. Super user can update the Nodes by id" time="0.2510" classname="A-Nodes-0021. Super user can update the Nodes by id">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-PUT-PP-0003. ProjectAdminUser should be able to update node by its Id " time="0.0620" classname="A-PUT-PP-0003. ProjectAdminUser should be able to update node by its Id ">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0022. Admin user can update Nodes by id" time="0.1200" classname="A-Nodes-0022. Admin user can update Nodes by id">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-6033-0075. User with build-node scope is able to update status of the node to success" time="0.0760" classname="A-Nodes-6033-0075. User with build-node scope is able to update status of the node to success">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0023. Member user can update Nodes by id" time="0.1370" classname="A-Nodes-0023. Member user can update Nodes by id">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0060. Node cannot go into STOPPED state from PROCESSING state" time="0.1460" classname="A-Nodes-0060. Node cannot go into STOPPED state from PROCESSING state">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0024. Public should not be able to update Nodes by id" time="0.1510" classname="A-Nodes-0024. Public should not be able to update Nodes by id">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0061. Node can go to STOPPED state from non-PROCESSING state" time="0.2680" classname="A-Nodes-0061. Node can go to STOPPED state from non-PROCESSING state">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-5854-0001. ProjectAdminUser cannot update node status to deleted" time="0.0430" classname="A-Nodes-5854-0001. ProjectAdminUser cannot update node status to deleted">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-5854-0002. ProjectAdminUser cannot update node instanceId" time="0.1530" classname="A-Nodes-5854-0002. ProjectAdminUser cannot update node instanceId">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-5854-0003. ProjectAdminUser cannot update node instanceInfo" time="0.1520" classname="A-Nodes-5854-0003. ProjectAdminUser cannot update node instanceInfo">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-5854-0004. Super user cannot update node status to deleted" time="0.0360" classname="A-Nodes-5854-0004. Super user cannot update node status to deleted">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-5854-0005. Super user cannot update node instanceId" time="0.0810" classname="A-Nodes-5854-0005. Super user cannot update node instanceId">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-5854-0006. Super user cannot update node instanceInfo" time="0.0920" classname="A-Nodes-5854-0006. Super user cannot update node instanceInfo">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0025. Super user can get their Nodes" time="0.1690" classname="A-Nodes-0025. Super user can get their Nodes">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-6531-0089. Users are able to use the include parameter while getting Nodes" time="0.1720" classname="A-Nodes-6531-0089. Users are able to use the include parameter while getting Nodes">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0026. Admin user can get their Nodes" time="0.2210" classname="A-Nodes-0026. Admin user can get their Nodes">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0027. Member user can get their Nodes" time="0.2940" classname="A-Nodes-0027. Member user can get their Nodes">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0028. Public user cannot get their Nodes" time="0.0140" classname="A-Nodes-0028. Public user cannot get their Nodes">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0029. Id field in Nodes API should not be null and  should be an integer" time="0.0000" classname="A-Nodes-0029. Id field in Nodes API should not be null and  should be an integer">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0030. ProjectId field in Nodes API should not be null and should be a string" time="0.0000" classname="A-Nodes-0030. ProjectId field in Nodes API should not be null and should be a string">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0031. StatusCode field in Nodes API should not be null and should be a string" time="0.0000" classname="A-Nodes-0031. StatusCode field in Nodes API should not be null and should be a string">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0032. FriendlyName field in Nodes API should not be null and should be a string" time="0.0000" classname="A-Nodes-0032. FriendlyName field in Nodes API should not be null and should be a string">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0033. IsAutoInitialized field in Nodes API should  not be null and should be a string" time="0.0000" classname="A-Nodes-0033. IsAutoInitialized field in Nodes API should  not be null and should be a string">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0034. IsDebug field in Nodes API should be a boolean" time="0.0000" classname="A-Nodes-0034. IsDebug field in Nodes API should be a boolean">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0035. IsSwapEnabled field in Nodes API should not be null and should be a boolean" time="0.0000" classname="A-Nodes-0035. IsSwapEnabled field in Nodes API should not be null and should be a boolean">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0036. IsOnDemand field in Nodes API should not be null and should be a boolean" time="0.0000" classname="A-Nodes-0036. IsOnDemand field in Nodes API should not be null and should be a boolean">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0037. IPAddress field in Nodes API should a string" time="0.0000" classname="A-Nodes-0037. IPAddress field in Nodes API should a string">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0038. SSHPort field in Nodes API should not be a string" time="0.0000" classname="A-Nodes-0038. SSHPort field in Nodes API should not be a string">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0039. SSHUser field in Nodes API should a string" time="0.0000" classname="A-Nodes-0039. SSHUser field in Nodes API should a string">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0040. InstanceId field in Nodes API should a string" time="0.0010" classname="A-Nodes-0040. InstanceId field in Nodes API should a string">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0041. InstanceInfo field in Nodes API should a string" time="0.0000" classname="A-Nodes-0041. InstanceInfo field in Nodes API should a string">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0042. IntendedBuildPlaneVersion field in Nodes API should a string" time="0.0000" classname="A-Nodes-0042. IntendedBuildPlaneVersion field in Nodes API should a string">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0043. SSHPort field in Nodes API should not be a string" time="0.0000" classname="A-Nodes-0043. SSHPort field in Nodes API should not be a string">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0044. StepId field in Nodes API should not be a string" time="0.0000" classname="A-Nodes-0044. StepId field in Nodes API should not be a string">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0045. StatusLastUpdatedAt field in Nodes API should a string" time="0.0000" classname="A-Nodes-0045. StatusLastUpdatedAt field in Nodes API should a string">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0046. ProvisionedAt field in Nodes API should a string" time="0.0000" classname="A-Nodes-0046. ProvisionedAt field in Nodes API should a string">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0047. ProjectIntegrationId field in Nodes API should not be a string" time="0.0000" classname="A-Nodes-0047. ProjectIntegrationId field in Nodes API should not be a string">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0048. NodePoolId field in Nodes API should not be a string" time="0.0000" classname="A-Nodes-0048. NodePoolId field in Nodes API should not be a string">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0049. StopRequested field in Nodes API should be a boolean" time="0.0010" classname="A-Nodes-0049. StopRequested field in Nodes API should be a boolean">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0050. ProviderMetadataPropertyBag field in Nodes API  should a string" time="0.0000" classname="A-Nodes-0050. ProviderMetadataPropertyBag field in Nodes API  should a string">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0051. CreatedBy field in Nodes API should not be null and should be a string" time="0.0000" classname="A-Nodes-0051. CreatedBy field in Nodes API should not be null and should be a string">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0052. UpdatedBy field in Nodes API should not be null and should be a string" time="0.0000" classname="A-Nodes-0052. UpdatedBy field in Nodes API should not be null and should be a string">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0053. CreatedAt field in Nodes API should not be null and should be a string" time="0.0010" classname="A-Nodes-0053. CreatedAt field in Nodes API should not be null and should be a string">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0054. UpdatedAt field in Nodes API should not be null and should be a string" time="0.0000" classname="A-Nodes-0054. UpdatedAt field in Nodes API should not be null and should be a string">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0062. systemPropertyBag field in Nodes API should not be null and should be an object" time="0.0000" classname="A-Nodes-0062. systemPropertyBag field in Nodes API should not be null and should be an object">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0086. systemPropertyBag of node contains only the token of the node" time="0.0010" classname="A-Nodes-0086. systemPropertyBag of node contains only the token of the node">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0063. superuser is able to get contents of systemPropertyBag of node using GET /nodes" time="0.0750" classname="A-Nodes-0063. superuser is able to get contents of systemPropertyBag of node using GET /nodes">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0064. project admin is not able to get contents of systemPropertyBag of node using GET /nodes" time="0.0380" classname="A-Nodes-0064. project admin is not able to get contents of systemPropertyBag of node using GET /nodes">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0065. admin is not able to get contents of systemPropertyBag of node using GET /nodes" time="0.1900" classname="A-Nodes-0065. admin is not able to get contents of systemPropertyBag of node using GET /nodes">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0066. member is not able to get contents of systemPropertyBag of node using GET /nodes" time="0.2330" classname="A-Nodes-0066. member is not able to get contents of systemPropertyBag of node using GET /nodes">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0067. superuser is able to get contents of systemPropertyBag of node using GET /nodes/:nodeId" time="0.1650" classname="A-Nodes-0067. superuser is able to get contents of systemPropertyBag of node using GET /nodes/:nodeId">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0068. project admin is not able to get contents of systemPropertyBag of node using GET /nodes/:nodeId" time="0.1920" classname="A-Nodes-0068. project admin is not able to get contents of systemPropertyBag of node using GET /nodes/:nodeId">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0069. admin is not able to get contents of systemPropertyBag of node using GET /nodes/:nodeId" time="0.2340" classname="A-Nodes-0069. admin is not able to get contents of systemPropertyBag of node using GET /nodes/:nodeId">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0070. member is not able to get contents of systemPropertyBag of node using GET /nodes/:nodeId" time="0.2320" classname="A-Nodes-0070. member is not able to get contents of systemPropertyBag of node using GET /nodes/:nodeId">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-6033-0076. User with build-node scope is able to update lastInitializedAt of the node" time="0.4310" classname="A-Nodes-6033-0076. User with build-node scope is able to update lastInitializedAt of the node">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-6033-0077. User with build-node scope is able to make the node validation call" time="0.0530" classname="A-Nodes-6033-0077. User with build-node scope is able to make the node validation call">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-6234-0004. buildNodeUser is able to make the node validation call" time="0.2930" classname="A-Nodes-6234-0004. buildNodeUser is able to make the node validation call">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-6033-0087. User with build-node scope is not able to make a call which has justUser routerole" time="0.0930" classname="A-Nodes-6033-0087. User with build-node scope is not able to make a call which has justUser routerole">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0088. resetting a build node will update the build node token" time="0.3640" classname="A-Nodes-0088. resetting a build node will update the build node token">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0055. Public user cannot delete Nodes by Id" time="0.0190" classname="A-Nodes-0055. Public user cannot delete Nodes by Id">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0056. Member user cannot delete Nodes by Id" time="0.0650" classname="A-Nodes-0056. Member user cannot delete Nodes by Id">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0057. Admin user cannot delete Nodes by Id" time="0.0390" classname="A-Nodes-0057. Admin user cannot delete Nodes by Id">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0058. ProjectAdminUser should be able to delete nodes by its Id" time="0.2460" classname="A-Nodes-0058. ProjectAdminUser should be able to delete nodes by its Id">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0059. Super user should be able to delete Nodes by Id" time="0.6270" classname="A-Nodes-0059. Super user should be able to delete Nodes by Id">
+    </testcase>
+    <testcase name="API_NODES - Nodes API tests Below test cases use for static node A-Nodes-0082. when a node is deleted the node identity is deleted" time="0.1060" classname="A-Nodes-0082. when a node is deleted the node identity is deleted">
+    </testcase>
+  </testsuite>
+</testsuites>

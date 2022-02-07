@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="180.3310" tests="66" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:36" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API_PIPELINES - Pipeline API tests" timestamp="2022-01-17T17:51:36" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383633/setup_PreMatrix/tests/core/api/pipelines.js" time="0.0000" failures="0">
+    <testcase name="API_PIPELINES - Pipeline API tests 1. Super user posts PipelineSources to add pipelines" time="12.8200" classname="1. Super user posts PipelineSources to add pipelines">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases uses pipelineSource" timestamp="2022-01-17T17:51:49" tests="65" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383633/setup_PreMatrix/tests/core/api/pipelines.js" time="167.2390" failures="0">
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0013. Super user can get their pipelines" time="0.1670" classname="A-pipelines-0013. Super user can get their pipelines">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-6530-0054. Super user can get their pipelines with light param" time="0.0390" classname="A-pipelines-6530-0054. Super user can get their pipelines with light param">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-6530-0055. Super user can get their pipelines latest with light param" time="0.2500" classname="A-pipelines-6530-0055. Super user can get their pipelines latest with light param">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-6531-0056. Users are able to use the include parameter while getting pipelines." time="0.0400" classname="A-pipelines-6531-0056. Users are able to use the include parameter while getting pipelines.">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0014. Admin can get their pipelines" time="0.5180" classname="A-pipelines-0014. Admin can get their pipelines">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0015. Member can get their pipelines" time="0.9670" classname="A-pipelines-0015. Member can get their pipelines">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0016. Public user cannot get their pipelines" time="0.0230" classname="A-pipelines-0016. Public user cannot get their pipelines">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0001. Super user can post pipeline" time="0.2470" classname="A-pipelines-0001. Super user can post pipeline">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-PO-PP-0008. Project Admin User should be able to post the pipelines" time="0.1120" classname="A-PO-PP-0008. Project Admin User should be able to post the pipelines">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0002. Admin cannot post pipeline" time="0.0970" classname="A-pipelines-0002. Admin cannot post pipeline">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0003. Member cannot post pipeline" time="0.1030" classname="A-pipelines-0003. Member cannot post pipeline">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0004. Public user cannot post pipeline" time="0.0200" classname="A-pipelines-0004. Public user cannot post pipeline">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource 2.Super user can get their pipelineSteps" time="0.0420" classname="2.Super user can get their pipelineSteps">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource 3.Super user can trigger pipelineSteps by Id" time="71.5280" classname="3.Super user can trigger pipelineSteps by Id">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource 4.Super user can get their pipelineSteps" time="0.0240" classname="4.Super user can get their pipelineSteps">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0005. Super user can get pipeline by Id" time="0.0400" classname="A-pipelines-0005. Super user can get pipeline by Id">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-6531-0057. Users are able to use the include parameter while getting pipeline by Id" time="0.0180" classname="A-pipelines-6531-0057. Users are able to use the include parameter while getting pipeline by Id">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0006. Admin can get pipeline by Id" time="0.0780" classname="A-pipelines-0006. Admin can get pipeline by Id">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0007. Member can get pipeline by Id" time="0.0710" classname="A-pipelines-0007. Member can get pipeline by Id">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0008. Public user cannot get pipeline by Id" time="0.0170" classname="A-pipelines-0008. Public user cannot get pipeline by Id">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0009. Super user can update the pipeline" time="0.0720" classname="A-pipelines-0009. Super user can update the pipeline">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-PUT-PP-0004. ProjectAdminUser should be able to update pipelines by its Id " time="0.1340" classname="A-PUT-PP-0004. ProjectAdminUser should be able to update pipelines by its Id ">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0010. Admin cannot update the pipeline" time="0.0410" classname="A-pipelines-0010. Admin cannot update the pipeline">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0011. Member cannot update the pipeline" time="0.0450" classname="A-pipelines-0011. Member cannot update the pipeline">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0012. Public user cannot update the pipeline" time="0.0170" classname="A-pipelines-0012. Public user cannot update the pipeline">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource 5. Super user can get their steps" time="0.0270" classname="5. Super user can get their steps">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0017. SuperUser can get their pipelines by  downloadArtifacts" time="0.1180" classname="A-pipelines-0017. SuperUser can get their pipelines by  downloadArtifacts">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0018. Admin can get their pipelines by downloadArtifacts" time="0.2290" classname="A-pipelines-0018. Admin can get their pipelines by downloadArtifacts">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0019. Member can get their pipelines by  downloadArtifacts" time="0.1430" classname="A-pipelines-0019. Member can get their pipelines by  downloadArtifacts">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0020. Public user cannot get their pipelines by  downloadArtifacts" time="0.0270" classname="A-pipelines-0020. Public user cannot get their pipelines by  downloadArtifacts">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0021. SuperUser can get their pipelines by ArtifactsUrl" time="0.0810" classname="A-pipelines-0021. SuperUser can get their pipelines by ArtifactsUrl">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0022. Admin cannot get their pipelines by ArtifactsUrl" time="0.0410" classname="A-pipelines-0022. Admin cannot get their pipelines by ArtifactsUrl">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0023. Member cannot get their pipelines by ArtifactsUrl" time="0.0580" classname="A-pipelines-0023. Member cannot get their pipelines by ArtifactsUrl">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0024. Public user cannot get their pipelines by  ArtifactsUrl" time="0.0140" classname="A-pipelines-0024. Public user cannot get their pipelines by  ArtifactsUrl">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0025. SuperUser can get their pipelines by LatestArtifactsUrl" time="0.0520" classname="A-pipelines-0025. SuperUser can get their pipelines by LatestArtifactsUrl">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0026. Admin cannot get their pipelines by  LatestArtifactsUrl" time="0.0210" classname="A-pipelines-0026. Admin cannot get their pipelines by  LatestArtifactsUrl">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0027. Member cannot get their pipelines by  LatestArtifactsUrl" time="0.0260" classname="A-pipelines-0027. Member cannot get their pipelines by  LatestArtifactsUrl">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0028. Public user cannot get their pipelines by  LatestArtifactsUrl" time="0.0220" classname="A-pipelines-0028. Public user cannot get their pipelines by  LatestArtifactsUrl">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0029. Id field in pipeline API should not be null and should be an integer type" time="0.0010" classname="A-pipelines-0029. Id field in pipeline API should not be null and should be an integer type">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0030. Name field in pipeline API should not be null and should be a string type" time="0.0000" classname="A-pipelines-0030. Name field in pipeline API should not be null and should be a string type">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0031. ProjectId field in pipeline API should not be null and should be an integer type" time="0.0000" classname="A-pipelines-0031. ProjectId field in pipeline API should not be null and should be an integer type">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0032. PipelineSourceId field in pipeline API should not be null and should be an integer type" time="0.0000" classname="A-pipelines-0032. PipelineSourceId field in pipeline API should not be null and should be an integer type">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0033. PipelineSourceBranch field in pipeline API should be an string type" time="0.0000" classname="A-pipelines-0033. PipelineSourceBranch field in pipeline API should be an string type">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0034. LatestRunNumber field in pipeline API should not be null and should be an integer type" time="0.0000" classname="A-pipelines-0034. LatestRunNumber field in pipeline API should not be null and should be an integer type">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0035. LatestRunId field in pipeline API should be a number type" time="0.0000" classname="A-pipelines-0035. LatestRunId field in pipeline API should be a number type">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0037. YmlConfigPropertyBag field in pipeline API should be an object type" time="0.0010" classname="A-pipelines-0037. YmlConfigPropertyBag field in pipeline API should be an object type">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0038. YmlPropertyBag field in pipeline API should be an object type" time="0.0000" classname="A-pipelines-0038. YmlPropertyBag field in pipeline API should be an object type">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0039. SyntaxVersion field in pipeline API should be a string type" time="0.0000" classname="A-pipelines-0039. SyntaxVersion field in pipeline API should be a string type">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0040. IsDeleted field in pipeline API should not be null and should be a boolean type" time="0.0000" classname="A-pipelines-0040. IsDeleted field in pipeline API should not be null and should be a boolean type">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0041. DeletedAt field in pipeline API should be a string type" time="0.0000" classname="A-pipelines-0041. DeletedAt field in pipeline API should be a string type">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0042. CreatedAt field in pipeline API should not be null and should be a string type" time="0.0000" classname="A-pipelines-0042. CreatedAt field in pipeline API should not be null and should be a string type">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0043. UpdatedAt field in pipeline API should not be null and should be an string type" time="0.0010" classname="A-pipelines-0043. UpdatedAt field in pipeline API should not be null and should be an string type">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0048. Super user can get pipelines createdBefore now" time="0.0320" classname="A-pipelines-0048. Super user can get pipelines createdBefore now">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0049. Super user can filter pipelines with createdBefore" time="0.0420" classname="A-pipelines-0049. Super user can filter pipelines with createdBefore">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0050. Super user can get pipelines with createdAfter" time="0.0780" classname="A-pipelines-0050. Super user can get pipelines with createdAfter">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0051. Super user can filter pipelines with createdAfter" time="0.0270" classname="A-pipelines-0051. Super user can filter pipelines with createdAfter">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0052. Super user can get pipelines using  createdBefore and createdAfter" time="0.1080" classname="A-pipelines-0052. Super user can get pipelines using  createdBefore and createdAfter">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0053. Super user can filter pipelines using createdBefore and createdAfter" time="0.0230" classname="A-pipelines-0053. Super user can filter pipelines using createdBefore and createdAfter">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0044. Public user cannot delete pipelines by Id" time="0.0170" classname="A-pipelines-0044. Public user cannot delete pipelines by Id">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0045. Member cannot delete pipelines by Id" time="0.0370" classname="A-pipelines-0045. Member cannot delete pipelines by Id">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0046. Admin cannot delete pipelines by Id" time="0.0240" classname="A-pipelines-0046. Admin cannot delete pipelines by Id">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0047. Super user can delete pipeline by Id" time="0.0590" classname="A-pipelines-0047. Super user can delete pipeline by Id">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-0048. User with project scope can delete pipeline by Id" time="0.0540" classname="A-pipelines-0048. User with project scope can delete pipeline by Id">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource A-pipelines-6379-001. Deleting a pipeline should delete the stepVariables for that pipeline." time="89.9830" classname="A-pipelines-6379-001. Deleting a pipeline should delete the stepVariables for that pipeline.">
+    </testcase>
+    <testcase name="API_PIPELINES - Pipeline API tests Below test cases uses pipelineSource 6. Super user deletes pipelineSource by Id" time="1.1570" classname="6. Super user deletes pipelineSource by Id">
+    </testcase>
+  </testsuite>
+</testsuites>

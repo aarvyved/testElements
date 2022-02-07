@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1.3170" tests="16" failures="0" skipped="3">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:36" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API_PASSTHROUGH - Permission API tests" timestamp="2022-01-17T17:51:36" tests="16" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383625/setup_PreMatrix/tests/core/api/passthroughAssignPermission.js" time="1.3080" failures="0" skipped="3">
+    <testcase name="API_PASSTHROUGH - Permission API tests A-AssignPermission-7067-0001. Super user should be able tag a user to a permission" time="0.0910" classname="A-AssignPermission-7067-0001. Super user should be able tag a user to a permission">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Permission API tests A-AssignPermission-7067-0002. Super user should be able make a user as projectAdmin" time="0.0000" classname="A-AssignPermission-7067-0002. Super user should be able make a user as projectAdmin">
+      <skipped/>
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Permission API tests A-AssignPermission-7067-0003 projectAdmin user shouldn’t be able tag a user to a permission" time="0.1090" classname="A-AssignPermission-7067-0003 projectAdmin user shouldn’t be able tag a user to a permission">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Permission API tests A-AssignPermission-7067-0004 Admin user shouldn’t be able tag a user to a permission" time="0.0670" classname="A-AssignPermission-7067-0004 Admin user shouldn’t be able tag a user to a permission">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Permission API tests A-AssignPermission-7067-0005 Member user shouldn’t be able tag a user to a permission" time="0.0480" classname="A-AssignPermission-7067-0005 Member user shouldn’t be able tag a user to a permission">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Permission API tests A-AssignPermission-7067-0006 Public user shouldn’t be able tag a user to a permission" time="0.0170" classname="A-AssignPermission-7067-0006 Public user shouldn’t be able tag a user to a permission">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Permission API tests A-AssignPermission-7067-0007. Super user shouldn&apos;t be able tag a user to a permission without passing `actions` in the reqbody" time="0.0530" classname="A-AssignPermission-7067-0007. Super user shouldn&apos;t be able tag a user to a permission without passing `actions` in the reqbody">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Permission API tests A-AssignPermission-7067-0008. Super user shouldn&apos;t be able tag a user to a permission without passing `permissionName` in the reqbody" time="0.0610" classname="A-AssignPermission-7067-0008. Super user shouldn&apos;t be able tag a user to a permission without passing `permissionName` in the reqbody">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Permission API tests A-AssignPermission-7067-0009. Super user verifies  that &apos;permissionName&apos; parameter doesn&apos;t accept an array" time="0.0270" classname="A-AssignPermission-7067-0009. Super user verifies  that &apos;permissionName&apos; parameter doesn&apos;t accept an array">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Permission API tests A-AssignPermission-7067-0010. Super user verifies  that &apos;permissionName&apos; parameter doesn&apos;t accept an object" time="0.0620" classname="A-AssignPermission-7067-0010. Super user verifies  that &apos;permissionName&apos; parameter doesn&apos;t accept an object">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Permission API tests A-AssignPermission-7067-0011. Super user verifies  that &apos;actions&apos; parameter doesn&apos;t accept an object" time="0.0870" classname="A-AssignPermission-7067-0011. Super user verifies  that &apos;actions&apos; parameter doesn&apos;t accept an object">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Permission API tests A-AssignPermission-7067-0012. Super user verifies  that &apos;actions&apos; parameter doesn&apos;t accept an string" time="0.0370" classname="A-AssignPermission-7067-0012. Super user verifies  that &apos;actions&apos; parameter doesn&apos;t accept an string">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Permission API tests A-AssignPermission-7067-0013. Super user verifies that actions parameter accepts only &apos;READ&apos; " time="0.0860" classname="A-AssignPermission-7067-0013. Super user verifies that actions parameter accepts only &apos;READ&apos; ">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Permission API tests A-AssignPermission-7067-0014. Super user verifies that actions parameter accepts only &apos;Trigger&apos; " time="0.0000" classname="A-AssignPermission-7067-0014. Super user verifies that actions parameter accepts only &apos;Trigger&apos; ">
+      <skipped/>
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Permission API tests A-AssignPermission-7067-0015. Super user verifies that actions parameter accepts only &apos;Trigger&apos; or &apos;Read&apos;" time="0.0250" classname="A-AssignPermission-7067-0015. Super user verifies that actions parameter accepts only &apos;Trigger&apos; or &apos;Read&apos;">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Permission API tests A-AssignPermission-7067-0014. Super user should be able to unset projectAdmin permission for a user" time="0.0000" classname="A-AssignPermission-7067-0014. Super user should be able to unset projectAdmin permission for a user">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

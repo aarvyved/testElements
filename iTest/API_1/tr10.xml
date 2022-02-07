@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.3650" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:35" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API_HEADER - Custom Header API tests" timestamp="2022-01-17T17:51:35" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383644/setup_PreMatrix/tests/core/api/apiHeader.js" time="0.3580" failures="0">
+    <testcase name="API_HEADER - Custom Header API tests A-CustomHeaders-SessionId-6123-0001. User is able to make API calls 
+      with a valid jfrog-pipelines-session-id header" time="0.0830" classname="A-CustomHeaders-SessionId-6123-0001. User is able to make API calls 
+      with a valid jfrog-pipelines-session-id header">
+    </testcase>
+    <testcase name="API_HEADER - Custom Header API tests A-CustomHeaders-SessionId-6123-0002. User is unable to make API calls 
+      with a invalid jfrog-pipelines-session-id header" time="0.0290" classname="A-CustomHeaders-SessionId-6123-0002. User is unable to make API calls 
+      with a invalid jfrog-pipelines-session-id header">
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0320" tests="57" failures="0" skipped="57">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:36" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API_STEPTESTREPORTS - StepTestReports API tests" timestamp="2022-01-17T17:51:36" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383627/setup_PreMatrix/tests/core/api/stepTestReports.js" time="0.0000" failures="0" skipped="1">
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests A-StepTestReports-0039. User adds a non-matrix step that saves test reports and runs it. The tests in the step test report are as expected." time="0.0000" classname="A-StepTestReports-0039. User adds a non-matrix step that saves test reports and runs it. The tests in the step test report are as expected.">
+      <skipped/>
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases uses pipelineSource" timestamp="2022-01-17T17:51:36" tests="56" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383627/setup_PreMatrix/tests/core/api/stepTestReports.js" time="0.0210" failures="0" skipped="56">
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource 1. Super user can get their pipelines to add stepTestReports" time="0.0000" classname="1. Super user can get their pipelines to add stepTestReports">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource 2. Super user can get their pipelineSteps to add stepTestReports" time="0.0000" classname="2. Super user can get their pipelineSteps to add stepTestReports">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource 3. Super user can trigger pipelineSteps by Id to add StepTestReports" time="0.0000" classname="3. Super user can trigger pipelineSteps by Id to add StepTestReports">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource 6. super user can get their steps to add StepTestReports" time="0.0000" classname="6. super user can get their steps to add StepTestReports">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource 7. Super user  post Runs to add stepTestReports" time="0.0000" classname="7. Super user  post Runs to add stepTestReports">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource 8. Super user  post steps to add stepTestReports" time="0.0000" classname="8. Super user  post steps to add stepTestReports">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource 9. Super user  post Runs to add stepTestReports" time="0.0000" classname="9. Super user  post Runs to add stepTestReports">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource 10. Super user  post Runs to add stepTestReports" time="0.0000" classname="10. Super user  post Runs to add stepTestReports">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource 11. Super user  post steps to add stepTestReports" time="0.0000" classname="11. Super user  post steps to add stepTestReports">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource 12. Super user  post steps to add stepTestReports for ProjectAdmin" time="0.0000" classname="12. Super user  post steps to add stepTestReports for ProjectAdmin">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0001. Super user can add new stepTestReports" time="0.0000" classname="A-StepTestReports-0001. Super user can add new stepTestReports">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-PO-PP-0028. Project Admin User cannot Post step Test Reports" time="0.0000" classname="A-PO-PP-0028. Project Admin User cannot Post step Test Reports">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0002. Admin user cannot add new stepTestReports" time="0.0000" classname="A-StepTestReports-0002. Admin user cannot add new stepTestReports">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0003. Member cannot add new stepTestReports" time="0.0000" classname="A-StepTestReports-0003. Member cannot add new stepTestReports">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0004. Public user cannot add new stepTestReports" time="0.0000" classname="A-StepTestReports-0004. Public user cannot add new stepTestReports">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource 13. Super user can get their stepTestReports" time="0.0000" classname="13. Super user can get their stepTestReports">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0005. Super user can get their stepTestReports" time="0.0000" classname="A-StepTestReports-0005. Super user can get their stepTestReports">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0006. Admin can get their stepTestReports" time="0.0000" classname="A-StepTestReports-0006. Admin can get their stepTestReports">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0007. Member can get their stepTestReports" time="0.0000" classname="A-StepTestReports-0007. Member can get their stepTestReports">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0008. Public cannot get their stepTestReports" time="0.0000" classname="A-StepTestReports-0008. Public cannot get their stepTestReports">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0009. Super user can get their stepTestReports by steps Id" time="0.0000" classname="A-StepTestReports-0009. Super user can get their stepTestReports by steps Id">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0010. Admin can get their stepTestReports by steps Id" time="0.0000" classname="A-StepTestReports-0010. Admin can get their stepTestReports by steps Id">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0011. Member can get their stepTestReports by steps Id" time="0.0000" classname="A-StepTestReports-0011. Member can get their stepTestReports by steps Id">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0012. Public user cannot get stepTestReports by steps Id" time="0.0000" classname="A-StepTestReports-0012. Public user cannot get stepTestReports by steps Id">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0013. StepTestReports Id field in stepTestReports API should not be null and should be an integer type" time="0.0000" classname="A-StepTestReports-0013. StepTestReports Id field in stepTestReports API should not be null and should be an integer type">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0014. StepTestReports durationSeconds field in stepTestReports API should be an integer type" time="0.0000" classname="A-StepTestReports-0014. StepTestReports durationSeconds field in stepTestReports API should be an integer type">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0015. StepTestReports errorDetails in stepTestReports API should be a string type" time="0.0000" classname="A-StepTestReports-0015. StepTestReports errorDetails in stepTestReports API should be a string type">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0016. StepTestReports failureDetails in stepTestReports API should be a string type" time="0.0000" classname="A-StepTestReports-0016. StepTestReports failureDetails in stepTestReports API should be a string type">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0017. StepTestReports projectId field in stepTestReports API should not be null and should be an integer type" time="0.0000" classname="A-StepTestReports-0017. StepTestReports projectId field in stepTestReports API should not be null and should be an integer type">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0018. StepTestReports stepId field in stepTestReports API should not be null and should be an integer type" time="0.0000" classname="A-StepTestReports-0018. StepTestReports stepId field in stepTestReports API should not be null and should be an integer type">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0019. StepTestReports totalTests field in stepTestReports API should be an integer type" time="0.0000" classname="A-StepTestReports-0019. StepTestReports totalTests field in stepTestReports API should be an integer type">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0020. StepTestReports totalErrors field in stepTestReports API should be an integer type" time="0.0000" classname="A-StepTestReports-0020. StepTestReports totalErrors field in stepTestReports API should be an integer type">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0021. StepTestReports totalFailures field in stepTestReports API should be an integer type" time="0.0000" classname="A-StepTestReports-0021. StepTestReports totalFailures field in stepTestReports API should be an integer type">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0022. StepTestReports totalPassing field in stepTestReports API should be an integer type" time="0.0000" classname="A-StepTestReports-0022. StepTestReports totalPassing field in stepTestReports API should be an integer type">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0023. StepTestReports totalSkipped field in stepTestReports API should be an integer type" time="0.0000" classname="A-StepTestReports-0023. StepTestReports totalSkipped field in stepTestReports API should be an integer type">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0024. StepTestReports pipelineSourceId field in stepTestReports API should not be null and should be an integer type" time="0.0000" classname="A-StepTestReports-0024. StepTestReports pipelineSourceId field in stepTestReports API should not be null and should be an integer type">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0025. StepTestReports CreatedAt field in stepTestReports API should not be null and should be a string type" time="0.0000" classname="A-StepTestReports-0025. StepTestReports CreatedAt field in stepTestReports API should not be null and should be a string type">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0026. StepTestReports UpdatedAt field in stepTestReports API should not be null and should be a string type" time="0.0000" classname="A-StepTestReports-0026. StepTestReports UpdatedAt field in stepTestReports API should not be null and should be a string type">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0027. Public user cannot delete stepTestReports by Id" time="0.0000" classname="A-StepTestReports-0027. Public user cannot delete stepTestReports by Id">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0028. Member user cannot delete stepTestReports by Id" time="0.0000" classname="A-StepTestReports-0028. Member user cannot delete stepTestReports by Id">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0029. Admin cannot delete stepTestReports by Id" time="0.0000" classname="A-StepTestReports-0029. Admin cannot delete stepTestReports by Id">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-DEL-PP-0028. ProjectAdminUser cannot delete stepTestReports by its stepTestReportId" time="0.0000" classname="A-DEL-PP-0028. ProjectAdminUser cannot delete stepTestReports by its stepTestReportId">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0030. Super user can delete stepTestReports by Id" time="0.0000" classname="A-StepTestReports-0030. Super user can delete stepTestReports by Id">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0031. Public user cannot delete stepTestReports by stepId" time="0.0000" classname="A-StepTestReports-0031. Public user cannot delete stepTestReports by stepId">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0032. Member user cannot delete stepTestReports by stepId" time="0.0000" classname="A-StepTestReports-0032. Member user cannot delete stepTestReports by stepId">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0033. Admin user cannot delete stepTestReports by stepId" time="0.0000" classname="A-StepTestReports-0033. Admin user cannot delete stepTestReports by stepId">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-DEL-PP-0029. ProjectAdminUser cannot delete stepTestReports by step Id" time="0.0000" classname="A-DEL-PP-0029. ProjectAdminUser cannot delete stepTestReports by step Id">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0034. Super user can delete stepTestReports by stepId" time="0.0000" classname="A-StepTestReports-0034. Super user can delete stepTestReports by stepId">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource 14. Super user can delete stepTestReports by stepId" time="0.0000" classname="14. Super user can delete stepTestReports by stepId">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0035. Public user cannot delete stepTestReports by pipelineId" time="0.0000" classname="A-StepTestReports-0035. Public user cannot delete stepTestReports by pipelineId">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0036. Member user cannot delete stepTestReports by pipelineId" time="0.0000" classname="A-StepTestReports-0036. Member user cannot delete stepTestReports by pipelineId">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0037. Admin user cannot delete stepTestReports by pipelineId" time="0.0000" classname="A-StepTestReports-0037. Admin user cannot delete stepTestReports by pipelineId">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-DEL-PP-0030. ProjectAdminUser should be able to delete stepTestReports by pipeline Id" time="0.0000" classname="A-DEL-PP-0030. ProjectAdminUser should be able to delete stepTestReports by pipeline Id">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-0038. Super user can delete stepTestReports by pipelineId" time="0.0000" classname="A-StepTestReports-0038. Super user can delete stepTestReports by pipelineId">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource A-StepTestReports-6051-001 User not provided array stepIds query should return 400" time="0.0000" classname="A-StepTestReports-6051-001 User not provided array stepIds query should return 400">
+      <skipped/>
+    </testcase>
+    <testcase name="API_STEPTESTREPORTS - StepTestReports API tests Below test cases uses pipelineSource 15. Super user can delete pipelineSource by Id for stepTestReports" time="0.0000" classname="15. Super user can delete pipelineSource by Id for stepTestReports">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

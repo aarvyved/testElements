@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="2.3030" tests="28" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:37" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API_PIPELINEOBJECTS - Pipeline Objects API tests" timestamp="2022-01-17T17:51:37" tests="28" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383630/setup_PreMatrix/tests/core/api/pipelineObjects.js" time="2.2960" failures="0">
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0001. Super user can post PipelineObjects" time="0.0890" classname="A-PipelineObjects-0001. Super user can post PipelineObjects">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0002. Admin cannot post PipelineObjects" time="0.0570" classname="A-PipelineObjects-0002. Admin cannot post PipelineObjects">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0003. Member cannot post PipelineObjects" time="0.0420" classname="A-PipelineObjects-0003. Member cannot post PipelineObjects">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0004. Public user cannot post PipelineObjects" time="0.0320" classname="A-PipelineObjects-0004. Public user cannot post PipelineObjects">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0005. Super user can get PipelineObjects" time="0.1300" classname="A-PipelineObjects-0005. Super user can get PipelineObjects">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-6531-0027. Users are able to use the include parameter while getting pipelineObjects" time="0.2120" classname="A-PipelineObjects-6531-0027. Users are able to use the include parameter while getting pipelineObjects">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0006. Admin user cannot get PipelineObjects " time="0.0310" classname="A-PipelineObjects-0006. Admin user cannot get PipelineObjects ">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0007. Member user cannot get PipelineObjects " time="0.0770" classname="A-PipelineObjects-0007. Member user cannot get PipelineObjects ">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0008. Public user cannot get PipelineObjects " time="0.0200" classname="A-PipelineObjects-0008. Public user cannot get PipelineObjects ">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0009. Id field in pipelineObjects API should not be null and should be an integer type" time="0.0010" classname="A-PipelineObjects-0009. Id field in pipelineObjects API should not be null and should be an integer type">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0010. ObjectId field in pipelineObjects API should not be null and should be an integer type" time="0.0000" classname="A-PipelineObjects-0010. ObjectId field in pipelineObjects API should not be null and should be an integer type">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0011. ObjectType field in pipelineObjects API should not be null and should be an string type" time="0.0000" classname="A-PipelineObjects-0011. ObjectType field in pipelineObjects API should not be null and should be an string type">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0012. ObjectName field in pipelineObjects API should not be null and should be an string type" time="0.0000" classname="A-PipelineObjects-0012. ObjectName field in pipelineObjects API should not be null and should be an string type">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0013. Stage field in pipelineObjects API should not be null and should be an string type" time="0.0000" classname="A-PipelineObjects-0013. Stage field in pipelineObjects API should not be null and should be an string type">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0014. data field in pipelineObjects API should be an object type" time="0.0000" classname="A-PipelineObjects-0014. data field in pipelineObjects API should be an object type">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0015. Admin User should not be able to delete pipelineObject" time="0.1200" classname="A-PipelineObjects-0015. Admin User should not be able to delete pipelineObject">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0016. Member User should not be able to delete pipelineObject" time="0.2030" classname="A-PipelineObjects-0016. Member User should not be able to delete pipelineObject">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0017. Public User should not be able to delete pipelineObject" time="0.0200" classname="A-PipelineObjects-0017. Public User should not be able to delete pipelineObject">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0018. Super User should be able to delete pipelineObject" time="0.0420" classname="A-PipelineObjects-0018. Super User should be able to delete pipelineObject">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0019. User is not able to add PipelineObject without objectId" time="0.0500" classname="A-PipelineObjects-0019. User is not able to add PipelineObject without objectId">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0020. User is not able to add PipelineObject without objectType" time="0.0310" classname="A-PipelineObjects-0020. User is not able to add PipelineObject without objectType">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0021. User is not able to add PipelineObject without objectName" time="0.0230" classname="A-PipelineObjects-0021. User is not able to add PipelineObject without objectName">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0022. User is not able to add PipelineObject without stage" time="0.0690" classname="A-PipelineObjects-0022. User is not able to add PipelineObject without stage">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0023. User is able to add PipelineObject without data" time="0.2150" classname="A-PipelineObjects-0023. User is able to add PipelineObject without data">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0024. ProjectAdmin user can not POST PipelineObjects" time="0.0760" classname="A-PipelineObjects-0024. ProjectAdmin user can not POST PipelineObjects">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0025. ProjectAdmin user can not GET PipelineObjects" time="0.0520" classname="A-PipelineObjects-0025. ProjectAdmin user can not GET PipelineObjects">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-0026. ProjectAdmin User should not be able to delete pipelineObject" time="0.0920" classname="A-PipelineObjects-0026. ProjectAdmin User should not be able to delete pipelineObject">
+    </testcase>
+    <testcase name="API_PIPELINEOBJECTS - Pipeline Objects API tests A-PipelineObjects-6033-0027. User with project scope can POST PipelineObjects" time="0.4230" classname="A-PipelineObjects-6033-0027. User with project scope can POST PipelineObjects">
+    </testcase>
+  </testsuite>
+</testsuites>

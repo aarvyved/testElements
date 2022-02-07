@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="36.3680" tests="20" failures="0" skipped="5">
+  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:36" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API_PASSTHROUGH - Passthrough API tests" timestamp="2022-01-17T17:51:36" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383628/setup_PreMatrix/tests/core/api/passthrough.js" time="0.0000" failures="0">
+    <testcase name="API_PASSTHROUGH - Passthrough API tests 1. Super user posts PipelineSources to add pipelines" time="18.4550" classname="1. Super user posts PipelineSources to add pipelines">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases for pipelineSource permissions" timestamp="2022-01-17T17:51:55" tests="6" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383628/setup_PreMatrix/tests/core/api/passthrough.js" time="1.4270" failures="0" skipped="3">
+    <testcase name="API_PASSTHROUGH - Passthrough API tests Below test cases for pipelineSource permissions A-Passthrough-0001. Super user can get their pipelineSource permissions" time="0.0360" classname="A-Passthrough-0001. Super user can get their pipelineSource permissions">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Passthrough API tests Below test cases for pipelineSource permissions A-Passthrough-0002. Project Admin can get their pipelineSource permissions" time="0.0000" classname="A-Passthrough-0002. Project Admin can get their pipelineSource permissions">
+      <skipped/>
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Passthrough API tests Below test cases for pipelineSource permissions A-Passthrough-0003. Admin can get their pipelineSource permissions" time="0.0000" classname="A-Passthrough-0003. Admin can get their pipelineSource permissions">
+      <skipped/>
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Passthrough API tests Below test cases for pipelineSource permissions A-Passthrough-0004. Member can get their pipelineSource permissions" time="0.0000" classname="A-Passthrough-0004. Member can get their pipelineSource permissions">
+      <skipped/>
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Passthrough API tests Below test cases for pipelineSource permissions A-Passthrough-0005. Public user cannot get pipelineSource permissions" time="0.0200" classname="A-Passthrough-0005. Public user cannot get pipelineSource permissions">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Passthrough API tests Below test cases for pipelineSource permissions 2. Super user deletes pipelineSource by Id" time="1.3690" classname="2. Super user deletes pipelineSource by Id">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases for project permissions" timestamp="2022-01-17T17:51:57" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383628/setup_PreMatrix/tests/core/api/passthrough.js" time="0.3830" failures="0">
+    <testcase name="API_PASSTHROUGH - Passthrough API tests Below test cases for project permissions A-Passthrough-0006. Super user can get their project permissions" time="0.0660" classname="A-Passthrough-0006. Super user can get their project permissions">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Passthrough API tests Below test cases for project permissions A-Passthrough-0007. Project Admin can get their project permissions" time="0.0620" classname="A-Passthrough-0007. Project Admin can get their project permissions">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Passthrough API tests Below test cases for project permissions A-Passthrough-0008. Admin can get their project permissions" time="0.1140" classname="A-Passthrough-0008. Admin can get their project permissions">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Passthrough API tests Below test cases for project permissions A-Passthrough-0009. Member can get their project permissions" time="0.0520" classname="A-Passthrough-0009. Member can get their project permissions">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Passthrough API tests Below test cases for project permissions A-Passthrough-0010. Public user cannot get project permissions" time="0.0880" classname="A-Passthrough-0010. Public user cannot get project permissions">
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases for downloading buildPlane" timestamp="2022-01-17T17:51:57" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383628/setup_PreMatrix/tests/core/api/passthrough.js" time="0.0000" failures="0" skipped="2">
+    <testcase name="API_PASSTHROUGH - Passthrough API tests Below test cases for downloading buildPlane A-Passthrough-0011. Any User cannot specify an artifact path that is above the api bin dir." time="0.0000" classname="A-Passthrough-0011. Any User cannot specify an artifact path that is above the api bin dir.">
+      <skipped/>
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Passthrough API tests Below test cases for downloading buildPlane A-Passthrough-0012. Any User cannot specify the null byte in the query string." time="0.0000" classname="A-Passthrough-0012. Any User cannot specify the null byte in the query string.">
+      <skipped/>
+    </testcase>
+  </testsuite>
+  <testsuite name="Below test cases are for fetching repositories from integration" timestamp="2022-01-17T17:51:57" tests="6" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383628/setup_PreMatrix/tests/core/api/passthrough.js" time="15.8700" failures="0">
+    <testcase name="API_PASSTHROUGH - Passthrough API tests Below test cases are for fetching repositories from integration A-Passthrough-0014. Superuser can fetch repositories from integration" time="0.4670" classname="A-Passthrough-0014. Superuser can fetch repositories from integration">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Passthrough API tests Below test cases are for fetching repositories from integration A-Passthrough-0015. Project Admin can fetch repositories from integration" time="0.6560" classname="A-Passthrough-0015. Project Admin can fetch repositories from integration">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Passthrough API tests Below test cases are for fetching repositories from integration A-Passthrough-0016. Admin cannot fetch repositories from integration" time="0.0340" classname="A-Passthrough-0016. Admin cannot fetch repositories from integration">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Passthrough API tests Below test cases are for fetching repositories from integration A-Passthrough-0017. Member cannot fetch repositories from integration" time="0.0880" classname="A-Passthrough-0017. Member cannot fetch repositories from integration">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Passthrough API tests Below test cases are for fetching repositories from integration A-Passthrough-0018. Public user cannot fetch repositories from integration" time="0.0150" classname="A-Passthrough-0018. Public user cannot fetch repositories from integration">
+    </testcase>
+    <testcase name="API_PASSTHROUGH - Passthrough API tests Below test cases are for fetching repositories from integration A-Passthrough-0019. Super User can fetch repository branches from integration" time="1.3200" classname="A-Passthrough-0019. Super User can fetch repository branches from integration">
+    </testcase>
+  </testsuite>
+</testsuites>
