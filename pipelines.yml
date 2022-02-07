@@ -19,7 +19,7 @@ pipelines:
             - name: myRepoResource
         execution:
           onExecute:
-            - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/iTest/test.xml"
+            - save_tests "$res_myRepoResource_resourcePath/iTest/test.xml"
             # - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr1.xml"
             # - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr2.xml"
             # - save_tests "$res_myRepoResource_resourcePath/iTest/API_1/tr3.xml"
