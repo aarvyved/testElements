@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="397.9290" tests="1" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:16" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="397.9290" tests="1" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:16" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="HELMBLUEGREENROLESWITCH_STEP - HelmBlueGreenRoleSwitch Step Tests" timestamp="2022-01-17T17:51:16" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383550/setup_PreMatrix/tests/core/steps/Bash/BashNative/HelmBlueGreenRoleSwitch.js" time="397.9190" failures="0">
-    <testcase name="HELMBLUEGREENROLESWITCH_STEP - HelmBlueGreenRoleSwitch Step Tests S-LX-HBGRoleSwitch-5978-0002 Update chart previously available using HelmBlueGreenRoleSwitch step on a Bash based node." time="397.6370" classname="S-LX-HBGRoleSwitch-5978-0002 Update chart previously available using HelmBlueGreenRoleSwitch step on a Bash based node.">
+  <testsuite class="HELMBLUEGREENROLESWITCH_STEP - HelmBlueGreenRoleSwitch Step Tests" timestamp="2022-01-17T17:51:16" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383550/setup_PreMatrix/tests/core/steps/Bash/BashNative/HelmBlueGreenRoleSwitch.js" time="397.9190" failures="0">
+    <testcase class="HELMBLUEGREENROLESWITCH_STEP - HelmBlueGreenRoleSwitch Step Tests S-LX-HBGRoleSwitch-5978-0002 Update chart previously available using HelmBlueGreenRoleSwitch step on a Bash based node." time="397.6370" classclass="S-LX-HBGRoleSwitch-5978-0002 Update chart previously available using HelmBlueGreenRoleSwitch step on a Bash based node.">
     </testcase>
   </testsuite>
 </testsuites>

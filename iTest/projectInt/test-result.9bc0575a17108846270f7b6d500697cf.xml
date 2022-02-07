@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="18.9390" tests="5" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:52:11" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="18.9390" tests="5" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:52:11" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="PROJECTINTEGRATIONS_PEMKEY - PemKey integration tests" timestamp="2022-01-17T17:52:11" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383805/setup_PreMatrix/tests/core/projectIntegrations/PemKey.js" time="18.9330" failures="0">
-    <testcase name="PROJECTINTEGRATIONS_PEMKEY - PemKey integration tests I-PemKey-0001. User can add PemKey project Integration" time="17.6890" classname="I-PemKey-0001. User can add PemKey project Integration">
+  <testsuite class="PROJECTINTEGRATIONS_PEMKEY - PemKey integration tests" timestamp="2022-01-17T17:52:11" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383805/setup_PreMatrix/tests/core/projectIntegrations/PemKey.js" time="18.9330" failures="0">
+    <testcase class="PROJECTINTEGRATIONS_PEMKEY - PemKey integration tests I-PemKey-0001. User can add PemKey project Integration" time="17.6890" classclass="I-PemKey-0001. User can add PemKey project Integration">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_PEMKEY - PemKey integration tests I-PemKey-0002. PemKey integration name must adhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/" time="0.0400" classname="I-PemKey-0002. PemKey integration name must adhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/">
+    <testcase class="PROJECTINTEGRATIONS_PEMKEY - PemKey integration tests I-PemKey-0002. PemKey integration name must adhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/" time="0.0400" classclass="I-PemKey-0002. PemKey integration name must adhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_PEMKEY - PemKey integration tests I-PemKey-0005. User cannot update the name field in PemKey integration" time="0.4570" classname="I-PemKey-0005. User cannot update the name field in PemKey integration">
+    <testcase class="PROJECTINTEGRATIONS_PEMKEY - PemKey integration tests I-PemKey-0005. User cannot update the name field in PemKey integration" time="0.4570" classclass="I-PemKey-0005. User cannot update the name field in PemKey integration">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_PEMKEY - PemKey integration tests I-PemKey-0006. User can update the Key field in PemKey integration " time="0.2090" classname="I-PemKey-0006. User can update the Key field in PemKey integration ">
+    <testcase class="PROJECTINTEGRATIONS_PEMKEY - PemKey integration tests I-PemKey-0006. User can update the Key field in PemKey integration " time="0.2090" classclass="I-PemKey-0006. User can update the Key field in PemKey integration ">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_PEMKEY - PemKey integration tests I-PemKey-0003. Users should able to delete PEM Key integration if it is not dependent on any steps" time="0.2490" classname="I-PemKey-0003. Users should able to delete PEM Key integration if it is not dependent on any steps">
+    <testcase class="PROJECTINTEGRATIONS_PEMKEY - PemKey integration tests I-PemKey-0003. Users should able to delete PEM Key integration if it is not dependent on any steps" time="0.2490" classclass="I-PemKey-0003. Users should able to delete PEM Key integration if it is not dependent on any steps">
     </testcase>
   </testsuite>
 </testsuites>

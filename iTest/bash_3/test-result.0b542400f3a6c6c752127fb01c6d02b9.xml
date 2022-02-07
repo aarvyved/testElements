@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="271.3380" tests="4" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:48" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="271.3380" tests="4" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:48" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="GENERIC_BASH - 2 out of 7 - Generic Bash tests " timestamp="2022-01-17T17:51:48" tests="4" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383598/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/BashGeneric1.js" time="271.3220" failures="0">
-    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  SMOKE_TEST. S-Bash-3852-001. Pipeline level env vars should apply to all steps  of a run." time="134.3500" classname="SMOKE_TEST. S-Bash-3852-001. Pipeline level env vars should apply to all steps  of a run.">
+  <testsuite class="GENERIC_BASH - 2 out of 7 - Generic Bash tests " timestamp="2022-01-17T17:51:48" tests="4" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383598/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/BashGeneric1.js" time="271.3220" failures="0">
+    <testcase class="GENERIC_BASH - 2 out of 7 - Generic Bash tests  SMOKE_TEST. S-Bash-3852-001. Pipeline level env vars should apply to all steps  of a run." time="134.3500" classclass="SMOKE_TEST. S-Bash-3852-001. Pipeline level env vars should apply to all steps  of a run.">
     </testcase>
-    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0038. Runtime setting of a Bash step overrides runtime setting at a pipeline level" time="63.0290" classname="S-Bash-0038. Runtime setting of a Bash step overrides runtime setting at a pipeline level">
+    <testcase class="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0038. Runtime setting of a Bash step overrides runtime setting at a pipeline level" time="63.0290" classclass="S-Bash-0038. Runtime setting of a Bash step overrides runtime setting at a pipeline level">
     </testcase>
-    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0034. Runtime setting of a Bash step overrides runtime setting at a pipeline level" time="39.2410" classname="S-Bash-0034. Runtime setting of a Bash step overrides runtime setting at a pipeline level">
+    <testcase class="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0034. Runtime setting of a Bash step overrides runtime setting at a pipeline level" time="39.2410" classclass="S-Bash-0034. Runtime setting of a Bash step overrides runtime setting at a pipeline level">
     </testcase>
-    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0028. If user defined any env in environmentVariables section that env should available in that particular Bash step" time="34.4210" classname="S-Bash-0028. If user defined any env in environmentVariables section that env should available in that particular Bash step">
+    <testcase class="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0028. If user defined any env in environmentVariables section that env should available in that particular Bash step" time="34.4210" classclass="S-Bash-0028. If user defined any env in environmentVariables section that env should available in that particular Bash step">
     </testcase>
   </testsuite>
 </testsuites>

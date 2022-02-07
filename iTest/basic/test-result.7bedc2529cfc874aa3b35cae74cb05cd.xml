@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="89.3620" tests="4" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:48" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="89.3620" tests="4" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:48" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="LocalTempates - Tempates Tests" timestamp="2022-01-17T17:51:48" tests="4" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/templates/SCM/localTemplates.js" time="89.3570" failures="0">
-    <testcase name="LocalTempates - Tempates Tests T-SYC-LOCALTEMP-6219-0001 User should able to sync pipeline source with valid values.yml" time="31.5270" classname="T-SYC-LOCALTEMP-6219-0001 User should able to sync pipeline source with valid values.yml">
+  <testsuite class="LocalTempates - Tempates Tests" timestamp="2022-01-17T17:51:48" tests="4" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/templates/SCM/localTemplates.js" time="89.3570" failures="0">
+    <testcase class="LocalTempates - Tempates Tests T-SYC-LOCALTEMP-6219-0001 User should able to sync pipeline source with valid values.yml" time="31.5270" classclass="T-SYC-LOCALTEMP-6219-0001 User should able to sync pipeline source with valid values.yml">
     </testcase>
-    <testcase name="LocalTempates - Tempates Tests T-SYC-LOCALTEMP-6219-0002. User should not able to sync pipeline source with invalid values.yml" time="19.2800" classname="T-SYC-LOCALTEMP-6219-0002. User should not able to sync pipeline source with invalid values.yml">
+    <testcase class="LocalTempates - Tempates Tests T-SYC-LOCALTEMP-6219-0002. User should not able to sync pipeline source with invalid values.yml" time="19.2800" classclass="T-SYC-LOCALTEMP-6219-0002. User should not able to sync pipeline source with invalid values.yml">
     </testcase>
-    <testcase name="LocalTempates - Tempates Tests T-SYC-LOCALTEMP-6219-0003. User should not able to sync pipeline source with empty valuesFilePath" time="17.0750" classname="T-SYC-LOCALTEMP-6219-0003. User should not able to sync pipeline source with empty valuesFilePath">
+    <testcase class="LocalTempates - Tempates Tests T-SYC-LOCALTEMP-6219-0003. User should not able to sync pipeline source with empty valuesFilePath" time="17.0750" classclass="T-SYC-LOCALTEMP-6219-0003. User should not able to sync pipeline source with empty valuesFilePath">
     </testcase>
-    <testcase name="LocalTempates - Tempates Tests T-SYC-LOCALTEMP-6517-0001. Users should be able to combine local template and non-template configuration files" time="21.3480" classname="T-SYC-LOCALTEMP-6517-0001. Users should be able to combine local template and non-template configuration files">
+    <testcase class="LocalTempates - Tempates Tests T-SYC-LOCALTEMP-6517-0001. Users should be able to combine local template and non-template configuration files" time="21.3480" classclass="T-SYC-LOCALTEMP-6517-0001. Users should be able to combine local template and non-template configuration files">
     </testcase>
   </testsuite>
 </testsuites>

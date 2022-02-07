@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="0.6170" tests="11" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="0.6170" tests="11" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests" timestamp="2022-01-17T17:51:38" tests="11" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383727/setup_PreMatrix/tests/core/api/systemServiceInstanceStats.js" time="0.6030" failures="0">
-    <testcase name="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests A-SystemServiceInstanceStats-0005. Super user can get SystemServiceInstanceStats" time="0.0730" classname="A-SystemServiceInstanceStats-0005. Super user can get SystemServiceInstanceStats">
+  <testsuite class="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests" timestamp="2022-01-17T17:51:38" tests="11" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383727/setup_PreMatrix/tests/core/api/systemServiceInstanceStats.js" time="0.6030" failures="0">
+    <testcase class="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests A-SystemServiceInstanceStats-0005. Super user can get SystemServiceInstanceStats" time="0.0730" classclass="A-SystemServiceInstanceStats-0005. Super user can get SystemServiceInstanceStats">
     </testcase>
-    <testcase name="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests A-PP-0028. ProjectAdminUser shouldn’t be able to GET the  SystemServiceInstanceStats" time="0.1340" classname="A-PP-0028. ProjectAdminUser shouldn’t be able to GET the  SystemServiceInstanceStats">
+    <testcase class="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests A-PP-0028. ProjectAdminUser shouldn’t be able to GET the  SystemServiceInstanceStats" time="0.1340" classclass="A-PP-0028. ProjectAdminUser shouldn’t be able to GET the  SystemServiceInstanceStats">
     </testcase>
-    <testcase name="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests A-SystemServiceInstanceStats-0006. Admin cannot get  SystemServiceInstanceStats" time="0.0510" classname="A-SystemServiceInstanceStats-0006. Admin cannot get  SystemServiceInstanceStats">
+    <testcase class="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests A-SystemServiceInstanceStats-0006. Admin cannot get  SystemServiceInstanceStats" time="0.0510" classclass="A-SystemServiceInstanceStats-0006. Admin cannot get  SystemServiceInstanceStats">
     </testcase>
-    <testcase name="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests A-SystemServiceInstanceStats-0007. Member cannot get SystemServiceInstanceStats" time="0.1140" classname="A-SystemServiceInstanceStats-0007. Member cannot get SystemServiceInstanceStats">
+    <testcase class="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests A-SystemServiceInstanceStats-0007. Member cannot get SystemServiceInstanceStats" time="0.1140" classclass="A-SystemServiceInstanceStats-0007. Member cannot get SystemServiceInstanceStats">
     </testcase>
-    <testcase name="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests A-SystemServiceInstanceStats-0008. Public user cannot get SystemServiceInstanceStats " time="0.0230" classname="A-SystemServiceInstanceStats-0008. Public user cannot get SystemServiceInstanceStats ">
+    <testcase class="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests A-SystemServiceInstanceStats-0008. Public user cannot get SystemServiceInstanceStats " time="0.0230" classclass="A-SystemServiceInstanceStats-0008. Public user cannot get SystemServiceInstanceStats ">
     </testcase>
-    <testcase name="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests A-SystemServiceInstanceStats-0009. Id field in SystemServiceInstanceStats API should not be null and should be an integer type" time="0.0000" classname="A-SystemServiceInstanceStats-0009. Id field in SystemServiceInstanceStats API should not be null and should be an integer type">
+    <testcase class="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests A-SystemServiceInstanceStats-0009. Id field in SystemServiceInstanceStats API should not be null and should be an integer type" time="0.0000" classclass="A-SystemServiceInstanceStats-0009. Id field in SystemServiceInstanceStats API should not be null and should be an integer type">
     </testcase>
-    <testcase name="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests A-SystemServiceInstanceStats-0010. SystemServiceInstanceId field in SystemServiceInstanceStats API should not be null and should be an integer type" time="0.0000" classname="A-SystemServiceInstanceStats-0010. SystemServiceInstanceId field in SystemServiceInstanceStats API should not be null and should be an integer type">
+    <testcase class="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests A-SystemServiceInstanceStats-0010. SystemServiceInstanceId field in SystemServiceInstanceStats API should not be null and should be an integer type" time="0.0000" classclass="A-SystemServiceInstanceStats-0010. SystemServiceInstanceId field in SystemServiceInstanceStats API should not be null and should be an integer type">
     </testcase>
-    <testcase name="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests A-SystemServiceInstanceStats-0011. Stats field in  SystemServiceInstanceStats API should be an object type" time="0.0010" classname="A-SystemServiceInstanceStats-0011. Stats field in  SystemServiceInstanceStats API should be an object type">
+    <testcase class="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests A-SystemServiceInstanceStats-0011. Stats field in  SystemServiceInstanceStats API should be an object type" time="0.0010" classclass="A-SystemServiceInstanceStats-0011. Stats field in  SystemServiceInstanceStats API should be an object type">
     </testcase>
-    <testcase name="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests A-SystemServiceInstanceStats-0012. ReportedAt field in SystemServiceInstanceStats API should not be null and should be a string" time="0.0000" classname="A-SystemServiceInstanceStats-0012. ReportedAt field in SystemServiceInstanceStats API should not be null and should be a string">
+    <testcase class="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests A-SystemServiceInstanceStats-0012. ReportedAt field in SystemServiceInstanceStats API should not be null and should be a string" time="0.0000" classclass="A-SystemServiceInstanceStats-0012. ReportedAt field in SystemServiceInstanceStats API should not be null and should be a string">
     </testcase>
-    <testcase name="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests A-SystemServiceInstanceStats-0013. CreatedAt field in  SystemServiceInstanceStats API should not be null and should be a string" time="0.0000" classname="A-SystemServiceInstanceStats-0013. CreatedAt field in  SystemServiceInstanceStats API should not be null and should be a string">
+    <testcase class="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests A-SystemServiceInstanceStats-0013. CreatedAt field in  SystemServiceInstanceStats API should not be null and should be a string" time="0.0000" classclass="A-SystemServiceInstanceStats-0013. CreatedAt field in  SystemServiceInstanceStats API should not be null and should be a string">
     </testcase>
-    <testcase name="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests A-SystemServiceInstanceStats-0014. UpdatedAt field in  SystemServiceInstanceStats API should not be null and should be a string" time="0.0000" classname="A-SystemServiceInstanceStats-0014. UpdatedAt field in  SystemServiceInstanceStats API should not be null and should be a string">
+    <testcase class="API_SYSTEMSERVICEINSTANCESTATS - SystemServiceInstanceStats API tests A-SystemServiceInstanceStats-0014. UpdatedAt field in  SystemServiceInstanceStats API should not be null and should be a string" time="0.0000" classclass="A-SystemServiceInstanceStats-0014. UpdatedAt field in  SystemServiceInstanceStats API should not be null and should be a string">
     </testcase>
   </testsuite>
 </testsuites>

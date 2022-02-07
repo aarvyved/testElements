@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="288.6000" tests="3" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:50:59" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="288.6000" tests="3" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:50:59" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="WORKFLOW_TESTS - pipeline workFlow tests " timestamp="2022-01-17T17:50:59" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383772/setup_PreMatrix/tests/core/workFlow/pipeline/trigger/pipelineWorkFlow.js" time="0.0000" failures="0">
+  <testsuite class="WORKFLOW_TESTS - pipeline workFlow tests " timestamp="2022-01-17T17:50:59" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383772/setup_PreMatrix/tests/core/workFlow/pipeline/trigger/pipelineWorkFlow.js" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="Test cases for pipeline-level resources" timestamp="2022-01-17T17:50:59" tests="3" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383772/setup_PreMatrix/tests/core/workFlow/pipeline/trigger/pipelineWorkFlow.js" time="288.4410" failures="0">
-    <testcase name="WORKFLOW_TESTS - pipeline workFlow tests  Test cases for pipeline-level resources P_WF_5933_010 User runs a pipeline with a resource in inputResources at the pipeline level.  The runStepConnection has isPipelineConnection true." time="71.4520" classname="P_WF_5933_010 User runs a pipeline with a resource in inputResources at the pipeline level.  The runStepConnection has isPipelineConnection true.">
+  <testsuite class="Test cases for pipeline-level resources" timestamp="2022-01-17T17:50:59" tests="3" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383772/setup_PreMatrix/tests/core/workFlow/pipeline/trigger/pipelineWorkFlow.js" time="288.4410" failures="0">
+    <testcase class="WORKFLOW_TESTS - pipeline workFlow tests  Test cases for pipeline-level resources P_WF_5933_010 User runs a pipeline with a resource in inputResources at the pipeline level.  The runStepConnection has isPipelineConnection true." time="71.4520" classclass="P_WF_5933_010 User runs a pipeline with a resource in inputResources at the pipeline level.  The runStepConnection has isPipelineConnection true.">
     </testcase>
-    <testcase name="WORKFLOW_TESTS - pipeline workFlow tests  Test cases for pipeline-level resources P_WF_5933_011 User runs a pipeline with a resource in outputResources at the pipeline level.  The runStepConnection has isPipelineConnection true." time="160.8640" classname="P_WF_5933_011 User runs a pipeline with a resource in outputResources at the pipeline level.  The runStepConnection has isPipelineConnection true.">
+    <testcase class="WORKFLOW_TESTS - pipeline workFlow tests  Test cases for pipeline-level resources P_WF_5933_011 User runs a pipeline with a resource in outputResources at the pipeline level.  The runStepConnection has isPipelineConnection true." time="160.8640" classclass="P_WF_5933_011 User runs a pipeline with a resource in outputResources at the pipeline level.  The runStepConnection has isPipelineConnection true.">
     </testcase>
-    <testcase name="WORKFLOW_TESTS - pipeline workFlow tests  Test cases for pipeline-level resources P_WF_5933_012 User runs a pipeline with an integration in integrations at the pipeline level.  The runStepConnection has isPipelineConnection true." time="56.1190" classname="P_WF_5933_012 User runs a pipeline with an integration in integrations at the pipeline level.  The runStepConnection has isPipelineConnection true.">
+    <testcase class="WORKFLOW_TESTS - pipeline workFlow tests  Test cases for pipeline-level resources P_WF_5933_012 User runs a pipeline with an integration in integrations at the pipeline level.  The runStepConnection has isPipelineConnection true." time="56.1190" classclass="P_WF_5933_012 User runs a pipeline with an integration in integrations at the pipeline level.  The runStepConnection has isPipelineConnection true.">
     </testcase>
   </testsuite>
 </testsuites>

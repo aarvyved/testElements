@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="744.4320" tests="29" failures="0" skipped="1">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:18" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="744.4320" tests="29" failures="0" skipped="1">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:18" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="GENERIC_POWERSHELL - PowerShell Generic tests" timestamp="2022-01-17T17:51:18" tests="29" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_1/4383699/setup_PreMatrix/tests/core/steps/PowerShell/PSGeneric/Trigger/PowerShellGeneric2.js" time="744.4250" failures="0" skipped="1">
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 8. User should be able to add new pipelineSources." time="10.5470" classname="8. User should be able to add new pipelineSources.">
+  <testsuite class="GENERIC_POWERSHELL - PowerShell Generic tests" timestamp="2022-01-17T17:51:18" tests="29" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_1/4383699/setup_PreMatrix/tests/core/steps/PowerShell/PSGeneric/Trigger/PowerShellGeneric2.js" time="744.4250" failures="0" skipped="1">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 8. User should be able to add new pipelineSources." time="10.5470" classclass="8. User should be able to add new pipelineSources.">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 9. User should be able to get their pipelines" time="37.8580" classname="9. User should be able to get their pipelines">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 9. User should be able to get their pipelines" time="37.8580" classclass="9. User should be able to get their pipelines">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 10. User can get their steps" time="3.0470" classname="10. User can get their steps">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 10. User can get their steps" time="3.0470" classclass="10. User can get their steps">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 11. User can get their steplets" time="0.0270" classname="11. User can get their steplets">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 11. User can get their steplets" time="0.0270" classclass="11. User can get their steplets">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0047. User specifies some commands under the onFailure section of the PowerShell step in YAML then these commands are executed on failed completion of the onExecute section" time="0.0580" classname="S-PS-Generic-0047. User specifies some commands under the onFailure section of the PowerShell step in YAML then these commands are executed on failed completion of the onExecute section">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0047. User specifies some commands under the onFailure section of the PowerShell step in YAML then these commands are executed on failed completion of the onExecute section" time="0.0580" classclass="S-PS-Generic-0047. User specifies some commands under the onFailure section of the PowerShell step in YAML then these commands are executed on failed completion of the onExecute section">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 12. User can delete pipelineSource by Id" time="1.1490" classname="12. User can delete pipelineSource by Id">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 12. User can delete pipelineSource by Id" time="1.1490" classclass="12. User can delete pipelineSource by Id">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 13. User should be able to add new pipelineSources" time="15.2770" classname="13. User should be able to add new pipelineSources">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 13. User should be able to add new pipelineSources" time="15.2770" classclass="13. User should be able to add new pipelineSources">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 14. User should be able to get their pipelines" time="62.1300" classname="14. User should be able to get their pipelines">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 14. User should be able to get their pipelines" time="62.1300" classclass="14. User should be able to get their pipelines">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 15. User can get their steps" time="3.0720" classname="15. User can get their steps">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 15. User can get their steps" time="3.0720" classclass="15. User can get their steps">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 16. User can get their steplets" time="0.0300" classname="16. User can get their steplets">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 16. User can get their steplets" time="0.0300" classclass="16. User can get their steplets">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0048. User specifies some commands under the onSuccess section of the PowerShell step in YAML then these commands are executed on successful completion of the onExecute section. " time="0.1190" classname="S-PS-Generic-0048. User specifies some commands under the onSuccess section of the PowerShell step in YAML then these commands are executed on successful completion of the onExecute section. ">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0048. User specifies some commands under the onSuccess section of the PowerShell step in YAML then these commands are executed on successful completion of the onExecute section. " time="0.1190" classclass="S-PS-Generic-0048. User specifies some commands under the onSuccess section of the PowerShell step in YAML then these commands are executed on successful completion of the onExecute section. ">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 17. User can delete pipelineSource by Id" time="1.3260" classname="17. User can delete pipelineSource by Id">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 17. User can delete pipelineSource by Id" time="1.3260" classclass="17. User can delete pipelineSource by Id">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0040. User verifies if configuration/runtime/type is set to image/custom then the custom image is auto pulled when the  step is triggered, as the autopull field  is set to true by default; ( autoPull value is true, custom image pull the latest master)." time="0.0000" classname="S-PS-Generic-0040. User verifies if configuration/runtime/type is set to image/custom then the custom image is auto pulled when the  step is triggered, as the autopull field  is set to true by default; ( autoPull value is true, custom image pull the latest master).">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0040. User verifies if configuration/runtime/type is set to image/custom then the custom image is auto pulled when the  step is triggered, as the autopull field  is set to true by default; ( autoPull value is true, custom image pull the latest master)." time="0.0000" classclass="S-PS-Generic-0040. User verifies if configuration/runtime/type is set to image/custom then the custom image is auto pulled when the  step is triggered, as the autopull field  is set to true by default; ( autoPull value is true, custom image pull the latest master).">
       <skipped/>
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0049. User verifies that commands under the onSuccess section dont execute when any command fails in onExecute section. " time="57.2120" classname="S-PS-Generic-0049. User verifies that commands under the onSuccess section dont execute when any command fails in onExecute section. ">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0049. User verifies that commands under the onSuccess section dont execute when any command fails in onExecute section. " time="57.2120" classclass="S-PS-Generic-0049. User verifies that commands under the onSuccess section dont execute when any command fails in onExecute section. ">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 18. User should be able to add new pipelineSources" time="10.3040" classname="18. User should be able to add new pipelineSources">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 18. User should be able to add new pipelineSources" time="10.3040" classclass="18. User should be able to add new pipelineSources">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 19. User should be able to get their pipelines" time="67.6940" classname="19. User should be able to get their pipelines">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 19. User should be able to get their pipelines" time="67.6940" classclass="19. User should be able to get their pipelines">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 20. User can get their steps" time="3.0490" classname="20. User can get their steps">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 20. User can get their steps" time="3.0490" classclass="20. User can get their steps">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 21. User can get their steplets" time="0.0290" classname="21. User can get their steplets">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 21. User can get their steplets" time="0.0290" classclass="21. User can get their steplets">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0050. User specifies some commands under the onStart section of the PowerShell step in YAML then these commands are executed before the onExecute section except when the step is cancelled." time="0.0930" classname="S-PS-Generic-0050. User specifies some commands under the onStart section of the PowerShell step in YAML then these commands are executed before the onExecute section except when the step is cancelled.">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0050. User specifies some commands under the onStart section of the PowerShell step in YAML then these commands are executed before the onExecute section except when the step is cancelled." time="0.0930" classclass="S-PS-Generic-0050. User specifies some commands under the onStart section of the PowerShell step in YAML then these commands are executed before the onExecute section except when the step is cancelled.">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 22. User can delete pipelineSource by Id" time="1.0500" classname="22. User can delete pipelineSource by Id">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 22. User can delete pipelineSource by Id" time="1.0500" classclass="22. User can delete pipelineSource by Id">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 28. User should be able to add new pipelineSources" time="10.1670" classname="28. User should be able to add new pipelineSources">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 28. User should be able to add new pipelineSources" time="10.1670" classclass="28. User should be able to add new pipelineSources">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 29. User should be able to get their pipelines" time="37.5930" classname="29. User should be able to get their pipelines">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 29. User should be able to get their pipelines" time="37.5930" classclass="29. User should be able to get their pipelines">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 30. User can get their steps" time="3.0970" classname="30. User can get their steps">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 30. User can get their steps" time="3.0970" classclass="30. User can get their steps">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 31. User can get their steplets" time="0.0240" classname="31. User can get their steplets">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 31. User can get their steplets" time="0.0240" classclass="31. User can get their steplets">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0052. User specifies some commands under the onComplete section of the PowerShell step in YAML then these commands  are executed on completion of the onExecute section except when the step is cancelled." time="0.0590" classname="S-PS-Generic-0052. User specifies some commands under the onComplete section of the PowerShell step in YAML then these commands  are executed on completion of the onExecute section except when the step is cancelled.">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0052. User specifies some commands under the onComplete section of the PowerShell step in YAML then these commands  are executed on completion of the onExecute section except when the step is cancelled." time="0.0590" classclass="S-PS-Generic-0052. User specifies some commands under the onComplete section of the PowerShell step in YAML then these commands  are executed on completion of the onExecute section except when the step is cancelled.">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 13. User can delete pipelineSource by Id" time="0.9990" classname="13. User can delete pipelineSource by Id">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 13. User can delete pipelineSource by Id" time="0.9990" classclass="13. User can delete pipelineSource by Id">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0053.If user update pipelines system specific environmentVariables in PowerShell step, then PowerShell step should fail." time="39.0260" classname="S-PS-Generic-0053.If user update pipelines system specific environmentVariables in PowerShell step, then PowerShell step should fail.">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0053.If user update pipelines system specific environmentVariables in PowerShell step, then PowerShell step should fail." time="39.0260" classclass="S-PS-Generic-0053.If user update pipelines system specific environmentVariables in PowerShell step, then PowerShell step should fail.">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0054.User adds a Pipeline where the runtime field is mentioned under the Pipeline but not under step, then all the steps should run on the specific runtime settings mentioned under the pipeline when triggered." time="365.7290" classname="S-PS-Generic-0054.User adds a Pipeline where the runtime field is mentioned under the Pipeline but not under step, then all the steps should run on the specific runtime settings mentioned under the pipeline when triggered.">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0054.User adds a Pipeline where the runtime field is mentioned under the Pipeline but not under step, then all the steps should run on the specific runtime settings mentioned under the pipeline when triggered." time="365.7290" classclass="S-PS-Generic-0054.User adds a Pipeline where the runtime field is mentioned under the Pipeline but not under step, then all the steps should run on the specific runtime settings mentioned under the pipeline when triggered.">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0057. If a user adds a pipeline source with the PowerShell step,where non-windows nodePool is set as the default nodePool, then the step will throw an error status code." time="13.4780" classname="S-PS-Generic-0057. If a user adds a pipeline source with the PowerShell step,where non-windows nodePool is set as the default nodePool, then the step will throw an error status code.">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0057. If a user adds a pipeline source with the PowerShell step,where non-windows nodePool is set as the default nodePool, then the step will throw an error status code." time="13.4780" classclass="S-PS-Generic-0057. If a user adds a pipeline source with the PowerShell step,where non-windows nodePool is set as the default nodePool, then the step will throw an error status code.">
     </testcase>
   </testsuite>
 </testsuites>

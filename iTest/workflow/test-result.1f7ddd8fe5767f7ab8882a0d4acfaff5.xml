@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="672.4070" tests="5" failures="1">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:50:59" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="672.4070" tests="5" failures="1">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:50:59" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="WORKFLOW_TESTS - pipeline workFlow tests " timestamp="2022-01-17T17:50:59" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/core/workFlow/pipeline/trigger/pipelineWorkFlow3.js" time="0.0000" failures="0">
+  <testsuite class="WORKFLOW_TESTS - pipeline workFlow tests " timestamp="2022-01-17T17:50:59" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/core/workFlow/pipeline/trigger/pipelineWorkFlow3.js" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="Test cases for pipeline dependencyMode and chronological" timestamp="2022-01-17T17:50:59" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/core/workFlow/pipeline/trigger/pipelineWorkFlow3.js" time="672.2930" failures="1">
-    <testcase name="WORKFLOW_TESTS - pipeline workFlow tests  Test cases for pipeline dependencyMode and chronological P_WF_0013. If chronological is true in the pipelines configuration section, only one run runs at a time." time="77.8060" classname="P_WF_0013. If chronological is true in the pipelines configuration section, only one run runs at a time.">
+  <testsuite class="Test cases for pipeline dependencyMode and chronological" timestamp="2022-01-17T17:50:59" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/core/workFlow/pipeline/trigger/pipelineWorkFlow3.js" time="672.2930" failures="1">
+    <testcase class="WORKFLOW_TESTS - pipeline workFlow tests  Test cases for pipeline dependencyMode and chronological P_WF_0013. If chronological is true in the pipelines configuration section, only one run runs at a time." time="77.8060" classclass="P_WF_0013. If chronological is true in the pipelines configuration section, only one run runs at a time.">
     </testcase>
-    <testcase name="WORKFLOW_TESTS - pipeline workFlow tests  Test cases for pipeline dependencyMode and chronological P_WF_0014. If chronological is false in the pipelines configuration section, multiple runs run at the same time." time="334.9680" classname="P_WF_0014. If chronological is false in the pipelines configuration section, multiple runs run at the same time.">
+    <testcase class="WORKFLOW_TESTS - pipeline workFlow tests  Test cases for pipeline dependencyMode and chronological P_WF_0014. If chronological is false in the pipelines configuration section, multiple runs run at the same time." time="334.9680" classclass="P_WF_0014. If chronological is false in the pipelines configuration section, multiple runs run at the same time.">
       <failure message="Run was not created: Error: Max number of back-offs reached
     at Backoff.&lt;anonymous&gt; (/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383773/setup_PreMatrix/tests/globalWrapper/waitForRunCreation.js:102:9)
     at Backoff.emit (events.js:376:20)
@@ -103,11 +103,11 @@
     at endReadableNT (internal/streams/readable.js:1336:12)
     at processTicksAndRejections (internal/process/task_queues.js:82:21)]]></failure>
     </testcase>
-    <testcase name="WORKFLOW_TESTS - pipeline workFlow tests  Test cases for pipeline dependencyMode and chronological P_WF_0015. If waitOnParentComplete is true in the pipelines configuration section, the pipeline will not run while a parent is incomplete with multiple parents." time="69.7610" classname="P_WF_0015. If waitOnParentComplete is true in the pipelines configuration section, the pipeline will not run while a parent is incomplete with multiple parents.">
+    <testcase class="WORKFLOW_TESTS - pipeline workFlow tests  Test cases for pipeline dependencyMode and chronological P_WF_0015. If waitOnParentComplete is true in the pipelines configuration section, the pipeline will not run while a parent is incomplete with multiple parents." time="69.7610" classclass="P_WF_0015. If waitOnParentComplete is true in the pipelines configuration section, the pipeline will not run while a parent is incomplete with multiple parents.">
     </testcase>
-    <testcase name="WORKFLOW_TESTS - pipeline workFlow tests  Test cases for pipeline dependencyMode and chronological P_WF_0016. If waitOnParentComplete is true in the pipelines configuration section, outside resource triggers still create new runs." time="101.3940" classname="P_WF_0016. If waitOnParentComplete is true in the pipelines configuration section, outside resource triggers still create new runs.">
+    <testcase class="WORKFLOW_TESTS - pipeline workFlow tests  Test cases for pipeline dependencyMode and chronological P_WF_0016. If waitOnParentComplete is true in the pipelines configuration section, outside resource triggers still create new runs." time="101.3940" classclass="P_WF_0016. If waitOnParentComplete is true in the pipelines configuration section, outside resource triggers still create new runs.">
     </testcase>
-    <testcase name="WORKFLOW_TESTS - pipeline workFlow tests  Test cases for pipeline dependencyMode and chronological P_WF_0017. If waitOnChildComplete is true in the pipelines configuration section, the pipeline will not run while a child is incomplete with multiple children." time="88.3560" classname="P_WF_0017. If waitOnChildComplete is true in the pipelines configuration section, the pipeline will not run while a child is incomplete with multiple children.">
+    <testcase class="WORKFLOW_TESTS - pipeline workFlow tests  Test cases for pipeline dependencyMode and chronological P_WF_0017. If waitOnChildComplete is true in the pipelines configuration section, the pipeline will not run while a child is incomplete with multiple children." time="88.3560" classclass="P_WF_0017. If waitOnChildComplete is true in the pipelines configuration section, the pipeline will not run while a child is incomplete with multiple children.">
     </testcase>
   </testsuite>
 </testsuites>

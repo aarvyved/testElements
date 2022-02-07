@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="26.2020" tests="20" failures="0" skipped="1">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:52:12" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="26.2020" tests="20" failures="0" skipped="1">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:52:12" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests" timestamp="2022-01-17T17:52:12" tests="20" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383807/setup_PreMatrix/tests/core/projectIntegrations/Jenkins.js" time="26.1960" failures="0" skipped="1">
-    <testcase name="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0001. Verify a user can add Jenkins integration byproviding name, url,token, jenkinsUsername and jenkinsToken." time="6.6150" classname="I-Jenkins-0001. Verify a user can add Jenkins integration byproviding name, url,token, jenkinsUsername and jenkinsToken.">
+  <testsuite class="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests" timestamp="2022-01-17T17:52:12" tests="20" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383807/setup_PreMatrix/tests/core/projectIntegrations/Jenkins.js" time="26.1960" failures="0" skipped="1">
+    <testcase class="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0001. Verify a user can add Jenkins integration byproviding name, url,token, jenkinsUsername and jenkinsToken." time="6.6150" classclass="I-Jenkins-0001. Verify a user can add Jenkins integration byproviding name, url,token, jenkinsUsername and jenkinsToken.">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests 1. User should be able add new PipelineSources for jenkins" time="16.6990" classname="1. User should be able add new PipelineSources for jenkins">
+    <testcase class="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests 1. User should be able add new PipelineSources for jenkins" time="16.6990" classclass="1. User should be able add new PipelineSources for jenkins">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0002. Name must adhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/ " time="0.0660" classname="I-Jenkins-0002. Name must adhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/ ">
+    <testcase class="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0002. Name must adhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/ " time="0.0660" classclass="I-Jenkins-0002. Name must adhere to the regular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/ ">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0003. Users should not be able to edit the integration Name. " time="0.0760" classname="I-Jenkins-0003. Users should not be able to edit the integration Name. ">
+    <testcase class="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0003. Users should not be able to edit the integration Name. " time="0.0760" classclass="I-Jenkins-0003. Users should not be able to edit the integration Name. ">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0004. Users should be able to edit the integration url. " time="0.1280" classname="I-Jenkins-0004. Users should be able to edit the integration url. ">
+    <testcase class="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0004. Users should be able to edit the integration url. " time="0.1280" classclass="I-Jenkins-0004. Users should be able to edit the integration url. ">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0005. Users should be able to edit the integration token. " time="0.1090" classname="I-Jenkins-0005. Users should be able to edit the integration token. ">
+    <testcase class="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0005. Users should be able to edit the integration token. " time="0.1090" classclass="I-Jenkins-0005. Users should be able to edit the integration token. ">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0006. Users should be able to edit the integration jenkinsUsername. " time="0.1750" classname="I-Jenkins-0006. Users should be able to edit the integration jenkinsUsername. ">
+    <testcase class="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0006. Users should be able to edit the integration jenkinsUsername. " time="0.1750" classclass="I-Jenkins-0006. Users should be able to edit the integration jenkinsUsername. ">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0007. Users should be able to edit the integration jenkinsToken. " time="0.1610" classname="I-Jenkins-0007. Users should be able to edit the integration jenkinsToken. ">
+    <testcase class="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0007. Users should be able to edit the integration jenkinsToken. " time="0.1610" classclass="I-Jenkins-0007. Users should be able to edit the integration jenkinsToken. ">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0009. Users shouldn’t be able to Post a jenkins  integration with a invalid value for the url field." time="0.0360" classname="I-Jenkins-0009. Users shouldn’t be able to Post a jenkins  integration with a invalid value for the url field.">
+    <testcase class="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0009. Users shouldn’t be able to Post a jenkins  integration with a invalid value for the url field." time="0.0360" classclass="I-Jenkins-0009. Users shouldn’t be able to Post a jenkins  integration with a invalid value for the url field.">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0010. Users shouldn’t be able to Post a jenkins integration with a invalid value for the token field. " time="0.0550" classname="I-Jenkins-0010. Users shouldn’t be able to Post a jenkins integration with a invalid value for the token field. ">
+    <testcase class="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0010. Users shouldn’t be able to Post a jenkins integration with a invalid value for the token field. " time="0.0550" classclass="I-Jenkins-0010. Users shouldn’t be able to Post a jenkins integration with a invalid value for the token field. ">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0011. Users shouldn’t be able to Post a jenkins integration with a invalid value for the jenkinsUsername field " time="0.0240" classname="I-Jenkins-0011. Users shouldn’t be able to Post a jenkins integration with a invalid value for the jenkinsUsername field ">
+    <testcase class="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0011. Users shouldn’t be able to Post a jenkins integration with a invalid value for the jenkinsUsername field " time="0.0240" classclass="I-Jenkins-0011. Users shouldn’t be able to Post a jenkins integration with a invalid value for the jenkinsUsername field ">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0012. Users shouldn’t be able to Post a jenkins integration with a invalid value for the jenkinsToken field. " time="0.0340" classname="I-Jenkins-0012. Users shouldn’t be able to Post a jenkins integration with a invalid value for the jenkinsToken field. ">
+    <testcase class="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0012. Users shouldn’t be able to Post a jenkins integration with a invalid value for the jenkinsToken field. " time="0.0340" classclass="I-Jenkins-0012. Users shouldn’t be able to Post a jenkins integration with a invalid value for the jenkinsToken field. ">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0013. Users shouldn’t be able to update a jenkins integration with an empty value for the name field. " time="0.0000" classname="I-Jenkins-0013. Users shouldn’t be able to update a jenkins integration with an empty value for the name field. ">
+    <testcase class="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0013. Users shouldn’t be able to update a jenkins integration with an empty value for the name field. " time="0.0000" classclass="I-Jenkins-0013. Users shouldn’t be able to update a jenkins integration with an empty value for the name field. ">
       <skipped/>
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0014. Users shouldn’t be able to update a jenkins integration with an empty value for the url field. " time="0.2070" classname="I-Jenkins-0014. Users shouldn’t be able to update a jenkins integration with an empty value for the url field. ">
+    <testcase class="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0014. Users shouldn’t be able to update a jenkins integration with an empty value for the url field. " time="0.2070" classclass="I-Jenkins-0014. Users shouldn’t be able to update a jenkins integration with an empty value for the url field. ">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0015. Users shouldn’t be able to update a jenkins integration with an empty value for the token field. " time="0.0490" classname="I-Jenkins-0015. Users shouldn’t be able to update a jenkins integration with an empty value for the token field. ">
+    <testcase class="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0015. Users shouldn’t be able to update a jenkins integration with an empty value for the token field. " time="0.0490" classclass="I-Jenkins-0015. Users shouldn’t be able to update a jenkins integration with an empty value for the token field. ">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0016. Users shouldn’t be able to update a jenkins integration with an empty value for the jenkinsUsername field. " time="0.0960" classname="I-Jenkins-0016. Users shouldn’t be able to update a jenkins integration with an empty value for the jenkinsUsername field. ">
+    <testcase class="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0016. Users shouldn’t be able to update a jenkins integration with an empty value for the jenkinsUsername field. " time="0.0960" classclass="I-Jenkins-0016. Users shouldn’t be able to update a jenkins integration with an empty value for the jenkinsUsername field. ">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0017. Users shouldn’t be able to update a jenkins integration with an empty value for the jenkinsToken field. " time="0.0590" classname="I-Jenkins-0017. Users shouldn’t be able to update a jenkins integration with an empty value for the jenkinsToken field. ">
+    <testcase class="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0017. Users shouldn’t be able to update a jenkins integration with an empty value for the jenkinsToken field. " time="0.0590" classclass="I-Jenkins-0017. Users shouldn’t be able to update a jenkins integration with an empty value for the jenkinsToken field. ">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0019. Users shouldnt be able to delete Jenkins  integration if it is dependent on any steps." time="0.4980" classname="I-Jenkins-0019. Users shouldnt be able to delete Jenkins  integration if it is dependent on any steps.">
+    <testcase class="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0019. Users shouldnt be able to delete Jenkins  integration if it is dependent on any steps." time="0.4980" classclass="I-Jenkins-0019. Users shouldnt be able to delete Jenkins  integration if it is dependent on any steps.">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests 2. User can delete pipelineSource by Id" time="0.7360" classname="2. User can delete pipelineSource by Id">
+    <testcase class="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests 2. User can delete pipelineSource by Id" time="0.7360" classclass="2. User can delete pipelineSource by Id">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0008. Users should be able to delete Jenkins integration if it is not dependent on any steps." time="0.2760" classname="I-Jenkins-0008. Users should be able to delete Jenkins integration if it is not dependent on any steps.">
+    <testcase class="PROJECTINTEGRATIONS_JENKINS - Jenkins integration tests I-Jenkins-0008. Users should be able to delete Jenkins integration if it is not dependent on any steps." time="0.2760" classclass="I-Jenkins-0008. Users should be able to delete Jenkins integration if it is not dependent on any steps.">
     </testcase>
   </testsuite>
 </testsuites>

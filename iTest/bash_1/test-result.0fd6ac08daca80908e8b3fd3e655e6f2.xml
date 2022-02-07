@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="184.1360" tests="7" failures="0" skipped="3">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:16" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="184.1360" tests="7" failures="0" skipped="3">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:16" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="STEP_BASH_DOCKER_REGISTRY_INTEGRATION - Bash Step Tests For Docker Registry Integration" timestamp="2022-01-17T17:51:16" tests="7" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383559/setup_PreMatrix/tests/core/steps/Bash/BashIntegrations/BashDockerIntegration.js" time="184.1050" failures="0" skipped="3">
-    <testcase name="STEP_BASH_DOCKER_REGISTRY_INTEGRATION - Bash Step Tests For Docker Registry Integration 1. User can add Docker Registry project Integration" time="0.7250" classname="1. User can add Docker Registry project Integration">
+  <testsuite class="STEP_BASH_DOCKER_REGISTRY_INTEGRATION - Bash Step Tests For Docker Registry Integration" timestamp="2022-01-17T17:51:16" tests="7" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383559/setup_PreMatrix/tests/core/steps/Bash/BashIntegrations/BashDockerIntegration.js" time="184.1050" failures="0" skipped="3">
+    <testcase class="STEP_BASH_DOCKER_REGISTRY_INTEGRATION - Bash Step Tests For Docker Registry Integration 1. User can add Docker Registry project Integration" time="0.7250" classclass="1. User can add Docker Registry project Integration">
     </testcase>
-    <testcase name="STEP_BASH_DOCKER_REGISTRY_INTEGRATION - Bash Step Tests For Docker Registry Integration S-Bash-0275. User should see automatic login is done for Docker integration in bash" time="52.5730" classname="S-Bash-0275. User should see automatic login is done for Docker integration in bash">
+    <testcase class="STEP_BASH_DOCKER_REGISTRY_INTEGRATION - Bash Step Tests For Docker Registry Integration S-Bash-0275. User should see automatic login is done for Docker integration in bash" time="52.5730" classclass="S-Bash-0275. User should see automatic login is done for Docker integration in bash">
     </testcase>
-    <testcase name="STEP_BASH_DOCKER_REGISTRY_INTEGRATION - Bash Step Tests For Docker Registry Integration S-Bash-0280. Environment variables for the resource are available in execution sections of the Bash step." time="130.2280" classname="S-Bash-0280. Environment variables for the resource are available in execution sections of the Bash step.">
+    <testcase class="STEP_BASH_DOCKER_REGISTRY_INTEGRATION - Bash Step Tests For Docker Registry Integration S-Bash-0280. Environment variables for the resource are available in execution sections of the Bash step." time="130.2280" classclass="S-Bash-0280. Environment variables for the resource are available in execution sections of the Bash step.">
     </testcase>
-    <testcase name="STEP_BASH_DOCKER_REGISTRY_INTEGRATION - Bash Step Tests For Docker Registry Integration 2. User should be able to add new pipelineSources" time="0.0000" classname="2. User should be able to add new pipelineSources">
+    <testcase class="STEP_BASH_DOCKER_REGISTRY_INTEGRATION - Bash Step Tests For Docker Registry Integration 2. User should be able to add new pipelineSources" time="0.0000" classclass="2. User should be able to add new pipelineSources">
       <skipped/>
     </testcase>
-    <testcase name="STEP_BASH_DOCKER_REGISTRY_INTEGRATION - Bash Step Tests For Docker Registry Integration S-Bash-0282. Users should not able to delete docker registry integration if it is dependent on any steps." time="0.0000" classname="S-Bash-0282. Users should not able to delete docker registry integration if it is dependent on any steps.">
+    <testcase class="STEP_BASH_DOCKER_REGISTRY_INTEGRATION - Bash Step Tests For Docker Registry Integration S-Bash-0282. Users should not able to delete docker registry integration if it is dependent on any steps." time="0.0000" classclass="S-Bash-0282. Users should not able to delete docker registry integration if it is dependent on any steps.">
       <skipped/>
     </testcase>
-    <testcase name="STEP_BASH_DOCKER_REGISTRY_INTEGRATION - Bash Step Tests For Docker Registry Integration 3. User can delete pipelineSource by Id" time="0.0000" classname="3. User can delete pipelineSource by Id">
+    <testcase class="STEP_BASH_DOCKER_REGISTRY_INTEGRATION - Bash Step Tests For Docker Registry Integration 3. User can delete pipelineSource by Id" time="0.0000" classclass="3. User can delete pipelineSource by Id">
       <skipped/>
     </testcase>
-    <testcase name="STEP_BASH_DOCKER_REGISTRY_INTEGRATION - Bash Step Tests For Docker Registry Integration 4. User can delete Docker registry project integration by Id" time="0.1880" classname="4. User can delete Docker registry project integration by Id">
+    <testcase class="STEP_BASH_DOCKER_REGISTRY_INTEGRATION - Bash Step Tests For Docker Registry Integration 4. User can delete Docker registry project integration by Id" time="0.1880" classclass="4. User can delete Docker registry project integration by Id">
     </testcase>
   </testsuite>
 </testsuites>

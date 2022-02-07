@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="188.5040" tests="5" failures="0" skipped="2">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:18" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="188.5040" tests="5" failures="0" skipped="2">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:18" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="GENERIC_POWERSHELL - PowerShell Generic tests" timestamp="2022-01-17T17:51:18" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_1/4383695/setup_PreMatrix/tests/core/steps/PowerShell/PSGeneric/Trigger/PowerShellGeneric3.js" time="188.4880" failures="0" skipped="2">
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0010. User verifies that PowerShell Step runs on the node pool specified in YAML." time="72.4870" classname="S-PS-Generic-0010. User verifies that PowerShell Step runs on the node pool specified in YAML.">
+  <testsuite class="GENERIC_POWERSHELL - PowerShell Generic tests" timestamp="2022-01-17T17:51:18" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_1/4383695/setup_PreMatrix/tests/core/steps/PowerShell/PSGeneric/Trigger/PowerShellGeneric3.js" time="188.4880" failures="0" skipped="2">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0010. User verifies that PowerShell Step runs on the node pool specified in YAML." time="72.4870" classclass="S-PS-Generic-0010. User verifies that PowerShell Step runs on the node pool specified in YAML.">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0061. If users add a command under the execution section in the PS step. If the command is enclosed with “{{ }}”  thenverify the pipeline step is successful and the command should notbe templated as {{gitbranch}} (which gives the branch name)." time="60.9060" classname="S-PS-Generic-0061. If users add a command under the execution section in the PS step. If the command is enclosed with “{{ }}”  thenverify the pipeline step is successful and the command should notbe templated as {{gitbranch}} (which gives the branch name).">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0061. If users add a command under the execution section in the PS step. If the command is enclosed with “{{ }}”  thenverify the pipeline step is successful and the command should notbe templated as {{gitbranch}} (which gives the branch name)." time="60.9060" classclass="S-PS-Generic-0061. If users add a command under the execution section in the PS step. If the command is enclosed with “{{ }}”  thenverify the pipeline step is successful and the command should notbe templated as {{gitbranch}} (which gives the branch name).">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0063. A user runs a step on Windows with a custom build image using an Artifactory integration successfully." time="0.0000" classname="S-PS-Generic-0063. A user runs a step on Windows with a custom build image using an Artifactory integration successfully.">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0063. A user runs a step on Windows with a custom build image using an Artifactory integration successfully." time="0.0000" classclass="S-PS-Generic-0063. A user runs a step on Windows with a custom build image using an Artifactory integration successfully.">
       <skipped/>
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0064. A user runs a PowerShell step in the default project and sees that the “JFROG_CLI_BUILD_PROJECT” variable is empty." time="54.8420" classname="S-PS-Generic-0064. A user runs a PowerShell step in the default project and sees that the “JFROG_CLI_BUILD_PROJECT” variable is empty.">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0064. A user runs a PowerShell step in the default project and sees that the “JFROG_CLI_BUILD_PROJECT” variable is empty." time="54.8420" classclass="S-PS-Generic-0064. A user runs a PowerShell step in the default project and sees that the “JFROG_CLI_BUILD_PROJECT” variable is empty.">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0065. A user runs a PowerShell step in a non-default project and sees that the “JFROG_CLI_BUILD_PROJECT” variable is the project key." time="0.0010" classname="S-PS-Generic-0065. A user runs a PowerShell step in a non-default project and sees that the “JFROG_CLI_BUILD_PROJECT” variable is the project key.">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0065. A user runs a PowerShell step in a non-default project and sees that the “JFROG_CLI_BUILD_PROJECT” variable is the project key." time="0.0010" classclass="S-PS-Generic-0065. A user runs a PowerShell step in a non-default project and sees that the “JFROG_CLI_BUILD_PROJECT” variable is the project key.">
       <skipped/>
     </testcase>
   </testsuite>

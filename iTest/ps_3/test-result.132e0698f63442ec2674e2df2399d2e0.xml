@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="607.7400" tests="3" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:35" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="607.7400" tests="3" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:35" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="POWERSHELL_HELMBLUEGREENCLEANUP_STEP - PowerShell HelmBlueGreenCleanup Step Tests" timestamp="2022-01-17T17:51:35" tests="3" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_3/4383713/setup_PreMatrix/tests/core/steps/PowerShell/PSNative/PowerShellHelmBlueGreenCleanup.js" time="607.7290" failures="0">
-    <testcase name="POWERSHELL_HELMBLUEGREENCLEANUP_STEP - PowerShell HelmBlueGreenCleanup Step Tests S-PS-HBGCleanUp-5978-0001 user runs a HelmBlueGreenCleanup to clean up idle environment on a PS node. Verify if the idle environment is cleaned up" time="159.5370" classname="S-PS-HBGCleanUp-5978-0001 user runs a HelmBlueGreenCleanup to clean up idle environment on a PS node. Verify if the idle environment is cleaned up">
+  <testsuite class="POWERSHELL_HELMBLUEGREENCLEANUP_STEP - PowerShell HelmBlueGreenCleanup Step Tests" timestamp="2022-01-17T17:51:35" tests="3" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_3/4383713/setup_PreMatrix/tests/core/steps/PowerShell/PSNative/PowerShellHelmBlueGreenCleanup.js" time="607.7290" failures="0">
+    <testcase class="POWERSHELL_HELMBLUEGREENCLEANUP_STEP - PowerShell HelmBlueGreenCleanup Step Tests S-PS-HBGCleanUp-5978-0001 user runs a HelmBlueGreenCleanup to clean up idle environment on a PS node. Verify if the idle environment is cleaned up" time="159.5370" classclass="S-PS-HBGCleanUp-5978-0001 user runs a HelmBlueGreenCleanup to clean up idle environment on a PS node. Verify if the idle environment is cleaned up">
     </testcase>
-    <testcase name="POWERSHELL_HELMBLUEGREENCLEANUP_STEP - PowerShell HelmBlueGreenCleanup Step Tests S-PS-HBGCleanUp-5978-0002 user runs a HelmBlueGreenCleanup step with flags to clean up idle environment on a PS node. Verify if the idle environment are cleaned up" time="130.7210" classname="S-PS-HBGCleanUp-5978-0002 user runs a HelmBlueGreenCleanup step with flags to clean up idle environment on a PS node. Verify if the idle environment are cleaned up">
+    <testcase class="POWERSHELL_HELMBLUEGREENCLEANUP_STEP - PowerShell HelmBlueGreenCleanup Step Tests S-PS-HBGCleanUp-5978-0002 user runs a HelmBlueGreenCleanup step with flags to clean up idle environment on a PS node. Verify if the idle environment are cleaned up" time="130.7210" classclass="S-PS-HBGCleanUp-5978-0002 user runs a HelmBlueGreenCleanup step with flags to clean up idle environment on a PS node. Verify if the idle environment are cleaned up">
     </testcase>
-    <testcase name="POWERSHELL_HELMBLUEGREENCLEANUP_STEP - PowerShell HelmBlueGreenCleanup Step Tests S-PS-HBGCleanUp-5978-0003 User runs a HelmBlueGreenCleanup step when there is no idle release. Verify if run is successful and nothing is cleaned up." time="317.1220" classname="S-PS-HBGCleanUp-5978-0003 User runs a HelmBlueGreenCleanup step when there is no idle release. Verify if run is successful and nothing is cleaned up.">
+    <testcase class="POWERSHELL_HELMBLUEGREENCLEANUP_STEP - PowerShell HelmBlueGreenCleanup Step Tests S-PS-HBGCleanUp-5978-0003 User runs a HelmBlueGreenCleanup step when there is no idle release. Verify if run is successful and nothing is cleaned up." time="317.1220" classclass="S-PS-HBGCleanUp-5978-0003 User runs a HelmBlueGreenCleanup step when there is no idle release. Verify if run is successful and nothing is cleaned up.">
     </testcase>
   </testsuite>
 </testsuites>

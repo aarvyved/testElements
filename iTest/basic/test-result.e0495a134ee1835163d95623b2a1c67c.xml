@@ -1,256 +1,256 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="215.0860" tests="101" failures="0" skipped="33">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:53:18" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="215.0860" tests="101" failures="0" skipped="33">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:53:18" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="API_PIPELINESOURCES - PipelineSources API tests" timestamp="2022-01-17T17:53:18" tests="21" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/api/pipelineSources.js" time="0.0000" failures="0" skipped="1">
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests A-PipelineSources-7262-0001. User with all audience token should be able to create pipeline source" time="12.7080" classname="A-PipelineSources-7262-0001. User with all audience token should be able to create pipeline source">
+  <testsuite class="API_PIPELINESOURCES - PipelineSources API tests" timestamp="2022-01-17T17:53:18" tests="21" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/api/pipelineSources.js" time="0.0000" failures="0" skipped="1">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests A-PipelineSources-7262-0001. User with all audience token should be able to create pipeline source" time="12.7080" classclass="A-PipelineSources-7262-0001. User with all audience token should be able to create pipeline source">
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-0001. Superuser should be able add PipelineSources" time="13.2610" classname="A-pipelineSource-0001. Superuser should be able add PipelineSources">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-0001. Superuser should be able add PipelineSources" time="13.2610" classclass="A-pipelineSource-0001. Superuser should be able add PipelineSources">
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-0002. Admin should not be able add PipelineSources" time="0.0420" classname="A-pipelineSource-0002. Admin should not be able add PipelineSources">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-0002. Admin should not be able add PipelineSources" time="0.0420" classclass="A-pipelineSource-0002. Admin should not be able add PipelineSources">
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-0003. Member cannot add PipelineSources" time="0.0350" classname="A-pipelineSource-0003. Member cannot add PipelineSources">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-0003. Member cannot add PipelineSources" time="0.0350" classclass="A-pipelineSource-0003. Member cannot add PipelineSources">
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-0004. Public user cannot PipelineSources" time="0.0190" classname="A-pipelineSource-0004. Public user cannot PipelineSources">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-0004. Public user cannot PipelineSources" time="0.0190" classclass="A-pipelineSource-0004. Public user cannot PipelineSources">
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-0081. Superuser should be able to trigger sync" time="0.0410" classname="A-pipelineSource-0081. Superuser should be able to trigger sync">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-0081. Superuser should be able to trigger sync" time="0.0410" classclass="A-pipelineSource-0081. Superuser should be able to trigger sync">
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-0082. Project admin shouldn&apos;t be able to trigger sync" time="0.0310" classname="A-pipelineSource-0082. Project admin shouldn&apos;t be able to trigger sync">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-0082. Project admin shouldn&apos;t be able to trigger sync" time="0.0310" classclass="A-pipelineSource-0082. Project admin shouldn&apos;t be able to trigger sync">
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-0083. Admin shouldn&apos;t be able to trigger sync" time="0.0360" classname="A-pipelineSource-0083. Admin shouldn&apos;t be able to trigger sync">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-0083. Admin shouldn&apos;t be able to trigger sync" time="0.0360" classclass="A-pipelineSource-0083. Admin shouldn&apos;t be able to trigger sync">
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-0084. Member shouldn&apos;t be able to trigger sync" time="0.0410" classname="A-pipelineSource-0084. Member shouldn&apos;t be able to trigger sync">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-0084. Member shouldn&apos;t be able to trigger sync" time="0.0410" classclass="A-pipelineSource-0084. Member shouldn&apos;t be able to trigger sync">
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-0085. Public user shouldn&apos;t be able to trigger sync" time="0.0220" classname="A-pipelineSource-0085. Public user shouldn&apos;t be able to trigger sync">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-0085. Public user shouldn&apos;t be able to trigger sync" time="0.0220" classclass="A-pipelineSource-0085. Public user shouldn&apos;t be able to trigger sync">
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-0086. User sees an error if invalid payload is sent" time="0.0310" classname="A-pipelineSource-0086. User sees an error if invalid payload is sent">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-0086. User sees an error if invalid payload is sent" time="0.0310" classclass="A-pipelineSource-0086. User sees an error if invalid payload is sent">
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-0087. User should not be able to edit name to the pipeline source" time="0.0180" classname="A-pipelineSource-0087. User should not be able to edit name to the pipeline source">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-0087. User should not be able to edit name to the pipeline source" time="0.0180" classclass="A-pipelineSource-0087. User should not be able to edit name to the pipeline source">
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-6615-0001 Summary logs should not contain &quot;pipelines get updated&quot; while resync of a pipeline when there is no update to the yaml." time="0.0000" classname="A-pipelineSource-6615-0001 Summary logs should not contain &quot;pipelines get updated&quot; while resync of a pipeline when there is no update to the yaml.">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests A-pipelineSource-6615-0001 Summary logs should not contain &quot;pipelines get updated&quot; while resync of a pipeline when there is no update to the yaml." time="0.0000" classclass="A-pipelineSource-6615-0001 Summary logs should not contain &quot;pipelines get updated&quot; while resync of a pipeline when there is no update to the yaml.">
       <skipped/>
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests A-PipelineSources-6580-001. User should be able to add a pipeline source with only a pipelines yaml and no SCM information. Pipeline sync should succeed." time="10.9780" classname="A-PipelineSources-6580-001. User should be able to add a pipeline source with only a pipelines yaml and no SCM information. Pipeline sync should succeed.">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests A-PipelineSources-6580-001. User should be able to add a pipeline source with only a pipelines yaml and no SCM information. Pipeline sync should succeed." time="10.9780" classclass="A-PipelineSources-6580-001. User should be able to add a pipeline source with only a pipelines yaml and no SCM information. Pipeline sync should succeed.">
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests A-PipelineSources-6580-002. User should be able to update a pipeline source pipelines yaml for a pipeline source previously created with no SCM information." time="10.9390" classname="A-PipelineSources-6580-002. User should be able to update a pipeline source pipelines yaml for a pipeline source previously created with no SCM information.">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests A-PipelineSources-6580-002. User should be able to update a pipeline source pipelines yaml for a pipeline source previously created with no SCM information." time="10.9390" classclass="A-PipelineSources-6580-002. User should be able to update a pipeline source pipelines yaml for a pipeline source previously created with no SCM information.">
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests A-PipelineSources-6580-003. User should not be able to add a pipeline source with only a pipelines yaml and no SCM information when the yaml content does not contain resources and pipelines properties" time="0.0320" classname="A-PipelineSources-6580-003. User should not be able to add a pipeline source with only a pipelines yaml and no SCM information when the yaml content does not contain resources and pipelines properties">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests A-PipelineSources-6580-003. User should not be able to add a pipeline source with only a pipelines yaml and no SCM information when the yaml content does not contain resources and pipelines properties" time="0.0320" classclass="A-PipelineSources-6580-003. User should not be able to add a pipeline source with only a pipelines yaml and no SCM information when the yaml content does not contain resources and pipelines properties">
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests A-PipelineSources-6580-004. User should not be able to update a pipeline source with only a pipelines yaml and no SCM information when the yaml content does not contain resources and pipelines properties." time="11.0390" classname="A-PipelineSources-6580-004. User should not be able to update a pipeline source with only a pipelines yaml and no SCM information when the yaml content does not contain resources and pipelines properties.">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests A-PipelineSources-6580-004. User should not be able to update a pipeline source with only a pipelines yaml and no SCM information when the yaml content does not contain resources and pipelines properties." time="11.0390" classclass="A-PipelineSources-6580-004. User should not be able to update a pipeline source with only a pipelines yaml and no SCM information when the yaml content does not contain resources and pipelines properties.">
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests A-PipelineSources-6580-005. User should be able to add a pipeline source with only a pipelines yaml and no SCM information when the yaml content contains only resources property and no pipelines property." time="10.1940" classname="A-PipelineSources-6580-005. User should be able to add a pipeline source with only a pipelines yaml and no SCM information when the yaml content contains only resources property and no pipelines property.">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests A-PipelineSources-6580-005. User should be able to add a pipeline source with only a pipelines yaml and no SCM information when the yaml content contains only resources property and no pipelines property." time="10.1940" classclass="A-PipelineSources-6580-005. User should be able to add a pipeline source with only a pipelines yaml and no SCM information when the yaml content contains only resources property and no pipelines property.">
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests A-PipelineSources-6580-006. User should be able to add a pipeline source with only a pipelines yaml and no SCM information when the yaml content contains only pipelines property and no resources property." time="10.7030" classname="A-PipelineSources-6580-006. User should be able to add a pipeline source with only a pipelines yaml and no SCM information when the yaml content contains only pipelines property and no resources property.">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests A-PipelineSources-6580-006. User should be able to add a pipeline source with only a pipelines yaml and no SCM information when the yaml content contains only pipelines property and no resources property." time="10.7030" classclass="A-PipelineSources-6580-006. User should be able to add a pipeline source with only a pipelines yaml and no SCM information when the yaml content contains only pipelines property and no resources property.">
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests A-PipelineSources-6580-007. User should be able to update a pipeline source with only a pipelines yaml and no SCM information when the yaml content contains only resources property and no pipelines property." time="10.9070" classname="A-PipelineSources-6580-007. User should be able to update a pipeline source with only a pipelines yaml and no SCM information when the yaml content contains only resources property and no pipelines property.">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests A-PipelineSources-6580-007. User should be able to update a pipeline source with only a pipelines yaml and no SCM information when the yaml content contains only resources property and no pipelines property." time="10.9070" classclass="A-PipelineSources-6580-007. User should be able to update a pipeline source with only a pipelines yaml and no SCM information when the yaml content contains only resources property and no pipelines property.">
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests A-PipelineSources-6580-008. User should be able to update a pipeline source with only a pipelines yaml and no SCM information when the yaml content contains only pipelines property and no resources property." time="13.2140" classname="A-PipelineSources-6580-008. User should be able to update a pipeline source with only a pipelines yaml and no SCM information when the yaml content contains only pipelines property and no resources property.">
-    </testcase>
-  </testsuite>
-  <testsuite name="Below test cases uses pipelineSource" timestamp="2022-01-17T17:55:03" tests="50" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/api/pipelineSources.js" time="64.2940" failures="0" skipped="2">
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0005. Super user should able to get PipelineSources by Id" time="0.0630" classname="A-pipelineSource-0005. Super user should able to get PipelineSources by Id">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-6531-0059. Users are able to use the include parameter while getting PipelineSources by Id" time="0.0260" classname="A-pipelineSource-6531-0059. Users are able to use the include parameter while getting PipelineSources by Id">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0006. Admin can get PipelineSources by Id" time="0.1220" classname="A-pipelineSource-0006. Admin can get PipelineSources by Id">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0007. Member can get PipelineSources by Id" time="0.0590" classname="A-pipelineSource-0007. Member can get PipelineSources by Id">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0008. Public user cannot get PipelineSources by Id" time="0.0190" classname="A-pipelineSource-0008. Public user cannot get PipelineSources by Id">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0009. Super user should be able to update their PipelineSources" time="0.3450" classname="A-pipelineSource-0009. Super user should be able to update their PipelineSources">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-PUT-PP-0005. ProjectAdminUser should be able to update pipelineSource by its Id" time="0.1620" classname="A-PUT-PP-0005. ProjectAdminUser should be able to update pipelineSource by its Id">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0010. Admin cannot update the PipelineSources" time="0.0300" classname="A-pipelineSource-0010. Admin cannot update the PipelineSources">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0011. Member cannot update the PipelineSources" time="0.0370" classname="A-pipelineSource-0011. Member cannot update the PipelineSources">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0012. Public user cannot update the PipelineSources" time="0.0230" classname="A-pipelineSource-0012. Public user cannot update the PipelineSources">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0013. Super user should be able to get PipelineSources" time="0.0690" classname="A-pipelineSource-0013. Super user should be able to get PipelineSources">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-6531-0058. Users are able to use the include parameter while getting pipelineSources." time="0.0280" classname="A-pipelineSource-6531-0058. Users are able to use the include parameter while getting pipelineSources.">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0014. Admin should be able to get PipelineSources" time="0.1790" classname="A-pipelineSource-0014. Admin should be able to get PipelineSources">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0015. Member should be able to get their PipelineSources" time="0.4160" classname="A-pipelineSource-0015. Member should be able to get their PipelineSources">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0016. Public user cannot get PipelineSources" time="0.0180" classname="A-pipelineSource-0016. Public user cannot get PipelineSources">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-6731-001 A user calls GET /pipelineSources with &quot;templateIds=null&quot; in the query and none of the returned pipelineSources have a templateId." time="0.1020" classname="A-pipelineSource-6731-001 A user calls GET /pipelineSources with &quot;templateIds=null&quot; in the query and none of the returned pipelineSources have a templateId.">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-6731-002 A user calls GET /pipelineSources with (non-null) templateIds in the query and the returned pipelineSources have the templateId." time="0.0290" classname="A-pipelineSource-6731-002 A user calls GET /pipelineSources with (non-null) templateIds in the query and the returned pipelineSources have the templateId.">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0017. Id field in pipelineSource API should not be null and should be a integer type" time="0.0010" classname="A-pipelineSource-0017. Id field in pipelineSource API should not be null and should be a integer type">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0018. ProjectId field in pipelineSource API should not be null and should be a integer type" time="0.0000" classname="A-pipelineSource-0018. ProjectId field in pipelineSource API should not be null and should be a integer type">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0019. RepositoryFullName field in pipelineSource API should not be null and should be a string" time="0.0000" classname="A-pipelineSource-0019. RepositoryFullName field in pipelineSource API should not be null and should be a string">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0020. Branch field in pipelineSource API should  not be null and should be a string" time="0.0000" classname="A-pipelineSource-0020. Branch field in pipelineSource API should  not be null and should be a string">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0021. FileFilter field in pipelineSource API  should not be null and should be a string" time="0.0000" classname="A-pipelineSource-0021. FileFilter field in pipelineSource API  should not be null and should be a string">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0037. branchExcludePattern field in   pipelineSource API should be a string" time="0.0000" classname="A-pipelineSource-0037. branchExcludePattern field in   pipelineSource API should be a string">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0038. branchIncludePattern field in   pipelineSource API should be a string" time="0.0000" classname="A-pipelineSource-0038. branchIncludePattern field in   pipelineSource API should be a string">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0039. isMultiBranch field in pipelineSource API should be a boolean type" time="0.0000" classname="A-pipelineSource-0039. isMultiBranch field in pipelineSource API should be a boolean type">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0022. Project integrationId field in  pipelineSource API should not be null and should be a integer type" time="0.0000" classname="A-pipelineSource-0022. Project integrationId field in  pipelineSource API should not be null and should be a integer type">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0023. IsSyncing field in pipelineSource API should be a boolean type" time="0.0000" classname="A-pipelineSource-0023. IsSyncing field in pipelineSource API should be a boolean type">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0024. LastSyncStatusCode field in pipelineSource API should be an integer type" time="0.0000" classname="A-pipelineSource-0024. LastSyncStatusCode field in pipelineSource API should be an integer type">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0025. LastSyncStartedAt field in pipelineSource API should be an string" time="0.0000" classname="A-pipelineSource-0025. LastSyncStartedAt field in pipelineSource API should be an string">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0026. LastSyncEndedAt field in pipelineSource API should be an string" time="0.0000" classname="A-pipelineSource-0026. LastSyncEndedAt field in pipelineSource API should be an string">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0027. LastSyncLogs field in pipelineSource API should be an object type" time="0.0000" classname="A-pipelineSource-0027. LastSyncLogs field in pipelineSource API should be an object type">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0028. ResourceId field in pipelineSource API should not be null and should be a integer type" time="0.0000" classname="A-pipelineSource-0028. ResourceId field in pipelineSource API should not be null and should be a integer type">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0029. CreatedBy field in pipelineSource API should not be null and should be a string" time="0.0000" classname="A-pipelineSource-0029. CreatedBy field in pipelineSource API should not be null and should be a string">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0030. UpdatedBy field in pipelineSource API should not be null and should be a string" time="0.0000" classname="A-pipelineSource-0030. UpdatedBy field in pipelineSource API should not be null and should be a string">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0031. CreatedAt field in pipelineSource API should not be null and should be a string" time="0.0010" classname="A-pipelineSource-0031. CreatedAt field in pipelineSource API should not be null and should be a string">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0032. UpdatedAt field in pipelineSource API should not be null and should be a string" time="0.0000" classname="A-pipelineSource-0032. UpdatedAt field in pipelineSource API should not be null and should be a string">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0033. Public user cannot be able to delete pipelineSource by Id" time="0.0170" classname="A-pipelineSource-0033. Public user cannot be able to delete pipelineSource by Id">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0034. Member cannot be able to delete pipelineSource by Id" time="0.0680" classname="A-pipelineSource-0034. Member cannot be able to delete pipelineSource by Id">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0035. Admin cannot be able to delete pipelineSource by Id" time="0.0360" classname="A-pipelineSource-0035. Admin cannot be able to delete pipelineSource by Id">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0036. Super user should be able to delete pipelineSource by Id" time="0.9120" classname="A-pipelineSource-0036. Super user should be able to delete pipelineSource by Id">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-PO-PP-0010. Project Admin User should be able to post the pipelineSources" time="13.2250" classname="A-PO-PP-0010. Project Admin User should be able to post the pipelineSources">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-PipelineSources-0055. User is not able to update a pipeline source created without a template to use template" time="0.0250" classname="A-PipelineSources-0055. User is not able to update a pipeline source created without a template to use template">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-DEL-PP-0008. ProjectAdminUser should be able to delete  pipelineSource by its Id" time="0.8010" classname="A-DEL-PP-0008. ProjectAdminUser should be able to delete  pipelineSource by its Id">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-PipelineSources-0049. User is able to create a multi branch pipeline source if a templateId is passed in the request object" time="20.2410" classname="A-PipelineSources-0049. User is able to create a multi branch pipeline source if a templateId is passed in the request object">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-PipelineSources-0052. User is able to update the template used in a multi-branch pipeline source" time="0.0000" classname="A-PipelineSources-0052. User is able to update the template used in a multi-branch pipeline source">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-PipelineSources-0056. User is not able to update a pipeline source created with a template to not use a template" time="1.5550" classname="A-PipelineSources-0056. User is not able to update a pipeline source created with a template to not use a template">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-PipelineSources-0054. User sees that all the branches  multi-branch pipeline source get synced when template  is updated for a pipeline source and the pipeline from  the updated template gets used in the sync source and the  pipeline from the updated template gets used in the sync" time="0.0000" classname="A-PipelineSources-0054. User sees that all the branches  multi-branch pipeline source get synced when template  is updated for a pipeline source and the pipeline from  the updated template gets used in the sync source and the  pipeline from the updated template gets used in the sync">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-PipelineSources-0050. SCM_ONLY User sees an error if invalid  template is used while creating a multi branch pipeline source" time="0.0270" classname="A-PipelineSources-0050. SCM_ONLY User sees an error if invalid  template is used while creating a multi branch pipeline source">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-PipelineSources-6580-009. User should not be able to update a pipeline source with only a pipelines yaml and no SCM information when the pipeline source was previously created without the pipelines yaml." time="14.7510" classname="A-PipelineSources-6580-009. User should not be able to update a pipeline source with only a pipelines yaml and no SCM information when the pipeline source was previously created without the pipelines yaml.">
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-PipelineSources-6580-010. User should not be able to update a pipeline source without a pipelines yaml when the pipeline source was previously created with the pipelines yaml." time="10.8530" classname="A-PipelineSources-6580-010. User should not be able to update a pipeline source without a pipelines yaml when the pipeline source was previously created with the pipelines yaml.">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests A-PipelineSources-6580-008. User should be able to update a pipeline source with only a pipelines yaml and no SCM information when the yaml content contains only pipelines property and no resources property." time="13.2140" classclass="A-PipelineSources-6580-008. User should be able to update a pipeline source with only a pipelines yaml and no SCM information when the yaml content contains only pipelines property and no resources property.">
     </testcase>
   </testsuite>
-  <testsuite name="Below test cases are for new projects support" timestamp="2022-01-17T17:56:07" tests="27" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/api/pipelineSources.js" time="0.0020" failures="0" skipped="27">
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0060. Project admin can POST a pipelineSource using a project object containing the name attribute instead of project ID" time="0.0000" classname="A-PipelineSources-0060. Project admin can POST a pipelineSource using a project object containing the name attribute instead of project ID">
+  <testsuite class="Below test cases uses pipelineSource" timestamp="2022-01-17T17:55:03" tests="50" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/api/pipelineSources.js" time="64.2940" failures="0" skipped="2">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0005. Super user should able to get PipelineSources by Id" time="0.0630" classclass="A-pipelineSource-0005. Super user should able to get PipelineSources by Id">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-6531-0059. Users are able to use the include parameter while getting PipelineSources by Id" time="0.0260" classclass="A-pipelineSource-6531-0059. Users are able to use the include parameter while getting PipelineSources by Id">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0006. Admin can get PipelineSources by Id" time="0.1220" classclass="A-pipelineSource-0006. Admin can get PipelineSources by Id">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0007. Member can get PipelineSources by Id" time="0.0590" classclass="A-pipelineSource-0007. Member can get PipelineSources by Id">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0008. Public user cannot get PipelineSources by Id" time="0.0190" classclass="A-pipelineSource-0008. Public user cannot get PipelineSources by Id">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0009. Super user should be able to update their PipelineSources" time="0.3450" classclass="A-pipelineSource-0009. Super user should be able to update their PipelineSources">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-PUT-PP-0005. ProjectAdminUser should be able to update pipelineSource by its Id" time="0.1620" classclass="A-PUT-PP-0005. ProjectAdminUser should be able to update pipelineSource by its Id">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0010. Admin cannot update the PipelineSources" time="0.0300" classclass="A-pipelineSource-0010. Admin cannot update the PipelineSources">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0011. Member cannot update the PipelineSources" time="0.0370" classclass="A-pipelineSource-0011. Member cannot update the PipelineSources">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0012. Public user cannot update the PipelineSources" time="0.0230" classclass="A-pipelineSource-0012. Public user cannot update the PipelineSources">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0013. Super user should be able to get PipelineSources" time="0.0690" classclass="A-pipelineSource-0013. Super user should be able to get PipelineSources">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-6531-0058. Users are able to use the include parameter while getting pipelineSources." time="0.0280" classclass="A-pipelineSource-6531-0058. Users are able to use the include parameter while getting pipelineSources.">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0014. Admin should be able to get PipelineSources" time="0.1790" classclass="A-pipelineSource-0014. Admin should be able to get PipelineSources">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0015. Member should be able to get their PipelineSources" time="0.4160" classclass="A-pipelineSource-0015. Member should be able to get their PipelineSources">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0016. Public user cannot get PipelineSources" time="0.0180" classclass="A-pipelineSource-0016. Public user cannot get PipelineSources">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-6731-001 A user calls GET /pipelineSources with &quot;templateIds=null&quot; in the query and none of the returned pipelineSources have a templateId." time="0.1020" classclass="A-pipelineSource-6731-001 A user calls GET /pipelineSources with &quot;templateIds=null&quot; in the query and none of the returned pipelineSources have a templateId.">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-6731-002 A user calls GET /pipelineSources with (non-null) templateIds in the query and the returned pipelineSources have the templateId." time="0.0290" classclass="A-pipelineSource-6731-002 A user calls GET /pipelineSources with (non-null) templateIds in the query and the returned pipelineSources have the templateId.">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0017. Id field in pipelineSource API should not be null and should be a integer type" time="0.0010" classclass="A-pipelineSource-0017. Id field in pipelineSource API should not be null and should be a integer type">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0018. ProjectId field in pipelineSource API should not be null and should be a integer type" time="0.0000" classclass="A-pipelineSource-0018. ProjectId field in pipelineSource API should not be null and should be a integer type">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0019. RepositoryFullName field in pipelineSource API should not be null and should be a string" time="0.0000" classclass="A-pipelineSource-0019. RepositoryFullName field in pipelineSource API should not be null and should be a string">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0020. Branch field in pipelineSource API should  not be null and should be a string" time="0.0000" classclass="A-pipelineSource-0020. Branch field in pipelineSource API should  not be null and should be a string">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0021. FileFilter field in pipelineSource API  should not be null and should be a string" time="0.0000" classclass="A-pipelineSource-0021. FileFilter field in pipelineSource API  should not be null and should be a string">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0037. branchExcludePattern field in   pipelineSource API should be a string" time="0.0000" classclass="A-pipelineSource-0037. branchExcludePattern field in   pipelineSource API should be a string">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0038. branchIncludePattern field in   pipelineSource API should be a string" time="0.0000" classclass="A-pipelineSource-0038. branchIncludePattern field in   pipelineSource API should be a string">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0039. isMultiBranch field in pipelineSource API should be a boolean type" time="0.0000" classclass="A-pipelineSource-0039. isMultiBranch field in pipelineSource API should be a boolean type">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0022. Project integrationId field in  pipelineSource API should not be null and should be a integer type" time="0.0000" classclass="A-pipelineSource-0022. Project integrationId field in  pipelineSource API should not be null and should be a integer type">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0023. IsSyncing field in pipelineSource API should be a boolean type" time="0.0000" classclass="A-pipelineSource-0023. IsSyncing field in pipelineSource API should be a boolean type">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0024. LastSyncStatusCode field in pipelineSource API should be an integer type" time="0.0000" classclass="A-pipelineSource-0024. LastSyncStatusCode field in pipelineSource API should be an integer type">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0025. LastSyncStartedAt field in pipelineSource API should be an string" time="0.0000" classclass="A-pipelineSource-0025. LastSyncStartedAt field in pipelineSource API should be an string">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0026. LastSyncEndedAt field in pipelineSource API should be an string" time="0.0000" classclass="A-pipelineSource-0026. LastSyncEndedAt field in pipelineSource API should be an string">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0027. LastSyncLogs field in pipelineSource API should be an object type" time="0.0000" classclass="A-pipelineSource-0027. LastSyncLogs field in pipelineSource API should be an object type">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0028. ResourceId field in pipelineSource API should not be null and should be a integer type" time="0.0000" classclass="A-pipelineSource-0028. ResourceId field in pipelineSource API should not be null and should be a integer type">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0029. CreatedBy field in pipelineSource API should not be null and should be a string" time="0.0000" classclass="A-pipelineSource-0029. CreatedBy field in pipelineSource API should not be null and should be a string">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0030. UpdatedBy field in pipelineSource API should not be null and should be a string" time="0.0000" classclass="A-pipelineSource-0030. UpdatedBy field in pipelineSource API should not be null and should be a string">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0031. CreatedAt field in pipelineSource API should not be null and should be a string" time="0.0010" classclass="A-pipelineSource-0031. CreatedAt field in pipelineSource API should not be null and should be a string">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0032. UpdatedAt field in pipelineSource API should not be null and should be a string" time="0.0000" classclass="A-pipelineSource-0032. UpdatedAt field in pipelineSource API should not be null and should be a string">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0033. Public user cannot be able to delete pipelineSource by Id" time="0.0170" classclass="A-pipelineSource-0033. Public user cannot be able to delete pipelineSource by Id">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0034. Member cannot be able to delete pipelineSource by Id" time="0.0680" classclass="A-pipelineSource-0034. Member cannot be able to delete pipelineSource by Id">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0035. Admin cannot be able to delete pipelineSource by Id" time="0.0360" classclass="A-pipelineSource-0035. Admin cannot be able to delete pipelineSource by Id">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-pipelineSource-0036. Super user should be able to delete pipelineSource by Id" time="0.9120" classclass="A-pipelineSource-0036. Super user should be able to delete pipelineSource by Id">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-PO-PP-0010. Project Admin User should be able to post the pipelineSources" time="13.2250" classclass="A-PO-PP-0010. Project Admin User should be able to post the pipelineSources">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-PipelineSources-0055. User is not able to update a pipeline source created without a template to use template" time="0.0250" classclass="A-PipelineSources-0055. User is not able to update a pipeline source created without a template to use template">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-DEL-PP-0008. ProjectAdminUser should be able to delete  pipelineSource by its Id" time="0.8010" classclass="A-DEL-PP-0008. ProjectAdminUser should be able to delete  pipelineSource by its Id">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-PipelineSources-0049. User is able to create a multi branch pipeline source if a templateId is passed in the request object" time="20.2410" classclass="A-PipelineSources-0049. User is able to create a multi branch pipeline source if a templateId is passed in the request object">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-PipelineSources-0052. User is able to update the template used in a multi-branch pipeline source" time="0.0000" classclass="A-PipelineSources-0052. User is able to update the template used in a multi-branch pipeline source">
       <skipped/>
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0061. Default Project admin can POST a pipelineSource using a project object containing the name attribute using the name of the default project instead of project ID" time="0.0000" classname="A-PipelineSources-0061. Default Project admin can POST a pipelineSource using a project object containing the name attribute using the name of the default project instead of project ID">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-PipelineSources-0056. User is not able to update a pipeline source created with a template to not use a template" time="1.5550" classclass="A-PipelineSources-0056. User is not able to update a pipeline source created with a template to not use a template">
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-PipelineSources-0054. User sees that all the branches  multi-branch pipeline source get synced when template  is updated for a pipeline source and the pipeline from  the updated template gets used in the sync source and the  pipeline from the updated template gets used in the sync" time="0.0000" classclass="A-PipelineSources-0054. User sees that all the branches  multi-branch pipeline source get synced when template  is updated for a pipeline source and the pipeline from  the updated template gets used in the sync source and the  pipeline from the updated template gets used in the sync">
       <skipped/>
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0062. Project admin cannot POST a pipelineSource using an empty project object" time="0.0000" classname="A-PipelineSources-0062. Project admin cannot POST a pipelineSource using an empty project object">
-      <skipped/>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-PipelineSources-0050. SCM_ONLY User sees an error if invalid  template is used while creating a multi branch pipeline source" time="0.0270" classclass="A-PipelineSources-0050. SCM_ONLY User sees an error if invalid  template is used while creating a multi branch pipeline source">
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0065. Project Admin can PUT pipelineSource to change environment" time="0.0000" classname="A-PipelineSources-0065. Project Admin can PUT pipelineSource to change environment">
-      <skipped/>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-PipelineSources-6580-009. User should not be able to update a pipeline source with only a pipelines yaml and no SCM information when the pipeline source was previously created without the pipelines yaml." time="14.7510" classclass="A-PipelineSources-6580-009. User should not be able to update a pipeline source with only a pipelines yaml and no SCM information when the pipeline source was previously created without the pipelines yaml.">
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0078. ProjectAdmin can DELETE an existing pipelineSource in their project." time="0.0000" classname="A-PipelineSources-0078. ProjectAdmin can DELETE an existing pipelineSource in their project.">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0063. ProjectAdmin can POST a pipelineSource with no environments" time="0.0000" classname="A-PipelineSources-0063. ProjectAdmin can POST a pipelineSource with no environments">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0078. ProjectAdmin can DELETE an existing pipelineSource in their project." time="0.0000" classname="A-PipelineSources-0078. ProjectAdmin can DELETE an existing pipelineSource in their project.">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0064. ProjectAdmin can POST a pipelineSource that lists one or more environments" time="0.0000" classname="A-PipelineSources-0064. ProjectAdmin can POST a pipelineSource that lists one or more environments">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0066. ProjectAdmin cannot POST a pipelineSource to a project they do not have access to" time="0.0000" classname="A-PipelineSources-0066. ProjectAdmin cannot POST a pipelineSource to a project they do not have access to">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0067. ProjectAdmin cannot POST a pipelineSource to a project that he is just a developer of" time="0.0000" classname="A-PipelineSources-0067. ProjectAdmin cannot POST a pipelineSource to a project that he is just a developer of">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0068. SuperAdmin of artifactory can POST a pipelineSource to a project in which they do not have an official role" time="0.0000" classname="A-PipelineSources-0068. SuperAdmin of artifactory can POST a pipelineSource to a project in which they do not have an official role">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0069. ProjectAdmin cannot PUT an existing pipelineSource in a project they do not have access to" time="0.0000" classname="A-PipelineSources-0069. ProjectAdmin cannot PUT an existing pipelineSource in a project they do not have access to">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0070. ProjectAdmin cannot PUT an existing pipelineSource on a project that he is only a member of" time="0.0000" classname="A-PipelineSources-0070. ProjectAdmin cannot PUT an existing pipelineSource on a project that he is only a member of">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0071. Project Developer can GET /pipelineSources with projectIds=&lt;id&gt;" time="0.0000" classname="A-PipelineSources-0071. Project Developer can GET /pipelineSources with projectIds=&lt;id&gt;">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0072. Project Developer can GET /pipelineSources with no query and will only get sources in projects and environments they have access to" time="0.0000" classname="A-PipelineSources-0072. Project Developer can GET /pipelineSources with no query and will only get sources in projects and environments they have access to">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSource-7456-001. Project Developer via group can GET /pipelineSources with no query and will only get sources in projects and environments they have access to" time="0.0000" classname="A-PipelineSource-7456-001. Project Developer via group can GET /pipelineSources with no query and will only get sources in projects and environments they have access to">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0073. Project Developer can GET /pipelineSources with projectIds=&lt;id&gt; for a project they do not have access to, but will receive an empty array response" time="0.0000" classname="A-PipelineSources-0073. Project Developer can GET /pipelineSources with projectIds=&lt;id&gt; for a project they do not have access to, but will receive an empty array response">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0074. Project Developer of two projects can GET /pipelineSources and see sources from both projects." time="0.0000" classname="A-PipelineSources-0074. Project Developer of two projects can GET /pipelineSources and see sources from both projects.">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0075. Project Developer cannot GET a pipelineSource by ID that is in an environment they do not have access to" time="0.0000" classname="A-PipelineSources-0075. Project Developer cannot GET a pipelineSource by ID that is in an environment they do not have access to">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0076. ProjectAdmin can GETS pipelineSources only from their project" time="0.0000" classname="A-PipelineSources-0076. ProjectAdmin can GETS pipelineSources only from their project">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0077. Project Developer cannot DELETE an existing pipelineSource in their project" time="0.0000" classname="A-PipelineSources-0077. Project Developer cannot DELETE an existing pipelineSource in their project">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0079. ProjectAdmin cannot DELETE an existing pipelineSource in a project they do not have access to" time="0.0000" classname="A-PipelineSources-0079. ProjectAdmin cannot DELETE an existing pipelineSource in a project they do not have access to">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support 2. Super User should be able to delete pipelineSources by Id" time="0.0000" classname="2. Super User should be able to delete pipelineSources by Id">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSource-6525-001. User should be able to add a pipeline source to a project using a project integration that belongs to another project and is shared with the users project." time="0.0000" classname="A-PipelineSource-6525-001. User should be able to add a pipeline source to a project using a project integration that belongs to another project and is shared with the users project.">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSource-6525-002. User should not be able to add a pipeline source to a project using a project integration that belongs to another project and is not shared with the users project." time="0.0000" classname="A-PipelineSource-6525-002. User should not be able to add a pipeline source to a project using a project integration that belongs to another project and is not shared with the users project.">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSource-6525-003. User should be able to delete a pipeline from a project that uses a project integration that belongs to another project and is shared with the users project. When the project integration is also being used by a pipeline source in its own project, the project integration hook should not be deleted." time="0.0000" classname="A-PipelineSource-6525-003. User should be able to delete a pipeline from a project that uses a project integration that belongs to another project and is shared with the users project. When the project integration is also being used by a pipeline source in its own project, the project integration hook should not be deleted.">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSource-6525-004. Project Admin User should not be able to delete a shared project integration that is being used by another project." time="0.0000" classname="A-PipelineSource-6525-004. Project Admin User should not be able to delete a shared project integration that is being used by another project.">
-      <skipped/>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases uses pipelineSource A-PipelineSources-6580-010. User should not be able to update a pipeline source without a pipelines yaml when the pipeline source was previously created with the pipelines yaml." time="10.8530" classclass="A-PipelineSources-6580-010. User should not be able to update a pipeline source without a pipelines yaml when the pipeline source was previously created with the pipelines yaml.">
     </testcase>
   </testsuite>
-  <testsuite name="Below test cases are for pipelineSource name validation in new projects" timestamp="2022-01-17T17:56:07" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/api/pipelineSources.js" time="0.0000" failures="0" skipped="2">
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for pipelineSource name validation in new projects  A-pipelineSource-6690-0002. Default project users should not able to add pipeline source with existing name." time="0.0000" classname="A-pipelineSource-6690-0002. Default project users should not able to add pipeline source with existing name.">
+  <testsuite class="Below test cases are for new projects support" timestamp="2022-01-17T17:56:07" tests="27" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/api/pipelineSources.js" time="0.0020" failures="0" skipped="27">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0060. Project admin can POST a pipelineSource using a project object containing the name attribute instead of project ID" time="0.0000" classclass="A-PipelineSources-0060. Project admin can POST a pipelineSource using a project object containing the name attribute instead of project ID">
       <skipped/>
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for pipelineSource name validation in new projects  A-pipelineSource-6690-0003. First project users should not able to add pipeline source with existing name." time="0.0000" classname="A-pipelineSource-6690-0003. First project users should not able to add pipeline source with existing name.">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0061. Default Project admin can POST a pipelineSource using a project object containing the name attribute using the name of the default project instead of project ID" time="0.0000" classclass="A-PipelineSources-0061. Default Project admin can POST a pipelineSource using a project object containing the name attribute using the name of the default project instead of project ID">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0062. Project admin cannot POST a pipelineSource using an empty project object" time="0.0000" classclass="A-PipelineSources-0062. Project admin cannot POST a pipelineSource using an empty project object">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0065. Project Admin can PUT pipelineSource to change environment" time="0.0000" classclass="A-PipelineSources-0065. Project Admin can PUT pipelineSource to change environment">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0078. ProjectAdmin can DELETE an existing pipelineSource in their project." time="0.0000" classclass="A-PipelineSources-0078. ProjectAdmin can DELETE an existing pipelineSource in their project.">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0063. ProjectAdmin can POST a pipelineSource with no environments" time="0.0000" classclass="A-PipelineSources-0063. ProjectAdmin can POST a pipelineSource with no environments">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0078. ProjectAdmin can DELETE an existing pipelineSource in their project." time="0.0000" classclass="A-PipelineSources-0078. ProjectAdmin can DELETE an existing pipelineSource in their project.">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0064. ProjectAdmin can POST a pipelineSource that lists one or more environments" time="0.0000" classclass="A-PipelineSources-0064. ProjectAdmin can POST a pipelineSource that lists one or more environments">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0066. ProjectAdmin cannot POST a pipelineSource to a project they do not have access to" time="0.0000" classclass="A-PipelineSources-0066. ProjectAdmin cannot POST a pipelineSource to a project they do not have access to">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0067. ProjectAdmin cannot POST a pipelineSource to a project that he is just a developer of" time="0.0000" classclass="A-PipelineSources-0067. ProjectAdmin cannot POST a pipelineSource to a project that he is just a developer of">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0068. SuperAdmin of artifactory can POST a pipelineSource to a project in which they do not have an official role" time="0.0000" classclass="A-PipelineSources-0068. SuperAdmin of artifactory can POST a pipelineSource to a project in which they do not have an official role">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0069. ProjectAdmin cannot PUT an existing pipelineSource in a project they do not have access to" time="0.0000" classclass="A-PipelineSources-0069. ProjectAdmin cannot PUT an existing pipelineSource in a project they do not have access to">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0070. ProjectAdmin cannot PUT an existing pipelineSource on a project that he is only a member of" time="0.0000" classclass="A-PipelineSources-0070. ProjectAdmin cannot PUT an existing pipelineSource on a project that he is only a member of">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0071. Project Developer can GET /pipelineSources with projectIds=&lt;id&gt;" time="0.0000" classclass="A-PipelineSources-0071. Project Developer can GET /pipelineSources with projectIds=&lt;id&gt;">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0072. Project Developer can GET /pipelineSources with no query and will only get sources in projects and environments they have access to" time="0.0000" classclass="A-PipelineSources-0072. Project Developer can GET /pipelineSources with no query and will only get sources in projects and environments they have access to">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSource-7456-001. Project Developer via group can GET /pipelineSources with no query and will only get sources in projects and environments they have access to" time="0.0000" classclass="A-PipelineSource-7456-001. Project Developer via group can GET /pipelineSources with no query and will only get sources in projects and environments they have access to">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0073. Project Developer can GET /pipelineSources with projectIds=&lt;id&gt; for a project they do not have access to, but will receive an empty array response" time="0.0000" classclass="A-PipelineSources-0073. Project Developer can GET /pipelineSources with projectIds=&lt;id&gt; for a project they do not have access to, but will receive an empty array response">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0074. Project Developer of two projects can GET /pipelineSources and see sources from both projects." time="0.0000" classclass="A-PipelineSources-0074. Project Developer of two projects can GET /pipelineSources and see sources from both projects.">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0075. Project Developer cannot GET a pipelineSource by ID that is in an environment they do not have access to" time="0.0000" classclass="A-PipelineSources-0075. Project Developer cannot GET a pipelineSource by ID that is in an environment they do not have access to">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0076. ProjectAdmin can GETS pipelineSources only from their project" time="0.0000" classclass="A-PipelineSources-0076. ProjectAdmin can GETS pipelineSources only from their project">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0077. Project Developer cannot DELETE an existing pipelineSource in their project" time="0.0000" classclass="A-PipelineSources-0077. Project Developer cannot DELETE an existing pipelineSource in their project">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSources-0079. ProjectAdmin cannot DELETE an existing pipelineSource in a project they do not have access to" time="0.0000" classclass="A-PipelineSources-0079. ProjectAdmin cannot DELETE an existing pipelineSource in a project they do not have access to">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support 2. Super User should be able to delete pipelineSources by Id" time="0.0000" classclass="2. Super User should be able to delete pipelineSources by Id">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSource-6525-001. User should be able to add a pipeline source to a project using a project integration that belongs to another project and is shared with the users project." time="0.0000" classclass="A-PipelineSource-6525-001. User should be able to add a pipeline source to a project using a project integration that belongs to another project and is shared with the users project.">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSource-6525-002. User should not be able to add a pipeline source to a project using a project integration that belongs to another project and is not shared with the users project." time="0.0000" classclass="A-PipelineSource-6525-002. User should not be able to add a pipeline source to a project using a project integration that belongs to another project and is not shared with the users project.">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSource-6525-003. User should be able to delete a pipeline from a project that uses a project integration that belongs to another project and is shared with the users project. When the project integration is also being used by a pipeline source in its own project, the project integration hook should not be deleted." time="0.0000" classclass="A-PipelineSource-6525-003. User should be able to delete a pipeline from a project that uses a project integration that belongs to another project and is shared with the users project. When the project integration is also being used by a pipeline source in its own project, the project integration hook should not be deleted.">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for new projects support A-PipelineSource-6525-004. Project Admin User should not be able to delete a shared project integration that is being used by another project." time="0.0000" classclass="A-PipelineSource-6525-004. Project Admin User should not be able to delete a shared project integration that is being used by another project.">
       <skipped/>
     </testcase>
   </testsuite>
-  <testsuite name="Below test cases are for pipelineSource missing  entities validation" timestamp="2022-01-17T17:56:07" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/api/pipelineSources.js" time="26.6340" failures="0">
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for pipelineSource missing  entities validation A-pipelineSource-6721-0001. Users are able to create missing resource versions on pipelineSource sync" time="9.5410" classname="A-pipelineSource-6721-0001. Users are able to create missing resource versions on pipelineSource sync">
-    </testcase>
-  </testsuite>
-  <testsuite name="Run test cases to check if the pipeline has changed or not." timestamp="2022-01-17T17:56:34" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/api/pipelineSources.js" time="19.7780" failures="0" skipped="1">
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Run test cases to check if the pipeline has changed or not. A-pipelineSource-6615-0002 Summary logs should not contain &quot;pipelines get updated&quot; while resync of a non scm pipeline." time="0.0000" classname="A-pipelineSource-6615-0002 Summary logs should not contain &quot;pipelines get updated&quot; while resync of a non scm pipeline.">
+  <testsuite class="Below test cases are for pipelineSource name validation in new projects" timestamp="2022-01-17T17:56:07" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/api/pipelineSources.js" time="0.0000" failures="0" skipped="2">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for pipelineSource name validation in new projects  A-pipelineSource-6690-0002. Default project users should not able to add pipeline source with existing name." time="0.0000" classclass="A-pipelineSource-6690-0002. Default project users should not able to add pipeline source with existing name.">
       <skipped/>
     </testcase>
-    <testcase name="API_PIPELINESOURCES - PipelineSources API tests Run test cases to check if the pipeline has changed or not. A-pipelineSource-6615-0003 Summary logs should contain &quot;pipelines get updated&quot; while resync of a non scm pipeline." time="9.1770" classname="A-pipelineSource-6615-0003 Summary logs should contain &quot;pipelines get updated&quot; while resync of a non scm pipeline.">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for pipelineSource name validation in new projects  A-pipelineSource-6690-0003. First project users should not able to add pipeline source with existing name." time="0.0000" classclass="A-pipelineSource-6690-0003. First project users should not able to add pipeline source with existing name.">
+      <skipped/>
+    </testcase>
+  </testsuite>
+  <testsuite class="Below test cases are for pipelineSource missing  entities validation" timestamp="2022-01-17T17:56:07" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/api/pipelineSources.js" time="26.6340" failures="0">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Below test cases are for pipelineSource missing  entities validation A-pipelineSource-6721-0001. Users are able to create missing resource versions on pipelineSource sync" time="9.5410" classclass="A-pipelineSource-6721-0001. Users are able to create missing resource versions on pipelineSource sync">
+    </testcase>
+  </testsuite>
+  <testsuite class="Run test cases to check if the pipeline has changed or not." timestamp="2022-01-17T17:56:34" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/api/pipelineSources.js" time="19.7780" failures="0" skipped="1">
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Run test cases to check if the pipeline has changed or not. A-pipelineSource-6615-0002 Summary logs should not contain &quot;pipelines get updated&quot; while resync of a non scm pipeline." time="0.0000" classclass="A-pipelineSource-6615-0002 Summary logs should not contain &quot;pipelines get updated&quot; while resync of a non scm pipeline.">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PIPELINESOURCES - PipelineSources API tests Run test cases to check if the pipeline has changed or not. A-pipelineSource-6615-0003 Summary logs should contain &quot;pipelines get updated&quot; while resync of a non scm pipeline." time="9.1770" classclass="A-pipelineSource-6615-0003 Summary logs should contain &quot;pipelines get updated&quot; while resync of a non scm pipeline.">
     </testcase>
   </testsuite>
 </testsuites>

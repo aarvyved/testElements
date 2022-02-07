@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="1.8510" tests="30" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:36" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="1.8510" tests="30" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:36" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="API_IDENTITIES - Identities API tests" timestamp="2022-01-17T17:51:36" tests="30" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383642/setup_PreMatrix/tests/core/api/identities.js" time="1.8300" failures="0">
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0001. Super user can post Identities" time="0.1800" classname="A-Identities-0001. Super user can post Identities">
+  <testsuite class="API_IDENTITIES - Identities API tests" timestamp="2022-01-17T17:51:36" tests="30" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383642/setup_PreMatrix/tests/core/api/identities.js" time="1.8300" failures="0">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0001. Super user can post Identities" time="0.1800" classclass="A-Identities-0001. Super user can post Identities">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0002. Admin user cannot post Identities" time="0.0400" classname="A-Identities-0002. Admin user cannot post Identities">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0002. Admin user cannot post Identities" time="0.0400" classclass="A-Identities-0002. Admin user cannot post Identities">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-PP-0014. ProjectAdminUser shouldn’t be able to POST the identities" time="0.0460" classname="A-PP-0014. ProjectAdminUser shouldn’t be able to POST the identities">
+    <testcase class="API_IDENTITIES - Identities API tests A-PP-0014. ProjectAdminUser shouldn’t be able to POST the identities" time="0.0460" classclass="A-PP-0014. ProjectAdminUser shouldn’t be able to POST the identities">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0003. Member cannot post Identities" time="0.0410" classname="A-Identities-0003. Member cannot post Identities">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0003. Member cannot post Identities" time="0.0410" classclass="A-Identities-0003. Member cannot post Identities">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0004. Public user cannot post Identities" time="0.0240" classname="A-Identities-0004. Public user cannot post Identities">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0004. Public user cannot post Identities" time="0.0240" classclass="A-Identities-0004. Public user cannot post Identities">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0005. Super user can get their Identities" time="0.0350" classname="A-Identities-0005. Super user can get their Identities">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0005. Super user can get their Identities" time="0.0350" classclass="A-Identities-0005. Super user can get their Identities">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-6531-0026. Users are able to use the include parameter while getting Identities." time="0.0330" classname="A-Identities-6531-0026. Users are able to use the include parameter while getting Identities.">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-6531-0026. Users are able to use the include parameter while getting Identities." time="0.0330" classclass="A-Identities-6531-0026. Users are able to use the include parameter while getting Identities.">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0006. Admin can get their Identities" time="0.0810" classname="A-Identities-0006. Admin can get their Identities">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0006. Admin can get their Identities" time="0.0810" classclass="A-Identities-0006. Admin can get their Identities">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0007. Member can get their Identities" time="0.0700" classname="A-Identities-0007. Member can get their Identities">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0007. Member can get their Identities" time="0.0700" classclass="A-Identities-0007. Member can get their Identities">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0008. Public user cannot get their Identities" time="0.0200" classname="A-Identities-0008. Public user cannot get their Identities">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0008. Public user cannot get their Identities" time="0.0200" classclass="A-Identities-0008. Public user cannot get their Identities">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0009. Super user can update the Identities by Id" time="0.0830" classname="A-Identities-0009. Super user can update the Identities by Id">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0009. Super user can update the Identities by Id" time="0.0830" classclass="A-Identities-0009. Super user can update the Identities by Id">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-PP-0015. ProjectAdminUser shouldn’t be able to UPDATE the identities by id" time="0.1270" classname="A-PP-0015. ProjectAdminUser shouldn’t be able to UPDATE the identities by id">
+    <testcase class="API_IDENTITIES - Identities API tests A-PP-0015. ProjectAdminUser shouldn’t be able to UPDATE the identities by id" time="0.1270" classclass="A-PP-0015. ProjectAdminUser shouldn’t be able to UPDATE the identities by id">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0010. Admin user cannot update the Identities by Id" time="0.0880" classname="A-Identities-0010. Admin user cannot update the Identities by Id">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0010. Admin user cannot update the Identities by Id" time="0.0880" classclass="A-Identities-0010. Admin user cannot update the Identities by Id">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0011. Member cannot update the Identities by Id" time="0.0340" classname="A-Identities-0011. Member cannot update the Identities by Id">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0011. Member cannot update the Identities by Id" time="0.0340" classclass="A-Identities-0011. Member cannot update the Identities by Id">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0012. Public user cannot update the Identities by Id" time="0.0210" classname="A-Identities-0012. Public user cannot update the Identities by Id">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0012. Public user cannot update the Identities by Id" time="0.0210" classclass="A-Identities-0012. Public user cannot update the Identities by Id">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0013. SuperUser can get Identitiesby Id" time="0.0220" classname="A-Identities-0013. SuperUser can get Identitiesby Id">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0013. SuperUser can get Identitiesby Id" time="0.0220" classclass="A-Identities-0013. SuperUser can get Identitiesby Id">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-6531-0027. Users are able to use the include parameter while getting Identities by Id" time="0.0260" classname="A-Identities-6531-0027. Users are able to use the include parameter while getting Identities by Id">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-6531-0027. Users are able to use the include parameter while getting Identities by Id" time="0.0260" classclass="A-Identities-6531-0027. Users are able to use the include parameter while getting Identities by Id">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0014. Admin can get Identities by Id" time="0.0940" classname="A-Identities-0014. Admin can get Identities by Id">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0014. Admin can get Identities by Id" time="0.0940" classclass="A-Identities-0014. Admin can get Identities by Id">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0015. Member can getIdentities by Id" time="0.0810" classname="A-Identities-0015. Member can getIdentities by Id">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0015. Member can getIdentities by Id" time="0.0810" classclass="A-Identities-0015. Member can getIdentities by Id">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0016. Public user cannot get Identities  by Id" time="0.0130" classname="A-Identities-0016. Public user cannot get Identities  by Id">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0016. Public user cannot get Identities  by Id" time="0.0130" classclass="A-Identities-0016. Public user cannot get Identities  by Id">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0017. Id field in Identities API should not be null and should be an integer" time="0.0000" classname="A-Identities-0017. Id field in Identities API should not be null and should be an integer">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0017. Id field in Identities API should not be null and should be an integer" time="0.0000" classclass="A-Identities-0017. Id field in Identities API should not be null and should be an integer">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0018. Name field in Identities API should not be null and should be a string" time="0.0000" classname="A-Identities-0018. Name field in Identities API should not be null and should be a string">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0018. Name field in Identities API should not be null and should be a string" time="0.0000" classclass="A-Identities-0018. Name field in Identities API should not be null and should be a string">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0019. Type field in Identities API should not be null and should be an integer" time="0.0000" classname="A-Identities-0019. Type field in Identities API should not be null and should be an integer">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0019. Type field in Identities API should not be null and should be an integer" time="0.0000" classclass="A-Identities-0019. Type field in Identities API should not be null and should be an integer">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0020. CreatedAt field in Identities API should not be null and should be a string" time="0.0000" classname="A-Identities-0020. CreatedAt field in Identities API should not be null and should be a string">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0020. CreatedAt field in Identities API should not be null and should be a string" time="0.0000" classclass="A-Identities-0020. CreatedAt field in Identities API should not be null and should be a string">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0021. UpdatedAt field in Identities API should not be null and should be a string" time="0.0000" classname="A-Identities-0021. UpdatedAt field in Identities API should not be null and should be a string">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0021. UpdatedAt field in Identities API should not be null and should be a string" time="0.0000" classclass="A-Identities-0021. UpdatedAt field in Identities API should not be null and should be a string">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0022. Public user cannot delete Identities by Id" time="0.0220" classname="A-Identities-0022. Public user cannot delete Identities by Id">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0022. Public user cannot delete Identities by Id" time="0.0220" classclass="A-Identities-0022. Public user cannot delete Identities by Id">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0023. Member cannot delete Identities by Id" time="0.0900" classname="A-Identities-0023. Member cannot delete Identities by Id">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0023. Member cannot delete Identities by Id" time="0.0900" classclass="A-Identities-0023. Member cannot delete Identities by Id">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0024. Admin cannot delete Identities by Id" time="0.0450" classname="A-Identities-0024. Admin cannot delete Identities by Id">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0024. Admin cannot delete Identities by Id" time="0.0450" classclass="A-Identities-0024. Admin cannot delete Identities by Id">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-PP-0016. ProjectAdminUser shouldn’t be able to DELETE theidentities by id" time="0.1730" classname="A-PP-0016. ProjectAdminUser shouldn’t be able to DELETE theidentities by id">
+    <testcase class="API_IDENTITIES - Identities API tests A-PP-0016. ProjectAdminUser shouldn’t be able to DELETE theidentities by id" time="0.1730" classclass="A-PP-0016. ProjectAdminUser shouldn’t be able to DELETE theidentities by id">
     </testcase>
-    <testcase name="API_IDENTITIES - Identities API tests A-Identities-0025. Super user can delete Identities by Id" time="0.1000" classname="A-Identities-0025. Super user can delete Identities by Id">
+    <testcase class="API_IDENTITIES - Identities API tests A-Identities-0025. Super user can delete Identities by Id" time="0.1000" classclass="A-Identities-0025. Super user can delete Identities by Id">
     </testcase>
   </testsuite>
 </testsuites>

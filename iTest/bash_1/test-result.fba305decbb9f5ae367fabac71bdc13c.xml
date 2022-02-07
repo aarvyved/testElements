@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="101.0420" tests="7" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:17" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="101.0420" tests="7" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:17" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="STEP_BASH_SLACK_INTEGRATION - Bash Step Tests For Slack Integration" timestamp="2022-01-17T17:51:17" tests="7" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383560/setup_PreMatrix/tests/core/steps/Bash/BashIntegrations/BashSlackIntegration.js" time="101.0360" failures="0">
-    <testcase name="STEP_BASH_SLACK_INTEGRATION - Bash Step Tests For Slack Integration 1. User can add Slack project integration" time="3.0610" classname="1. User can add Slack project integration">
+  <testsuite class="STEP_BASH_SLACK_INTEGRATION - Bash Step Tests For Slack Integration" timestamp="2022-01-17T17:51:17" tests="7" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383560/setup_PreMatrix/tests/core/steps/Bash/BashIntegrations/BashSlackIntegration.js" time="101.0360" failures="0">
+    <testcase class="STEP_BASH_SLACK_INTEGRATION - Bash Step Tests For Slack Integration 1. User can add Slack project integration" time="3.0610" classclass="1. User can add Slack project integration">
     </testcase>
-    <testcase name="STEP_BASH_SLACK_INTEGRATION - Bash Step Tests For Slack Integration S-Bash-0367. User adds Slack integration in integration section of bash step and verify pipeline sync is success" time="12.6730" classname="S-Bash-0367. User adds Slack integration in integration section of bash step and verify pipeline sync is success">
+    <testcase class="STEP_BASH_SLACK_INTEGRATION - Bash Step Tests For Slack Integration S-Bash-0367. User adds Slack integration in integration section of bash step and verify pipeline sync is success" time="12.6730" classclass="S-Bash-0367. User adds Slack integration in integration section of bash step and verify pipeline sync is success">
     </testcase>
-    <testcase name="STEP_BASH_SLACK_INTEGRATION - Bash Step Tests For Slack Integration S-Bash-0369. Environment variables for the integration are available in execution section of the Bash step" time="72.1680" classname="S-Bash-0369. Environment variables for the integration are available in execution section of the Bash step">
+    <testcase class="STEP_BASH_SLACK_INTEGRATION - Bash Step Tests For Slack Integration S-Bash-0369. Environment variables for the integration are available in execution section of the Bash step" time="72.1680" classclass="S-Bash-0369. Environment variables for the integration are available in execution section of the Bash step">
     </testcase>
-    <testcase name="STEP_BASH_SLACK_INTEGRATION - Bash Step Tests For Slack Integration 2. User should be able to add new pipelineSources" time="11.6200" classname="2. User should be able to add new pipelineSources">
+    <testcase class="STEP_BASH_SLACK_INTEGRATION - Bash Step Tests For Slack Integration 2. User should be able to add new pipelineSources" time="11.6200" classclass="2. User should be able to add new pipelineSources">
     </testcase>
-    <testcase name="STEP_BASH_SLACK_INTEGRATION - Bash Step Tests For Slack Integration S-Bash-0370. Users should not be able to delete slack integration  if it is dependent on any steps" time="0.1650" classname="S-Bash-0370. Users should not be able to delete slack integration  if it is dependent on any steps">
+    <testcase class="STEP_BASH_SLACK_INTEGRATION - Bash Step Tests For Slack Integration S-Bash-0370. Users should not be able to delete slack integration  if it is dependent on any steps" time="0.1650" classclass="S-Bash-0370. Users should not be able to delete slack integration  if it is dependent on any steps">
     </testcase>
-    <testcase name="STEP_BASH_SLACK_INTEGRATION - Bash Step Tests For Slack Integration 3. User can delete pipelineSource by Id" time="0.6010" classname="3. User can delete pipelineSource by Id">
+    <testcase class="STEP_BASH_SLACK_INTEGRATION - Bash Step Tests For Slack Integration 3. User can delete pipelineSource by Id" time="0.6010" classclass="3. User can delete pipelineSource by Id">
     </testcase>
-    <testcase name="STEP_BASH_SLACK_INTEGRATION - Bash Step Tests For Slack Integration 4. User can delete Slack project integration by Id" time="0.6020" classname="4. User can delete Slack project integration by Id">
+    <testcase class="STEP_BASH_SLACK_INTEGRATION - Bash Step Tests For Slack Integration 4. User can delete Slack project integration by Id" time="0.6020" classclass="4. User can delete Slack project integration by Id">
     </testcase>
   </testsuite>
 </testsuites>

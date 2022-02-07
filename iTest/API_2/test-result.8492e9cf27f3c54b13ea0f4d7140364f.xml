@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="114.4220" tests="62" failures="1" skipped="26">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="114.4220" tests="62" failures="1" skipped="26">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="API_RUNS - Runs API tests" timestamp="2022-01-17T17:51:38" tests="7" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383741/setup_PreMatrix/tests/core/api/runs.js" time="0.0000" failures="0">
-    <testcase name="API_RUNS - Runs API tests A-runs-0065. Superuser should be able to trigger run" time="0.1000" classname="A-runs-0065. Superuser should be able to trigger run">
+  <testsuite class="API_RUNS - Runs API tests" timestamp="2022-01-17T17:51:38" tests="7" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383741/setup_PreMatrix/tests/core/api/runs.js" time="0.0000" failures="0">
+    <testcase class="API_RUNS - Runs API tests A-runs-0065. Superuser should be able to trigger run" time="0.1000" classclass="A-runs-0065. Superuser should be able to trigger run">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests A-runs-0066. Project admin shouldn&apos;t be able to trigger run" time="0.1910" classname="A-runs-0066. Project admin shouldn&apos;t be able to trigger run">
+    <testcase class="API_RUNS - Runs API tests A-runs-0066. Project admin shouldn&apos;t be able to trigger run" time="0.1910" classclass="A-runs-0066. Project admin shouldn&apos;t be able to trigger run">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests A-runs-0067. Admin shouldn&apos;t be able to trigger run" time="0.0580" classname="A-runs-0067. Admin shouldn&apos;t be able to trigger run">
+    <testcase class="API_RUNS - Runs API tests A-runs-0067. Admin shouldn&apos;t be able to trigger run" time="0.0580" classclass="A-runs-0067. Admin shouldn&apos;t be able to trigger run">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests A-runs-0068. Member shouldn&apos;t be able to trigger run" time="0.2990" classname="A-runs-0068. Member shouldn&apos;t be able to trigger run">
+    <testcase class="API_RUNS - Runs API tests A-runs-0068. Member shouldn&apos;t be able to trigger run" time="0.2990" classclass="A-runs-0068. Member shouldn&apos;t be able to trigger run">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests A-runs-0069. Public user shouldn&apos;t be able to trigger run" time="0.0330" classname="A-runs-0069. Public user shouldn&apos;t be able to trigger run">
+    <testcase class="API_RUNS - Runs API tests A-runs-0069. Public user shouldn&apos;t be able to trigger run" time="0.0330" classclass="A-runs-0069. Public user shouldn&apos;t be able to trigger run">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests A-runs-0070. User sees an error if invalid payload is sent" time="0.0720" classname="A-runs-0070. User sees an error if invalid payload is sent">
+    <testcase class="API_RUNS - Runs API tests A-runs-0070. User sees an error if invalid payload is sent" time="0.0720" classclass="A-runs-0070. User sees an error if invalid payload is sent">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests 1. Super user should be able add new PipelineSources for run" time="19.4730" classname="1. Super user should be able add new PipelineSources for run">
+    <testcase class="API_RUNS - Runs API tests 1. Super user should be able add new PipelineSources for run" time="19.4730" classclass="1. Super user should be able add new PipelineSources for run">
     </testcase>
   </testsuite>
-  <testsuite name="Below test cases uses pipelineSource" timestamp="2022-01-17T17:51:58" tests="39" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383741/setup_PreMatrix/tests/core/api/runs.js" time="0.0000" failures="1" skipped="26">
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource 2. Super user should be able to get their pipelines" time="0.0400" classname="2. Super user should be able to get their pipelines">
+  <testsuite class="Below test cases uses pipelineSource" timestamp="2022-01-17T17:51:58" tests="39" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383741/setup_PreMatrix/tests/core/api/runs.js" time="0.0000" failures="1" skipped="26">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource 2. Super user should be able to get their pipelines" time="0.0400" classclass="2. Super user should be able to get their pipelines">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource 3. Super user should be able to get their pipelineSteps" time="0.0530" classname="3. Super user should be able to get their pipelineSteps">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource 3. Super user should be able to get their pipelineSteps" time="0.0530" classclass="3. Super user should be able to get their pipelineSteps">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0041. User should not be able to delete pipelineSource if its pipeline has incomplete runs" time="0.0000" classname="A-Runs-0041. User should not be able to delete pipelineSource if its pipeline has incomplete runs">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0041. User should not be able to delete pipelineSource if its pipeline has incomplete runs" time="0.0000" classclass="A-Runs-0041. User should not be able to delete pipelineSource if its pipeline has incomplete runs">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource 4. Super user can trigger pipelineSteps by Id" time="5.1570" classname="4. Super user can trigger pipelineSteps by Id">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource 4. Super user can trigger pipelineSteps by Id" time="5.1570" classclass="4. Super user can trigger pipelineSteps by Id">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0005. Super user should be able to get runs by Id" time="0.0000" classname="A-Runs-0005. Super user should be able to get runs by Id">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0005. Super user should be able to get runs by Id" time="0.0000" classclass="A-Runs-0005. Super user should be able to get runs by Id">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-6531-0073. Users are able to use the include parameter while getting runs by Id" time="0.0600" classname="A-Runs-6531-0073. Users are able to use the include parameter while getting runs by Id">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-6531-0073. Users are able to use the include parameter while getting runs by Id" time="0.0600" classclass="A-Runs-6531-0073. Users are able to use the include parameter while getting runs by Id">
       <failure message="Super user cannot get their run by Id undefined 400" type="Error"><![CDATA[Error: Super user cannot get their run by Id undefined 400
     at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383741/setup_PreMatrix/tests/core/api/runs.js:558:21
     at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383741/setup_PreMatrix/tests/_common/pipelines/Adapter.js:2573:9
@@ -48,131 +48,131 @@
     at endReadableNT (internal/streams/readable.js:1336:12)
     at processTicksAndRejections (internal/process/task_queues.js:82:21)]]></failure>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0006. Admin user should be able to get run by Id" time="0.0000" classname="A-Runs-0006. Admin user should be able to get run by Id">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0006. Admin user should be able to get run by Id" time="0.0000" classclass="A-Runs-0006. Admin user should be able to get run by Id">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0007. Member user should be able to get run by Id" time="0.0000" classname="A-Runs-0007. Member user should be able to get run by Id">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0007. Member user should be able to get run by Id" time="0.0000" classclass="A-Runs-0007. Member user should be able to get run by Id">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0008. Public user cannot get run by Id" time="0.0000" classname="A-Runs-0008. Public user cannot get run by Id">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0008. Public user cannot get run by Id" time="0.0000" classclass="A-Runs-0008. Public user cannot get run by Id">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0009. Super user should be able to update the run by Id" time="0.0000" classname="A-Runs-0009. Super user should be able to update the run by Id">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0009. Super user should be able to update the run by Id" time="0.0000" classclass="A-Runs-0009. Super user should be able to update the run by Id">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0010. Admin user should be able update their run by Id" time="0.0000" classname="A-Runs-0010. Admin user should be able update their run by Id">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0010. Admin user should be able update their run by Id" time="0.0000" classclass="A-Runs-0010. Admin user should be able update their run by Id">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0011. Member user should be able update their run by Id" time="0.0000" classname="A-Runs-0011. Member user should be able update their run by Id">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0011. Member user should be able update their run by Id" time="0.0000" classclass="A-Runs-0011. Member user should be able update their run by Id">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0012. Public user cannot update their runs by Id" time="0.0000" classname="A-Runs-0012. Public user cannot update their runs by Id">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0012. Public user cannot update their runs by Id" time="0.0000" classclass="A-Runs-0012. Public user cannot update their runs by Id">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0013. Super user should be able to get their Runs" time="0.1820" classname="A-Runs-0013. Super user should be able to get their Runs">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0013. Super user should be able to get their Runs" time="0.1820" classclass="A-Runs-0013. Super user should be able to get their Runs">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-6531-0072. Users are able to use the include parameter while getting runs" time="0.0220" classname="A-Runs-6531-0072. Users are able to use the include parameter while getting runs">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-6531-0072. Users are able to use the include parameter while getting runs" time="0.0220" classclass="A-Runs-6531-0072. Users are able to use the include parameter while getting runs">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-6530-0071. Super user should be able to get their Runs with light parameter" time="0.0930" classname="A-Runs-6530-0071. Super user should be able to get their Runs with light parameter">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-6530-0071. Super user should be able to get their Runs with light parameter" time="0.0930" classclass="A-Runs-6530-0071. Super user should be able to get their Runs with light parameter">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0014. Admin user should be able to get their run" time="0.0000" classname="A-Runs-0014. Admin user should be able to get their run">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0014. Admin user should be able to get their run" time="0.0000" classclass="A-Runs-0014. Admin user should be able to get their run">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0015. Member User should be able to get their run" time="0.0000" classname="A-Runs-0015. Member User should be able to get their run">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0015. Member User should be able to get their run" time="0.0000" classclass="A-Runs-0015. Member User should be able to get their run">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0016. Public user cannot get their run" time="0.0270" classname="A-Runs-0016. Public user cannot get their run">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0016. Public user cannot get their run" time="0.0270" classclass="A-Runs-0016. Public user cannot get their run">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-PO-PP-0021. Project Admin User should be able Post runs" time="0.4550" classname="A-PO-PP-0021. Project Admin User should be able Post runs">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-PO-PP-0021. Project Admin User should be able Post runs" time="0.4550" classclass="A-PO-PP-0021. Project Admin User should be able Post runs">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0021. Super user should be able to get artifactUrl by run" time="0.0000" classname="A-Runs-0021. Super user should be able to get artifactUrl by run">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0021. Super user should be able to get artifactUrl by run" time="0.0000" classclass="A-Runs-0021. Super user should be able to get artifactUrl by run">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-PO-PP-0036. User with project scope should be able to get artifactUrl by run" time="0.0000" classname="A-PO-PP-0036. User with project scope should be able to get artifactUrl by run">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-PO-PP-0036. User with project scope should be able to get artifactUrl by run" time="0.0000" classclass="A-PO-PP-0036. User with project scope should be able to get artifactUrl by run">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0022. Admin user should not able to get artifactUrl by run" time="0.0000" classname="A-Runs-0022. Admin user should not able to get artifactUrl by run">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0022. Admin user should not able to get artifactUrl by run" time="0.0000" classclass="A-Runs-0022. Admin user should not able to get artifactUrl by run">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0023. Member user should not able to get artifactUrl by run " time="0.0000" classname="A-Runs-0023. Member user should not able to get artifactUrl by run ">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0023. Member user should not able to get artifactUrl by run " time="0.0000" classclass="A-Runs-0023. Member user should not able to get artifactUrl by run ">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0024. Public user cannot get run by artifactUrl" time="0.0000" classname="A-Runs-0024. Public user cannot get run by artifactUrl">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0024. Public user cannot get run by artifactUrl" time="0.0000" classclass="A-Runs-0024. Public user cannot get run by artifactUrl">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0029. Id field in runs API should not be null and  should be an integer type" time="0.0000" classname="A-Runs-0029. Id field in runs API should not be null and  should be an integer type">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0029. Id field in runs API should not be null and  should be an integer type" time="0.0000" classclass="A-Runs-0029. Id field in runs API should not be null and  should be an integer type">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0030. PipelineId field in runs API shouldnot be null and  should be an integer type" time="0.0000" classname="A-Runs-0030. PipelineId field in runs API shouldnot be null and  should be an integer type">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0030. PipelineId field in runs API shouldnot be null and  should be an integer type" time="0.0000" classclass="A-Runs-0030. PipelineId field in runs API shouldnot be null and  should be an integer type">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0031. ProjectId field in run API shouldnot be null and  should be an integer type" time="0.0000" classname="A-Runs-0031. ProjectId field in run API shouldnot be null and  should be an integer type">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0031. ProjectId field in run API shouldnot be null and  should be an integer type" time="0.0000" classclass="A-Runs-0031. ProjectId field in run API shouldnot be null and  should be an integer type">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0032. runNumber field in runs API should not be null and  should be an integer type" time="0.0000" classname="A-Runs-0032. runNumber field in runs API should not be null and  should be an integer type">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0032. runNumber field in runs API should not be null and  should be an integer type" time="0.0000" classclass="A-Runs-0032. runNumber field in runs API should not be null and  should be an integer type">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0033. statusCode field in runs API should not be null and  should be an integer type" time="0.0000" classname="A-Runs-0033. statusCode field in runs API should not be null and  should be an integer type">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0033. statusCode field in runs API should not be null and  should be an integer type" time="0.0000" classclass="A-Runs-0033. statusCode field in runs API should not be null and  should be an integer type">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0034. staticPropertyBag field in runs API should be an object type" time="0.0000" classname="A-Runs-0034. staticPropertyBag field in runs API should be an object type">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0034. staticPropertyBag field in runs API should be an object type" time="0.0000" classclass="A-Runs-0034. staticPropertyBag field in runs API should be an object type">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0035. createdAt in runs API should not be null and should  be a string type" time="0.0000" classname="A-Runs-0035. createdAt in runs API should not be null and should  be a string type">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0035. createdAt in runs API should not be null and should  be a string type" time="0.0000" classclass="A-Runs-0035. createdAt in runs API should not be null and should  be a string type">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0036. updatedAt in runs should not be null and shouldbe a string" time="0.0000" classname="A-Runs-0036. updatedAt in runs should not be null and shouldbe a string">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0036. updatedAt in runs should not be null and shouldbe a string" time="0.0000" classclass="A-Runs-0036. updatedAt in runs should not be null and shouldbe a string">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0064. Member user can filter runs by parentRunId." time="0.6830" classname="A-Runs-0064. Member user can filter runs by parentRunId.">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0064. Member user can filter runs by parentRunId." time="0.6830" classclass="A-Runs-0064. Member user can filter runs by parentRunId.">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0037. Public user cannot delete runs by pipelineId" time="0.0210" classname="A-Runs-0037. Public user cannot delete runs by pipelineId">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0037. Public user cannot delete runs by pipelineId" time="0.0210" classclass="A-Runs-0037. Public user cannot delete runs by pipelineId">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0038. Member user cannot delete runs by pipelineId" time="0.0480" classname="A-Runs-0038. Member user cannot delete runs by pipelineId">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0038. Member user cannot delete runs by pipelineId" time="0.0480" classclass="A-Runs-0038. Member user cannot delete runs by pipelineId">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0039. Admin user cannot delete runs by pipelineId" time="0.0480" classname="A-Runs-0039. Admin user cannot delete runs by pipelineId">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0039. Admin user cannot delete runs by pipelineId" time="0.0480" classclass="A-Runs-0039. Admin user cannot delete runs by pipelineId">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-DEL-PP-0018. ProjectAdmin User should be able to delete runs by pipeline Id" time="0.0000" classname="A-DEL-PP-0018. ProjectAdmin User should be able to delete runs by pipeline Id">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-DEL-PP-0018. ProjectAdmin User should be able to delete runs by pipeline Id" time="0.0000" classclass="A-DEL-PP-0018. ProjectAdmin User should be able to delete runs by pipeline Id">
       <skipped/>
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0040. Super user can delete run by pipelineId" time="0.0000" classname="A-Runs-0040. Super user can delete run by pipelineId">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource A-Runs-0040. Super user can delete run by pipelineId" time="0.0000" classclass="A-Runs-0040. Super user can delete run by pipelineId">
       <skipped/>
     </testcase>
   </testsuite>
-  <testsuite name="Test cases for old-format run state" timestamp="2022-01-17T17:52:05" tests="8" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383741/setup_PreMatrix/tests/core/api/runs.js" time="81.7920" failures="0">
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for old-format run state A-Runs-0017. super user should be able to get artifacts by run" time="0.2260" classname="A-Runs-0017. super user should be able to get artifacts by run">
+  <testsuite class="Test cases for old-format run state" timestamp="2022-01-17T17:52:05" tests="8" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383741/setup_PreMatrix/tests/core/api/runs.js" time="81.7920" failures="0">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for old-format run state A-Runs-0017. super user should be able to get artifacts by run" time="0.2260" classclass="A-Runs-0017. super user should be able to get artifacts by run">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for old-format run state A-Runs-0018. Admin user should be able to get artifacts by run" time="0.1950" classname="A-Runs-0018. Admin user should be able to get artifacts by run">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for old-format run state A-Runs-0018. Admin user should be able to get artifacts by run" time="0.1950" classclass="A-Runs-0018. Admin user should be able to get artifacts by run">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for old-format run state A-Runs-0019. Member user should be able to get artifacts by run " time="0.2110" classname="A-Runs-0019. Member user should be able to get artifacts by run ">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for old-format run state A-Runs-0019. Member user should be able to get artifacts by run " time="0.2110" classclass="A-Runs-0019. Member user should be able to get artifacts by run ">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for old-format run state A-Runs-0020. Public user cannot get artifacts by runs " time="0.0150" classname="A-Runs-0020. Public user cannot get artifacts by runs ">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for old-format run state A-Runs-0020. Public user cannot get artifacts by runs " time="0.0150" classclass="A-Runs-0020. Public user cannot get artifacts by runs ">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for old-format run state A-Runs-0025. Super user can get their downloadArtifacts by run" time="0.1620" classname="A-Runs-0025. Super user can get their downloadArtifacts by run">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for old-format run state A-Runs-0025. Super user can get their downloadArtifacts by run" time="0.1620" classclass="A-Runs-0025. Super user can get their downloadArtifacts by run">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for old-format run state A-Runs-0026. Admin user can get their downloadArtifacts by run" time="0.2520" classname="A-Runs-0026. Admin user can get their downloadArtifacts by run">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for old-format run state A-Runs-0026. Admin user can get their downloadArtifacts by run" time="0.2520" classclass="A-Runs-0026. Admin user can get their downloadArtifacts by run">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for old-format run state A-Runs-0027. Member user can get their downloadArtifacts by run" time="0.2000" classname="A-Runs-0027. Member user can get their downloadArtifacts by run">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for old-format run state A-Runs-0027. Member user can get their downloadArtifacts by run" time="0.2000" classclass="A-Runs-0027. Member user can get their downloadArtifacts by run">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for old-format run state A-Runs-0028. Public user cannot get their downloadArtifacts by run " time="0.0120" classname="A-Runs-0028. Public user cannot get their downloadArtifacts by run ">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for old-format run state A-Runs-0028. Public user cannot get their downloadArtifacts by run " time="0.0120" classclass="A-Runs-0028. Public user cannot get their downloadArtifacts by run ">
     </testcase>
   </testsuite>
-  <testsuite name="Test cases for new-format run state" timestamp="2022-01-17T17:53:27" tests="8" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383741/setup_PreMatrix/tests/core/api/runs.js" time="5.1920" failures="0">
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for new-format run state A-Runs-6380-001 Superuser should be able to call runs/:runId/runState." time="0.0690" classname="A-Runs-6380-001 Superuser should be able to call runs/:runId/runState.">
+  <testsuite class="Test cases for new-format run state" timestamp="2022-01-17T17:53:27" tests="8" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383741/setup_PreMatrix/tests/core/api/runs.js" time="5.1920" failures="0">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for new-format run state A-Runs-6380-001 Superuser should be able to call runs/:runId/runState." time="0.0690" classclass="A-Runs-6380-001 Superuser should be able to call runs/:runId/runState.">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for new-format run state A-Runs-7218-0001 Super user gets the `rtAccessTokenExpiresIn` field inside the response body of RunStateLocation by run id and it expires in 10 minutes" time="0.0890" classname="A-Runs-7218-0001 Super user gets the `rtAccessTokenExpiresIn` field inside the response body of RunStateLocation by run id and it expires in 10 minutes">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for new-format run state A-Runs-7218-0001 Super user gets the `rtAccessTokenExpiresIn` field inside the response body of RunStateLocation by run id and it expires in 10 minutes" time="0.0890" classclass="A-Runs-7218-0001 Super user gets the `rtAccessTokenExpiresIn` field inside the response body of RunStateLocation by run id and it expires in 10 minutes">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for new-format run state A-Runs-6380-002 Admin user should not be able to call runs/:runId/runState." time="0.0350" classname="A-Runs-6380-002 Admin user should not be able to call runs/:runId/runState.">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for new-format run state A-Runs-6380-002 Admin user should not be able to call runs/:runId/runState." time="0.0350" classclass="A-Runs-6380-002 Admin user should not be able to call runs/:runId/runState.">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for new-format run state A-Runs-6380-003 Member user should not be able to call runs/:runId/runState." time="0.0470" classname="A-Runs-6380-003 Member user should not be able to call runs/:runId/runState.">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for new-format run state A-Runs-6380-003 Member user should not be able to call runs/:runId/runState." time="0.0470" classclass="A-Runs-6380-003 Member user should not be able to call runs/:runId/runState.">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for new-format run state A-Runs-6380-004 Public user shouldn’t be able to call runs/:runId/runState." time="0.0210" classname="A-Runs-6380-004 Public user shouldn’t be able to call runs/:runId/runState.">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for new-format run state A-Runs-6380-004 Public user shouldn’t be able to call runs/:runId/runState." time="0.0210" classclass="A-Runs-6380-004 Public user shouldn’t be able to call runs/:runId/runState.">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for new-format run state A-Runs-6380-005 The response body of runs/:runId/runState should contain a token." time="0.0000" classname="A-Runs-6380-005 The response body of runs/:runId/runState should contain a token.">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for new-format run state A-Runs-6380-005 The response body of runs/:runId/runState should contain a token." time="0.0000" classclass="A-Runs-6380-005 The response body of runs/:runId/runState should contain a token.">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for new-format run state A-Runs-6380-006 The response body of runs/:runId/runState should contain fileStoreProviderUrl, which should end in &quot;artifactory.&quot;" time="0.0000" classname="A-Runs-6380-006 The response body of runs/:runId/runState should contain fileStoreProviderUrl, which should end in &quot;artifactory.&quot;">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for new-format run state A-Runs-6380-006 The response body of runs/:runId/runState should contain fileStoreProviderUrl, which should end in &quot;artifactory.&quot;" time="0.0000" classclass="A-Runs-6380-006 The response body of runs/:runId/runState should contain fileStoreProviderUrl, which should end in &quot;artifactory.&quot;">
     </testcase>
-    <testcase name="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for new-format run state A-Runs-6380-007 The response body of runs/:runId/runState should contain relativePath." time="0.0000" classname="A-Runs-6380-007 The response body of runs/:runId/runState should contain relativePath.">
+    <testcase class="API_RUNS - Runs API tests Below test cases uses pipelineSource Test cases for new-format run state A-Runs-6380-007 The response body of runs/:runId/runState should contain relativePath." time="0.0000" classclass="A-Runs-6380-007 The response body of runs/:runId/runState should contain relativePath.">
     </testcase>
   </testsuite>
 </testsuites>

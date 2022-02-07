@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="1.3770" tests="19" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:36" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="1.3770" tests="19" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:36" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="API_IDENTITYROLES - IdentityRoles API tests" timestamp="2022-01-17T17:51:36" tests="19" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383640/setup_PreMatrix/tests/core/api/identityRoles.js" time="1.3690" failures="0">
-    <testcase name="API_IDENTITYROLES - IdentityRoles API tests 1. Admin can get their Identities" time="0.1110" classname="1. Admin can get their Identities">
+  <testsuite class="API_IDENTITYROLES - IdentityRoles API tests" timestamp="2022-01-17T17:51:36" tests="19" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383640/setup_PreMatrix/tests/core/api/identityRoles.js" time="1.3690" failures="0">
+    <testcase class="API_IDENTITYROLES - IdentityRoles API tests 1. Admin can get their Identities" time="0.1110" classclass="1. Admin can get their Identities">
     </testcase>
-    <testcase name="API_IDENTITYROLES - IdentityRoles API tests 2. Member can get their Identities" time="0.1090" classname="2. Member can get their Identities">
+    <testcase class="API_IDENTITYROLES - IdentityRoles API tests 2. Member can get their Identities" time="0.1090" classclass="2. Member can get their Identities">
     </testcase>
-    <testcase name="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0001. Super user can post IdentityRoles" time="0.0430" classname="A-IdentityRoles-0001. Super user can post IdentityRoles">
+    <testcase class="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0001. Super user can post IdentityRoles" time="0.0430" classclass="A-IdentityRoles-0001. Super user can post IdentityRoles">
     </testcase>
-    <testcase name="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0002. Admin cannot post IdentityRoles" time="0.0530" classname="A-IdentityRoles-0002. Admin cannot post IdentityRoles">
+    <testcase class="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0002. Admin cannot post IdentityRoles" time="0.0530" classclass="A-IdentityRoles-0002. Admin cannot post IdentityRoles">
     </testcase>
-    <testcase name="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0003. Member cannot post IdentityRoles" time="0.1070" classname="A-IdentityRoles-0003. Member cannot post IdentityRoles">
+    <testcase class="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0003. Member cannot post IdentityRoles" time="0.1070" classclass="A-IdentityRoles-0003. Member cannot post IdentityRoles">
     </testcase>
-    <testcase name="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0004. Public user cannot post IdentityRoles" time="0.0190" classname="A-IdentityRoles-0004. Public user cannot post IdentityRoles">
+    <testcase class="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0004. Public user cannot post IdentityRoles" time="0.0190" classclass="A-IdentityRoles-0004. Public user cannot post IdentityRoles">
     </testcase>
-    <testcase name="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0005. Super user can get IdentityRoles" time="0.0460" classname="A-IdentityRoles-0005. Super user can get IdentityRoles">
+    <testcase class="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0005. Super user can get IdentityRoles" time="0.0460" classclass="A-IdentityRoles-0005. Super user can get IdentityRoles">
     </testcase>
-    <testcase name="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0006. Admin can get IdentityRoles" time="0.0740" classname="A-IdentityRoles-0006. Admin can get IdentityRoles">
+    <testcase class="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0006. Admin can get IdentityRoles" time="0.0740" classclass="A-IdentityRoles-0006. Admin can get IdentityRoles">
     </testcase>
-    <testcase name="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0007. Member can get IdentityRoles" time="0.1880" classname="A-IdentityRoles-0007. Member can get IdentityRoles">
+    <testcase class="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0007. Member can get IdentityRoles" time="0.1880" classclass="A-IdentityRoles-0007. Member can get IdentityRoles">
     </testcase>
-    <testcase name="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0008. Public user cannot get IdentityRoles " time="0.0180" classname="A-IdentityRoles-0008. Public user cannot get IdentityRoles ">
+    <testcase class="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0008. Public user cannot get IdentityRoles " time="0.0180" classclass="A-IdentityRoles-0008. Public user cannot get IdentityRoles ">
     </testcase>
-    <testcase name="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0009. Id field in IdentityRoles API should not be null and should be an integer type" time="0.0010" classname="A-IdentityRoles-0009. Id field in IdentityRoles API should not be null and should be an integer type">
+    <testcase class="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0009. Id field in IdentityRoles API should not be null and should be an integer type" time="0.0010" classclass="A-IdentityRoles-0009. Id field in IdentityRoles API should not be null and should be an integer type">
     </testcase>
-    <testcase name="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0010. IdentityId field in IdentityRoles API should not be null and should be an integer type" time="0.0000" classname="A-IdentityRoles-0010. IdentityId field in IdentityRoles API should not be null and should be an integer type">
+    <testcase class="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0010. IdentityId field in IdentityRoles API should not be null and should be an integer type" time="0.0000" classclass="A-IdentityRoles-0010. IdentityId field in IdentityRoles API should not be null and should be an integer type">
     </testcase>
-    <testcase name="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0011. RoleCode field in IdentityRoles API should not be null and should be an integer type" time="0.0010" classname="A-IdentityRoles-0011. RoleCode field in IdentityRoles API should not be null and should be an integer type">
+    <testcase class="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0011. RoleCode field in IdentityRoles API should not be null and should be an integer type" time="0.0010" classclass="A-IdentityRoles-0011. RoleCode field in IdentityRoles API should not be null and should be an integer type">
     </testcase>
-    <testcase name="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0012. CreatedAt field in IdentityRoles API should not be null and should be a string" time="0.0000" classname="A-IdentityRoles-0012. CreatedAt field in IdentityRoles API should not be null and should be a string">
+    <testcase class="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0012. CreatedAt field in IdentityRoles API should not be null and should be a string" time="0.0000" classclass="A-IdentityRoles-0012. CreatedAt field in IdentityRoles API should not be null and should be a string">
     </testcase>
-    <testcase name="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0013. UpdatedAt field in IdentityRoles API should not be null and should be a string" time="0.0010" classname="A-IdentityRoles-0013. UpdatedAt field in IdentityRoles API should not be null and should be a string">
+    <testcase class="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0013. UpdatedAt field in IdentityRoles API should not be null and should be a string" time="0.0010" classclass="A-IdentityRoles-0013. UpdatedAt field in IdentityRoles API should not be null and should be a string">
     </testcase>
-    <testcase name="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0014. Public user cannot delete projectPermissions by Id" time="0.0200" classname="A-IdentityRoles-0014. Public user cannot delete projectPermissions by Id">
+    <testcase class="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0014. Public user cannot delete projectPermissions by Id" time="0.0200" classclass="A-IdentityRoles-0014. Public user cannot delete projectPermissions by Id">
     </testcase>
-    <testcase name="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0015. Member user cannot delete projectPermissions by Id" time="0.1250" classname="A-IdentityRoles-0015. Member user cannot delete projectPermissions by Id">
+    <testcase class="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0015. Member user cannot delete projectPermissions by Id" time="0.1250" classclass="A-IdentityRoles-0015. Member user cannot delete projectPermissions by Id">
     </testcase>
-    <testcase name="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0016. Admin cannot delete IdentityRoles by Id" time="0.1040" classname="A-IdentityRoles-0016. Admin cannot delete IdentityRoles by Id">
+    <testcase class="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0016. Admin cannot delete IdentityRoles by Id" time="0.1040" classclass="A-IdentityRoles-0016. Admin cannot delete IdentityRoles by Id">
     </testcase>
-    <testcase name="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0017. SuperUser can delete projectPermissions by Id" time="0.1940" classname="A-IdentityRoles-0017. SuperUser can delete projectPermissions by Id">
+    <testcase class="API_IDENTITYROLES - IdentityRoles API tests A-IdentityRoles-0017. SuperUser can delete projectPermissions by Id" time="0.1940" classclass="A-IdentityRoles-0017. SuperUser can delete projectPermissions by Id">
     </testcase>
   </testsuite>
 </testsuites>

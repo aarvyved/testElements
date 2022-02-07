@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="0.0240" tests="8" failures="0" skipped="8">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:18" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="0.0240" tests="8" failures="0" skipped="8">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:18" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="STEP_POWERSHELL_AZUREKEYS_INTEGRATION - PowerShell Tests For AzureKeys Integration" timestamp="2022-01-17T17:51:18" tests="8" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_1/4383688/setup_PreMatrix/tests/core/steps/PowerShell/PSIntegration/PowerShellAzureKeysIntegration.js" time="0.0110" failures="0" skipped="8">
-    <testcase name="STEP_POWERSHELL_AZUREKEYS_INTEGRATION - PowerShell Tests For AzureKeys Integration 1. User can add AzureKeys project Integration" time="0.0000" classname="1. User can add AzureKeys project Integration">
+  <testsuite class="STEP_POWERSHELL_AZUREKEYS_INTEGRATION - PowerShell Tests For AzureKeys Integration" timestamp="2022-01-17T17:51:18" tests="8" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_1/4383688/setup_PreMatrix/tests/core/steps/PowerShell/PSIntegration/PowerShellAzureKeysIntegration.js" time="0.0110" failures="0" skipped="8">
+    <testcase class="STEP_POWERSHELL_AZUREKEYS_INTEGRATION - PowerShell Tests For AzureKeys Integration 1. User can add AzureKeys project Integration" time="0.0000" classclass="1. User can add AzureKeys project Integration">
       <skipped/>
     </testcase>
-    <testcase name="STEP_POWERSHELL_AZUREKEYS_INTEGRATION - PowerShell Tests For AzureKeys Integration S-PS-I-Azure-0001. User verifies that auto-login is done for Azure  when Azure integration. is specified in the integration section of the PowerShell step." time="0.0000" classname="S-PS-I-Azure-0001. User verifies that auto-login is done for Azure  when Azure integration. is specified in the integration section of the PowerShell step.">
+    <testcase class="STEP_POWERSHELL_AZUREKEYS_INTEGRATION - PowerShell Tests For AzureKeys Integration S-PS-I-Azure-0001. User verifies that auto-login is done for Azure  when Azure integration. is specified in the integration section of the PowerShell step." time="0.0000" classclass="S-PS-I-Azure-0001. User verifies that auto-login is done for Azure  when Azure integration. is specified in the integration section of the PowerShell step.">
       <skipped/>
     </testcase>
-    <testcase name="STEP_POWERSHELL_AZUREKEYS_INTEGRATION - PowerShell Tests For AzureKeys Integration S-PS-I-Azure-0002. If the user adds a pipeline sources with thePowerShell step, where Azure integration is mentioned in the integration section, then pipeline sync should success." time="0.0000" classname="S-PS-I-Azure-0002. If the user adds a pipeline sources with thePowerShell step, where Azure integration is mentioned in the integration section, then pipeline sync should success.">
+    <testcase class="STEP_POWERSHELL_AZUREKEYS_INTEGRATION - PowerShell Tests For AzureKeys Integration S-PS-I-Azure-0002. If the user adds a pipeline sources with thePowerShell step, where Azure integration is mentioned in the integration section, then pipeline sync should success." time="0.0000" classclass="S-PS-I-Azure-0002. If the user adds a pipeline sources with thePowerShell step, where Azure integration is mentioned in the integration section, then pipeline sync should success.">
       <skipped/>
     </testcase>
-    <testcase name="STEP_POWERSHELL_AZUREKEYS_INTEGRATION - PowerShell Tests For AzureKeys Integration S-PS-I-Azure-0003. User verifies that all the Azure integration environment variables are available in execution sections of the PowerShell step." time="0.0000" classname="S-PS-I-Azure-0003. User verifies that all the Azure integration environment variables are available in execution sections of the PowerShell step.">
+    <testcase class="STEP_POWERSHELL_AZUREKEYS_INTEGRATION - PowerShell Tests For AzureKeys Integration S-PS-I-Azure-0003. User verifies that all the Azure integration environment variables are available in execution sections of the PowerShell step." time="0.0000" classclass="S-PS-I-Azure-0003. User verifies that all the Azure integration environment variables are available in execution sections of the PowerShell step.">
       <skipped/>
     </testcase>
-    <testcase name="STEP_POWERSHELL_AZUREKEYS_INTEGRATION - PowerShell Tests For AzureKeys Integration 2. User should be able to add new pipelineSources" time="0.0000" classname="2. User should be able to add new pipelineSources">
+    <testcase class="STEP_POWERSHELL_AZUREKEYS_INTEGRATION - PowerShell Tests For AzureKeys Integration 2. User should be able to add new pipelineSources" time="0.0000" classclass="2. User should be able to add new pipelineSources">
       <skipped/>
     </testcase>
-    <testcase name="STEP_POWERSHELL_AZUREKEYS_INTEGRATION - PowerShell Tests For AzureKeys Integration S-PS-I-Azure-0004.Users should not be able to delete Azure keys integration if it is dependent on the steps." time="0.0000" classname="S-PS-I-Azure-0004.Users should not be able to delete Azure keys integration if it is dependent on the steps.">
+    <testcase class="STEP_POWERSHELL_AZUREKEYS_INTEGRATION - PowerShell Tests For AzureKeys Integration S-PS-I-Azure-0004.Users should not be able to delete Azure keys integration if it is dependent on the steps." time="0.0000" classclass="S-PS-I-Azure-0004.Users should not be able to delete Azure keys integration if it is dependent on the steps.">
       <skipped/>
     </testcase>
-    <testcase name="STEP_POWERSHELL_AZUREKEYS_INTEGRATION - PowerShell Tests For AzureKeys Integration 3. User can delete pipelineSource by Id" time="0.0000" classname="3. User can delete pipelineSource by Id">
+    <testcase class="STEP_POWERSHELL_AZUREKEYS_INTEGRATION - PowerShell Tests For AzureKeys Integration 3. User can delete pipelineSource by Id" time="0.0000" classclass="3. User can delete pipelineSource by Id">
       <skipped/>
     </testcase>
-    <testcase name="STEP_POWERSHELL_AZUREKEYS_INTEGRATION - PowerShell Tests For AzureKeys Integration 4. User can delete Azurekeys project integration by Id" time="0.0000" classname="4. User can delete Azurekeys project integration by Id">
+    <testcase class="STEP_POWERSHELL_AZUREKEYS_INTEGRATION - PowerShell Tests For AzureKeys Integration 4. User can delete Azurekeys project integration by Id" time="0.0000" classclass="4. User can delete Azurekeys project integration by Id">
       <skipped/>
     </testcase>
   </testsuite>

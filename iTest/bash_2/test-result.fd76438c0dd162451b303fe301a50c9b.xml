@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="342.3580" tests="8" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:26" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="342.3580" tests="8" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:26" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="GENERIC_BASH - 2 out of 7 - Generic Bash tests " timestamp="2022-01-17T17:51:26" tests="8" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_2/4383577/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/BashGeneric11.js" time="342.3440" failures="0">
-    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  1. User can add docker Registry project Integration" time="2.4370" classname="1. User can add docker Registry project Integration">
+  <testsuite class="GENERIC_BASH - 2 out of 7 - Generic Bash tests " timestamp="2022-01-17T17:51:26" tests="8" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_2/4383577/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/BashGeneric11.js" time="342.3440" failures="0">
+    <testcase class="GENERIC_BASH - 2 out of 7 - Generic Bash tests  1. User can add docker Registry project Integration" time="2.4370" classclass="1. User can add docker Registry project Integration">
     </testcase>
-    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0051. If type is set to image/custom and custom image cannotbe found on the machine, Bash step errors out with a helpful message." time="73.5510" classname="S-Bash-0051. If type is set to image/custom and custom image cannotbe found on the machine, Bash step errors out with a helpful message.">
+    <testcase class="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0051. If type is set to image/custom and custom image cannotbe found on the machine, Bash step errors out with a helpful message." time="73.5510" classclass="S-Bash-0051. If type is set to image/custom and custom image cannotbe found on the machine, Bash step errors out with a helpful message.">
     </testcase>
-    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0058. In Bash step inputResource trigger will be true by . default, If user doesn’t specify." time="32.0390" classname="S-Bash-0058. In Bash step inputResource trigger will be true by . default, If user doesn’t specify.">
+    <testcase class="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0058. In Bash step inputResource trigger will be true by . default, If user doesn’t specify." time="32.0390" classclass="S-Bash-0058. In Bash step inputResource trigger will be true by . default, If user doesn’t specify.">
     </testcase>
-    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0076. In inputResource section if trigger is not found by default it will be true then pipeline sync should not fail." time="11.2740" classname="S-Bash-0076. In inputResource section if trigger is not found by default it will be true then pipeline sync should not fail.">
+    <testcase class="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0076. In inputResource section if trigger is not found by default it will be true then pipeline sync should not fail." time="11.2740" classclass="S-Bash-0076. In inputResource section if trigger is not found by default it will be true then pipeline sync should not fail.">
     </testcase>
-    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0049. If type is set to image/custom and custom image autopull is default true pulls image before run" time="97.8800" classname="S-Bash-0049. If type is set to image/custom and custom image autopull is default true pulls image before run">
+    <testcase class="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0049. If type is set to image/custom and custom image autopull is default true pulls image before run" time="97.8800" classclass="S-Bash-0049. If type is set to image/custom and custom image autopull is default true pulls image before run">
     </testcase>
-    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0428.Verify if the user updates autoPull field to true Image should get pulled with docker hub integration" time="60.2990" classname="S-Bash-0428.Verify if the user updates autoPull field to true Image should get pulled with docker hub integration">
+    <testcase class="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-0428.Verify if the user updates autoPull field to true Image should get pulled with docker hub integration" time="60.2990" classclass="S-Bash-0428.Verify if the user updates autoPull field to true Image should get pulled with docker hub integration">
     </testcase>
-    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-7116-001 A Bash step with Bash 5.1 and an input integration is triggered and the run completes (is not stuck until timeout)." time="64.2300" classname="S-Bash-7116-001 A Bash step with Bash 5.1 and an input integration is triggered and the run completes (is not stuck until timeout).">
+    <testcase class="GENERIC_BASH - 2 out of 7 - Generic Bash tests  S-Bash-7116-001 A Bash step with Bash 5.1 and an input integration is triggered and the run completes (is not stuck until timeout)." time="64.2300" classclass="S-Bash-7116-001 A Bash step with Bash 5.1 and an input integration is triggered and the run completes (is not stuck until timeout).">
     </testcase>
-    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  32. User can delete dockerRegistry project integrations by Id" time="0.4070" classname="32. User can delete dockerRegistry project integrations by Id">
+    <testcase class="GENERIC_BASH - 2 out of 7 - Generic Bash tests  32. User can delete dockerRegistry project integrations by Id" time="0.4070" classclass="32. User can delete dockerRegistry project integrations by Id">
     </testcase>
   </testsuite>
 </testsuites>

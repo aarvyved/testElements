@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="155.9010" tests="17" failures="0" skipped="2">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:50:49" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="155.9010" tests="17" failures="0" skipped="2">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:50:49" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="VERIFYPIPEINFO - VerifyPipeInfo Tests" timestamp="2022-01-17T17:50:49" tests="17" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383750/setup_PreMatrix/tests/core/pipeInfo/verifyPipeInfo.js" time="155.8960" failures="0" skipped="2">
-    <testcase name="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0001. User can verify an artifact using verification API" time="0.3870" classname="PI-verifyPipeInfo-5654-0001. User can verify an artifact using verification API">
+  <testsuite class="VERIFYPIPEINFO - VerifyPipeInfo Tests" timestamp="2022-01-17T17:50:49" tests="17" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383750/setup_PreMatrix/tests/core/pipeInfo/verifyPipeInfo.js" time="155.8960" failures="0" skipped="2">
+    <testcase class="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0001. User can verify an artifact using verification API" time="0.3870" classclass="PI-verifyPipeInfo-5654-0001. User can verify an artifact using verification API">
     </testcase>
-    <testcase name="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0002. User can verify that an artifact is not part of the pipeline using verification API" time="0.0520" classname="PI-verifyPipeInfo-5654-0002. User can verify that an artifact is not part of the pipeline using verification API">
+    <testcase class="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0002. User can verify that an artifact is not part of the pipeline using verification API" time="0.0520" classclass="PI-verifyPipeInfo-5654-0002. User can verify that an artifact is not part of the pipeline using verification API">
     </testcase>
-    <testcase name="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0003. User cannot verify artifact in case of missing arguments (artifactPath)" time="0.0220" classname="PI-verifyPipeInfo-5654-0003. User cannot verify artifact in case of missing arguments (artifactPath)">
+    <testcase class="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0003. User cannot verify artifact in case of missing arguments (artifactPath)" time="0.0220" classclass="PI-verifyPipeInfo-5654-0003. User cannot verify artifact in case of missing arguments (artifactPath)">
     </testcase>
-    <testcase name="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0004. User can verify a buildInfo using verification API" time="0.9090" classname="PI-verifyPipeInfo-5654-0004. User can verify a buildInfo using verification API">
+    <testcase class="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0004. User can verify a buildInfo using verification API" time="0.9090" classclass="PI-verifyPipeInfo-5654-0004. User can verify a buildInfo using verification API">
     </testcase>
-    <testcase name="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0005. User can verify that a buildInfo is not part of the pipeline using verification API" time="0.0450" classname="PI-verifyPipeInfo-5654-0005. User can verify that a buildInfo is not part of the pipeline using verification API">
+    <testcase class="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0005. User can verify that a buildInfo is not part of the pipeline using verification API" time="0.0450" classclass="PI-verifyPipeInfo-5654-0005. User can verify that a buildInfo is not part of the pipeline using verification API">
     </testcase>
-    <testcase name="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0006. User cannot verify buildInfo in case of missing arguments (buildName)" time="0.0310" classname="PI-verifyPipeInfo-5654-0006. User cannot verify buildInfo in case of missing arguments (buildName)">
+    <testcase class="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0006. User cannot verify buildInfo in case of missing arguments (buildName)" time="0.0310" classclass="PI-verifyPipeInfo-5654-0006. User cannot verify buildInfo in case of missing arguments (buildName)">
     </testcase>
-    <testcase name="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0007. User cannot verify buildInfo in case of missing arguments (buildNumber)" time="0.0520" classname="PI-verifyPipeInfo-5654-0007. User cannot verify buildInfo in case of missing arguments (buildNumber)">
+    <testcase class="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0007. User cannot verify buildInfo in case of missing arguments (buildNumber)" time="0.0520" classclass="PI-verifyPipeInfo-5654-0007. User cannot verify buildInfo in case of missing arguments (buildNumber)">
     </testcase>
-    <testcase name="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0008. User can verify a releaseBundle using verification API" time="0.0000" classname="PI-verifyPipeInfo-5654-0008. User can verify a releaseBundle using verification API">
+    <testcase class="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0008. User can verify a releaseBundle using verification API" time="0.0000" classclass="PI-verifyPipeInfo-5654-0008. User can verify a releaseBundle using verification API">
       <skipped/>
     </testcase>
-    <testcase name="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0009. User can verify that a releaseBundle is not part of the pipeline using verification API" time="0.0490" classname="PI-verifyPipeInfo-5654-0009. User can verify that a releaseBundle is not part of the pipeline using verification API">
+    <testcase class="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0009. User can verify that a releaseBundle is not part of the pipeline using verification API" time="0.0490" classclass="PI-verifyPipeInfo-5654-0009. User can verify that a releaseBundle is not part of the pipeline using verification API">
     </testcase>
-    <testcase name="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0010. User cannot verify releaseBundle in case of missing arguments (rbName)" time="0.0310" classname="PI-verifyPipeInfo-5654-0010. User cannot verify releaseBundle in case of missing arguments (rbName)">
+    <testcase class="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0010. User cannot verify releaseBundle in case of missing arguments (rbName)" time="0.0310" classclass="PI-verifyPipeInfo-5654-0010. User cannot verify releaseBundle in case of missing arguments (rbName)">
     </testcase>
-    <testcase name="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0011. User cannot verify releaseBundle in case of missing arguments (rbVersion)" time="0.0670" classname="PI-verifyPipeInfo-5654-0011. User cannot verify releaseBundle in case of missing arguments (rbVersion)">
+    <testcase class="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0011. User cannot verify releaseBundle in case of missing arguments (rbVersion)" time="0.0670" classclass="PI-verifyPipeInfo-5654-0011. User cannot verify releaseBundle in case of missing arguments (rbVersion)">
     </testcase>
-    <testcase name="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0012. Member cannot call verification API if he is not assigned on the given pipeline" time="0.0000" classname="PI-verifyPipeInfo-5654-0012. Member cannot call verification API if he is not assigned on the given pipeline">
+    <testcase class="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0012. Member cannot call verification API if he is not assigned on the given pipeline" time="0.0000" classclass="PI-verifyPipeInfo-5654-0012. Member cannot call verification API if he is not assigned on the given pipeline">
       <skipped/>
     </testcase>
-    <testcase name="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0013. Public user should not be able to call verification API" time="0.0130" classname="PI-verifyPipeInfo-5654-0013. Public user should not be able to call verification API">
+    <testcase class="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0013. Public user should not be able to call verification API" time="0.0130" classclass="PI-verifyPipeInfo-5654-0013. Public user should not be able to call verification API">
     </testcase>
-    <testcase name="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0014. SuperUser should be able to call verification API" time="0.3060" classname="PI-verifyPipeInfo-5654-0014. SuperUser should be able to call verification API">
+    <testcase class="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0014. SuperUser should be able to call verification API" time="0.3060" classclass="PI-verifyPipeInfo-5654-0014. SuperUser should be able to call verification API">
     </testcase>
-    <testcase name="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0015. Project Admin should be able to call verification API" time="0.4630" classname="PI-verifyPipeInfo-5654-0015. Project Admin should be able to call verification API">
+    <testcase class="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0015. Project Admin should be able to call verification API" time="0.4630" classclass="PI-verifyPipeInfo-5654-0015. Project Admin should be able to call verification API">
     </testcase>
-    <testcase name="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0016. Admin should be able to call verification API" time="0.4430" classname="PI-verifyPipeInfo-5654-0016. Admin should be able to call verification API">
+    <testcase class="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0016. Admin should be able to call verification API" time="0.4430" classclass="PI-verifyPipeInfo-5654-0016. Admin should be able to call verification API">
     </testcase>
-    <testcase name="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0017. Member should be able to call verification API" time="0.4070" classname="PI-verifyPipeInfo-5654-0017. Member should be able to call verification API">
+    <testcase class="VERIFYPIPEINFO - VerifyPipeInfo Tests PI-verifyPipeInfo-5654-0017. Member should be able to call verification API" time="0.4070" classclass="PI-verifyPipeInfo-5654-0017. Member should be able to call verification API">
     </testcase>
   </testsuite>
 </testsuites>

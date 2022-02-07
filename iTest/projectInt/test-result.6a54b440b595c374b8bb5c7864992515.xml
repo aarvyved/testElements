@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="21.4500" tests="12" failures="0" skipped="1">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:52:11" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="21.4500" tests="12" failures="0" skipped="1">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:52:11" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests" timestamp="2022-01-17T17:52:11" tests="12" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383823/setup_PreMatrix/tests/core/projectIntegrations/dynamicKubernetes.js" time="21.4360" failures="0" skipped="1">
-    <testcase name="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests DI-Kubernetes-0001. Verify a user can add dynamic kubernetes integration by providing Name, Kube Config file and setting is internal field to true." time="7.2790" classname="DI-Kubernetes-0001. Verify a user can add dynamic kubernetes integration by providing Name, Kube Config file and setting is internal field to true.">
+  <testsuite class="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests" timestamp="2022-01-17T17:52:11" tests="12" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383823/setup_PreMatrix/tests/core/projectIntegrations/dynamicKubernetes.js" time="21.4360" failures="0" skipped="1">
+    <testcase class="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests DI-Kubernetes-0001. Verify a user can add dynamic kubernetes integration by providing Name, Kube Config file and setting is internal field to true." time="7.2790" classclass="DI-Kubernetes-0001. Verify a user can add dynamic kubernetes integration by providing Name, Kube Config file and setting is internal field to true.">
     </testcase>
-    <testcase name="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests 2. User can post NodePools for Kubernetes dynamic project integration" time="11.8310" classname="2. User can post NodePools for Kubernetes dynamic project integration">
+    <testcase class="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests 2. User can post NodePools for Kubernetes dynamic project integration" time="11.8310" classclass="2. User can post NodePools for Kubernetes dynamic project integration">
     </testcase>
-    <testcase name="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests DI-Kubernetes-0002. Users should not be able to add the dynamic kubernetes integration with the invalid name." time="0.0530" classname="DI-Kubernetes-0002. Users should not be able to add the dynamic kubernetes integration with the invalid name.">
+    <testcase class="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests DI-Kubernetes-0002. Users should not be able to add the dynamic kubernetes integration with the invalid name." time="0.0530" classclass="DI-Kubernetes-0002. Users should not be able to add the dynamic kubernetes integration with the invalid name.">
     </testcase>
-    <testcase name="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests DI-Kubernetes-0003. Users should not be able to edit integration’s name" time="0.0580" classname="DI-Kubernetes-0003. Users should not be able to edit integration’s name">
+    <testcase class="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests DI-Kubernetes-0003. Users should not be able to edit integration’s name" time="0.0580" classclass="DI-Kubernetes-0003. Users should not be able to edit integration’s name">
     </testcase>
-    <testcase name="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests DI-Kubernetes-0004. Users should be able to update dynamic Kubernetes integration’s Kube Config field." time="0.1770" classname="DI-Kubernetes-0004. Users should be able to update dynamic Kubernetes integration’s Kube Config field.">
+    <testcase class="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests DI-Kubernetes-0004. Users should be able to update dynamic Kubernetes integration’s Kube Config field." time="0.1770" classclass="DI-Kubernetes-0004. Users should be able to update dynamic Kubernetes integration’s Kube Config field.">
     </testcase>
-    <testcase name="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests DI-Kubernetes-0007. Users should not be able to add dynamic integration without providing a name field." time="0.0350" classname="DI-Kubernetes-0007. Users should not be able to add dynamic integration without providing a name field.">
+    <testcase class="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests DI-Kubernetes-0007. Users should not be able to add dynamic integration without providing a name field." time="0.0350" classclass="DI-Kubernetes-0007. Users should not be able to add dynamic integration without providing a name field.">
     </testcase>
-    <testcase name="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests DI-Kubernetes-0008. Users should not be able to add dynamic kubernetes integration without providing a Kube Config field." time="0.0530" classname="DI-Kubernetes-0008. Users should not be able to add dynamic kubernetes integration without providing a Kube Config field.">
+    <testcase class="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests DI-Kubernetes-0008. Users should not be able to add dynamic kubernetes integration without providing a Kube Config field." time="0.0530" classclass="DI-Kubernetes-0008. Users should not be able to add dynamic kubernetes integration without providing a Kube Config field.">
     </testcase>
-    <testcase name="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests DI-Kubernetes-0009. Users should not be able to update the name field with an empty string." time="0.0000" classname="DI-Kubernetes-0009. Users should not be able to update the name field with an empty string.">
+    <testcase class="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests DI-Kubernetes-0009. Users should not be able to update the name field with an empty string." time="0.0000" classclass="DI-Kubernetes-0009. Users should not be able to update the name field with an empty string.">
       <skipped/>
     </testcase>
-    <testcase name="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests DI-Kubernetes-0011. Users should not be able to update the name field with an invalid value in dynamic kubernetes integration." time="0.0570" classname="DI-Kubernetes-0011. Users should not be able to update the name field with an invalid value in dynamic kubernetes integration.">
+    <testcase class="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests DI-Kubernetes-0011. Users should not be able to update the name field with an invalid value in dynamic kubernetes integration." time="0.0570" classclass="DI-Kubernetes-0011. Users should not be able to update the name field with an invalid value in dynamic kubernetes integration.">
     </testcase>
-    <testcase name="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests DI-Kubernetes-0005. Users should not be able to delete dynamic Kubernetes integration when it is being used in the node pool." time="0.1070" classname="DI-Kubernetes-0005. Users should not be able to delete dynamic Kubernetes integration when it is being used in the node pool.">
+    <testcase class="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests DI-Kubernetes-0005. Users should not be able to delete dynamic Kubernetes integration when it is being used in the node pool." time="0.1070" classclass="DI-Kubernetes-0005. Users should not be able to delete dynamic Kubernetes integration when it is being used in the node pool.">
     </testcase>
-    <testcase name="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests 3. user should be able to delete nodePools by Id" time="0.8490" classname="3. user should be able to delete nodePools by Id">
+    <testcase class="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests 3. user should be able to delete nodePools by Id" time="0.8490" classclass="3. user should be able to delete nodePools by Id">
     </testcase>
-    <testcase name="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests DI-Kubernetes-0006. Users should be able to delete dynamic Kubernetes integration if it is not being used in the node pool." time="0.5750" classname="DI-Kubernetes-0006. Users should be able to delete dynamic Kubernetes integration if it is not being used in the node pool.">
+    <testcase class="DYNAMICPROJECTINTEGRATIONS_KUBERNETES - DynamicKubernetes integration tests DI-Kubernetes-0006. Users should be able to delete dynamic Kubernetes integration if it is not being used in the node pool." time="0.5750" classclass="DI-Kubernetes-0006. Users should be able to delete dynamic Kubernetes integration if it is not being used in the node pool.">
     </testcase>
   </testsuite>
 </testsuites>

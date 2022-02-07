@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="74.4320" tests="3" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:17" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="74.4320" tests="3" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:17" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="STEP_BASHGITHUBINTEGRATION - Bash Step Tests For GitHub Integration" timestamp="2022-01-17T17:51:17" tests="3" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383568/setup_PreMatrix/tests/core/steps/Bash/BashIntegrations/BashGitHubIntegration.js" time="74.4270" failures="0">
-    <testcase name="STEP_BASHGITHUBINTEGRATION - Bash Step Tests For GitHub Integration S-Bash-0303. Environment variables for the resource are available in execution sections of the Bash step." time="30.4930" classname="S-Bash-0303. Environment variables for the resource are available in execution sections of the Bash step.">
+  <testsuite class="STEP_BASHGITHUBINTEGRATION - Bash Step Tests For GitHub Integration" timestamp="2022-01-17T17:51:17" tests="3" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383568/setup_PreMatrix/tests/core/steps/Bash/BashIntegrations/BashGitHubIntegration.js" time="74.4270" failures="0">
+    <testcase class="STEP_BASHGITHUBINTEGRATION - Bash Step Tests For GitHub Integration S-Bash-0303. Environment variables for the resource are available in execution sections of the Bash step." time="30.4930" classclass="S-Bash-0303. Environment variables for the resource are available in execution sections of the Bash step.">
     </testcase>
-    <testcase name="STEP_BASHGITHUBINTEGRATION - Bash Step Tests For GitHub Integration S-Bash-0301. User adds GitHub integration in integration section of Bash step and verify pipeline sync is success" time="23.4480" classname="S-Bash-0301. User adds GitHub integration in integration section of Bash step and verify pipeline sync is success">
+    <testcase class="STEP_BASHGITHUBINTEGRATION - Bash Step Tests For GitHub Integration S-Bash-0301. User adds GitHub integration in integration section of Bash step and verify pipeline sync is success" time="23.4480" classclass="S-Bash-0301. User adds GitHub integration in integration section of Bash step and verify pipeline sync is success">
     </testcase>
-    <testcase name="STEP_BASHGITHUBINTEGRATION - Bash Step Tests For GitHub Integration S-Bash-0414. Users should not able to delete GitHub  integration if it is dependent on any steps." time="20.3500" classname="S-Bash-0414. Users should not able to delete GitHub  integration if it is dependent on any steps.">
+    <testcase class="STEP_BASHGITHUBINTEGRATION - Bash Step Tests For GitHub Integration S-Bash-0414. Users should not able to delete GitHub  integration if it is dependent on any steps." time="20.3500" classclass="S-Bash-0414. Users should not able to delete GitHub  integration if it is dependent on any steps.">
     </testcase>
   </testsuite>
 </testsuites>

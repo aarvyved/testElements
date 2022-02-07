@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="0.8210" tests="8" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="0.8210" tests="8" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="API_SYSTEMCODES - SystemCodes API tests" timestamp="2022-01-17T17:51:38" tests="8" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383739/setup_PreMatrix/tests/core/api/systemCodes.js" time="0.8140" failures="0">
-    <testcase name="API_SYSTEMCODES - SystemCodes API tests A-Systemcodes-0001. Super user can get their systemcodes" time="0.0810" classname="A-Systemcodes-0001. Super user can get their systemcodes">
+  <testsuite class="API_SYSTEMCODES - SystemCodes API tests" timestamp="2022-01-17T17:51:38" tests="8" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383739/setup_PreMatrix/tests/core/api/systemCodes.js" time="0.8140" failures="0">
+    <testcase class="API_SYSTEMCODES - SystemCodes API tests A-Systemcodes-0001. Super user can get their systemcodes" time="0.0810" classclass="A-Systemcodes-0001. Super user can get their systemcodes">
     </testcase>
-    <testcase name="API_SYSTEMCODES - SystemCodes API tests A-G-PP-0014. ProjectAdminUser should be able to GET the systemCodes" time="0.0950" classname="A-G-PP-0014. ProjectAdminUser should be able to GET the systemCodes">
+    <testcase class="API_SYSTEMCODES - SystemCodes API tests A-G-PP-0014. ProjectAdminUser should be able to GET the systemCodes" time="0.0950" classclass="A-G-PP-0014. ProjectAdminUser should be able to GET the systemCodes">
     </testcase>
-    <testcase name="API_SYSTEMCODES - SystemCodes API tests A-Systemcodes-0002. Admin user can get their systemcodes" time="0.2150" classname="A-Systemcodes-0002. Admin user can get their systemcodes">
+    <testcase class="API_SYSTEMCODES - SystemCodes API tests A-Systemcodes-0002. Admin user can get their systemcodes" time="0.2150" classclass="A-Systemcodes-0002. Admin user can get their systemcodes">
     </testcase>
-    <testcase name="API_SYSTEMCODES - SystemCodes API tests A-Systemcodes-0003. Member user can get their systemcodes" time="0.1430" classname="A-Systemcodes-0003. Member user can get their systemcodes">
+    <testcase class="API_SYSTEMCODES - SystemCodes API tests A-Systemcodes-0003. Member user can get their systemcodes" time="0.1430" classclass="A-Systemcodes-0003. Member user can get their systemcodes">
     </testcase>
-    <testcase name="API_SYSTEMCODES - SystemCodes API tests A-Systemcodes-0004. Public user can get their systemcodes" time="0.0640" classname="A-Systemcodes-0004. Public user can get their systemcodes">
+    <testcase class="API_SYSTEMCODES - SystemCodes API tests A-Systemcodes-0004. Public user can get their systemcodes" time="0.0640" classclass="A-Systemcodes-0004. Public user can get their systemcodes">
     </testcase>
-    <testcase name="API_SYSTEMCODES - SystemCodes API tests A-Systemcodes-0005. Code field in systemcodes API should not be null and should be a number" time="0.0000" classname="A-Systemcodes-0005. Code field in systemcodes API should not be null and should be a number">
+    <testcase class="API_SYSTEMCODES - SystemCodes API tests A-Systemcodes-0005. Code field in systemcodes API should not be null and should be a number" time="0.0000" classclass="A-Systemcodes-0005. Code field in systemcodes API should not be null and should be a number">
     </testcase>
-    <testcase name="API_SYSTEMCODES - SystemCodes API tests A-Systemcodes-0006. Name field in systemcodes API should not be null and should be a string" time="0.0000" classname="A-Systemcodes-0006. Name field in systemcodes API should not be null and should be a string">
+    <testcase class="API_SYSTEMCODES - SystemCodes API tests A-Systemcodes-0006. Name field in systemcodes API should not be null and should be a string" time="0.0000" classclass="A-Systemcodes-0006. Name field in systemcodes API should not be null and should be a string">
     </testcase>
-    <testcase name="API_SYSTEMCODES - SystemCodes API tests A-Systemcodes-0007. Group field in systemcodes API should not be null and should be a string " time="0.0000" classname="A-Systemcodes-0007. Group field in systemcodes API should not be null and should be a string ">
+    <testcase class="API_SYSTEMCODES - SystemCodes API tests A-Systemcodes-0007. Group field in systemcodes API should not be null and should be a string " time="0.0000" classclass="A-Systemcodes-0007. Group field in systemcodes API should not be null and should be a string ">
     </testcase>
   </testsuite>
 </testsuites>

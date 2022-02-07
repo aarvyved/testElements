@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="286.2920" tests="1" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:50:59" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="286.2920" tests="1" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:50:59" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="WORKFLOW_TESTS - pipeline workFlow tests " timestamp="2022-01-17T17:50:59" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383769/setup_PreMatrix/tests/core/workFlow/pipeline/trigger/pipelineWorkFlowComplexPipelines.js" time="0.0000" failures="0">
+  <testsuite class="WORKFLOW_TESTS - pipeline workFlow tests " timestamp="2022-01-17T17:50:59" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383769/setup_PreMatrix/tests/core/workFlow/pipeline/trigger/pipelineWorkFlowComplexPipelines.js" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="Test cases with complex pipelines in workflow tests" timestamp="2022-01-17T17:50:59" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383769/setup_PreMatrix/tests/core/workFlow/pipeline/trigger/pipelineWorkFlowComplexPipelines.js" time="286.1850" failures="0">
-    <testcase name="WORKFLOW_TESTS - pipeline workFlow tests  Test cases with complex pipelines in workflow tests P_WF_0031. Complex pipeline" time="286.1800" classname="P_WF_0031. Complex pipeline">
+  <testsuite class="Test cases with complex pipelines in workflow tests" timestamp="2022-01-17T17:50:59" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383769/setup_PreMatrix/tests/core/workFlow/pipeline/trigger/pipelineWorkFlowComplexPipelines.js" time="286.1850" failures="0">
+    <testcase class="WORKFLOW_TESTS - pipeline workFlow tests  Test cases with complex pipelines in workflow tests P_WF_0031. Complex pipeline" time="286.1800" classclass="P_WF_0031. Complex pipeline">
     </testcase>
   </testsuite>
 </testsuites>

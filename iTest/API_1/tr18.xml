@@ -1,209 +1,209 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="45.5850" tests="85" failures="0" skipped="31">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:36" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="45.5850" tests="85" failures="0" skipped="31">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:36" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="API_NODEPOOLS - NodePools API tests" timestamp="2022-01-17T17:51:36" tests="54" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383637/setup_PreMatrix/tests/core/api/nodePools.js" time="0.0000" failures="0">
-    <testcase name="API_NODEPOOLS - NodePools API tests 2. Super user posts PipelineSources to add pipelines" time="23.2380" classname="2. Super user posts PipelineSources to add pipelines">
+  <testsuite class="API_NODEPOOLS - NodePools API tests" timestamp="2022-01-17T17:51:36" tests="54" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383637/setup_PreMatrix/tests/core/api/nodePools.js" time="0.0000" failures="0">
+    <testcase class="API_NODEPOOLS - NodePools API tests 2. Super user posts PipelineSources to add pipelines" time="23.2380" classclass="2. Super user posts PipelineSources to add pipelines">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0001. Super user can post NodePools" time="3.4910" classname="A-NodePools-0001. Super user can post NodePools">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0001. Super user can post NodePools" time="3.4910" classclass="A-NodePools-0001. Super user can post NodePools">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-PO-PP-0005. Project Admin User should be able to post the nodePools" time="4.6020" classname="A-PO-PP-0005. Project Admin User should be able to post the nodePools">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-PO-PP-0005. Project Admin User should be able to post the nodePools" time="4.6020" classclass="A-PO-PP-0005. Project Admin User should be able to post the nodePools">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0002. Admin User cannot post NodePools" time="0.0540" classname="A-NodePools-0002. Admin User cannot post NodePools">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0002. Admin User cannot post NodePools" time="0.0540" classclass="A-NodePools-0002. Admin User cannot post NodePools">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0003. Member User cannot post NodePools" time="0.0660" classname="A-NodePools-0003. Member User cannot post NodePools">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0003. Member User cannot post NodePools" time="0.0660" classclass="A-NodePools-0003. Member User cannot post NodePools">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0004. Public user cannot post NodePools" time="0.0170" classname="A-NodePools-0004. Public user cannot post NodePools">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0004. Public user cannot post NodePools" time="0.0170" classclass="A-NodePools-0004. Public user cannot post NodePools">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0041. User should be able to post NodePool within insecure registries" time="3.5970" classname="A-NodePools-0041. User should be able to post NodePool within insecure registries">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0041. User should be able to post NodePool within insecure registries" time="3.5970" classclass="A-NodePools-0041. User should be able to post NodePool within insecure registries">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-6584-0001. User should not be able to post NodePool with non-array typed insecure registries" time="0.0390" classname="A-NodePools-6584-0001. User should not be able to post NodePool with non-array typed insecure registries">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-6584-0001. User should not be able to post NodePool with non-array typed insecure registries" time="0.0390" classclass="A-NodePools-6584-0001. User should not be able to post NodePool with non-array typed insecure registries">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-6584-0002. User should not be able to update NodePool with non-array typed insecure registries" time="0.0480" classname="A-NodePools-6584-0002. User should not be able to update NodePool with non-array typed insecure registries">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-6584-0002. User should not be able to update NodePool with non-array typed insecure registries" time="0.0480" classclass="A-NodePools-6584-0002. User should not be able to update NodePool with non-array typed insecure registries">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-6049-0001. User cannot create a nodepool with an invalid insecure docker registry." time="0.0300" classname="A-NodePools-6049-0001. User cannot create a nodepool with an invalid insecure docker registry.">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-6049-0001. User cannot create a nodepool with an invalid insecure docker registry." time="0.0300" classclass="A-NodePools-6049-0001. User cannot create a nodepool with an invalid insecure docker registry.">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-6049-0002. User cannot create a nodepool with valid and invalid insecure docker registries." time="0.0850" classname="A-NodePools-6049-0002. User cannot create a nodepool with valid and invalid insecure docker registries.">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-6049-0002. User cannot create a nodepool with valid and invalid insecure docker registries." time="0.0850" classclass="A-NodePools-6049-0002. User cannot create a nodepool with valid and invalid insecure docker registries.">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0005. Super user can get their NodePools" time="0.0450" classname="A-NodePools-0005. Super user can get their NodePools">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0005. Super user can get their NodePools" time="0.0450" classclass="A-NodePools-0005. Super user can get their NodePools">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-6531-0072. Users are able to use the include parameter while getting nodePools." time="0.0940" classname="A-NodePools-6531-0072. Users are able to use the include parameter while getting nodePools.">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-6531-0072. Users are able to use the include parameter while getting nodePools." time="0.0940" classclass="A-NodePools-6531-0072. Users are able to use the include parameter while getting nodePools.">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0006. Admin User can get their NodePools" time="0.1640" classname="A-NodePools-0006. Admin User can get their NodePools">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0006. Admin User can get their NodePools" time="0.1640" classclass="A-NodePools-0006. Admin User can get their NodePools">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0007. Member User can get their NodePools" time="0.1750" classname="A-NodePools-0007. Member User can get their NodePools">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0007. Member User can get their NodePools" time="0.1750" classclass="A-NodePools-0007. Member User can get their NodePools">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0008. Public user cannot get their NodePools" time="0.0170" classname="A-NodePools-0008. Public user cannot get their NodePools">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0008. Public user cannot get their NodePools" time="0.0170" classclass="A-NodePools-0008. Public user cannot get their NodePools">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0009. Super user can update the NodePools by id" time="0.1320" classname="A-NodePools-0009. Super user can update the NodePools by id">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0009. Super user can update the NodePools by id" time="0.1320" classclass="A-NodePools-0009. Super user can update the NodePools by id">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-PUT-PP-0002. ProjectAdminUser should be able update nodePoolby its Id " time="0.3300" classname="A-PUT-PP-0002. ProjectAdminUser should be able update nodePoolby its Id ">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-PUT-PP-0002. ProjectAdminUser should be able update nodePoolby its Id " time="0.3300" classclass="A-PUT-PP-0002. ProjectAdminUser should be able update nodePoolby its Id ">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0010. Admin user cannot update NodePools by id" time="0.0790" classname="A-NodePools-0010. Admin user cannot update NodePools by id">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0010. Admin user cannot update NodePools by id" time="0.0790" classclass="A-NodePools-0010. Admin user cannot update NodePools by id">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0011. Member User cannot update NodePools by id" time="0.0410" classname="A-NodePools-0011. Member User cannot update NodePools by id">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0011. Member User cannot update NodePools by id" time="0.0410" classclass="A-NodePools-0011. Member User cannot update NodePools by id">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0012. Public user cannot update NodePools by id" time="0.0250" classname="A-NodePools-0012. Public user cannot update NodePools by id">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0012. Public user cannot update NodePools by id" time="0.0250" classclass="A-NodePools-0012. Public user cannot update NodePools by id">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-Nodes-0042. User should able to update insecure registriesin node by its id" time="0.5690" classname="A-Nodes-0042. User should able to update insecure registriesin node by its id">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-Nodes-0042. User should able to update insecure registriesin node by its id" time="0.5690" classclass="A-Nodes-0042. User should able to update insecure registriesin node by its id">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0013. Super user can get their nodeMetaDataMap" time="0.1810" classname="A-NodePools-0013. Super user can get their nodeMetaDataMap">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0013. Super user can get their nodeMetaDataMap" time="0.1810" classclass="A-NodePools-0013. Super user can get their nodeMetaDataMap">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-G-PP-0001.ProjectAdminUser should be able to get the nodeMetaDataMap" time="0.1690" classname="A-G-PP-0001.ProjectAdminUser should be able to get the nodeMetaDataMap">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-G-PP-0001.ProjectAdminUser should be able to get the nodeMetaDataMap" time="0.1690" classclass="A-G-PP-0001.ProjectAdminUser should be able to get the nodeMetaDataMap">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0014. Admin user can get their nodeMetaDataMap" time="0.1520" classname="A-NodePools-0014. Admin user can get their nodeMetaDataMap">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0014. Admin user can get their nodeMetaDataMap" time="0.1520" classclass="A-NodePools-0014. Admin user can get their nodeMetaDataMap">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0015. Member User can get their nodeMetaDataMap" time="0.2030" classname="A-NodePools-0015. Member User can get their nodeMetaDataMap">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0015. Member User can get their nodeMetaDataMap" time="0.2030" classclass="A-NodePools-0015. Member User can get their nodeMetaDataMap">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0016. Public user cannot get their nodeMetaDataMap" time="0.0220" classname="A-NodePools-0016. Public user cannot get their nodeMetaDataMap">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0016. Public user cannot get their nodeMetaDataMap" time="0.0220" classclass="A-NodePools-0016. Public user cannot get their nodeMetaDataMap">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0017. Id field in nodePools API should not be null and should be an integer" time="0.0000" classname="A-NodePools-0017. Id field in nodePools API should not be null and should be an integer">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0017. Id field in nodePools API should not be null and should be an integer" time="0.0000" classclass="A-NodePools-0017. Id field in nodePools API should not be null and should be an integer">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0018. ProjectId field in nodePools API should not be null and should be a string" time="0.0000" classname="A-NodePools-0018. ProjectId field in nodePools API should not be null and should be a string">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0018. ProjectId field in nodePools API should not be null and should be a string" time="0.0000" classclass="A-NodePools-0018. ProjectId field in nodePools API should not be null and should be a string">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0019. Name field in nodePools API should not be null and should be a string" time="0.0000" classname="A-NodePools-0019. Name field in nodePools API should not be null and should be a string">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0019. Name field in nodePools API should not be null and should be a string" time="0.0000" classclass="A-NodePools-0019. Name field in nodePools API should not be null and should be a string">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0020. queueName field in nodePools API should not be null and should be a string" time="0.0000" classname="A-NodePools-0020. queueName field in nodePools API should not be null and should be a string">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0020. queueName field in nodePools API should not be null and should be a string" time="0.0000" classclass="A-NodePools-0020. queueName field in nodePools API should not be null and should be a string">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0021. numberOfNodes field in nodePools API should not be null and should be a string" time="0.0000" classname="A-NodePools-0021. numberOfNodes field in nodePools API should not be null and should be a string">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0021. numberOfNodes field in nodePools API should not be null and should be a string" time="0.0000" classclass="A-NodePools-0021. numberOfNodes field in nodePools API should not be null and should be a string">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0022. isOnDemand field in nodePools API should not be null and should be a string" time="0.0000" classname="A-NodePools-0022. isOnDemand field in nodePools API should not be null and should be a string">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0022. isOnDemand field in nodePools API should not be null and should be a string" time="0.0000" classclass="A-NodePools-0022. isOnDemand field in nodePools API should not be null and should be a string">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0023. buildPlaneImageId field in nodePools API should not be null and should be a string" time="0.0000" classname="A-NodePools-0023. buildPlaneImageId field in nodePools API should not be null and should be a string">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0023. buildPlaneImageId field in nodePools API should not be null and should be a string" time="0.0000" classclass="A-NodePools-0023. buildPlaneImageId field in nodePools API should not be null and should be a string">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0024. projectIntegrationId field in nodePools API should not be null and should be a string" time="0.0000" classname="A-NodePools-0024. projectIntegrationId field in nodePools API should not be null and should be a string">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0024. projectIntegrationId field in nodePools API should not be null and should be a string" time="0.0000" classclass="A-NodePools-0024. projectIntegrationId field in nodePools API should not be null and should be a string">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0025. architecture field in nodePools API should not be null and should be a string" time="0.0000" classname="A-NodePools-0025. architecture field in nodePools API should not be null and should be a string">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0025. architecture field in nodePools API should not be null and should be a string" time="0.0000" classclass="A-NodePools-0025. architecture field in nodePools API should not be null and should be a string">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0026. operatingSystem field in nodePools API should not be null and should be a string" time="0.0000" classname="A-NodePools-0026. operatingSystem field in nodePools API should not be null and should be a string">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0026. operatingSystem field in nodePools API should not be null and should be a string" time="0.0000" classclass="A-NodePools-0026. operatingSystem field in nodePools API should not be null and should be a string">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0027. maxDiskUsagePercentage field in nodePools API should not be null and should be a string" time="0.0000" classname="A-NodePools-0027. maxDiskUsagePercentage field in nodePools API should not be null and should be a string">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0027. maxDiskUsagePercentage field in nodePools API should not be null and should be a string" time="0.0000" classclass="A-NodePools-0027. maxDiskUsagePercentage field in nodePools API should not be null and should be a string">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0028. timeoutMS field in nodePools API should not be null and should be a string" time="0.0000" classname="A-NodePools-0028. timeoutMS field in nodePools API should not be null and should be a string">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0028. timeoutMS field in nodePools API should not be null and should be a string" time="0.0000" classclass="A-NodePools-0028. timeoutMS field in nodePools API should not be null and should be a string">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0029. isNatEnabled field in nodePools API should not be null and should be a string" time="0.0000" classname="A-NodePools-0029. isNatEnabled field in nodePools API should not be null and should be a string">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0029. isNatEnabled field in nodePools API should not be null and should be a string" time="0.0000" classclass="A-NodePools-0029. isNatEnabled field in nodePools API should not be null and should be a string">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0030. isCacheEnabled field in nodePools API should not be null and should be a string" time="0.0000" classname="A-NodePools-0030. isCacheEnabled field in nodePools API should not be null and should be a string">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0030. isCacheEnabled field in nodePools API should not be null and should be a string" time="0.0000" classclass="A-NodePools-0030. isCacheEnabled field in nodePools API should not be null and should be a string">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0031. nodeIdleIntervalInMins field in nodePools API should not be null and should be a string" time="0.0000" classname="A-NodePools-0031. nodeIdleIntervalInMins field in nodePools API should not be null and should be a string">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0031. nodeIdleIntervalInMins field in nodePools API should not be null and should be a string" time="0.0000" classclass="A-NodePools-0031. nodeIdleIntervalInMins field in nodePools API should not be null and should be a string">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0032. providerMetadataPropertyBag field in nodePools API should not be null and should be a string" time="0.0000" classname="A-NodePools-0032. providerMetadataPropertyBag field in nodePools API should not be null and should be a string">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0032. providerMetadataPropertyBag field in nodePools API should not be null and should be a string" time="0.0000" classclass="A-NodePools-0032. providerMetadataPropertyBag field in nodePools API should not be null and should be a string">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0033. cacheSettingsPropertyBag field in nodePools API should not be null and should be a string" time="0.0000" classname="A-NodePools-0033. cacheSettingsPropertyBag field in nodePools API should not be null and should be a string">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0033. cacheSettingsPropertyBag field in nodePools API should not be null and should be a string" time="0.0000" classclass="A-NodePools-0033. cacheSettingsPropertyBag field in nodePools API should not be null and should be a string">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0034. permissions field in nodePools API should not be null and should be a string" time="0.0000" classname="A-NodePools-0034. permissions field in nodePools API should not be null and should be a string">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0034. permissions field in nodePools API should not be null and should be a string" time="0.0000" classclass="A-NodePools-0034. permissions field in nodePools API should not be null and should be a string">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0035. CreatedAt in nodePools API should be a string type" time="0.0000" classname="A-NodePools-0035. CreatedAt in nodePools API should be a string type">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0035. CreatedAt in nodePools API should be a string type" time="0.0000" classclass="A-NodePools-0035. CreatedAt in nodePools API should be a string type">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0036. UpdatedAt in nodePools API should be a string type" time="0.0000" classname="A-NodePools-0036. UpdatedAt in nodePools API should be a string type">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0036. UpdatedAt in nodePools API should be a string type" time="0.0000" classclass="A-NodePools-0036. UpdatedAt in nodePools API should be a string type">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0037. Public user cannot delete nodePools by Id" time="0.0180" classname="A-NodePools-0037. Public user cannot delete nodePools by Id">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0037. Public user cannot delete nodePools by Id" time="0.0180" classclass="A-NodePools-0037. Public user cannot delete nodePools by Id">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0038. Member User cannot delete nodePools by Id" time="0.0920" classname="A-NodePools-0038. Member User cannot delete nodePools by Id">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0038. Member User cannot delete nodePools by Id" time="0.0920" classclass="A-NodePools-0038. Member User cannot delete nodePools by Id">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0039. Admin User cannot delete nodePools by Id" time="0.0880" classname="A-NodePools-0039. Admin User cannot delete nodePools by Id">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0039. Admin User cannot delete nodePools by Id" time="0.0880" classclass="A-NodePools-0039. Admin User cannot delete nodePools by Id">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-DEL-PP-0002. ProjectAdminUser should be able to delete nodePoolsby its Id" time="0.8280" classname="A-DEL-PP-0002. ProjectAdminUser should be able to delete nodePoolsby its Id">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-DEL-PP-0002. ProjectAdminUser should be able to delete nodePoolsby its Id" time="0.8280" classclass="A-DEL-PP-0002. ProjectAdminUser should be able to delete nodePoolsby its Id">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests A-NodePools-0040. Super user should be able to delete nodePools by Id" time="0.3310" classname="A-NodePools-0040. Super user should be able to delete nodePools by Id">
+    <testcase class="API_NODEPOOLS - NodePools API tests A-NodePools-0040. Super user should be able to delete nodePools by Id" time="0.3310" classclass="A-NodePools-0040. Super user should be able to delete nodePools by Id">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests 4. Super user deletes pipelineSource by Id" time="5.1970" classname="4. Super user deletes pipelineSource by Id">
+    <testcase class="API_NODEPOOLS - NodePools API tests 4. Super user deletes pipelineSource by Id" time="5.1970" classclass="4. Super user deletes pipelineSource by Id">
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests 2. Super User should be able to delete nodePools by Id" time="1.0080" classname="2. Super User should be able to delete nodePools by Id">
+    <testcase class="API_NODEPOOLS - NodePools API tests 2. Super User should be able to delete nodePools by Id" time="1.0080" classclass="2. Super User should be able to delete nodePools by Id">
     </testcase>
   </testsuite>
-  <testsuite name="Below test cases are for new projects support" timestamp="2022-01-17T17:52:22" tests="31" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383637/setup_PreMatrix/tests/core/api/nodePools.js" time="0.0040" failures="0" skipped="31">
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0050. Project admin can POST a nodepool using a project object instead of project ID" time="0.0000" classname="A-NodePools-0050. Project admin can POST a nodepool using a project object instead of project ID">
+  <testsuite class="Below test cases are for new projects support" timestamp="2022-01-17T17:52:22" tests="31" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383637/setup_PreMatrix/tests/core/api/nodePools.js" time="0.0040" failures="0" skipped="31">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0050. Project admin can POST a nodepool using a project object instead of project ID" time="0.0000" classclass="A-NodePools-0050. Project admin can POST a nodepool using a project object instead of project ID">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0051. Default Project admin can POST a nodepool using a project object instead of project ID" time="0.0000" classname="A-NodePools-0051. Default Project admin can POST a nodepool using a project object instead of project ID">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0051. Default Project admin can POST a nodepool using a project object instead of project ID" time="0.0000" classclass="A-NodePools-0051. Default Project admin can POST a nodepool using a project object instead of project ID">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0052. Project admin cannot POST a nodepool using a project object without a name attribute" time="0.0000" classname="A-NodePools-0052. Project admin cannot POST a nodepool using a project object without a name attribute">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0052. Project admin cannot POST a nodepool using a project object without a name attribute" time="0.0000" classclass="A-NodePools-0052. Project admin cannot POST a nodepool using a project object without a name attribute">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0053. ProjectAdmin can POST a nodepool and have a default environment assigned" time="0.0000" classname="A-NodePools-0053. ProjectAdmin can POST a nodepool and have a default environment assigned">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0053. ProjectAdmin can POST a nodepool and have a default environment assigned" time="0.0000" classclass="A-NodePools-0053. ProjectAdmin can POST a nodepool and have a default environment assigned">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0054. Project Admin can POST nodePool to custom environments" time="0.0000" classname="A-NodePools-0054. Project Admin can POST nodePool to custom environments">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0054. Project Admin can POST nodePool to custom environments" time="0.0000" classclass="A-NodePools-0054. Project Admin can POST nodePool to custom environments">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0055. Project Admin can PUT a nodePool to change environment" time="0.0000" classname="A-NodePools-0055. Project Admin can PUT a nodePool to change environment">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0055. Project Admin can PUT a nodePool to change environment" time="0.0000" classclass="A-NodePools-0055. Project Admin can PUT a nodePool to change environment">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0056. ProjectAdmin cannot POST a nodepool to a project they do not have access to" time="0.0000" classname="A-NodePools-0056. ProjectAdmin cannot POST a nodepool to a project they do not have access to">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0056. ProjectAdmin cannot POST a nodepool to a project they do not have access to" time="0.0000" classclass="A-NodePools-0056. ProjectAdmin cannot POST a nodepool to a project they do not have access to">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0057. Project Admin cannot POST nodePool to a project he is only a member of" time="0.0000" classname="A-NodePools-0057. Project Admin cannot POST nodePool to a project he is only a member of">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0057. Project Admin cannot POST nodePool to a project he is only a member of" time="0.0000" classclass="A-NodePools-0057. Project Admin cannot POST nodePool to a project he is only a member of">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0058. Super Admin can POST a nodePool to a project without explicit access" time="0.0000" classname="A-NodePools-0058. Super Admin can POST a nodePool to a project without explicit access">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0058. Super Admin can POST a nodePool to a project without explicit access" time="0.0000" classclass="A-NodePools-0058. Super Admin can POST a nodePool to a project without explicit access">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0059. ProjectAdmin of one project cannot update a nodepool in another project to which they have no access" time="0.0000" classname="A-NodePools-0059. ProjectAdmin of one project cannot update a nodepool in another project to which they have no access">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0059. ProjectAdmin of one project cannot update a nodepool in another project to which they have no access" time="0.0000" classclass="A-NodePools-0059. ProjectAdmin of one project cannot update a nodepool in another project to which they have no access">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0060. ProjectAdmin of one project cannot update a nodepool in another project that they have member access to" time="0.0000" classname="A-NodePools-0060. ProjectAdmin of one project cannot update a nodepool in another project that they have member access to">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0060. ProjectAdmin of one project cannot update a nodepool in another project that they have member access to" time="0.0000" classclass="A-NodePools-0060. ProjectAdmin of one project cannot update a nodepool in another project that they have member access to">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0061. Project Developer can GET /nodepools with projectIds=&lt;id&gt; query parameter" time="0.0000" classname="A-NodePools-0061. Project Developer can GET /nodepools with projectIds=&lt;id&gt; query parameter">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0061. Project Developer can GET /nodepools with projectIds=&lt;id&gt; query parameter" time="0.0000" classclass="A-NodePools-0061. Project Developer can GET /nodepools with projectIds=&lt;id&gt; query parameter">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0062. Project Developer can GET /nodepools with no parameters and see only nodepools in their project and environment" time="0.0000" classname="A-NodePools-0062. Project Developer can GET /nodepools with no parameters and see only nodepools in their project and environment">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0062. Project Developer can GET /nodepools with no parameters and see only nodepools in their project and environment" time="0.0000" classclass="A-NodePools-0062. Project Developer can GET /nodepools with no parameters and see only nodepools in their project and environment">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0063. Project Developer can GET nodePools with ID they do not have access to and will receive an empty array response" time="0.0000" classname="A-NodePools-0063. Project Developer can GET nodePools with ID they do not have access to and will receive an empty array response">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0063. Project Developer can GET nodePools with ID they do not have access to and will receive an empty array response" time="0.0000" classclass="A-NodePools-0063. Project Developer can GET nodePools with ID they do not have access to and will receive an empty array response">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0064. Project Developer with access to two projects can call GET  and see nodepools from both projects" time="0.0000" classname="A-NodePools-0064. Project Developer with access to two projects can call GET  and see nodepools from both projects">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0064. Project Developer with access to two projects can call GET  and see nodepools from both projects" time="0.0000" classclass="A-NodePools-0064. Project Developer with access to two projects can call GET  and see nodepools from both projects">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0065. Project Developer cannot GET a nodepool using ID of a pool in an environment they do not have access to" time="0.0000" classname="A-NodePools-0065. Project Developer cannot GET a nodepool using ID of a pool in an environment they do not have access to">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0065. Project Developer cannot GET a nodepool using ID of a pool in an environment they do not have access to" time="0.0000" classclass="A-NodePools-0065. Project Developer cannot GET a nodepool using ID of a pool in an environment they do not have access to">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0066. Project Admin cannot GETS nodepools  from projects they cannot access" time="0.0000" classname="A-NodePools-0066. Project Admin cannot GETS nodepools  from projects they cannot access">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0066. Project Admin cannot GETS nodepools  from projects they cannot access" time="0.0000" classclass="A-NodePools-0066. Project Admin cannot GETS nodepools  from projects they cannot access">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0067. Project Developer cannot DELETE a nodepool" time="0.0000" classname="A-NodePools-0067. Project Developer cannot DELETE a nodepool">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0067. Project Developer cannot DELETE a nodepool" time="0.0000" classclass="A-NodePools-0067. Project Developer cannot DELETE a nodepool">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0068. ProjectAdmin can DELETE an existing nodepool in their project" time="0.0000" classname="A-NodePools-0068. ProjectAdmin can DELETE an existing nodepool in their project">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0068. ProjectAdmin can DELETE an existing nodepool in their project" time="0.0000" classclass="A-NodePools-0068. ProjectAdmin can DELETE an existing nodepool in their project">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0069. ProjectAdmin cannot DELETE an existing nodepool in a project they cannot access" time="0.0000" classname="A-NodePools-0069. ProjectAdmin cannot DELETE an existing nodepool in a project they cannot access">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0069. ProjectAdmin cannot DELETE an existing nodepool in a project they cannot access" time="0.0000" classclass="A-NodePools-0069. ProjectAdmin cannot DELETE an existing nodepool in a project they cannot access">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0070. Super user can get nodePools from multiple projects with ***." time="0.0000" classname="A-NodePools-0070. Super user can get nodePools from multiple projects with ***.">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0070. Super user can get nodePools from multiple projects with ***." time="0.0000" classclass="A-NodePools-0070. Super user can get nodePools from multiple projects with ***.">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0071. Project admin can only get nodePools  for user&apos;s projects with ***." time="0.0000" classname="A-NodePools-0071. Project admin can only get nodePools  for user&apos;s projects with ***.">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-0071. Project admin can only get nodePools  for user&apos;s projects with ***." time="0.0000" classclass="A-NodePools-0071. Project admin can only get nodePools  for user&apos;s projects with ***.">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-6524-001. User tries to add a Node Pool using a name that does not follow the naming convention. User gets an error and the Node Pool is not created." time="0.0000" classname="A-NodePools-6524-001. User tries to add a Node Pool using a name that does not follow the naming convention. User gets an error and the Node Pool is not created.">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-6524-001. User tries to add a Node Pool using a name that does not follow the naming convention. User gets an error and the Node Pool is not created." time="0.0000" classclass="A-NodePools-6524-001. User tries to add a Node Pool using a name that does not follow the naming convention. User gets an error and the Node Pool is not created.">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-6524-002. User tries to update a Node Pool name. User gets an error and the Node Pool is not changed." time="0.0000" classname="A-NodePools-6524-002. User tries to update a Node Pool name. User gets an error and the Node Pool is not changed.">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-6524-002. User tries to update a Node Pool name. User gets an error and the Node Pool is not changed." time="0.0000" classclass="A-NodePools-6524-002. User tries to update a Node Pool name. User gets an error and the Node Pool is not changed.">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-6524-003. User tries to add a Node Pool to the default project using the same name of an existing Node Pool in a project. User gets an error and the Node Pool is not created." time="0.0000" classname="A-NodePools-6524-003. User tries to add a Node Pool to the default project using the same name of an existing Node Pool in a project. User gets an error and the Node Pool is not created.">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePools-6524-003. User tries to add a Node Pool to the default project using the same name of an existing Node Pool in a project. User gets an error and the Node Pool is not created." time="0.0000" classclass="A-NodePools-6524-003. User tries to add a Node Pool to the default project using the same name of an existing Node Pool in a project. User gets an error and the Node Pool is not created.">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePool-6527-001. Project Admin should be able to share a node pool with another project." time="0.0000" classname="A-NodePool-6527-001. Project Admin should be able to share a node pool with another project.">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePool-6527-001. Project Admin should be able to share a node pool with another project." time="0.0000" classclass="A-NodePool-6527-001. Project Admin should be able to share a node pool with another project.">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePool-6527-002. Project member should not be able to share a node pool with another project." time="0.0000" classname="A-NodePool-6527-002. Project member should not be able to share a node pool with another project.">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePool-6527-002. Project member should not be able to share a node pool with another project." time="0.0000" classclass="A-NodePool-6527-002. Project member should not be able to share a node pool with another project.">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePool-6527-003. User should be able to see a node pool that belongs to another project and is shared with the users project." time="0.0000" classname="A-NodePool-6527-003. User should be able to see a node pool that belongs to another project and is shared with the users project.">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePool-6527-003. User should be able to see a node pool that belongs to another project and is shared with the users project." time="0.0000" classclass="A-NodePool-6527-003. User should be able to see a node pool that belongs to another project and is shared with the users project.">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePool-6527-004. User should not be able to see a node pool that belongs to another project and is not shared with the users project." time="0.0000" classname="A-NodePool-6527-004. User should not be able to see a node pool that belongs to another project and is not shared with the users project.">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePool-6527-004. User should not be able to see a node pool that belongs to another project and is not shared with the users project." time="0.0000" classclass="A-NodePool-6527-004. User should not be able to see a node pool that belongs to another project and is not shared with the users project.">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePool-6527-005. Project Admin User should not be able to update a node pool that belongs to another project and is shared with the users project." time="0.0000" classname="A-NodePool-6527-005. Project Admin User should not be able to update a node pool that belongs to another project and is shared with the users project.">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support A-NodePool-6527-005. Project Admin User should not be able to update a node pool that belongs to another project and is shared with the users project." time="0.0000" classclass="A-NodePool-6527-005. Project Admin User should not be able to update a node pool that belongs to another project and is shared with the users project.">
       <skipped/>
     </testcase>
-    <testcase name="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support 2. Super User should be able to delete nodePools by Id" time="0.0000" classname="2. Super User should be able to delete nodePools by Id">
+    <testcase class="API_NODEPOOLS - NodePools API tests Below test cases are for new projects support 2. Super User should be able to delete nodePools by Id" time="0.0000" classclass="2. Super User should be able to delete nodePools by Id">
       <skipped/>
     </testcase>
   </testsuite>

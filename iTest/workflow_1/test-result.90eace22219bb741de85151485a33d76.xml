@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="104.8660" tests="5" failures="0" skipped="2">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:21" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="104.8660" tests="5" failures="0" skipped="2">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:21" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests " timestamp="2022-01-17T17:51:21" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests_1/4383788/setup_PreMatrix/tests/core/workFlow/step/stepWorkflow1.js" time="104.8620" failures="0" skipped="2">
-    <testcase name="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests  S-WF-5933-001 User adds a pipeline with affinityGroup at the pipeline level and not the step level.  Steps have the affinityGroup specified." time="81.1310" classname="S-WF-5933-001 User adds a pipeline with affinityGroup at the pipeline level and not the step level.  Steps have the affinityGroup specified.">
+  <testsuite class="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests " timestamp="2022-01-17T17:51:21" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests_1/4383788/setup_PreMatrix/tests/core/workFlow/step/stepWorkflow1.js" time="104.8620" failures="0" skipped="2">
+    <testcase class="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests  S-WF-5933-001 User adds a pipeline with affinityGroup at the pipeline level and not the step level.  Steps have the affinityGroup specified." time="81.1310" classclass="S-WF-5933-001 User adds a pipeline with affinityGroup at the pipeline level and not the step level.  Steps have the affinityGroup specified.">
     </testcase>
-    <testcase name="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests  S-WF-5933-002 User adds a pipeline with affinityGroup at the pipeline level and another affinity group at the step level.  Sync fails." time="11.3970" classname="S-WF-5933-002 User adds a pipeline with affinityGroup at the pipeline level and another affinity group at the step level.  Sync fails.">
+    <testcase class="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests  S-WF-5933-002 User adds a pipeline with affinityGroup at the pipeline level and another affinity group at the step level.  Sync fails." time="11.3970" classclass="S-WF-5933-002 User adds a pipeline with affinityGroup at the pipeline level and another affinity group at the step level.  Sync fails.">
     </testcase>
-    <testcase name="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests  S-WF-5933-003 SCM_ONLY User adds a pipeline with affinityGroup at the step level and then updates it to add affinityGroup at the pipeline level. Sync fails." time="0.0000" classname="S-WF-5933-003 SCM_ONLY User adds a pipeline with affinityGroup at the step level and then updates it to add affinityGroup at the pipeline level. Sync fails.">
+    <testcase class="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests  S-WF-5933-003 SCM_ONLY User adds a pipeline with affinityGroup at the step level and then updates it to add affinityGroup at the pipeline level. Sync fails." time="0.0000" classclass="S-WF-5933-003 SCM_ONLY User adds a pipeline with affinityGroup at the step level and then updates it to add affinityGroup at the pipeline level. Sync fails.">
       <skipped/>
     </testcase>
-    <testcase name="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests  S-WF-5933-004 User adds a pipeline with an invalid affinityGroup name at the pipeline level and sync fails." time="12.1590" classname="S-WF-5933-004 User adds a pipeline with an invalid affinityGroup name at the pipeline level and sync fails.">
+    <testcase class="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests  S-WF-5933-004 User adds a pipeline with an invalid affinityGroup name at the pipeline level and sync fails." time="12.1590" classclass="S-WF-5933-004 User adds a pipeline with an invalid affinityGroup name at the pipeline level and sync fails.">
     </testcase>
-    <testcase name="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests  S-WF-6544-001 User adds a pipeline source containing a pipeline with several resource connections (and no step connections) and then updates all the connections. Sync is successful and the connections are updated." time="0.0000" classname="S-WF-6544-001 User adds a pipeline source containing a pipeline with several resource connections (and no step connections) and then updates all the connections. Sync is successful and the connections are updated.">
+    <testcase class="WORKFLOW_TESTS - 3 out of 4 - step workFlow tests  S-WF-6544-001 User adds a pipeline source containing a pipeline with several resource connections (and no step connections) and then updates all the connections. Sync is successful and the connections are updated." time="0.0000" classclass="S-WF-6544-001 User adds a pipeline source containing a pipeline with several resource connections (and no step connections) and then updates all the connections. Sync is successful and the connections are updated.">
       <skipped/>
     </testcase>
   </testsuite>

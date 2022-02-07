@@ -1,101 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="21.4170" tests="44" failures="0" skipped="4">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="21.4170" tests="44" failures="0" skipped="4">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests" timestamp="2022-01-17T17:51:38" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383742/setup_PreMatrix/tests/core/api/pipelineSyncStatus.js" time="0.0000" failures="0">
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests 1.Super user posts PipelineSources to add pipelines" time="17.7610" classname="1.Super user posts PipelineSources to add pipelines">
+  <testsuite class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests" timestamp="2022-01-17T17:51:38" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383742/setup_PreMatrix/tests/core/api/pipelineSyncStatus.js" time="0.0000" failures="0">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests 1.Super user posts PipelineSources to add pipelines" time="17.7610" classclass="1.Super user posts PipelineSources to add pipelines">
     </testcase>
   </testsuite>
-  <testsuite name="Below test cases uses pipelineSource" timestamp="2022-01-17T17:51:56" tests="43" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383742/setup_PreMatrix/tests/core/api/pipelineSyncStatus.js" time="3.3990" failures="0" skipped="4">
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0005. Super user can get their PipelineSyncStatus" time="0.0650" classname="A-PipelineSyncStatus-0005. Super user can get their PipelineSyncStatus">
+  <testsuite class="Below test cases uses pipelineSource" timestamp="2022-01-17T17:51:56" tests="43" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383742/setup_PreMatrix/tests/core/api/pipelineSyncStatus.js" time="3.3990" failures="0" skipped="4">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0005. Super user can get their PipelineSyncStatus" time="0.0650" classclass="A-PipelineSyncStatus-0005. Super user can get their PipelineSyncStatus">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-6530-0033. Super user can get their PipelineSyncStatus with light parameters" time="0.0540" classname="A-PipelineSyncStatus-6530-0033. Super user can get their PipelineSyncStatus with light parameters">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-6530-0033. Super user can get their PipelineSyncStatus with light parameters" time="0.0540" classclass="A-PipelineSyncStatus-6530-0033. Super user can get their PipelineSyncStatus with light parameters">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-G-PP-0005. ProjectAdminUser should be able to  GET the pipelineSyncStatuses" time="0.1040" classname="A-G-PP-0005. ProjectAdminUser should be able to  GET the pipelineSyncStatuses">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-G-PP-0005. ProjectAdminUser should be able to  GET the pipelineSyncStatuses" time="0.1040" classclass="A-G-PP-0005. ProjectAdminUser should be able to  GET the pipelineSyncStatuses">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0006. Admin can get their PipelineSyncStatus" time="0.0000" classname="A-PipelineSyncStatus-0006. Admin can get their PipelineSyncStatus">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0006. Admin can get their PipelineSyncStatus" time="0.0000" classclass="A-PipelineSyncStatus-0006. Admin can get their PipelineSyncStatus">
       <skipped/>
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0007. Member can get their PipelineSyncStatus" time="0.0000" classname="A-PipelineSyncStatus-0007. Member can get their PipelineSyncStatus">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0007. Member can get their PipelineSyncStatus" time="0.0000" classclass="A-PipelineSyncStatus-0007. Member can get their PipelineSyncStatus">
       <skipped/>
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0008. Public user cannot get their PipelineSyncStatus" time="0.0150" classname="A-PipelineSyncStatus-0008. Public user cannot get their PipelineSyncStatus">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0008. Public user cannot get their PipelineSyncStatus" time="0.0150" classclass="A-PipelineSyncStatus-0008. Public user cannot get their PipelineSyncStatus">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0001. Super user can post PipelineSyncStatus" time="0.0350" classname="A-PipelineSyncStatus-0001. Super user can post PipelineSyncStatus">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0001. Super user can post PipelineSyncStatus" time="0.0350" classclass="A-PipelineSyncStatus-0001. Super user can post PipelineSyncStatus">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-7118-001. Super user can POST a new pipelineSyncStatus with isMissingConfig." time="0.1420" classname="A-PipelineSyncStatus-7118-001. Super user can POST a new pipelineSyncStatus with isMissingConfig.">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-7118-001. Super user can POST a new pipelineSyncStatus with isMissingConfig." time="0.1420" classclass="A-PipelineSyncStatus-7118-001. Super user can POST a new pipelineSyncStatus with isMissingConfig.">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-7118-002. Super user can POST update a pipelineSyncStatus with isMissingConfig." time="0.1530" classname="A-PipelineSyncStatus-7118-002. Super user can POST update a pipelineSyncStatus with isMissingConfig.">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-7118-002. Super user can POST update a pipelineSyncStatus with isMissingConfig." time="0.1530" classclass="A-PipelineSyncStatus-7118-002. Super user can POST update a pipelineSyncStatus with isMissingConfig.">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-7118-003. Super user tries to POST pipelineSyncStatus with a non-Boolean isMissingConfig and it fails." time="0.0270" classname="A-PipelineSyncStatus-7118-003. Super user tries to POST pipelineSyncStatus with a non-Boolean isMissingConfig and it fails.">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-7118-003. Super user tries to POST pipelineSyncStatus with a non-Boolean isMissingConfig and it fails." time="0.0270" classclass="A-PipelineSyncStatus-7118-003. Super user tries to POST pipelineSyncStatus with a non-Boolean isMissingConfig and it fails.">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PO-PP-0032. ProjectAdminUser should be able to POST thepipelineSyncStatuses" time="0.0360" classname="A-PO-PP-0032. ProjectAdminUser should be able to POST thepipelineSyncStatuses">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PO-PP-0032. ProjectAdminUser should be able to POST thepipelineSyncStatuses" time="0.0360" classclass="A-PO-PP-0032. ProjectAdminUser should be able to POST thepipelineSyncStatuses">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0002. Admin user cannot post PipelineSyncStatus" time="0.0290" classname="A-PipelineSyncStatus-0002. Admin user cannot post PipelineSyncStatus">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0002. Admin user cannot post PipelineSyncStatus" time="0.0290" classclass="A-PipelineSyncStatus-0002. Admin user cannot post PipelineSyncStatus">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0003. Member cannot post PipelineSyncStatus" time="0.0730" classname="A-PipelineSyncStatus-0003. Member cannot post PipelineSyncStatus">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0003. Member cannot post PipelineSyncStatus" time="0.0730" classclass="A-PipelineSyncStatus-0003. Member cannot post PipelineSyncStatus">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0004. Public user cannot post PipelineSyncStatus" time="0.0180" classname="A-PipelineSyncStatus-0004. Public user cannot post PipelineSyncStatus">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0004. Public user cannot post PipelineSyncStatus" time="0.0180" classclass="A-PipelineSyncStatus-0004. Public user cannot post PipelineSyncStatus">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0009. Super user can update the PipelineSyncStatus by Id" time="0.1020" classname="A-PipelineSyncStatus-0009. Super user can update the PipelineSyncStatus by Id">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0009. Super user can update the PipelineSyncStatus by Id" time="0.1020" classclass="A-PipelineSyncStatus-0009. Super user can update the PipelineSyncStatus by Id">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-7118-004. Super user can PUT a pipelineSyncStatus with isMissingConfig." time="0.1350" classname="A-PipelineSyncStatus-7118-004. Super user can PUT a pipelineSyncStatus with isMissingConfig.">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-7118-004. Super user can PUT a pipelineSyncStatus with isMissingConfig." time="0.1350" classclass="A-PipelineSyncStatus-7118-004. Super user can PUT a pipelineSyncStatus with isMissingConfig.">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-7118-005. Super user tries to PUT pipelineSyncStatus with a non-Boolean isMissingConfig and it fails." time="0.0920" classname="A-PipelineSyncStatus-7118-005. Super user tries to PUT pipelineSyncStatus with a non-Boolean isMissingConfig and it fails.">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-7118-005. Super user tries to PUT pipelineSyncStatus with a non-Boolean isMissingConfig and it fails." time="0.0920" classclass="A-PipelineSyncStatus-7118-005. Super user tries to PUT pipelineSyncStatus with a non-Boolean isMissingConfig and it fails.">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PUT-PP-0016. ProjectAdminUser should be able to PUT the pipelineSyncStatuses" time="0.0420" classname="A-PUT-PP-0016. ProjectAdminUser should be able to PUT the pipelineSyncStatuses">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PUT-PP-0016. ProjectAdminUser should be able to PUT the pipelineSyncStatuses" time="0.0420" classclass="A-PUT-PP-0016. ProjectAdminUser should be able to PUT the pipelineSyncStatuses">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0010. Admin user cannot update the PipelineSyncStatus by Id" time="0.0460" classname="A-PipelineSyncStatus-0010. Admin user cannot update the PipelineSyncStatus by Id">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0010. Admin user cannot update the PipelineSyncStatus by Id" time="0.0460" classclass="A-PipelineSyncStatus-0010. Admin user cannot update the PipelineSyncStatus by Id">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0011. Member cannot update the PipelineSyncStatus by Id" time="0.0400" classname="A-PipelineSyncStatus-0011. Member cannot update the PipelineSyncStatus by Id">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0011. Member cannot update the PipelineSyncStatus by Id" time="0.0400" classclass="A-PipelineSyncStatus-0011. Member cannot update the PipelineSyncStatus by Id">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0012. Public user cannot update the PipelineSyncStatus by Id" time="0.0170" classname="A-PipelineSyncStatus-0012. Public user cannot update the PipelineSyncStatus by Id">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0012. Public user cannot update the PipelineSyncStatus by Id" time="0.0170" classclass="A-PipelineSyncStatus-0012. Public user cannot update the PipelineSyncStatus by Id">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0013. SuperUser can get PipelineSyncStatusby Id" time="0.1260" classname="A-PipelineSyncStatus-0013. SuperUser can get PipelineSyncStatusby Id">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0013. SuperUser can get PipelineSyncStatusby Id" time="0.1260" classclass="A-PipelineSyncStatus-0013. SuperUser can get PipelineSyncStatusby Id">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0014. Admin can get PipelineSyncStatus by Id" time="0.1440" classname="A-PipelineSyncStatus-0014. Admin can get PipelineSyncStatus by Id">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0014. Admin can get PipelineSyncStatus by Id" time="0.1440" classclass="A-PipelineSyncStatus-0014. Admin can get PipelineSyncStatus by Id">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0015. Member can getPipelineSyncStatus by Id" time="0.0000" classname="A-PipelineSyncStatus-0015. Member can getPipelineSyncStatus by Id">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0015. Member can getPipelineSyncStatus by Id" time="0.0000" classclass="A-PipelineSyncStatus-0015. Member can getPipelineSyncStatus by Id">
       <skipped/>
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0016. PublicUser cannot get PipelineSyncStatus by Id" time="0.0210" classname="A-PipelineSyncStatus-0016. PublicUser cannot get PipelineSyncStatus by Id">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0016. PublicUser cannot get PipelineSyncStatus by Id" time="0.0210" classclass="A-PipelineSyncStatus-0016. PublicUser cannot get PipelineSyncStatus by Id">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0017. Id field in PipelineSyncStatus API should not be null and should be an integer type" time="0.0000" classname="A-PipelineSyncStatus-0017. Id field in PipelineSyncStatus API should not be null and should be an integer type">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0017. Id field in PipelineSyncStatus API should not be null and should be an integer type" time="0.0000" classclass="A-PipelineSyncStatus-0017. Id field in PipelineSyncStatus API should not be null and should be an integer type">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0018. ProjectId in PipelineSyncStatus API should notbe null and should be a integer type" time="0.0010" classname="A-PipelineSyncStatus-0018. ProjectId in PipelineSyncStatus API should notbe null and should be a integer type">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0018. ProjectId in PipelineSyncStatus API should notbe null and should be a integer type" time="0.0010" classclass="A-PipelineSyncStatus-0018. ProjectId in PipelineSyncStatus API should notbe null and should be a integer type">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0019. PipelineSourceId in PipelineSyncStatus API should not be null and should be a integer type" time="0.0000" classname="A-PipelineSyncStatus-0019. PipelineSourceId in PipelineSyncStatus API should not be null and should be a integer type">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0019. PipelineSourceId in PipelineSyncStatus API should not be null and should be a integer type" time="0.0000" classclass="A-PipelineSyncStatus-0019. PipelineSourceId in PipelineSyncStatus API should not be null and should be a integer type">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0020. PipelineSourceBranch field in PipelineSyncStatus API should be a string" time="0.0000" classname="A-PipelineSyncStatus-0020. PipelineSourceBranch field in PipelineSyncStatus API should be a string">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0020. PipelineSourceBranch field in PipelineSyncStatus API should be a string" time="0.0000" classclass="A-PipelineSyncStatus-0020. PipelineSourceBranch field in PipelineSyncStatus API should be a string">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0021. IsSyncing field in PipelineSyncStatus API should not be null and should be a boolean" time="0.0000" classname="A-PipelineSyncStatus-0021. IsSyncing field in PipelineSyncStatus API should not be null and should be a boolean">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0021. IsSyncing field in PipelineSyncStatus API should not be null and should be a boolean" time="0.0000" classclass="A-PipelineSyncStatus-0021. IsSyncing field in PipelineSyncStatus API should not be null and should be a boolean">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0022. LastSyncStatusCode field in PipelineSyncStatus API should be a integer type" time="0.0000" classname="A-PipelineSyncStatus-0022. LastSyncStatusCode field in PipelineSyncStatus API should be a integer type">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0022. LastSyncStatusCode field in PipelineSyncStatus API should be a integer type" time="0.0000" classclass="A-PipelineSyncStatus-0022. LastSyncStatusCode field in PipelineSyncStatus API should be a integer type">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0023. LastSyncStartedAt field in PipelineSyncStatus API should be a string" time="0.0000" classname="A-PipelineSyncStatus-0023. LastSyncStartedAt field in PipelineSyncStatus API should be a string">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0023. LastSyncStartedAt field in PipelineSyncStatus API should be a string" time="0.0000" classclass="A-PipelineSyncStatus-0023. LastSyncStartedAt field in PipelineSyncStatus API should be a string">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0024. LastSyncEndedAt field in PipelineSyncStatus API should be a string" time="0.0000" classname="A-PipelineSyncStatus-0024. LastSyncEndedAt field in PipelineSyncStatus API should be a string">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0024. LastSyncEndedAt field in PipelineSyncStatus API should be a string" time="0.0000" classclass="A-PipelineSyncStatus-0024. LastSyncEndedAt field in PipelineSyncStatus API should be a string">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0025. LastSyncLogs field in PipelineSyncStatusAPI should be a string" time="0.0000" classname="A-PipelineSyncStatus-0025. LastSyncLogs field in PipelineSyncStatusAPI should be a string">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0025. LastSyncLogs field in PipelineSyncStatusAPI should be a string" time="0.0000" classclass="A-PipelineSyncStatus-0025. LastSyncLogs field in PipelineSyncStatusAPI should be a string">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0026. CreatedAt field in PipelineSyncStatus API should not be null and should be a string" time="0.0010" classname="A-PipelineSyncStatus-0026. CreatedAt field in PipelineSyncStatus API should not be null and should be a string">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0026. CreatedAt field in PipelineSyncStatus API should not be null and should be a string" time="0.0010" classclass="A-PipelineSyncStatus-0026. CreatedAt field in PipelineSyncStatus API should not be null and should be a string">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0027. UpdatedAt field in PipelineSyncStatus API should not be null and should be a string" time="0.0000" classname="A-PipelineSyncStatus-0027. UpdatedAt field in PipelineSyncStatus API should not be null and should be a string">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0027. UpdatedAt field in PipelineSyncStatus API should not be null and should be a string" time="0.0000" classclass="A-PipelineSyncStatus-0027. UpdatedAt field in PipelineSyncStatus API should not be null and should be a string">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0032. TriggeredByResourceVersionId field in PipelineSyncStatus API should be an integer type." time="0.0000" classname="A-PipelineSyncStatus-0032. TriggeredByResourceVersionId field in PipelineSyncStatus API should be an integer type.">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0032. TriggeredByResourceVersionId field in PipelineSyncStatus API should be an integer type." time="0.0000" classclass="A-PipelineSyncStatus-0032. TriggeredByResourceVersionId field in PipelineSyncStatus API should be an integer type.">
       <skipped/>
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0028. Public user cannot delete PipelineSyncStatus by Id" time="0.0230" classname="A-PipelineSyncStatus-0028. Public user cannot delete PipelineSyncStatus by Id">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0028. Public user cannot delete PipelineSyncStatus by Id" time="0.0230" classclass="A-PipelineSyncStatus-0028. Public user cannot delete PipelineSyncStatus by Id">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0029. Member cannot delete PipelineSyncStatus by Id" time="0.0890" classname="A-PipelineSyncStatus-0029. Member cannot delete PipelineSyncStatus by Id">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0029. Member cannot delete PipelineSyncStatus by Id" time="0.0890" classclass="A-PipelineSyncStatus-0029. Member cannot delete PipelineSyncStatus by Id">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0030. Admin cannot delete  PipelineSyncStatus by Id" time="0.0860" classname="A-PipelineSyncStatus-0030. Admin cannot delete  PipelineSyncStatus by Id">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0030. Admin cannot delete  PipelineSyncStatus by Id" time="0.0860" classclass="A-PipelineSyncStatus-0030. Admin cannot delete  PipelineSyncStatus by Id">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-DEL-PP-0011. ProjectAdminUser should be able to delete pipelineSyncStatuses by its Id " time="0.0450" classname="A-DEL-PP-0011. ProjectAdminUser should be able to delete pipelineSyncStatuses by its Id ">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-DEL-PP-0011. ProjectAdminUser should be able to delete pipelineSyncStatuses by its Id " time="0.0450" classclass="A-DEL-PP-0011. ProjectAdminUser should be able to delete pipelineSyncStatuses by its Id ">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0031. Super user can delete PipelineSyncStatus by Id" time="0.0670" classname="A-PipelineSyncStatus-0031. Super user can delete PipelineSyncStatus by Id">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource A-PipelineSyncStatus-0031. Super user can delete PipelineSyncStatus by Id" time="0.0670" classclass="A-PipelineSyncStatus-0031. Super user can delete PipelineSyncStatus by Id">
     </testcase>
-    <testcase name="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource 2. Super user can delete pipelineSource by Id " time="1.5550" classname="2. Super user can delete pipelineSource by Id ">
+    <testcase class="API_PIPELINESYNCSTATUS - PipelineSyncStatus API tests Below test cases uses pipelineSource 2. Super user can delete pipelineSource by Id " time="1.5550" classclass="2. Super user can delete pipelineSource by Id ">
     </testcase>
   </testsuite>
 </testsuites>

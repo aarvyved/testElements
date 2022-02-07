@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="ErrorTestSuiteV2" tests="1" errors="1" failures="0" skip="0">
+  <testsuite class="ErrorTestSuiteV2" tests="1" errors="1" failures="0" skip="0">
       <error message="test.ErrorTestSuiteV2" type="java.lang.NoClassDefFoundError">java.lang.NoClassDefFoundError: test.ErrorTestSuiteV2Test
           at java.lang.Class.forName0(Native Method)
           at java.lang.Class.forName(Class.java:348)

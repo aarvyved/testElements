@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="255.4130" tests="10" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:16" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="255.4130" tests="10" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:16" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="STEP_BASHBUILDINFO - BashBuildInfo Step Tests" timestamp="2022-01-17T17:51:16" tests="10" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383561/setup_PreMatrix/tests/core/steps/Bash/BashResources/BashBuildInfo.js" time="255.4060" failures="0">
-    <testcase name="STEP_BASHBUILDINFO - BashBuildInfo Step Tests S-Bash-0085.In a BuildInfo resource if inputResource section is found, pipeline sync should success" time="11.9280" classname="S-Bash-0085.In a BuildInfo resource if inputResource section is found, pipeline sync should success">
+  <testsuite class="STEP_BASHBUILDINFO - BashBuildInfo Step Tests" timestamp="2022-01-17T17:51:16" tests="10" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383561/setup_PreMatrix/tests/core/steps/Bash/BashResources/BashBuildInfo.js" time="255.4060" failures="0">
+    <testcase class="STEP_BASHBUILDINFO - BashBuildInfo Step Tests S-Bash-0085.In a BuildInfo resource if inputResource section is found, pipeline sync should success" time="11.9280" classclass="S-Bash-0085.In a BuildInfo resource if inputResource section is found, pipeline sync should success">
     </testcase>
-    <testcase name="STEP_BASHBUILDINFO - BashBuildInfo Step Tests S-Bash-0087. In inputResource section if trigger is set to “True” then any BuildInfo resource version change the Bash step should trigger." time="25.7260" classname="S-Bash-0087. In inputResource section if trigger is set to “True” then any BuildInfo resource version change the Bash step should trigger.">
+    <testcase class="STEP_BASHBUILDINFO - BashBuildInfo Step Tests S-Bash-0087. In inputResource section if trigger is set to “True” then any BuildInfo resource version change the Bash step should trigger." time="25.7260" classclass="S-Bash-0087. In inputResource section if trigger is set to “True” then any BuildInfo resource version change the Bash step should trigger.">
     </testcase>
-    <testcase name="STEP_BASHBUILDINFO - BashBuildInfo Step Tests S-Bash-0088. In inputResource section if  trigger is set to “False” any BuildInfo resource version change then Bash step should nottrigger." time="36.1230" classname="S-Bash-0088. In inputResource section if  trigger is set to “False” any BuildInfo resource version change then Bash step should nottrigger.">
+    <testcase class="STEP_BASHBUILDINFO - BashBuildInfo Step Tests S-Bash-0088. In inputResource section if  trigger is set to “False” any BuildInfo resource version change then Bash step should nottrigger." time="36.1230" classclass="S-Bash-0088. In inputResource section if  trigger is set to “False” any BuildInfo resource version change then Bash step should nottrigger.">
     </testcase>
-    <testcase name="STEP_BASHBUILDINFO - BashBuildInfo Step Tests S-Bash-0091. Environment variables for the resource are available in execution sections of the Bash step." time="111.2080" classname="S-Bash-0091. Environment variables for the resource are available in execution sections of the Bash step.">
+    <testcase class="STEP_BASHBUILDINFO - BashBuildInfo Step Tests S-Bash-0091. Environment variables for the resource are available in execution sections of the Bash step." time="111.2080" classclass="S-Bash-0091. Environment variables for the resource are available in execution sections of the Bash step.">
     </testcase>
-    <testcase name="STEP_BASHBUILDINFO - BashBuildInfo Step Tests S-Bash-0094.In a BuildInfo resource if outputResource section isfound, pipeline sync should success" time="11.2620" classname="S-Bash-0094.In a BuildInfo resource if outputResource section isfound, pipeline sync should success">
+    <testcase class="STEP_BASHBUILDINFO - BashBuildInfo Step Tests S-Bash-0094.In a BuildInfo resource if outputResource section isfound, pipeline sync should success" time="11.2620" classclass="S-Bash-0094.In a BuildInfo resource if outputResource section isfound, pipeline sync should success">
     </testcase>
-    <testcase name="STEP_BASHBUILDINFO - BashBuildInfo Step Tests S-Bash-0096. User update outputResource in Bash, it should create new version for that resource in execution sections of the Bash step." time="47.8470" classname="S-Bash-0096. User update outputResource in Bash, it should create new version for that resource in execution sections of the Bash step.">
+    <testcase class="STEP_BASHBUILDINFO - BashBuildInfo Step Tests S-Bash-0096. User update outputResource in Bash, it should create new version for that resource in execution sections of the Bash step." time="47.8470" classclass="S-Bash-0096. User update outputResource in Bash, it should create new version for that resource in execution sections of the Bash step.">
     </testcase>
-    <testcase name="STEP_BASHBUILDINFO - BashBuildInfo Step Tests 2. User should be able to add new pipelineSources" time="10.1270" classname="2. User should be able to add new pipelineSources">
+    <testcase class="STEP_BASHBUILDINFO - BashBuildInfo Step Tests 2. User should be able to add new pipelineSources" time="10.1270" classclass="2. User should be able to add new pipelineSources">
     </testcase>
-    <testcase name="STEP_BASHBUILDINFO - BashBuildInfo Step Tests 3. User can get their resources" time="0.0240" classname="3. User can get their resources">
+    <testcase class="STEP_BASHBUILDINFO - BashBuildInfo Step Tests 3. User can get their resources" time="0.0240" classclass="3. User can get their resources">
     </testcase>
-    <testcase name="STEP_BASHBUILDINFO - BashBuildInfo Step Tests S-Bash-0416. User should not be able to delete the resource if it is dependent on any step" time="0.0490" classname="S-Bash-0416. User should not be able to delete the resource if it is dependent on any step">
+    <testcase class="STEP_BASHBUILDINFO - BashBuildInfo Step Tests S-Bash-0416. User should not be able to delete the resource if it is dependent on any step" time="0.0490" classclass="S-Bash-0416. User should not be able to delete the resource if it is dependent on any step">
     </testcase>
-    <testcase name="STEP_BASHBUILDINFO - BashBuildInfo Step Tests 4. User can delete pipelineSource by Id" time="0.8560" classname="4. User can delete pipelineSource by Id">
+    <testcase class="STEP_BASHBUILDINFO - BashBuildInfo Step Tests 4. User can delete pipelineSource by Id" time="0.8560" classclass="4. User can delete pipelineSource by Id">
     </testcase>
   </testsuite>
 </testsuites>

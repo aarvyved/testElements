@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="1.0800" tests="10" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:36" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="1.0800" tests="10" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:36" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="API_PASSTHROUGH - Permission API tests" timestamp="2022-01-17T17:51:36" tests="10" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383626/setup_PreMatrix/tests/core/api/passthroughPermission.js" time="1.0600" failures="0">
-    <testcase name="API_PASSTHROUGH - Permission API tests A-permission-6963-0001. Super user should be able to create a new permission" time="0.0920" classname="A-permission-6963-0001. Super user should be able to create a new permission">
+  <testsuite class="API_PASSTHROUGH - Permission API tests" timestamp="2022-01-17T17:51:36" tests="10" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383626/setup_PreMatrix/tests/core/api/passthroughPermission.js" time="1.0600" failures="0">
+    <testcase class="API_PASSTHROUGH - Permission API tests A-permission-6963-0001. Super user should be able to create a new permission" time="0.0920" classclass="A-permission-6963-0001. Super user should be able to create a new permission">
     </testcase>
-    <testcase name="API_PASSTHROUGH - Permission API tests A-permission-6963-0002 projectAdmin user shouldn’t be able to create a new permission" time="0.0840" classname="A-permission-6963-0002 projectAdmin user shouldn’t be able to create a new permission">
+    <testcase class="API_PASSTHROUGH - Permission API tests A-permission-6963-0002 projectAdmin user shouldn’t be able to create a new permission" time="0.0840" classclass="A-permission-6963-0002 projectAdmin user shouldn’t be able to create a new permission">
     </testcase>
-    <testcase name="API_PASSTHROUGH - Permission API tests A-permission-6963-0003 Admin user shouldn’t be able to  create a new permission" time="0.0810" classname="A-permission-6963-0003 Admin user shouldn’t be able to  create a new permission">
+    <testcase class="API_PASSTHROUGH - Permission API tests A-permission-6963-0003 Admin user shouldn’t be able to  create a new permission" time="0.0810" classclass="A-permission-6963-0003 Admin user shouldn’t be able to  create a new permission">
     </testcase>
-    <testcase name="API_PASSTHROUGH - Permission API tests A-permission-6963-0004 Member user shouldn’t be able to create a new permission" time="0.0640" classname="A-permission-6963-0004 Member user shouldn’t be able to create a new permission">
+    <testcase class="API_PASSTHROUGH - Permission API tests A-permission-6963-0004 Member user shouldn’t be able to create a new permission" time="0.0640" classclass="A-permission-6963-0004 Member user shouldn’t be able to create a new permission">
     </testcase>
-    <testcase name="API_PASSTHROUGH - Permission API tests A-permission-6963-0005 public user shouldn’t be able to create a new permission" time="0.0240" classname="A-permission-6963-0005 public user shouldn’t be able to create a new permission">
+    <testcase class="API_PASSTHROUGH - Permission API tests A-permission-6963-0005 public user shouldn’t be able to create a new permission" time="0.0240" classclass="A-permission-6963-0005 public user shouldn’t be able to create a new permission">
     </testcase>
-    <testcase name="API_PASSTHROUGH - Permission API tests A-permission-6963-0006 public user shouldn’t be able to delete a permission" time="0.0360" classname="A-permission-6963-0006 public user shouldn’t be able to delete a permission">
+    <testcase class="API_PASSTHROUGH - Permission API tests A-permission-6963-0006 public user shouldn’t be able to delete a permission" time="0.0360" classclass="A-permission-6963-0006 public user shouldn’t be able to delete a permission">
     </testcase>
-    <testcase name="API_PASSTHROUGH - Permission API tests A-permission-6963-0007 Member user shouldn’t be able to delete a permission" time="0.1030" classname="A-permission-6963-0007 Member user shouldn’t be able to delete a permission">
+    <testcase class="API_PASSTHROUGH - Permission API tests A-permission-6963-0007 Member user shouldn’t be able to delete a permission" time="0.1030" classclass="A-permission-6963-0007 Member user shouldn’t be able to delete a permission">
     </testcase>
-    <testcase name="API_PASSTHROUGH - Permission API tests A-permission-6963-0008 Admin user shouldn’t be able to  delete a permission" time="0.0630" classname="A-permission-6963-0008 Admin user shouldn’t be able to  delete a permission">
+    <testcase class="API_PASSTHROUGH - Permission API tests A-permission-6963-0008 Admin user shouldn’t be able to  delete a permission" time="0.0630" classclass="A-permission-6963-0008 Admin user shouldn’t be able to  delete a permission">
     </testcase>
-    <testcase name="API_PASSTHROUGH - Permission API tests A-permission-6963-0009 projectAdmin user shouldn’t be able to delete a permission" time="0.0420" classname="A-permission-6963-0009 projectAdmin user shouldn’t be able to delete a permission">
+    <testcase class="API_PASSTHROUGH - Permission API tests A-permission-6963-0009 projectAdmin user shouldn’t be able to delete a permission" time="0.0420" classclass="A-permission-6963-0009 projectAdmin user shouldn’t be able to delete a permission">
     </testcase>
-    <testcase name="API_PASSTHROUGH - Permission API tests A-permission-6963-0010. Super user should be able to delete a permission" time="0.1040" classname="A-permission-6963-0010. Super user should be able to delete a permission">
+    <testcase class="API_PASSTHROUGH - Permission API tests A-permission-6963-0010. Super user should be able to delete a permission" time="0.1040" classclass="A-permission-6963-0010. Super user should be able to delete a permission">
     </testcase>
   </testsuite>
 </testsuites>

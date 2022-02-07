@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="1.4520" tests="25" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:36" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="1.4520" tests="25" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:36" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="API_LOCKS - Locks API tests" timestamp="2022-01-17T17:51:36" tests="25" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383646/setup_PreMatrix/tests/core/api/locks.js" time="1.4270" failures="0">
-    <testcase name="API_LOCKS - Locks API tests A-Locks-0001. Super user can post Locks" time="0.1860" classname="A-Locks-0001. Super user can post Locks">
+  <testsuite class="API_LOCKS - Locks API tests" timestamp="2022-01-17T17:51:36" tests="25" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383646/setup_PreMatrix/tests/core/api/locks.js" time="1.4270" failures="0">
+    <testcase class="API_LOCKS - Locks API tests A-Locks-0001. Super user can post Locks" time="0.1860" classclass="A-Locks-0001. Super user can post Locks">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-PP-0022. ProjectAdminUser shouldn’t be able to POST the locks by id" time="0.0540" classname="A-PP-0022. ProjectAdminUser shouldn’t be able to POST the locks by id">
+    <testcase class="API_LOCKS - Locks API tests A-PP-0022. ProjectAdminUser shouldn’t be able to POST the locks by id" time="0.0540" classclass="A-PP-0022. ProjectAdminUser shouldn’t be able to POST the locks by id">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-Locks-0002. Admin user cannot post Locks" time="0.1580" classname="A-Locks-0002. Admin user cannot post Locks">
+    <testcase class="API_LOCKS - Locks API tests A-Locks-0002. Admin user cannot post Locks" time="0.1580" classclass="A-Locks-0002. Admin user cannot post Locks">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-Locks-0003. Member cannot post Locks" time="0.0850" classname="A-Locks-0003. Member cannot post Locks">
+    <testcase class="API_LOCKS - Locks API tests A-Locks-0003. Member cannot post Locks" time="0.0850" classclass="A-Locks-0003. Member cannot post Locks">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-Locks-0004. Public user cannot post Locks" time="0.0240" classname="A-Locks-0004. Public user cannot post Locks">
+    <testcase class="API_LOCKS - Locks API tests A-Locks-0004. Public user cannot post Locks" time="0.0240" classclass="A-Locks-0004. Public user cannot post Locks">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-Locks-0005. Super user can get their Locks" time="0.0480" classname="A-Locks-0005. Super user can get their Locks">
+    <testcase class="API_LOCKS - Locks API tests A-Locks-0005. Super user can get their Locks" time="0.0480" classclass="A-Locks-0005. Super user can get their Locks">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-PP-0020. ProjectAdminUser shouldn’t be able to GET the locks" time="0.0580" classname="A-PP-0020. ProjectAdminUser shouldn’t be able to GET the locks">
+    <testcase class="API_LOCKS - Locks API tests A-PP-0020. ProjectAdminUser shouldn’t be able to GET the locks" time="0.0580" classclass="A-PP-0020. ProjectAdminUser shouldn’t be able to GET the locks">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-Locks-0006. Admin cannot get their Locks" time="0.0460" classname="A-Locks-0006. Admin cannot get their Locks">
+    <testcase class="API_LOCKS - Locks API tests A-Locks-0006. Admin cannot get their Locks" time="0.0460" classclass="A-Locks-0006. Admin cannot get their Locks">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-Locks-0007. Member can get their Locks" time="0.0860" classname="A-Locks-0007. Member can get their Locks">
+    <testcase class="API_LOCKS - Locks API tests A-Locks-0007. Member can get their Locks" time="0.0860" classclass="A-Locks-0007. Member can get their Locks">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-Locks-0008. Public user cannot get their Locks" time="0.0320" classname="A-Locks-0008. Public user cannot get their Locks">
+    <testcase class="API_LOCKS - Locks API tests A-Locks-0008. Public user cannot get their Locks" time="0.0320" classclass="A-Locks-0008. Public user cannot get their Locks">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-Locks-0009. Super user can update the Locks by Id" time="0.0370" classname="A-Locks-0009. Super user can update the Locks by Id">
+    <testcase class="API_LOCKS - Locks API tests A-Locks-0009. Super user can update the Locks by Id" time="0.0370" classclass="A-Locks-0009. Super user can update the Locks by Id">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-Locks-0010. Admin user cannot update the Locks by Id" time="0.0200" classname="A-Locks-0010. Admin user cannot update the Locks by Id">
+    <testcase class="API_LOCKS - Locks API tests A-Locks-0010. Admin user cannot update the Locks by Id" time="0.0200" classclass="A-Locks-0010. Admin user cannot update the Locks by Id">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-Locks-0011. Member cannot update the Locks by Id" time="0.0230" classname="A-Locks-0011. Member cannot update the Locks by Id">
+    <testcase class="API_LOCKS - Locks API tests A-Locks-0011. Member cannot update the Locks by Id" time="0.0230" classclass="A-Locks-0011. Member cannot update the Locks by Id">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-Locks-0012. Public user cannot update the Locks by Id" time="0.0250" classname="A-Locks-0012. Public user cannot update the Locks by Id">
+    <testcase class="API_LOCKS - Locks API tests A-Locks-0012. Public user cannot update the Locks by Id" time="0.0250" classclass="A-Locks-0012. Public user cannot update the Locks by Id">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-Locks-0013. Id field in Locks API should not be null and  should be a string" time="0.0000" classname="A-Locks-0013. Id field in Locks API should not be null and  should be a string">
+    <testcase class="API_LOCKS - Locks API tests A-Locks-0013. Id field in Locks API should not be null and  should be a string" time="0.0000" classclass="A-Locks-0013. Id field in Locks API should not be null and  should be a string">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-Locks-0014. Name field in Locks API should not be null and  should be a string" time="0.0010" classname="A-Locks-0014. Name field in Locks API should not be null and  should be a string">
+    <testcase class="API_LOCKS - Locks API tests A-Locks-0014. Name field in Locks API should not be null and  should be a string" time="0.0010" classclass="A-Locks-0014. Name field in Locks API should not be null and  should be a string">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-Locks-0015. SystemServiceInstanceId field in Locks API should not be null and should be an integer" time="0.0000" classname="A-Locks-0015. SystemServiceInstanceId field in Locks API should not be null and should be an integer">
+    <testcase class="API_LOCKS - Locks API tests A-Locks-0015. SystemServiceInstanceId field in Locks API should not be null and should be an integer" time="0.0000" classclass="A-Locks-0015. SystemServiceInstanceId field in Locks API should not be null and should be an integer">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-Locks-0016. TimeoutAt field in Locks API should not be null and should be a string" time="0.0000" classname="A-Locks-0016. TimeoutAt field in Locks API should not be null and should be a string">
+    <testcase class="API_LOCKS - Locks API tests A-Locks-0016. TimeoutAt field in Locks API should not be null and should be a string" time="0.0000" classclass="A-Locks-0016. TimeoutAt field in Locks API should not be null and should be a string">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-Locks-0017. CreatedAt field in Locks API should not be null and should be a string" time="0.0000" classname="A-Locks-0017. CreatedAt field in Locks API should not be null and should be a string">
+    <testcase class="API_LOCKS - Locks API tests A-Locks-0017. CreatedAt field in Locks API should not be null and should be a string" time="0.0000" classclass="A-Locks-0017. CreatedAt field in Locks API should not be null and should be a string">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-Locks-0018. UpdatedAt field in Locks API should not be null and should be a string" time="0.0010" classname="A-Locks-0018. UpdatedAt field in Locks API should not be null and should be a string">
+    <testcase class="API_LOCKS - Locks API tests A-Locks-0018. UpdatedAt field in Locks API should not be null and should be a string" time="0.0010" classclass="A-Locks-0018. UpdatedAt field in Locks API should not be null and should be a string">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-Locks-0019. Public user cannot delete Locks by Id" time="0.0350" classname="A-Locks-0019. Public user cannot delete Locks by Id">
+    <testcase class="API_LOCKS - Locks API tests A-Locks-0019. Public user cannot delete Locks by Id" time="0.0350" classclass="A-Locks-0019. Public user cannot delete Locks by Id">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-Locks-0020. Member cannot delete Locks by Id" time="0.0350" classname="A-Locks-0020. Member cannot delete Locks by Id">
+    <testcase class="API_LOCKS - Locks API tests A-Locks-0020. Member cannot delete Locks by Id" time="0.0350" classclass="A-Locks-0020. Member cannot delete Locks by Id">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-Locks-0021. Admin cannot delete Locks by Id" time="0.0340" classname="A-Locks-0021. Admin cannot delete Locks by Id">
+    <testcase class="API_LOCKS - Locks API tests A-Locks-0021. Admin cannot delete Locks by Id" time="0.0340" classclass="A-Locks-0021. Admin cannot delete Locks by Id">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-PP-0023.ProjectAdminUser shouldn’t be able to DELETE the locks by id" time="0.0360" classname="A-PP-0023.ProjectAdminUser shouldn’t be able to DELETE the locks by id">
+    <testcase class="API_LOCKS - Locks API tests A-PP-0023.ProjectAdminUser shouldn’t be able to DELETE the locks by id" time="0.0360" classclass="A-PP-0023.ProjectAdminUser shouldn’t be able to DELETE the locks by id">
     </testcase>
-    <testcase name="API_LOCKS - Locks API tests A-Locks-0022. Super user can delete Locks by Id" time="0.0350" classname="A-Locks-0022. Super user can delete Locks by Id">
+    <testcase class="API_LOCKS - Locks API tests A-Locks-0022. Super user can delete Locks by Id" time="0.0350" classclass="A-Locks-0022. Super user can delete Locks by Id">
     </testcase>
   </testsuite>
 </testsuites>

@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="192.5470" tests="34" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="192.5470" tests="34" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="API_STEPARTIFACTS - Step Artifacts API tests" timestamp="2022-01-17T17:51:38" tests="34" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383728/setup_PreMatrix/tests/core/api/stepArtifacts.js" time="192.5330" failures="0">
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0001. SuperUser should be able to update stepArtifacts." time="0.0270" classname="A-StepArtfacts-0001. SuperUser should be able to update stepArtifacts.">
+  <testsuite class="API_STEPARTIFACTS - Step Artifacts API tests" timestamp="2022-01-17T17:51:38" tests="34" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383728/setup_PreMatrix/tests/core/api/stepArtifacts.js" time="192.5330" failures="0">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0001. SuperUser should be able to update stepArtifacts." time="0.0270" classclass="A-StepArtfacts-0001. SuperUser should be able to update stepArtifacts.">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0002. Project admin should not be able to update stepArtifacts." time="0.0370" classname="A-StepArtfacts-0002. Project admin should not be able to update stepArtifacts.">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0002. Project admin should not be able to update stepArtifacts." time="0.0370" classclass="A-StepArtfacts-0002. Project admin should not be able to update stepArtifacts.">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0003. Admin should not be able to update stepArtifacts." time="0.0440" classname="A-StepArtfacts-0003. Admin should not be able to update stepArtifacts.">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0003. Admin should not be able to update stepArtifacts." time="0.0440" classclass="A-StepArtfacts-0003. Admin should not be able to update stepArtifacts.">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0004. Members should not be able to update stepArtifacts." time="0.0350" classname="A-StepArtfacts-0004. Members should not be able to update stepArtifacts.">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0004. Members should not be able to update stepArtifacts." time="0.0350" classclass="A-StepArtfacts-0004. Members should not be able to update stepArtifacts.">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0005. Public users should not be able to update stepArtifacts." time="0.0210" classname="A-StepArtfacts-0005. Public users should not be able to update stepArtifacts.">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0005. Public users should not be able to update stepArtifacts." time="0.0210" classclass="A-StepArtfacts-0005. Public users should not be able to update stepArtifacts.">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0006. SuperUser should be able to get stepArtifacts." time="0.0260" classname="A-StepArtfacts-0006. SuperUser should be able to get stepArtifacts.">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0006. SuperUser should be able to get stepArtifacts." time="0.0260" classclass="A-StepArtfacts-0006. SuperUser should be able to get stepArtifacts.">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0007. Project admin should be able to get stepArtifacts." time="0.0430" classname="A-StepArtfacts-0007. Project admin should be able to get stepArtifacts.">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0007. Project admin should be able to get stepArtifacts." time="0.0430" classclass="A-StepArtfacts-0007. Project admin should be able to get stepArtifacts.">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0008. Admin should be able to get stepArtifacts." time="0.0600" classname="A-StepArtfacts-0008. Admin should be able to get stepArtifacts.">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0008. Admin should be able to get stepArtifacts." time="0.0600" classclass="A-StepArtfacts-0008. Admin should be able to get stepArtifacts.">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0009. Members should be able to get stepArtifacts." time="0.0370" classname="A-StepArtfacts-0009. Members should be able to get stepArtifacts.">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0009. Members should be able to get stepArtifacts." time="0.0370" classclass="A-StepArtfacts-0009. Members should be able to get stepArtifacts.">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0010. Public users should not be able to get stepArtifacts." time="0.0200" classname="A-StepArtfacts-0010. Public users should not be able to get stepArtifacts.">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0010. Public users should not be able to get stepArtifacts." time="0.0200" classclass="A-StepArtfacts-0010. Public users should not be able to get stepArtifacts.">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0011. SuperUser should be able to get the pipeInfo details" time="0.1960" classname="A-StepArtifacts-0011. SuperUser should be able to get the pipeInfo details">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0011. SuperUser should be able to get the pipeInfo details" time="0.1960" classclass="A-StepArtifacts-0011. SuperUser should be able to get the pipeInfo details">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0012. Project admin should be able to get the pipeInfo details" time="0.2920" classname="A-StepArtifacts-0012. Project admin should be able to get the pipeInfo details">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0012. Project admin should be able to get the pipeInfo details" time="0.2920" classclass="A-StepArtifacts-0012. Project admin should be able to get the pipeInfo details">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0013. Admin should be able to get the pipeInfo details" time="0.3390" classname="A-StepArtifacts-0013. Admin should be able to get the pipeInfo details">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0013. Admin should be able to get the pipeInfo details" time="0.3390" classclass="A-StepArtifacts-0013. Admin should be able to get the pipeInfo details">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0014. Members should be able to get the pipeInfo details" time="0.2790" classname="A-StepArtifacts-0014. Members should be able to get the pipeInfo details">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0014. Members should be able to get the pipeInfo details" time="0.2790" classclass="A-StepArtifacts-0014. Members should be able to get the pipeInfo details">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0015. Public users should not be able to get the pipeInfo details" time="0.0230" classname="A-StepArtifacts-0015. Public users should not be able to get the pipeInfo details">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0015. Public users should not be able to get the pipeInfo details" time="0.0230" classclass="A-StepArtifacts-0015. Public users should not be able to get the pipeInfo details">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0016. SuperUser should be able to delete stepArtifacts by pipelineId." time="0.0350" classname="A-StepArtfacts-0016. SuperUser should be able to delete stepArtifacts by pipelineId.">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0016. SuperUser should be able to delete stepArtifacts by pipelineId." time="0.0350" classclass="A-StepArtfacts-0016. SuperUser should be able to delete stepArtifacts by pipelineId.">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0017. Project admin should not be able to delete stepArtifacts by pipelineId." time="0.0380" classname="A-StepArtfacts-0017. Project admin should not be able to delete stepArtifacts by pipelineId.">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0017. Project admin should not be able to delete stepArtifacts by pipelineId." time="0.0380" classclass="A-StepArtfacts-0017. Project admin should not be able to delete stepArtifacts by pipelineId.">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0018. Admin should not be able to delete stepArtifacts by pipelineId." time="0.0280" classname="A-StepArtfacts-0018. Admin should not be able to delete stepArtifacts by pipelineId.">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0018. Admin should not be able to delete stepArtifacts by pipelineId." time="0.0280" classclass="A-StepArtfacts-0018. Admin should not be able to delete stepArtifacts by pipelineId.">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0019. Members should not be able to delete stepArtifacts by pipelineId." time="0.0250" classname="A-StepArtfacts-0019. Members should not be able to delete stepArtifacts by pipelineId.">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0019. Members should not be able to delete stepArtifacts by pipelineId." time="0.0250" classclass="A-StepArtfacts-0019. Members should not be able to delete stepArtifacts by pipelineId.">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0020. Public should not be able to delete stepArtifacts by pipelineId." time="0.0210" classname="A-StepArtfacts-0020. Public should not be able to delete stepArtifacts by pipelineId.">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtfacts-0020. Public should not be able to delete stepArtifacts by pipelineId." time="0.0210" classclass="A-StepArtfacts-0020. Public should not be able to delete stepArtifacts by pipelineId.">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0021. User cannot post stepArtifact type &apos;artifact&apos; without artifactPath" time="0.0290" classname="A-StepArtifacts-0021. User cannot post stepArtifact type &apos;artifact&apos; without artifactPath">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0021. User cannot post stepArtifact type &apos;artifact&apos; without artifactPath" time="0.0290" classclass="A-StepArtifacts-0021. User cannot post stepArtifact type &apos;artifact&apos; without artifactPath">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0022. User cannot post stepArtifact type &apos;buildInfo&apos; without buildName" time="0.0240" classname="A-StepArtifacts-0022. User cannot post stepArtifact type &apos;buildInfo&apos; without buildName">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0022. User cannot post stepArtifact type &apos;buildInfo&apos; without buildName" time="0.0240" classclass="A-StepArtifacts-0022. User cannot post stepArtifact type &apos;buildInfo&apos; without buildName">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0023. User cannot post stepArtifact type &apos;buildInfo&apos; without buildNumber" time="0.0270" classname="A-StepArtifacts-0023. User cannot post stepArtifact type &apos;buildInfo&apos; without buildNumber">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0023. User cannot post stepArtifact type &apos;buildInfo&apos; without buildNumber" time="0.0270" classclass="A-StepArtifacts-0023. User cannot post stepArtifact type &apos;buildInfo&apos; without buildNumber">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0024. User cannot post stepArtifact type &apos;buildInfo&apos; without projectKey" time="0.0250" classname="A-StepArtifacts-0024. User cannot post stepArtifact type &apos;buildInfo&apos; without projectKey">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0024. User cannot post stepArtifact type &apos;buildInfo&apos; without projectKey" time="0.0250" classclass="A-StepArtifacts-0024. User cannot post stepArtifact type &apos;buildInfo&apos; without projectKey">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0025. User cannot post stepArtifact type &apos;releaseBundle&apos; without rbName" time="0.0250" classname="A-StepArtifacts-0025. User cannot post stepArtifact type &apos;releaseBundle&apos; without rbName">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0025. User cannot post stepArtifact type &apos;releaseBundle&apos; without rbName" time="0.0250" classclass="A-StepArtifacts-0025. User cannot post stepArtifact type &apos;releaseBundle&apos; without rbName">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0026. User cannot post stepArtifact type &apos;releaseBundle&apos; without rbVersion" time="0.0230" classname="A-StepArtifacts-0026. User cannot post stepArtifact type &apos;releaseBundle&apos; without rbVersion">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0026. User cannot post stepArtifact type &apos;releaseBundle&apos; without rbVersion" time="0.0230" classclass="A-StepArtifacts-0026. User cannot post stepArtifact type &apos;releaseBundle&apos; without rbVersion">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0027. User can post stepArtifact type &apos;releaseBundle&apos;" time="0.0280" classname="A-StepArtifacts-0027. User can post stepArtifact type &apos;releaseBundle&apos;">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0027. User can post stepArtifact type &apos;releaseBundle&apos;" time="0.0280" classclass="A-StepArtifacts-0027. User can post stepArtifact type &apos;releaseBundle&apos;">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0028. User can post stepArtifact type &apos;buildInfo&apos;" time="0.0270" classname="A-StepArtifacts-0028. User can post stepArtifact type &apos;buildInfo&apos;">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0028. User can post stepArtifact type &apos;buildInfo&apos;" time="0.0270" classclass="A-StepArtifacts-0028. User can post stepArtifact type &apos;buildInfo&apos;">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0029. User cannot get stepArtifact type &apos;artifact&apos; without passing artifactPath" time="0.0580" classname="A-StepArtifacts-0029. User cannot get stepArtifact type &apos;artifact&apos; without passing artifactPath">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0029. User cannot get stepArtifact type &apos;artifact&apos; without passing artifactPath" time="0.0580" classclass="A-StepArtifacts-0029. User cannot get stepArtifact type &apos;artifact&apos; without passing artifactPath">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0030. User cannot get stepArtifact type &apos;releaseBundle&apos; without passing rbVersion" time="0.0300" classname="A-StepArtifacts-0030. User cannot get stepArtifact type &apos;releaseBundle&apos; without passing rbVersion">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0030. User cannot get stepArtifact type &apos;releaseBundle&apos; without passing rbVersion" time="0.0300" classclass="A-StepArtifacts-0030. User cannot get stepArtifact type &apos;releaseBundle&apos; without passing rbVersion">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0031. User cannot get stepArtifact type &apos;releaseBundle&apos; without passing rbName" time="0.0230" classname="A-StepArtifacts-0031. User cannot get stepArtifact type &apos;releaseBundle&apos; without passing rbName">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0031. User cannot get stepArtifact type &apos;releaseBundle&apos; without passing rbName" time="0.0230" classclass="A-StepArtifacts-0031. User cannot get stepArtifact type &apos;releaseBundle&apos; without passing rbName">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0032. User cannot get stepArtifact type &apos;buildInfo&apos; without passing buildName" time="0.0240" classname="A-StepArtifacts-0032. User cannot get stepArtifact type &apos;buildInfo&apos; without passing buildName">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0032. User cannot get stepArtifact type &apos;buildInfo&apos; without passing buildName" time="0.0240" classclass="A-StepArtifacts-0032. User cannot get stepArtifact type &apos;buildInfo&apos; without passing buildName">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0033. User cannot get stepArtifact type &apos;buildInfo&apos; without passing buildNumber" time="0.0280" classname="A-StepArtifacts-0033. User cannot get stepArtifact type &apos;buildInfo&apos; without passing buildNumber">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0033. User cannot get stepArtifact type &apos;buildInfo&apos; without passing buildNumber" time="0.0280" classclass="A-StepArtifacts-0033. User cannot get stepArtifact type &apos;buildInfo&apos; without passing buildNumber">
     </testcase>
-    <testcase name="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0034. User cannot get stepArtifact type &apos;buildInfo&apos; without passing projectKey" time="0.0190" classname="A-StepArtifacts-0034. User cannot get stepArtifact type &apos;buildInfo&apos; without passing projectKey">
+    <testcase class="API_STEPARTIFACTS - Step Artifacts API tests A-StepArtifacts-0034. User cannot get stepArtifact type &apos;buildInfo&apos; without passing projectKey" time="0.0190" classclass="A-StepArtifacts-0034. User cannot get stepArtifact type &apos;buildInfo&apos; without passing projectKey">
     </testcase>
   </testsuite>
 </testsuites>

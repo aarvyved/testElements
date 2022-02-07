@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="293.9360" tests="14" failures="0" skipped="6">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:18" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="293.9360" tests="14" failures="0" skipped="6">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:18" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="GENERIC_POWERSHELL - PowerShell Generic tests" timestamp="2022-01-17T17:51:18" tests="14" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_1/4383697/setup_PreMatrix/tests/core/steps/PowerShell/PSGeneric/Trigger/PowerShellGeneric1.js" time="293.9290" failures="0" skipped="6">
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 1. User can add docker Registry project Integration" time="4.7390" classname="1. User can add docker Registry project Integration">
+  <testsuite class="GENERIC_POWERSHELL - PowerShell Generic tests" timestamp="2022-01-17T17:51:18" tests="14" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_1/4383697/setup_PreMatrix/tests/core/steps/PowerShell/PSGeneric/Trigger/PowerShellGeneric1.js" time="293.9290" failures="0" skipped="6">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 1. User can add docker Registry project Integration" time="4.7390" classclass="1. User can add docker Registry project Integration">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0021. If the user triggers a PowerShell step with a timeout duration specified, then step times out in the specified number of minutes." time="0.0000" classname="S-PS-Generic-0021. If the user triggers a PowerShell step with a timeout duration specified, then step times out in the specified number of minutes.">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0021. If the user triggers a PowerShell step with a timeout duration specified, then step times out in the specified number of minutes." time="0.0000" classclass="S-PS-Generic-0021. If the user triggers a PowerShell step with a timeout duration specified, then step times out in the specified number of minutes.">
       <skipped/>
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0026. If a user defined any env in the environmentVariables section then verify those env should be available in that particular PowerShell step. " time="58.2040" classname="S-PS-Generic-0026. If a user defined any env in the environmentVariables section then verify those env should be available in that particular PowerShell step. ">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0026. If a user defined any env in the environmentVariables section then verify those env should be available in that particular PowerShell step. " time="58.2040" classclass="S-PS-Generic-0026. If a user defined any env in the environmentVariables section then verify those env should be available in that particular PowerShell step. ">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0033. If the user adds a pipeline with a PowerShell step with no runtime section, verify step should use the default image" time="67.7060" classname="S-PS-Generic-0033. If the user adds a pipeline with a PowerShell step with no runtime section, verify step should use the default image">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0033. If the user adds a pipeline with a PowerShell step with no runtime section, verify step should use the default image" time="67.7060" classclass="S-PS-Generic-0033. If the user adds a pipeline with a PowerShell step with no runtime section, verify step should use the default image">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0035. User verifies if configuration-&gt;runtime-&gt;type is set to host in the yaml of the step, the PowerShell step should run directly on the host " time="43.1490" classname="S-PS-Generic-0035. User verifies if configuration-&gt;runtime-&gt;type is set to host in the yaml of the step, the PowerShell step should run directly on the host ">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0035. User verifies if configuration-&gt;runtime-&gt;type is set to host in the yaml of the step, the PowerShell step should run directly on the host " time="43.1490" classclass="S-PS-Generic-0035. User verifies if configuration-&gt;runtime-&gt;type is set to host in the yaml of the step, the PowerShell step should run directly on the host ">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 5. User should be able to add new pipelineSources" time="0.0000" classname="5. User should be able to add new pipelineSources">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 5. User should be able to add new pipelineSources" time="0.0000" classclass="5. User should be able to add new pipelineSources">
       <skipped/>
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0036. User verifies if configuration-&gt;runtime-&gt;type is set to image in the powershell step of the yaml but no image section is specified, step runs on default image." time="0.0000" classname="S-PS-Generic-0036. User verifies if configuration-&gt;runtime-&gt;type is set to image in the powershell step of the yaml but no image section is specified, step runs on default image.">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0036. User verifies if configuration-&gt;runtime-&gt;type is set to image in the powershell step of the yaml but no image section is specified, step runs on default image." time="0.0000" classclass="S-PS-Generic-0036. User verifies if configuration-&gt;runtime-&gt;type is set to image in the powershell step of the yaml but no image section is specified, step runs on default image.">
       <skipped/>
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 6. User can get their steps" time="0.0000" classname="6. User can get their steps">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 6. User can get their steps" time="0.0000" classclass="6. User can get their steps">
       <skipped/>
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 7. User can delete pipelineSource by Id" time="0.0000" classname="7. User can delete pipelineSource by Id">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 7. User can delete pipelineSource by Id" time="0.0000" classclass="7. User can delete pipelineSource by Id">
       <skipped/>
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0037. User verifies if configuration-&gt;runtime setting of a PowerShell step overrides the configuration-&gt;runtime setting of the pipeline" time="39.4620" classname="S-PS-Generic-0037. User verifies if configuration-&gt;runtime setting of a PowerShell step overrides the configuration-&gt;runtime setting of the pipeline">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0037. User verifies if configuration-&gt;runtime setting of a PowerShell step overrides the configuration-&gt;runtime setting of the pipeline" time="39.4620" classclass="S-PS-Generic-0037. User verifies if configuration-&gt;runtime setting of a PowerShell step overrides the configuration-&gt;runtime setting of the pipeline">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0039. User verifies if configuration/runtime/type is set to image/auto in the yaml, then the correct default image for the specified language and version is selected." time="55.6060" classname="S-PS-Generic-0039. User verifies if configuration/runtime/type is set to image/auto in the yaml, then the correct default image for the specified language and version is selected.">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0039. User verifies if configuration/runtime/type is set to image/auto in the yaml, then the correct default image for the specified language and version is selected." time="55.6060" classclass="S-PS-Generic-0039. User verifies if configuration/runtime/type is set to image/auto in the yaml, then the correct default image for the specified language and version is selected.">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0042. User verifies if the   configuration-&gt;runtime-&gt;type is set to image/custom in the yaml and   the custom image cannot be found on the registry then, PowerShell step should fail" time="0.0000" classname="S-PS-Generic-0042. User verifies if the   configuration-&gt;runtime-&gt;type is set to image/custom in the yaml and   the custom image cannot be found on the registry then, PowerShell step should fail">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0042. User verifies if the   configuration-&gt;runtime-&gt;type is set to image/custom in the yaml and   the custom image cannot be found on the registry then, PowerShell step should fail" time="0.0000" classclass="S-PS-Generic-0042. User verifies if the   configuration-&gt;runtime-&gt;type is set to image/custom in the yaml and   the custom image cannot be found on the registry then, PowerShell step should fail">
       <skipped/>
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0046. If the user doesn’t set any value to the trigger field under the inputResources section in the YAML, then by default it should set to true." time="24.6460" classname="S-PS-Generic-0046. If the user doesn’t set any value to the trigger field under the inputResources section in the YAML, then by default it should set to true.">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests S-PS-Generic-0046. If the user doesn’t set any value to the trigger field under the inputResources section in the YAML, then by default it should set to true." time="24.6460" classclass="S-PS-Generic-0046. If the user doesn’t set any value to the trigger field under the inputResources section in the YAML, then by default it should set to true.">
     </testcase>
-    <testcase name="GENERIC_POWERSHELL - PowerShell Generic tests 33. user should be able to delete project integration by Id" time="0.1880" classname="33. user should be able to delete project integration by Id">
+    <testcase class="GENERIC_POWERSHELL - PowerShell Generic tests 33. user should be able to delete project integration by Id" time="0.1880" classclass="33. user should be able to delete project integration by Id">
     </testcase>
   </testsuite>
 </testsuites>

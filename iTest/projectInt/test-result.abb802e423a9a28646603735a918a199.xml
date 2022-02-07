@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="0.3690" tests="11" failures="0" skipped="11">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:52:11" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="0.3690" tests="11" failures="0" skipped="11">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:52:11" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests" timestamp="2022-01-17T17:52:11" tests="11" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383824/setup_PreMatrix/tests/core/projectIntegrations/DynamicAzure.js" time="0.3480" failures="0" skipped="11">
-    <testcase name="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests DI-Azure-0001. Verify a user can add Azure dynamic integration by providing Name, appId, password and tenant Id" time="0.0000" classname="DI-Azure-0001. Verify a user can add Azure dynamic integration by providing Name, appId, password and tenant Id">
+  <testsuite class="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests" timestamp="2022-01-17T17:52:11" tests="11" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383824/setup_PreMatrix/tests/core/projectIntegrations/DynamicAzure.js" time="0.3480" failures="0" skipped="11">
+    <testcase class="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests DI-Azure-0001. Verify a user can add Azure dynamic integration by providing Name, appId, password and tenant Id" time="0.0000" classclass="DI-Azure-0001. Verify a user can add Azure dynamic integration by providing Name, appId, password and tenant Id">
       <skipped/>
     </testcase>
-    <testcase name="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests DI-Azure-0002. Users should not be able to add the azure dynamic integration with the invalid name." time="0.0000" classname="DI-Azure-0002. Users should not be able to add the azure dynamic integration with the invalid name.">
+    <testcase class="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests DI-Azure-0002. Users should not be able to add the azure dynamic integration with the invalid name." time="0.0000" classclass="DI-Azure-0002. Users should not be able to add the azure dynamic integration with the invalid name.">
       <skipped/>
     </testcase>
-    <testcase name="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests DI-Azure-0003. Users should not be able to edit integration’s Name " time="0.0000" classname="DI-Azure-0003. Users should not be able to edit integration’s Name ">
+    <testcase class="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests DI-Azure-0003. Users should not be able to edit integration’s Name " time="0.0000" classclass="DI-Azure-0003. Users should not be able to edit integration’s Name ">
       <skipped/>
     </testcase>
-    <testcase name="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests DI-Azure-0004. Users should be able to edit integration’s appId. " time="0.0000" classname="DI-Azure-0004. Users should be able to edit integration’s appId. ">
+    <testcase class="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests DI-Azure-0004. Users should be able to edit integration’s appId. " time="0.0000" classclass="DI-Azure-0004. Users should be able to edit integration’s appId. ">
       <skipped/>
     </testcase>
-    <testcase name="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests DI-Azure-0005. Users should be able to edit the integration’s password" time="0.0000" classname="DI-Azure-0005. Users should be able to edit the integration’s password">
+    <testcase class="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests DI-Azure-0005. Users should be able to edit the integration’s password" time="0.0000" classclass="DI-Azure-0005. Users should be able to edit the integration’s password">
       <skipped/>
     </testcase>
-    <testcase name="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests DI-Azure-0006. Users should be able to edit integration’s tenant Id " time="0.0000" classname="DI-Azure-0006. Users should be able to edit integration’s tenant Id ">
+    <testcase class="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests DI-Azure-0006. Users should be able to edit integration’s tenant Id " time="0.0000" classclass="DI-Azure-0006. Users should be able to edit integration’s tenant Id ">
       <skipped/>
     </testcase>
-    <testcase name="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests 1. User can get buildPlaneImages" time="0.0000" classname="1. User can get buildPlaneImages">
+    <testcase class="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests 1. User can get buildPlaneImages" time="0.0000" classclass="1. User can get buildPlaneImages">
       <skipped/>
     </testcase>
-    <testcase name="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests 2. User can post NodePools for AzureDynamic project integration" time="0.0000" classname="2. User can post NodePools for AzureDynamic project integration">
+    <testcase class="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests 2. User can post NodePools for AzureDynamic project integration" time="0.0000" classclass="2. User can post NodePools for AzureDynamic project integration">
       <skipped/>
     </testcase>
-    <testcase name="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests DI-Azure-0007. Users should not be able to delete Azure dynamic integration when it is being used in the node pool  " time="0.0000" classname="DI-Azure-0007. Users should not be able to delete Azure dynamic integration when it is being used in the node pool  ">
+    <testcase class="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests DI-Azure-0007. Users should not be able to delete Azure dynamic integration when it is being used in the node pool  " time="0.0000" classclass="DI-Azure-0007. Users should not be able to delete Azure dynamic integration when it is being used in the node pool  ">
       <skipped/>
     </testcase>
-    <testcase name="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests 3. User should be able to delete nodePools by Id which is used in the AzureDynamic integration" time="0.0000" classname="3. User should be able to delete nodePools by Id which is used in the AzureDynamic integration">
+    <testcase class="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests 3. User should be able to delete nodePools by Id which is used in the AzureDynamic integration" time="0.0000" classclass="3. User should be able to delete nodePools by Id which is used in the AzureDynamic integration">
       <skipped/>
     </testcase>
-    <testcase name="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests DI-Azure-0008. User can delete AzureKeys integration by Id" time="0.0000" classname="DI-Azure-0008. User can delete AzureKeys integration by Id">
+    <testcase class="DYNAMICPROJECTINTEGRATIONS_AZUREKEYS - DynamicAzureKeys integration tests DI-Azure-0008. User can delete AzureKeys integration by Id" time="0.0000" classclass="DI-Azure-0008. User can delete AzureKeys integration by Id">
       <skipped/>
     </testcase>
   </testsuite>

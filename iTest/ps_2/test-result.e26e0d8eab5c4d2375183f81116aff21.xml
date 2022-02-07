@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="0.0170" tests="8" failures="0" skipped="8">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:44" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="0.0170" tests="8" failures="0" skipped="8">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:44" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="STEP_POWERSHELL_INCOMING_WEBHOOK_INTEGRATION - PowerShell Step Tests For Incoming Webhook Integration" timestamp="2022-01-17T17:51:44" tests="8" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_2/4383658/setup_PreMatrix/tests/core/steps/PowerShell/PSIntegration/PowerShellIncomingWebhookIntegration.js" time="0.0070" failures="0" skipped="8">
-    <testcase name="STEP_POWERSHELL_INCOMING_WEBHOOK_INTEGRATION - PowerShell Step Tests For Incoming Webhook Integration 1. User can add IncomingWebhook project Integration for username and password credentials" time="0.0000" classname="1. User can add IncomingWebhook project Integration for username and password credentials">
+  <testsuite class="STEP_POWERSHELL_INCOMING_WEBHOOK_INTEGRATION - PowerShell Step Tests For Incoming Webhook Integration" timestamp="2022-01-17T17:51:44" tests="8" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_2/4383658/setup_PreMatrix/tests/core/steps/PowerShell/PSIntegration/PowerShellIncomingWebhookIntegration.js" time="0.0070" failures="0" skipped="8">
+    <testcase class="STEP_POWERSHELL_INCOMING_WEBHOOK_INTEGRATION - PowerShell Step Tests For Incoming Webhook Integration 1. User can add IncomingWebhook project Integration for username and password credentials" time="0.0000" classclass="1. User can add IncomingWebhook project Integration for username and password credentials">
       <skipped/>
     </testcase>
-    <testcase name="STEP_POWERSHELL_INCOMING_WEBHOOK_INTEGRATION - PowerShell Step Tests For Incoming Webhook Integration 2. User can add Incoming Webhook projectIntegration for authorization credentials" time="0.0000" classname="2. User can add Incoming Webhook projectIntegration for authorization credentials">
+    <testcase class="STEP_POWERSHELL_INCOMING_WEBHOOK_INTEGRATION - PowerShell Step Tests For Incoming Webhook Integration 2. User can add Incoming Webhook projectIntegration for authorization credentials" time="0.0000" classclass="2. User can add Incoming Webhook projectIntegration for authorization credentials">
       <skipped/>
     </testcase>
-    <testcase name="STEP_POWERSHELL_INCOMING_WEBHOOK_INTEGRATION - PowerShell Step Tests For Incoming Webhook Integration S-PS-I-IntWeb-0001.If the user adds a pipeline sources with the PowerShell step, where  Internal Webhook integration is mentioned in the integration section, then pipeline sync should success." time="0.0000" classname="S-PS-I-IntWeb-0001.If the user adds a pipeline sources with the PowerShell step, where  Internal Webhook integration is mentioned in the integration section, then pipeline sync should success.">
+    <testcase class="STEP_POWERSHELL_INCOMING_WEBHOOK_INTEGRATION - PowerShell Step Tests For Incoming Webhook Integration S-PS-I-IntWeb-0001.If the user adds a pipeline sources with the PowerShell step, where  Internal Webhook integration is mentioned in the integration section, then pipeline sync should success." time="0.0000" classclass="S-PS-I-IntWeb-0001.If the user adds a pipeline sources with the PowerShell step, where  Internal Webhook integration is mentioned in the integration section, then pipeline sync should success.">
       <skipped/>
     </testcase>
-    <testcase name="STEP_POWERSHELL_INCOMING_WEBHOOK_INTEGRATION - PowerShell Step Tests For Incoming Webhook Integration S-PS-I-IntWeb-0002. User verifies that all the Internal Webhook integration environment variables are available in execution sectionsof the PowerShell step." time="0.0000" classname="S-PS-I-IntWeb-0002. User verifies that all the Internal Webhook integration environment variables are available in execution sectionsof the PowerShell step.">
+    <testcase class="STEP_POWERSHELL_INCOMING_WEBHOOK_INTEGRATION - PowerShell Step Tests For Incoming Webhook Integration S-PS-I-IntWeb-0002. User verifies that all the Internal Webhook integration environment variables are available in execution sectionsof the PowerShell step." time="0.0000" classclass="S-PS-I-IntWeb-0002. User verifies that all the Internal Webhook integration environment variables are available in execution sectionsof the PowerShell step.">
       <skipped/>
     </testcase>
-    <testcase name="STEP_POWERSHELL_INCOMING_WEBHOOK_INTEGRATION - PowerShell Step Tests For Incoming Webhook Integration 3. User should be able to add new pipelineSources" time="0.0000" classname="3. User should be able to add new pipelineSources">
+    <testcase class="STEP_POWERSHELL_INCOMING_WEBHOOK_INTEGRATION - PowerShell Step Tests For Incoming Webhook Integration 3. User should be able to add new pipelineSources" time="0.0000" classclass="3. User should be able to add new pipelineSources">
       <skipped/>
     </testcase>
-    <testcase name="STEP_POWERSHELL_INCOMING_WEBHOOK_INTEGRATION - PowerShell Step Tests For Incoming Webhook Integration S-PS-I-IntWeb-0003. Users should not be able to delete incoming webhook integration if it is dependent on the steps." time="0.0000" classname="S-PS-I-IntWeb-0003. Users should not be able to delete incoming webhook integration if it is dependent on the steps.">
+    <testcase class="STEP_POWERSHELL_INCOMING_WEBHOOK_INTEGRATION - PowerShell Step Tests For Incoming Webhook Integration S-PS-I-IntWeb-0003. Users should not be able to delete incoming webhook integration if it is dependent on the steps." time="0.0000" classclass="S-PS-I-IntWeb-0003. Users should not be able to delete incoming webhook integration if it is dependent on the steps.">
       <skipped/>
     </testcase>
-    <testcase name="STEP_POWERSHELL_INCOMING_WEBHOOK_INTEGRATION - PowerShell Step Tests For Incoming Webhook Integration 4. User can delete pipelineSource by Id" time="0.0000" classname="4. User can delete pipelineSource by Id">
+    <testcase class="STEP_POWERSHELL_INCOMING_WEBHOOK_INTEGRATION - PowerShell Step Tests For Incoming Webhook Integration 4. User can delete pipelineSource by Id" time="0.0000" classclass="4. User can delete pipelineSource by Id">
       <skipped/>
     </testcase>
-    <testcase name="STEP_POWERSHELL_INCOMING_WEBHOOK_INTEGRATION - PowerShell Step Tests For Incoming Webhook Integration 5. User can delete Incoming webhook project integrations by Id" time="0.0000" classname="5. User can delete Incoming webhook project integrations by Id">
+    <testcase class="STEP_POWERSHELL_INCOMING_WEBHOOK_INTEGRATION - PowerShell Step Tests For Incoming Webhook Integration 5. User can delete Incoming webhook project integrations by Id" time="0.0000" classclass="5. User can delete Incoming webhook project integrations by Id">
       <skipped/>
     </testcase>
   </testsuite>

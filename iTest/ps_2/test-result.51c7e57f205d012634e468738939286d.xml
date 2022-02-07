@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="179.6440" tests="2" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:44" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="179.6440" tests="2" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:44" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="POWERSHELL_LANGUAGE_IMAGE - PowerShell DotNet Language Image test cases" timestamp="2022-01-17T17:51:44" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_2/4383673/setup_PreMatrix/tests/core/steps/PowerShell/PSLanguages/DotNetLanguageImages.js" time="179.6090" failures="0">
-    <testcase name="POWERSHELL_LANGUAGE_IMAGE - PowerShell DotNet Language Image test cases S-PS-Language-0012. User verifies if type is set to image/auto, language set “dotnetcore” and version set to “2” then PowerShell  step should run on that particular specific dotnetcore version for  windows node." time="102.7890" classname="S-PS-Language-0012. User verifies if type is set to image/auto, language set “dotnetcore” and version set to “2” then PowerShell  step should run on that particular specific dotnetcore version for  windows node.">
+  <testsuite class="POWERSHELL_LANGUAGE_IMAGE - PowerShell DotNet Language Image test cases" timestamp="2022-01-17T17:51:44" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_2/4383673/setup_PreMatrix/tests/core/steps/PowerShell/PSLanguages/DotNetLanguageImages.js" time="179.6090" failures="0">
+    <testcase class="POWERSHELL_LANGUAGE_IMAGE - PowerShell DotNet Language Image test cases S-PS-Language-0012. User verifies if type is set to image/auto, language set “dotnetcore” and version set to “2” then PowerShell  step should run on that particular specific dotnetcore version for  windows node." time="102.7890" classclass="S-PS-Language-0012. User verifies if type is set to image/auto, language set “dotnetcore” and version set to “2” then PowerShell  step should run on that particular specific dotnetcore version for  windows node.">
     </testcase>
-    <testcase name="POWERSHELL_LANGUAGE_IMAGE - PowerShell DotNet Language Image test cases S-PS-Language-0013. User verifies if type is set to image/auto, language set “dotnetcore” and version set to “3” then PowerShell step should run on that particular specific dotnetcore version for windows node." time="76.4880" classname="S-PS-Language-0013. User verifies if type is set to image/auto, language set “dotnetcore” and version set to “3” then PowerShell step should run on that particular specific dotnetcore version for windows node.">
+    <testcase class="POWERSHELL_LANGUAGE_IMAGE - PowerShell DotNet Language Image test cases S-PS-Language-0013. User verifies if type is set to image/auto, language set “dotnetcore” and version set to “3” then PowerShell step should run on that particular specific dotnetcore version for windows node." time="76.4880" classclass="S-PS-Language-0013. User verifies if type is set to image/auto, language set “dotnetcore” and version set to “3” then PowerShell step should run on that particular specific dotnetcore version for windows node.">
     </testcase>
   </testsuite>
 </testsuites>

@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="0.0430" tests="22" failures="0" skipped="22">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:37" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="0.0430" tests="22" failures="0" skipped="22">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:37" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="API_LIVELOGS - System Live Logs API tests" timestamp="2022-01-17T17:51:37" tests="22" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383732/setup_PreMatrix/tests/core/api/systemLiveLogs.js" time="0.0350" failures="0" skipped="22">
-    <testcase name="API_LIVELOGS - System Live Logs API tests A-G-LL-0001. Super user should be able to get system logs config" time="0.0000" classname="A-G-LL-0001. Super user should be able to get system logs config">
+  <testsuite class="API_LIVELOGS - System Live Logs API tests" timestamp="2022-01-17T17:51:37" tests="22" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383732/setup_PreMatrix/tests/core/api/systemLiveLogs.js" time="0.0350" failures="0" skipped="22">
+    <testcase class="API_LIVELOGS - System Live Logs API tests A-G-LL-0001. Super user should be able to get system logs config" time="0.0000" classclass="A-G-LL-0001. Super user should be able to get system logs config">
       <skipped/>
     </testcase>
-    <testcase name="API_LIVELOGS - System Live Logs API tests A-G-LL-0002. Admin user shouldn’t be able to get system logs config" time="0.0000" classname="A-G-LL-0002. Admin user shouldn’t be able to get system logs config">
+    <testcase class="API_LIVELOGS - System Live Logs API tests A-G-LL-0002. Admin user shouldn’t be able to get system logs config" time="0.0000" classclass="A-G-LL-0002. Admin user shouldn’t be able to get system logs config">
       <skipped/>
     </testcase>
-    <testcase name="API_LIVELOGS - System Live Logs API tests A-G-LL-0003. Member user shouldn’t be able to get system logs config" time="0.0000" classname="A-G-LL-0003. Member user shouldn’t be able to get system logs config">
+    <testcase class="API_LIVELOGS - System Live Logs API tests A-G-LL-0003. Member user shouldn’t be able to get system logs config" time="0.0000" classclass="A-G-LL-0003. Member user shouldn’t be able to get system logs config">
       <skipped/>
     </testcase>
-    <testcase name="API_LIVELOGS - System Live Logs API tests A-G-LL-0004. Public user shouldn’t be able to get system logs config" time="0.0000" classname="A-G-LL-0004. Public user shouldn’t be able to get system logs config">
+    <testcase class="API_LIVELOGS - System Live Logs API tests A-G-LL-0004. Public user shouldn’t be able to get system logs config" time="0.0000" classclass="A-G-LL-0004. Public user shouldn’t be able to get system logs config">
       <skipped/>
     </testcase>
-    <testcase name="API_LIVELOGS - System Live Logs API tests A-G-LL-0005. Super user should be able to get system log data" time="0.0000" classname="A-G-LL-0005. Super user should be able to get system log data">
+    <testcase class="API_LIVELOGS - System Live Logs API tests A-G-LL-0005. Super user should be able to get system log data" time="0.0000" classclass="A-G-LL-0005. Super user should be able to get system log data">
       <skipped/>
     </testcase>
-    <testcase name="API_LIVELOGS - System Live Logs API tests A-G-LL-0006. Admin user shouldn’t be able to get system log data" time="0.0000" classname="A-G-LL-0006. Admin user shouldn’t be able to get system log data">
+    <testcase class="API_LIVELOGS - System Live Logs API tests A-G-LL-0006. Admin user shouldn’t be able to get system log data" time="0.0000" classclass="A-G-LL-0006. Admin user shouldn’t be able to get system log data">
       <skipped/>
     </testcase>
-    <testcase name="API_LIVELOGS - System Live Logs API tests A-G-LL-0007. Member user shouldn’t be able to get system log data" time="0.0000" classname="A-G-LL-0007. Member user shouldn’t be able to get system log data">
+    <testcase class="API_LIVELOGS - System Live Logs API tests A-G-LL-0007. Member user shouldn’t be able to get system log data" time="0.0000" classclass="A-G-LL-0007. Member user shouldn’t be able to get system log data">
       <skipped/>
     </testcase>
-    <testcase name="API_LIVELOGS - System Live Logs API tests A-G-LL-0008. Public user shouldn’t be able to get system log data" time="0.0000" classname="A-G-LL-0008. Public user shouldn’t be able to get system log data">
+    <testcase class="API_LIVELOGS - System Live Logs API tests A-G-LL-0008. Public user shouldn’t be able to get system log data" time="0.0000" classclass="A-G-LL-0008. Public user shouldn’t be able to get system log data">
       <skipped/>
     </testcase>
-    <testcase name="API_LIVELOGS - System Live Logs API tests A-G-LL-0009. User should be able to get system log data with id as query" time="0.0000" classname="A-G-LL-0009. User should be able to get system log data with id as query">
+    <testcase class="API_LIVELOGS - System Live Logs API tests A-G-LL-0009. User should be able to get system log data with id as query" time="0.0000" classclass="A-G-LL-0009. User should be able to get system log data with id as query">
       <skipped/>
     </testcase>
-    <testcase name="API_LIVELOGS - System Live Logs API tests A-G-LL-0016. User should be able to get system log data with id and file_size as query" time="0.0000" classname="A-G-LL-0016. User should be able to get system log data with id and file_size as query">
+    <testcase class="API_LIVELOGS - System Live Logs API tests A-G-LL-0016. User should be able to get system log data with id and file_size as query" time="0.0000" classclass="A-G-LL-0016. User should be able to get system log data with id and file_size as query">
       <skipped/>
     </testcase>
-    <testcase name="API_LIVELOGS - System Live Logs API tests A-G-LL-0010. System config API response should haverefresh_rate_millis in response" time="0.0000" classname="A-G-LL-0010. System config API response should haverefresh_rate_millis in response">
+    <testcase class="API_LIVELOGS - System Live Logs API tests A-G-LL-0010. System config API response should haverefresh_rate_millis in response" time="0.0000" classclass="A-G-LL-0010. System config API response should haverefresh_rate_millis in response">
       <skipped/>
     </testcase>
-    <testcase name="API_LIVELOGS - System Live Logs API tests A-G-LL-0011. System config API response should have logs in response" time="0.0000" classname="A-G-LL-0011. System config API response should have logs in response">
+    <testcase class="API_LIVELOGS - System Live Logs API tests A-G-LL-0011. System config API response should have logs in response" time="0.0000" classclass="A-G-LL-0011. System config API response should have logs in response">
       <skipped/>
     </testcase>
-    <testcase name="API_LIVELOGS - System Live Logs API tests A-G-LL-0012. System log data API response should have file_size in response" time="0.0000" classname="A-G-LL-0012. System log data API response should have file_size in response">
+    <testcase class="API_LIVELOGS - System Live Logs API tests A-G-LL-0012. System log data API response should have file_size in response" time="0.0000" classclass="A-G-LL-0012. System log data API response should have file_size in response">
       <skipped/>
     </testcase>
-    <testcase name="API_LIVELOGS - System Live Logs API tests A-G-LL-0013. System log data API response should have last_update_modified in response" time="0.0000" classname="A-G-LL-0013. System log data API response should have last_update_modified in response">
+    <testcase class="API_LIVELOGS - System Live Logs API tests A-G-LL-0013. System log data API response should have last_update_modified in response" time="0.0000" classclass="A-G-LL-0013. System log data API response should have last_update_modified in response">
       <skipped/>
     </testcase>
-    <testcase name="API_LIVELOGS - System Live Logs API tests A-G-LL-0014. System log data API response should have last_update_label in response" time="0.0000" classname="A-G-LL-0014. System log data API response should have last_update_label in response">
+    <testcase class="API_LIVELOGS - System Live Logs API tests A-G-LL-0014. System log data API response should have last_update_label in response" time="0.0000" classclass="A-G-LL-0014. System log data API response should have last_update_label in response">
       <skipped/>
     </testcase>
-    <testcase name="API_LIVELOGS - System Live Logs API tests A-G-LL-0015. System log data API response should have log_content in response" time="0.0000" classname="A-G-LL-0015. System log data API response should have log_content in response">
+    <testcase class="API_LIVELOGS - System Live Logs API tests A-G-LL-0015. System log data API response should have log_content in response" time="0.0000" classclass="A-G-LL-0015. System log data API response should have log_content in response">
       <skipped/>
     </testcase>
-    <testcase name="API_LIVELOGS - System Live Logs API tests A-G-LL-0016. System log data API response should have nodes(machines where Pipelines are installed) in response" time="0.0000" classname="A-G-LL-0016. System log data API response should have nodes(machines where Pipelines are installed) in response">
+    <testcase class="API_LIVELOGS - System Live Logs API tests A-G-LL-0016. System log data API response should have nodes(machines where Pipelines are installed) in response" time="0.0000" classclass="A-G-LL-0016. System log data API response should have nodes(machines where Pipelines are installed) in response">
       <skipped/>
     </testcase>
-    <testcase name="API_LIVELOGS - System Live Logs API tests A-G-LL-0017. Admin should be able to call the GET /system/logs/data API 10 times within 10 seconds" time="0.0000" classname="A-G-LL-0017. Admin should be able to call the GET /system/logs/data API 10 times within 10 seconds">
+    <testcase class="API_LIVELOGS - System Live Logs API tests A-G-LL-0017. Admin should be able to call the GET /system/logs/data API 10 times within 10 seconds" time="0.0000" classclass="A-G-LL-0017. Admin should be able to call the GET /system/logs/data API 10 times within 10 seconds">
       <skipped/>
     </testcase>
-    <testcase name="API_LIVELOGS - System Live Logs API tests A-G-LL-0018. 2 admins should be able to call the GET /system/logs/data API 10 times each within 10 seconds" time="0.0000" classname="A-G-LL-0018. 2 admins should be able to call the GET /system/logs/data API 10 times each within 10 seconds">
+    <testcase class="API_LIVELOGS - System Live Logs API tests A-G-LL-0018. 2 admins should be able to call the GET /system/logs/data API 10 times each within 10 seconds" time="0.0000" classclass="A-G-LL-0018. 2 admins should be able to call the GET /system/logs/data API 10 times each within 10 seconds">
       <skipped/>
     </testcase>
-    <testcase name="API_LIVELOGS - System Live Logs API tests A-G-LL-0019. User should see that a 429 response is returned from GET /system/logs/data API if there are 11 or more calls made from the same user within 10s" time="0.0000" classname="A-G-LL-0019. User should see that a 429 response is returned from GET /system/logs/data API if there are 11 or more calls made from the same user within 10s">
+    <testcase class="API_LIVELOGS - System Live Logs API tests A-G-LL-0019. User should see that a 429 response is returned from GET /system/logs/data API if there are 11 or more calls made from the same user within 10s" time="0.0000" classclass="A-G-LL-0019. User should see that a 429 response is returned from GET /system/logs/data API if there are 11 or more calls made from the same user within 10s">
       <skipped/>
     </testcase>
-    <testcase name="API_LIVELOGS - System Live Logs API tests A-G-LL-0020. User shouldn’t see a 429 response is returned from GET /system/logs/data API if user makes the same call after 10 seconds from receiving a 429 response" time="0.0000" classname="A-G-LL-0020. User shouldn’t see a 429 response is returned from GET /system/logs/data API if user makes the same call after 10 seconds from receiving a 429 response">
+    <testcase class="API_LIVELOGS - System Live Logs API tests A-G-LL-0020. User shouldn’t see a 429 response is returned from GET /system/logs/data API if user makes the same call after 10 seconds from receiving a 429 response" time="0.0000" classclass="A-G-LL-0020. User shouldn’t see a 429 response is returned from GET /system/logs/data API if user makes the same call after 10 seconds from receiving a 429 response">
       <skipped/>
     </testcase>
-    <testcase name="API_LIVELOGS - System Live Logs API tests A-G-LL-00021. Member user with livelog scope should be able to get system logs config" time="0.0000" classname="A-G-LL-00021. Member user with livelog scope should be able to get system logs config">
+    <testcase class="API_LIVELOGS - System Live Logs API tests A-G-LL-00021. Member user with livelog scope should be able to get system logs config" time="0.0000" classclass="A-G-LL-00021. Member user with livelog scope should be able to get system logs config">
       <skipped/>
     </testcase>
   </testsuite>

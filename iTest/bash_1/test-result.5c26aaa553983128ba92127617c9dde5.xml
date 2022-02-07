@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="487.5410" tests="9" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:16" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="487.5410" tests="9" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:16" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="STEP_BASH_AWS_INTEGRATION - Bash Step Tests For AWS Integration" timestamp="2022-01-17T17:51:16" tests="9" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383569/setup_PreMatrix/tests/core/steps/Bash/BashIntegrations/BashAWSIntegration.js" time="487.5320" failures="0">
-    <testcase name="STEP_BASH_AWS_INTEGRATION - Bash Step Tests For AWS Integration 1. user can add AWS project Integration" time="1.8890" classname="1. user can add AWS project Integration">
+  <testsuite class="STEP_BASH_AWS_INTEGRATION - Bash Step Tests For AWS Integration" timestamp="2022-01-17T17:51:16" tests="9" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_1/4383569/setup_PreMatrix/tests/core/steps/Bash/BashIntegrations/BashAWSIntegration.js" time="487.5320" failures="0">
+    <testcase class="STEP_BASH_AWS_INTEGRATION - Bash Step Tests For AWS Integration 1. user can add AWS project Integration" time="1.8890" classclass="1. user can add AWS project Integration">
     </testcase>
-    <testcase name="STEP_BASH_AWS_INTEGRATION - Bash Step Tests For AWS Integration S-Bash-0240. User should see automatic login is done for AWS integration in bash" time="46.4630" classname="S-Bash-0240. User should see automatic login is done for AWS integration in bash">
+    <testcase class="STEP_BASH_AWS_INTEGRATION - Bash Step Tests For AWS Integration S-Bash-0240. User should see automatic login is done for AWS integration in bash" time="46.4630" classclass="S-Bash-0240. User should see automatic login is done for AWS integration in bash">
     </testcase>
-    <testcase name="STEP_BASH_AWS_INTEGRATION - Bash Step Tests For AWS Integration S-Bash-0243. User adds AWS integration in integration section of bash step and verify pipeline sync is success" time="14.0210" classname="S-Bash-0243. User adds AWS integration in integration section of bash step and verify pipeline sync is success">
+    <testcase class="STEP_BASH_AWS_INTEGRATION - Bash Step Tests For AWS Integration S-Bash-0243. User adds AWS integration in integration section of bash step and verify pipeline sync is success" time="14.0210" classclass="S-Bash-0243. User adds AWS integration in integration section of bash step and verify pipeline sync is success">
     </testcase>
-    <testcase name="STEP_BASH_AWS_INTEGRATION - Bash Step Tests For AWS Integration S-Bash-0245. Environment variables for the integration are available in execution section of the Bash step" time="403.9410" classname="S-Bash-0245. Environment variables for the integration are available in execution section of the Bash step">
+    <testcase class="STEP_BASH_AWS_INTEGRATION - Bash Step Tests For AWS Integration S-Bash-0245. Environment variables for the integration are available in execution section of the Bash step" time="403.9410" classclass="S-Bash-0245. Environment variables for the integration are available in execution section of the Bash step">
     </testcase>
-    <testcase name="STEP_BASH_AWS_INTEGRATION - Bash Step Tests For AWS Integration S-Bash-0246. User adds AWS integration in integration section of bash step and verify pipeline sync is success" time="10.3690" classname="S-Bash-0246. User adds AWS integration in integration section of bash step and verify pipeline sync is success">
+    <testcase class="STEP_BASH_AWS_INTEGRATION - Bash Step Tests For AWS Integration S-Bash-0246. User adds AWS integration in integration section of bash step and verify pipeline sync is success" time="10.3690" classclass="S-Bash-0246. User adds AWS integration in integration section of bash step and verify pipeline sync is success">
     </testcase>
-    <testcase name="STEP_BASH_AWS_INTEGRATION - Bash Step Tests For AWS Integration 2. User should be able to add new pipelineSources" time="9.8030" classname="2. User should be able to add new pipelineSources">
+    <testcase class="STEP_BASH_AWS_INTEGRATION - Bash Step Tests For AWS Integration 2. User should be able to add new pipelineSources" time="9.8030" classclass="2. User should be able to add new pipelineSources">
     </testcase>
-    <testcase name="STEP_BASH_AWS_INTEGRATION - Bash Step Tests For AWS Integration S-Bash-0447. Users should not able to delete AWS integration if it is dependent on any steps." time="0.1570" classname="S-Bash-0447. Users should not able to delete AWS integration if it is dependent on any steps.">
+    <testcase class="STEP_BASH_AWS_INTEGRATION - Bash Step Tests For AWS Integration S-Bash-0447. Users should not able to delete AWS integration if it is dependent on any steps." time="0.1570" classclass="S-Bash-0447. Users should not able to delete AWS integration if it is dependent on any steps.">
     </testcase>
-    <testcase name="STEP_BASH_AWS_INTEGRATION - Bash Step Tests For AWS Integration 3. User can delete pipelineSource by Id" time="0.5590" classname="3. User can delete pipelineSource by Id">
+    <testcase class="STEP_BASH_AWS_INTEGRATION - Bash Step Tests For AWS Integration 3. User can delete pipelineSource by Id" time="0.5590" classclass="3. User can delete pipelineSource by Id">
     </testcase>
-    <testcase name="STEP_BASH_AWS_INTEGRATION - Bash Step Tests For AWS Integration 4. User can delete AWS project integration by Id" time="0.0980" classname="4. User can delete AWS project integration by Id">
+    <testcase class="STEP_BASH_AWS_INTEGRATION - Bash Step Tests For AWS Integration 4. User can delete AWS project integration by Id" time="0.0980" classclass="4. User can delete AWS project integration by Id">
     </testcase>
   </testsuite>
 </testsuites>

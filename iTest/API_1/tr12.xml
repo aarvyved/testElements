@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="91.0180" tests="13" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:37" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="91.0180" tests="13" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:37" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests" timestamp="2022-01-17T17:51:37" tests="13" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383634/setup_PreMatrix/tests/core/api/passthrough_pipeInfo.js" time="91.0010" failures="0">
-    <testcase name="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-001. User cannot get stepJson given &quot;objectType = step&quot; without stepId" time="0.0380" classname="A-pipeInfoJsons-PIPE-5793-001. User cannot get stepJson given &quot;objectType = step&quot; without stepId">
+  <testsuite class="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests" timestamp="2022-01-17T17:51:37" tests="13" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383634/setup_PreMatrix/tests/core/api/passthrough_pipeInfo.js" time="91.0010" failures="0">
+    <testcase class="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-001. User cannot get stepJson given &quot;objectType = step&quot; without stepId" time="0.0380" classclass="A-pipeInfoJsons-PIPE-5793-001. User cannot get stepJson given &quot;objectType = step&quot; without stepId">
     </testcase>
-    <testcase name="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-002. User cannot get infoJson given &quot;objectType = info&quot; without runId" time="0.0270" classname="A-pipeInfoJsons-PIPE-5793-002. User cannot get infoJson given &quot;objectType = info&quot; without runId">
+    <testcase class="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-002. User cannot get infoJson given &quot;objectType = info&quot; without runId" time="0.0270" classclass="A-pipeInfoJsons-PIPE-5793-002. User cannot get infoJson given &quot;objectType = info&quot; without runId">
     </testcase>
-    <testcase name="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-003. User cannot get headJson given &quot;objectType = head&quot; without stepId" time="0.0280" classname="A-pipeInfoJsons-PIPE-5793-003. User cannot get headJson given &quot;objectType = head&quot; without stepId">
+    <testcase class="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-003. User cannot get headJson given &quot;objectType = head&quot; without stepId" time="0.0280" classclass="A-pipeInfoJsons-PIPE-5793-003. User cannot get headJson given &quot;objectType = head&quot; without stepId">
     </testcase>
-    <testcase name="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-004. User can get stepJson given &quot;objectType = step&quot; with stepId" time="0.2890" classname="A-pipeInfoJsons-PIPE-5793-004. User can get stepJson given &quot;objectType = step&quot; with stepId">
+    <testcase class="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-004. User can get stepJson given &quot;objectType = step&quot; with stepId" time="0.2890" classclass="A-pipeInfoJsons-PIPE-5793-004. User can get stepJson given &quot;objectType = step&quot; with stepId">
     </testcase>
-    <testcase name="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-005. User can get infoJson given &quot;objectType = info&quot; with runId" time="0.3610" classname="A-pipeInfoJsons-PIPE-5793-005. User can get infoJson given &quot;objectType = info&quot; with runId">
+    <testcase class="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-005. User can get infoJson given &quot;objectType = info&quot; with runId" time="0.3610" classclass="A-pipeInfoJsons-PIPE-5793-005. User can get infoJson given &quot;objectType = info&quot; with runId">
     </testcase>
-    <testcase name="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-006. User can get headJson given &quot;objectType = head&quot; with runId" time="0.3570" classname="A-pipeInfoJsons-PIPE-5793-006. User can get headJson given &quot;objectType = head&quot; with runId">
+    <testcase class="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-006. User can get headJson given &quot;objectType = head&quot; with runId" time="0.3570" classclass="A-pipeInfoJsons-PIPE-5793-006. User can get headJson given &quot;objectType = head&quot; with runId">
     </testcase>
-    <testcase name="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-007. User cannot get pipeInfoJson given &quot;invalid objectType = null&quot; with objectId" time="0.0740" classname="A-pipeInfoJsons-PIPE-5793-007. User cannot get pipeInfoJson given &quot;invalid objectType = null&quot; with objectId">
+    <testcase class="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-007. User cannot get pipeInfoJson given &quot;invalid objectType = null&quot; with objectId" time="0.0740" classclass="A-pipeInfoJsons-PIPE-5793-007. User cannot get pipeInfoJson given &quot;invalid objectType = null&quot; with objectId">
     </testcase>
-    <testcase name="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-008. Super user can get the pipeInfoJson" time="0.3270" classname="A-pipeInfoJsons-PIPE-5793-008. Super user can get the pipeInfoJson">
+    <testcase class="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-008. Super user can get the pipeInfoJson" time="0.3270" classclass="A-pipeInfoJsons-PIPE-5793-008. Super user can get the pipeInfoJson">
     </testcase>
-    <testcase name="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-009. ProjectAdminUser can get the pipeInfoJson" time="0.2930" classname="A-pipeInfoJsons-PIPE-5793-009. ProjectAdminUser can get the pipeInfoJson">
+    <testcase class="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-009. ProjectAdminUser can get the pipeInfoJson" time="0.2930" classclass="A-pipeInfoJsons-PIPE-5793-009. ProjectAdminUser can get the pipeInfoJson">
     </testcase>
-    <testcase name="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-0010. Admin user can get the pipeInfoJson" time="0.3620" classname="A-pipeInfoJsons-PIPE-5793-0010. Admin user can get the pipeInfoJson">
+    <testcase class="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-0010. Admin user can get the pipeInfoJson" time="0.3620" classclass="A-pipeInfoJsons-PIPE-5793-0010. Admin user can get the pipeInfoJson">
     </testcase>
-    <testcase name="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-0011. Member user can get their systemcodes" time="0.3260" classname="A-pipeInfoJsons-PIPE-5793-0011. Member user can get their systemcodes">
+    <testcase class="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-0011. Member user can get their systemcodes" time="0.3260" classclass="A-pipeInfoJsons-PIPE-5793-0011. Member user can get their systemcodes">
     </testcase>
-    <testcase name="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-0012. Public user cannot get the pipeInfoJson" time="0.0200" classname="A-pipeInfoJsons-PIPE-5793-0012. Public user cannot get the pipeInfoJson">
+    <testcase class="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests A-pipeInfoJsons-PIPE-5793-0012. Public user cannot get the pipeInfoJson" time="0.0200" classclass="A-pipeInfoJsons-PIPE-5793-0012. Public user cannot get the pipeInfoJson">
     </testcase>
-    <testcase name="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests Deleting pipelineSource" time="0.8530" classname="Deleting pipelineSource">
+    <testcase class="API_PASSTHROUGH_PIPEINFO - Passthrough PipeInfo API tests Deleting pipelineSource" time="0.8530" classclass="Deleting pipelineSource">
     </testcase>
   </testsuite>
 </testsuites>

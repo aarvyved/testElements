@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="254.8170" tests="4" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:49" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="254.8170" tests="4" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:49" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function" timestamp="2022-01-17T17:51:49" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383615/setup_PreMatrix/tests/core/steps/Bash/BashUtilityFunctions/UtilityFunctions5.js" time="0.0000" failures="0">
+  <testsuite class="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function" timestamp="2022-01-17T17:51:49" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383615/setup_PreMatrix/tests/core/steps/Bash/BashUtilityFunctions/UtilityFunctions5.js" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="Below test cases are for write_output " timestamp="2022-01-17T17:51:49" tests="4" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383615/setup_PreMatrix/tests/core/steps/Bash/BashUtilityFunctions/UtilityFunctions5.js" time="254.4920" failures="0">
-    <testcase name="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function Below test cases are for write_output  S_Bash_util_0019. A user runs a step with a write_output that has no = and the step fails." time="110.9230" classname="S_Bash_util_0019. A user runs a step with a write_output that has no = and the step fails.">
+  <testsuite class="Below test cases are for write_output " timestamp="2022-01-17T17:51:49" tests="4" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383615/setup_PreMatrix/tests/core/steps/Bash/BashUtilityFunctions/UtilityFunctions5.js" time="254.4920" failures="0">
+    <testcase class="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function Below test cases are for write_output  S_Bash_util_0019. A user runs a step with a write_output that has no = and the step fails." time="110.9230" classclass="S_Bash_util_0019. A user runs a step with a write_output that has no = and the step fails.">
     </testcase>
-    <testcase name="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function Below test cases are for write_output  S_Bash_util_0020. A user runs a step with a write_output that has no value and the step succeeds." time="74.9920" classname="S_Bash_util_0020. A user runs a step with a write_output that has no value and the step succeeds.">
+    <testcase class="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function Below test cases are for write_output  S_Bash_util_0020. A user runs a step with a write_output that has no value and the step succeeds." time="74.9920" classclass="S_Bash_util_0020. A user runs a step with a write_output that has no value and the step succeeds.">
     </testcase>
-    <testcase name="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function Below test cases are for write_output  S_Bash_util_0021. A user runs a step where write_output has a space after the = and it fails." time="33.8670" classname="S_Bash_util_0021. A user runs a step where write_output has a space after the = and it fails.">
+    <testcase class="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function Below test cases are for write_output  S_Bash_util_0021. A user runs a step where write_output has a space after the = and it fails." time="33.8670" classclass="S_Bash_util_0021. A user runs a step where write_output has a space after the = and it fails.">
     </testcase>
-    <testcase name="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function Below test cases are for write_output  S_Bash_util_0022. A user runs a step that has write_output update a value starting with &quot;s&quot; and it is successful." time="34.7040" classname="S_Bash_util_0022. A user runs a step that has write_output update a value starting with &quot;s&quot; and it is successful.">
+    <testcase class="STEP_UTILITYFUNCTIONS - Bash Step Tests For Utility Function Below test cases are for write_output  S_Bash_util_0022. A user runs a step that has write_output update a value starting with &quot;s&quot; and it is successful." time="34.7040" classclass="S_Bash_util_0022. A user runs a step that has write_output update a value starting with &quot;s&quot; and it is successful.">
     </testcase>
   </testsuite>
 </testsuites>

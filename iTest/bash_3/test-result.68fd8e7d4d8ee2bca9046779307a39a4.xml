@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="487.4350" tests="9" failures="0" skipped="1">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:49" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="487.4350" tests="9" failures="0" skipped="1">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:49" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="MATRIX_STEP - Matrix Step Tests 1 out 3" timestamp="2022-01-17T17:51:49" tests="9" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383607/setup_PreMatrix/tests/core/steps/Bash/BashNative/Matrix1.js" time="487.4240" failures="0" skipped="1">
-    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0021. If user specifies 2 sets of env variables and runtimes under stepletMultipliers section in Matrix step. Then verify each steplet should be a combination(2*2) of environment variables and runtimes" time="159.6680" classname="S-Matrix-0021. If user specifies 2 sets of env variables and runtimes under stepletMultipliers section in Matrix step. Then verify each steplet should be a combination(2*2) of environment variables and runtimes">
+  <testsuite class="MATRIX_STEP - Matrix Step Tests 1 out 3" timestamp="2022-01-17T17:51:49" tests="9" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383607/setup_PreMatrix/tests/core/steps/Bash/BashNative/Matrix1.js" time="487.4240" failures="0" skipped="1">
+    <testcase class="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0021. If user specifies 2 sets of env variables and runtimes under stepletMultipliers section in Matrix step. Then verify each steplet should be a combination(2*2) of environment variables and runtimes" time="159.6680" classclass="S-Matrix-0021. If user specifies 2 sets of env variables and runtimes under stepletMultipliers section in Matrix step. Then verify each steplet should be a combination(2*2) of environment variables and runtimes">
     </testcase>
-    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0022. If any PreMatrix step is used as inputSteps to matrix step then verify PreMatrix steps state files are available in all the Matrix steplets" time="52.9410" classname="S-Matrix-0022. If any PreMatrix step is used as inputSteps to matrix step then verify PreMatrix steps state files are available in all the Matrix steplets">
+    <testcase class="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0022. If any PreMatrix step is used as inputSteps to matrix step then verify PreMatrix steps state files are available in all the Matrix steplets" time="52.9410" classclass="S-Matrix-0022. If any PreMatrix step is used as inputSteps to matrix step then verify PreMatrix steps state files are available in all the Matrix steplets">
     </testcase>
-    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0023. if the user specifies tests in the execution section of the Matrix step using save_tests utility function. Then verify each steplet will execute the test and all steplet tests are counted" time="0.0000" classname="S-Matrix-0023. if the user specifies tests in the execution section of the Matrix step using save_tests utility function. Then verify each steplet will execute the test and all steplet tests are counted">
+    <testcase class="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0023. if the user specifies tests in the execution section of the Matrix step using save_tests utility function. Then verify each steplet will execute the test and all steplet tests are counted" time="0.0000" classclass="S-Matrix-0023. if the user specifies tests in the execution section of the Matrix step using save_tests utility function. Then verify each steplet will execute the test and all steplet tests are counted">
       <skipped/>
     </testcase>
-    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0024. If the user specified 2 sets of runtimes under stepletMultipliers section in Matrix step and in one runtimes section version is incorrect and in other runtimes section version is correct then verified that Matrix step should create two steplets and the correct version steplets should succeed" time="102.9790" classname="S-Matrix-0024. If the user specified 2 sets of runtimes under stepletMultipliers section in Matrix step and in one runtimes section version is incorrect and in other runtimes section version is correct then verified that Matrix step should create two steplets and the correct version steplets should succeed">
+    <testcase class="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0024. If the user specified 2 sets of runtimes under stepletMultipliers section in Matrix step and in one runtimes section version is incorrect and in other runtimes section version is correct then verified that Matrix step should create two steplets and the correct version steplets should succeed" time="102.9790" classclass="S-Matrix-0024. If the user specified 2 sets of runtimes under stepletMultipliers section in Matrix step and in one runtimes section version is incorrect and in other runtimes section version is correct then verified that Matrix step should create two steplets and the correct version steplets should succeed">
     </testcase>
-    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 1. Super user can post their pipelineSources" time="10.2270" classname="1. Super user can post their pipelineSources">
+    <testcase class="MATRIX_STEP - Matrix Step Tests 1 out 3 1. Super user can post their pipelineSources" time="10.2270" classclass="1. Super user can post their pipelineSources">
     </testcase>
-    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 2. Super user can get their pipelineSteps" time="0.1590" classname="2. Super user can get their pipelineSteps">
+    <testcase class="MATRIX_STEP - Matrix Step Tests 1 out 3 2. Super user can get their pipelineSteps" time="0.1590" classclass="2. Super user can get their pipelineSteps">
     </testcase>
-    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0025. superuser should be able to trigger a Matrix step" time="80.0630" classname="S-Matrix-0025. superuser should be able to trigger a Matrix step">
+    <testcase class="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0025. superuser should be able to trigger a Matrix step" time="80.0630" classclass="S-Matrix-0025. superuser should be able to trigger a Matrix step">
     </testcase>
-    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0029. Superuser should be able to trigger a Matrix step with custom config" time="80.1180" classname="S-Matrix-0029. Superuser should be able to trigger a Matrix step with custom config">
+    <testcase class="MATRIX_STEP - Matrix Step Tests 1 out 3 S-Matrix-0029. Superuser should be able to trigger a Matrix step with custom config" time="80.1180" classclass="S-Matrix-0029. Superuser should be able to trigger a Matrix step with custom config">
     </testcase>
-    <testcase name="MATRIX_STEP - Matrix Step Tests 1 out 3 3. Super user should be able to delete pipelineSource by Id" time="1.0550" classname="3. Super user should be able to delete pipelineSource by Id">
+    <testcase class="MATRIX_STEP - Matrix Step Tests 1 out 3 3. Super user should be able to delete pipelineSource by Id" time="1.0550" classclass="3. Super user should be able to delete pipelineSource by Id">
     </testcase>
   </testsuite>
 </testsuites>

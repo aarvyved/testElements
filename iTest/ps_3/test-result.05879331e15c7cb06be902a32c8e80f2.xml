@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="123.4520" tests="7" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:35" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="123.4520" tests="7" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:35" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="STEP_POWERSHELL_SLACK_INTEGRATION - PowerShell Step Tests For Slack Integration" timestamp="2022-01-17T17:51:35" tests="7" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_3/4383702/setup_PreMatrix/tests/core/steps/PowerShell/PSIntegration/PowerShellSlackIntegration.js" time="123.4290" failures="0">
-    <testcase name="STEP_POWERSHELL_SLACK_INTEGRATION - PowerShell Step Tests For Slack Integration 1. User can add Slack project integration" time="4.6060" classname="1. User can add Slack project integration">
+  <testsuite class="STEP_POWERSHELL_SLACK_INTEGRATION - PowerShell Step Tests For Slack Integration" timestamp="2022-01-17T17:51:35" tests="7" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/ps_tests_3/4383702/setup_PreMatrix/tests/core/steps/PowerShell/PSIntegration/PowerShellSlackIntegration.js" time="123.4290" failures="0">
+    <testcase class="STEP_POWERSHELL_SLACK_INTEGRATION - PowerShell Step Tests For Slack Integration 1. User can add Slack project integration" time="4.6060" classclass="1. User can add Slack project integration">
     </testcase>
-    <testcase name="STEP_POWERSHELL_SLACK_INTEGRATION - PowerShell Step Tests For Slack Integration S-PS-I-Slack-0001. If the user adds a pipeline sources with the PowerShell step, where  Slack integration is mentioned in the integration section, then pipeline sync should success" time="19.4620" classname="S-PS-I-Slack-0001. If the user adds a pipeline sources with the PowerShell step, where  Slack integration is mentioned in the integration section, then pipeline sync should success">
+    <testcase class="STEP_POWERSHELL_SLACK_INTEGRATION - PowerShell Step Tests For Slack Integration S-PS-I-Slack-0001. If the user adds a pipeline sources with the PowerShell step, where  Slack integration is mentioned in the integration section, then pipeline sync should success" time="19.4620" classclass="S-PS-I-Slack-0001. If the user adds a pipeline sources with the PowerShell step, where  Slack integration is mentioned in the integration section, then pipeline sync should success">
     </testcase>
-    <testcase name="STEP_POWERSHELL_SLACK_INTEGRATION - PowerShell Step Tests For Slack Integration S-PS-I-Slack-0002. User verifies that all the Slack integration environment variables are available in execution sections of the PowerShell step." time="87.0320" classname="S-PS-I-Slack-0002. User verifies that all the Slack integration environment variables are available in execution sections of the PowerShell step.">
+    <testcase class="STEP_POWERSHELL_SLACK_INTEGRATION - PowerShell Step Tests For Slack Integration S-PS-I-Slack-0002. User verifies that all the Slack integration environment variables are available in execution sections of the PowerShell step." time="87.0320" classclass="S-PS-I-Slack-0002. User verifies that all the Slack integration environment variables are available in execution sections of the PowerShell step.">
     </testcase>
-    <testcase name="STEP_POWERSHELL_SLACK_INTEGRATION - PowerShell Step Tests For Slack Integration 2. User should be able to add new pipelineSources" time="10.3940" classname="2. User should be able to add new pipelineSources">
+    <testcase class="STEP_POWERSHELL_SLACK_INTEGRATION - PowerShell Step Tests For Slack Integration 2. User should be able to add new pipelineSources" time="10.3940" classclass="2. User should be able to add new pipelineSources">
     </testcase>
-    <testcase name="STEP_POWERSHELL_SLACK_INTEGRATION - PowerShell Step Tests For Slack Integration S-PS-I-Slack-0003. Users should not be able to delete Slack integration if it is dependent on any steps." time="0.3700" classname="S-PS-I-Slack-0003. Users should not be able to delete Slack integration if it is dependent on any steps.">
+    <testcase class="STEP_POWERSHELL_SLACK_INTEGRATION - PowerShell Step Tests For Slack Integration S-PS-I-Slack-0003. Users should not be able to delete Slack integration if it is dependent on any steps." time="0.3700" classclass="S-PS-I-Slack-0003. Users should not be able to delete Slack integration if it is dependent on any steps.">
     </testcase>
-    <testcase name="STEP_POWERSHELL_SLACK_INTEGRATION - PowerShell Step Tests For Slack Integration 3. User can delete pipelineSource by Id" time="1.1570" classname="3. User can delete pipelineSource by Id">
+    <testcase class="STEP_POWERSHELL_SLACK_INTEGRATION - PowerShell Step Tests For Slack Integration 3. User can delete pipelineSource by Id" time="1.1570" classclass="3. User can delete pipelineSource by Id">
     </testcase>
-    <testcase name="STEP_POWERSHELL_SLACK_INTEGRATION - PowerShell Step Tests For Slack Integration 4. User can delete Slack project integration by Id" time="0.1470" classname="4. User can delete Slack project integration by Id">
+    <testcase class="STEP_POWERSHELL_SLACK_INTEGRATION - PowerShell Step Tests For Slack Integration 4. User can delete Slack project integration by Id" time="0.1470" classclass="4. User can delete Slack project integration by Id">
     </testcase>
   </testsuite>
 </testsuites>

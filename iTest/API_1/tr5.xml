@@ -1,272 +1,272 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="259.0810" tests="126" failures="0" skipped="6">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:36" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="259.0810" tests="126" failures="0" skipped="6">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:36" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="API_STEPS - Steps API tests" timestamp="2022-01-17T17:51:36" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383632/setup_PreMatrix/tests/core/api/steps.js" time="0.0000" failures="0">
-    <testcase name="API_STEPS - Steps API tests 1. Super user can post their pipelineSources to add Steps" time="18.5460" classname="1. Super user can post their pipelineSources to add Steps">
-    </testcase>
-  </testsuite>
-  <testsuite name="Below test cases uses pipelineSource" timestamp="2022-01-17T17:51:55" tests="110" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383632/setup_PreMatrix/tests/core/api/steps.js" time="0.0000" failures="0" skipped="4">
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource 2. Super user can get their pipelines" time="0.1010" classname="2. Super user can get their pipelines">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource 3. Super user can get their pipelineSteps" time="0.0830" classname="3. Super user can get their pipelineSteps">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource 4. Super user can trigger pipelineSteps by Id" time="121.5180" classname="4. Super user can trigger pipelineSteps by Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource 6. Super user can get their Runs" time="0.0680" classname="6. Super user can get their Runs">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource 9. Super user should be able post Runs for steps" time="2.8580" classname="9. Super user should be able post Runs for steps">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource 10. Super user should be able post Runs for steps" time="0.9770" classname="10. Super user should be able post Runs for steps">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0001. Super user can post steps" time="0.0890" classname="A-Steps-0001. Super user can post steps">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-PO-PP-0027. Project Admin User should be able Post steps" time="0.1760" classname="A-PO-PP-0027. Project Admin User should be able Post steps">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0002. Admin user cannot post steps" time="0.0410" classname="A-Steps-0002. Admin user cannot post steps">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0003. Member cannot post steps" time="0.0350" classname="A-Steps-0003. Member cannot post steps">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0004. Public user cannot post steps" time="0.0180" classname="A-Steps-0004. Public user cannot post steps">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0005. Super user can get their steps" time="0.0700" classname="A-Steps-0005. Super user can get their steps">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-6531-0114. Users are able to use the include parameter while getting steps." time="0.0230" classname="A-Steps-6531-0114. Users are able to use the include parameter while getting steps.">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0006. Admin user can get their steps" time="0.2220" classname="A-Steps-0006. Admin user can get their steps">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0007. Member can get their steps" time="0.2750" classname="A-Steps-0007. Member can get their steps">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0008. Public user cannot get their steps" time="0.0180" classname="A-Steps-0008. Public user cannot get their steps">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0009. superuser can get steps by Id" time="0.0230" classname="A-Steps-0009. superuser can get steps by Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-6531-0115. Users are able to use the include parameter while getting steps by Id" time="0.0250" classname="A-Steps-6531-0115. Users are able to use the include parameter while getting steps by Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0010. Admin user can get their steps by id" time="0.0410" classname="A-Steps-0010. Admin user can get their steps by id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0011. Member can get their steps by id" time="0.0820" classname="A-Steps-0011. Member can get their steps by id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0012. Public user cannot get their step by id" time="0.0370" classname="A-Steps-0012. Public user cannot get their step by id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0013. Super user can get artifactUrl by step Id" time="0.0450" classname="A-Steps-0013. Super user can get artifactUrl by step Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0014. Admin cannot get artifactUrl by step Id" time="0.0310" classname="A-Steps-0014. Admin cannot get artifactUrl by step Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0015. Member cannot get artifactUrl by step Id" time="0.0280" classname="A-Steps-0015. Member cannot get artifactUrl by step Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0016. Public user cannot get their artifactUrl by step Id" time="0.0180" classname="A-Steps-0016. Public user cannot get their artifactUrl by step Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0017. Super user can get reports by step Id" time="0.1610" classname="A-Steps-0017. Super user can get reports by step Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0018. Admin can get reports by step Id" time="0.1230" classname="A-Steps-0018. Admin can get reports by step Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0019. Member can get reports by step Id" time="0.1450" classname="A-Steps-0019. Member can get reports by step Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0020. Public user cannot get their reports by step Id" time="0.0280" classname="A-Steps-0020. Public user cannot get their reports by step Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0021. Super user can update the step by id" time="0.1880" classname="A-Steps-0021. Super user can update the step by id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-PO-PP-0040. User with project scope can update the step by id" time="0.2460" classname="A-PO-PP-0040. User with project scope can update the step by id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-PUT-PP-0014. ProjectAdminUser should be able to update steps by its Id" time="0.3220" classname="A-PUT-PP-0014. ProjectAdminUser should be able to update steps by its Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0022. Admin user can update steps by id" time="0.2330" classname="A-Steps-0022. Admin user can update steps by id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0023. Member cannot update step by id" time="0.0530" classname="A-Steps-0023. Member cannot update step by id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0024. Public user cannot update step by id" time="0.0200" classname="A-Steps-0024. Public user cannot update step by id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0025. Id field in steps API should not be null and should be an integer" time="0.0000" classname="A-Steps-0025. Id field in steps API should not be null and should be an integer">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0026. PipelineId field in steps API should not be null and should be an integer" time="0.0000" classname="A-Steps-0026. PipelineId field in steps API should not be null and should be an integer">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0061. PipelineSourceId field in steps API should not be null and should be an integer" time="0.0000" classname="A-Steps-0061. PipelineSourceId field in steps API should not be null and should be an integer">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0027. PipelineStepId field in steps API should not be null and should be an integer" time="0.0000" classname="A-Steps-0027. PipelineStepId field in steps API should not be null and should be an integer">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0028. ProjectId field in steps API should not be null and should be an integer" time="0.0000" classname="A-Steps-0028. ProjectId field in steps API should not be null and should be an integer">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0029. Name field in steps API should not be null and should be a string" time="0.0000" classname="A-Steps-0029. Name field in steps API should not be null and should be a string">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0030. RunId field in steps API should not be null and should be an integer" time="0.0000" classname="A-Steps-0030. RunId field in steps API should not be null and should be an integer">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0031. StatusCode field in steps API should not be null and should be an integer" time="0.0000" classname="A-Steps-0031. StatusCode field in steps API should not be null and should be an integer">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0032. TypeCode field in steps API should not be null and should be an integer" time="0.0010" classname="A-Steps-0032. TypeCode field in steps API should not be null and should be an integer">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0033. AffinityGroup field in steps API should be a string" time="0.0000" classname="A-Steps-0033. AffinityGroup field in steps API should be a string">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0062. groupInProgress field in steps API should be a boolean" time="0.0000" classname="A-Steps-0062. groupInProgress field in steps API should be a boolean">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0034. FileStoreProvider field in steps API should be an object" time="0.0000" classname="A-Steps-0034. FileStoreProvider field in steps API should be an object">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0035. PipelineStateArtifactName field in steps API should be an object" time="0.0000" classname="A-Steps-0035. PipelineStateArtifactName field in steps API should be an object">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0036. TriggeredByResourceVersionIdfield in steps API should be an object" time="0.0000" classname="A-Steps-0036. TriggeredByResourceVersionIdfield in steps API should be an object">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0037. TriggeredByStepId field in steps API should be an object" time="0.0000" classname="A-Steps-0037. TriggeredByStepId field in steps API should be an object">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0038. TriggeredByIdentityId field in steps API should be an integer" time="0.0000" classname="A-Steps-0038. TriggeredByIdentityId field in steps API should be an integer">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0039. ConfigPropertyBag field in steps API should be an " time="0.0000" classname="A-Steps-0039. ConfigPropertyBag field in steps API should be an ">
-      <skipped/>
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0040. ExecPropertyBag field in steps API should be an object" time="0.0000" classname="A-Steps-0040. ExecPropertyBag field in steps API should be an object">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0042. StaticPropertyBag field in steps API should be an " time="0.0000" classname="A-Steps-0042. StaticPropertyBag field in steps API should be an ">
-      <skipped/>
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0043. TriggeredAt field in steps API should be a string" time="0.0000" classname="A-Steps-0043. TriggeredAt field in steps API should be a string">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0044. TimeoutAt field in steps API should be a string" time="0.0000" classname="A-Steps-0044. TimeoutAt field in steps API should be a string">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0045. QueuedAt field in steps API should be a string" time="0.0000" classname="A-Steps-0045. QueuedAt field in steps API should be a string">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0046. EndedAt field in steps API should be a string" time="0.0000" classname="A-Steps-0046. EndedAt field in steps API should be a string">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0047. StartedAt field in steps API should be a string" time="0.0000" classname="A-Steps-0047. StartedAt field in steps API should be a string">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0048. PendingLogsComplete field in stepsAPI should not be null and should be a boolean" time="0.0000" classname="A-Steps-0048. PendingLogsComplete field in stepsAPI should not be null and should be a boolean">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0049. ExternalBuildId field in steps API should be an object" time="0.0000" classname="A-Steps-0049. ExternalBuildId field in steps API should be an object">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0050. ExternalBuildUrl field in steps API should be an object" time="0.0000" classname="A-Steps-0050. ExternalBuildUrl field in steps API should be an object">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0051. CreatedAt field in steps API should not be null and should be a date" time="0.0010" classname="A-Steps-0051. CreatedAt field in steps API should not be null and should be a date">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0052. UpdatedAt field in steps API should not be null and should be a date" time="0.0000" classname="A-Steps-0052. UpdatedAt field in steps API should not be null and should be a date">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0063. Super user can get runStateArtifactUrl by steplet Id" time="0.2830" classname="A-Steps-0063. Super user can get runStateArtifactUrl by steplet Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0064. Admin cannot get runStateArtifactUrl by step Id" time="0.0330" classname="A-Steps-0064. Admin cannot get runStateArtifactUrl by step Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0064. Admin cannot get runStateArtifactUrl by step Id" time="0.0360" classname="A-Steps-0064. Admin cannot get runStateArtifactUrl by step Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0065. Member cannot get runStateArtifactUrl by step Id" time="0.0360" classname="A-Steps-0065. Member cannot get runStateArtifactUrl by step Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0066. Public user cannot get runStateArtifactUrl by step Id" time="0.0200" classname="A-Steps-0066. Public user cannot get runStateArtifactUrl by step Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0067. Super user gets the `head` field inside the response body of runStateArtifactUrl by step Id" time="0.2310" classname="A-Steps-0067. Super user gets the `head` field inside the response body of runStateArtifactUrl by step Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0068. Super user gets the `get` field inside the response body of runStateArtifactUrl by step Id" time="0.1800" classname="A-Steps-0068. Super user gets the `get` field inside the response body of runStateArtifactUrl by step Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0069. Super user gets the `put` field inside the response body of runStateArtifactUrl by step Id" time="0.1730" classname="A-Steps-0069. Super user gets the `put` field inside the response body of runStateArtifactUrl by step Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0070. Super user gets the `delete` field inside the response body of runStateArtifactUrl by step Id" time="0.1290" classname="A-Steps-0070. Super user gets the `delete` field inside the response body of runStateArtifactUrl by step Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0071. Super user gets the `headOpts` field inside the response body of runStateArtifactUrl by step Id" time="0.0680" classname="A-Steps-0071. Super user gets the `headOpts` field inside the response body of runStateArtifactUrl by step Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0072. Super user gets the `getOpts` field inside the response body of runStateArtifactUrl by step Id" time="0.0810" classname="A-Steps-0072. Super user gets the `getOpts` field inside the response body of runStateArtifactUrl by step Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0073. Super user gets the `putOpts` field inside the response body of runStateArtifactUrl by step Id" time="0.2360" classname="A-Steps-0073. Super user gets the `putOpts` field inside the response body of runStateArtifactUrl by step Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0074. Super user gets the `deleteOpts` field inside the response body of runStateArtifactUrl by step Id" time="0.3190" classname="A-Steps-0074. Super user gets the `deleteOpts` field inside the response body of runStateArtifactUrl by step Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0075. Super user gets the `relativePath` field inside the response body of runStateArtifactUrl by step Id" time="0.2080" classname="A-Steps-0075. Super user gets the `relativePath` field inside the response body of runStateArtifactUrl by step Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0076. Super user can get step executionEligibility by stepId" time="0.5970" classname="A-Steps-0076. Super user can get step executionEligibility by stepId">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-PO-PP-0041. User with project scope can get step executionEligibility by stepId" time="0.2410" classname="A-PO-PP-0041. User with project scope can get step executionEligibility by stepId">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0077. Admin user cannot get step executionEligibility by stepId" time="0.0500" classname="A-Steps-0077. Admin user cannot get step executionEligibility by stepId">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0078. Member user cannot get step executionEligibility by stepId" time="0.0430" classname="A-Steps-0078. Member user cannot get step executionEligibility by stepId">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0079. Public user cannot get step executionEligibility by stepId" time="0.0230" classname="A-Steps-0079. Public user cannot get step executionEligibility by stepId">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0080. Response body of the getStepExecutionEligibility API should contain canExecuteStep field which shouldn’t be null and of type boolean" time="0.0010" classname="A-Steps-0080. Response body of the getStepExecutionEligibility API should contain canExecuteStep field which shouldn’t be null and of type boolean">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0081. Response body of the getStepExecutionEligibility API should contain noNewVersion field which shouldn’t be null and of type boolean" time="0.0000" classname="A-Steps-0081. Response body of the getStepExecutionEligibility API should contain noNewVersion field which shouldn’t be null and of type boolean">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0082. Response body of the getStepExecutionEligibility API should contain stepInTerminalState field which shouldn’t be null and of type boolean" time="0.0000" classname="A-Steps-0082. Response body of the getStepExecutionEligibility API should contain stepInTerminalState field which shouldn’t be null and of type boolean">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0083. Response body of the getStepExecutionEligibility API should contain inconsistentInput field which shouldn’t be null and of type boolean" time="0.0000" classname="A-Steps-0083. Response body of the getStepExecutionEligibility API should contain inconsistentInput field which shouldn’t be null and of type boolean">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0084. Super user can update step status by stepId" time="0.1300" classname="A-Steps-0084. Super user can update step status by stepId">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0085. Admin user cannot update step status by stepId" time="0.0660" classname="A-Steps-0085. Admin user cannot update step status by stepId">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0086. Member user cannot update step status by stepId" time="0.1030" classname="A-Steps-0086. Member user cannot update step status by stepId">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0087. Public user cannot update step status by stepId" time="0.0210" classname="A-Steps-0087. Public user cannot update step status by stepId">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource 8. Super user can get their RunStepConnections" time="0.0400" classname="8. Super user can get their RunStepConnections">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource 9. ProjectAdminUser should be able to delete runStepConnection by its Id" time="0.0490" classname="9. ProjectAdminUser should be able to delete runStepConnection by its Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource 10. Super user can delete RunStepConnections by Id" time="0.0300" classname="10. Super user can delete RunStepConnections by Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0090. Super user is able to call POST /steps/management/timeoutSteps" time="0.0370" classname="A-Steps-0090. Super user is able to call POST /steps/management/timeoutSteps">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0091. Project admin is not authorized to call POST /steps/management/timeoutSteps" time="0.0340" classname="A-Steps-0091. Project admin is not authorized to call POST /steps/management/timeoutSteps">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0092. Admin is not authorized to call POST /steps/management/timeoutSteps" time="0.0540" classname="A-Steps-0092. Admin is not authorized to call POST /steps/management/timeoutSteps">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0093. Member is not authorized to call POST /steps/management/timeoutSteps" time="0.0800" classname="A-Steps-0093. Member is not authorized to call POST /steps/management/timeoutSteps">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0094. Public user is not authorized to call POST /steps/management/timeoutSteps" time="0.0190" classname="A-Steps-0094. Public user is not authorized to call POST /steps/management/timeoutSteps">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0095. User sees that stuck waiting steps which were  queued before 30 mins get timeoutAt value set after calling this API" time="1.3750" classname="A-Steps-0095. User sees that stuck waiting steps which were  queued before 30 mins get timeoutAt value set after calling this API">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0096. User sees that stuck waiting steps of a run which had the last step started at time was before (1hr + 40 min) gets timeoutAt value set after calling the API" time="1.2810" classname="A-Steps-0096. User sees that stuck waiting steps of a run which had the last step started at time was before (1hr + 40 min) gets timeoutAt value set after calling the API">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0097. User sees that stuck steps which are queued, and have startedAt set, but not timeout set, get timed out after  1hr 40 min" time="0.0000" classname="A-Steps-0097. User sees that stuck steps which are queued, and have startedAt set, but not timeout set, get timed out after  1hr 40 min">
-      <skipped/>
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0098. User sees that no steps are set to timeout if none of the steps in a run has groupInProgress value set to true" time="1.9050" classname="A-Steps-0098. User sees that no steps are set to timeout if none of the steps in a run has groupInProgress value set to true">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0099. User sees that no steps are set to timeout if the last max startedAt value is less than an hour" time="0.0000" classname="A-Steps-0099. User sees that no steps are set to timeout if the last max startedAt value is less than an hour">
-      <skipped/>
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0100. User sees that no steps are set to timeout if last queued at(no steps have started) is less than 30 mins" time="1.8730" classname="A-Steps-0100. User sees that no steps are set to timeout if last queued at(no steps have started) is less than 30 mins">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0057. Public user cannot delete steps by PipelineId" time="0.0220" classname="A-Steps-0057. Public user cannot delete steps by PipelineId">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0058. Member cannot delete steps by PipelineId" time="0.0360" classname="A-Steps-0058. Member cannot delete steps by PipelineId">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0059. Admin cannot delete steps by PipelineId" time="0.0410" classname="A-Steps-0059. Admin cannot delete steps by PipelineId">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-DEL-PP-0027. ProjectAdminUser cannot delete steps by its pipeline Id" time="0.0260" classname="A-DEL-PP-0027. ProjectAdminUser cannot delete steps by its pipeline Id">
-    </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0060. Super user can delete steps by PipelineId" time="0.1630" classname="A-Steps-0060. Super user can delete steps by PipelineId">
+  <testsuite class="API_STEPS - Steps API tests" timestamp="2022-01-17T17:51:36" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383632/setup_PreMatrix/tests/core/api/steps.js" time="0.0000" failures="0">
+    <testcase class="API_STEPS - Steps API tests 1. Super user can post their pipelineSources to add Steps" time="18.5460" classclass="1. Super user can post their pipelineSources to add Steps">
     </testcase>
   </testsuite>
-  <testsuite name="Approval Gates tests" timestamp="2022-01-17T17:54:14" tests="10" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383632/setup_PreMatrix/tests/core/api/steps.js" time="8.3960" failures="0">
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource Approval Gates tests A-Steps-0104 - Super User can post steps when the requiresApproval property is provided. The provided requiresApproval will be ignored" time="0.1910" classname="A-Steps-0104 - Super User can post steps when the requiresApproval property is provided. The provided requiresApproval will be ignored">
+  <testsuite class="Below test cases uses pipelineSource" timestamp="2022-01-17T17:51:55" tests="110" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383632/setup_PreMatrix/tests/core/api/steps.js" time="0.0000" failures="0" skipped="4">
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource 2. Super user can get their pipelines" time="0.1010" classclass="2. Super user can get their pipelines">
     </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource Approval Gates tests A-Steps-0105 - Project Admin user can post steps when the requiresApproval property is provided. The provided requiresApproval will be ignored" time="0.1830" classname="A-Steps-0105 - Project Admin user can post steps when the requiresApproval property is provided. The provided requiresApproval will be ignored">
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource 3. Super user can get their pipelineSteps" time="0.0830" classclass="3. Super user can get their pipelineSteps">
     </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource Approval Gates tests A-Steps-0106 - Super User can post steps when the isApproved property is provided. The provided isApproved will be ignored" time="0.2270" classname="A-Steps-0106 - Super User can post steps when the isApproved property is provided. The provided isApproved will be ignored">
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource 4. Super user can trigger pipelineSteps by Id" time="121.5180" classclass="4. Super user can trigger pipelineSteps by Id">
     </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource Approval Gates tests A-Steps-0107 - Project Admin user can post steps when the isApproved property is provided. The provided isApproved will be ignored" time="0.2550" classname="A-Steps-0107 - Project Admin user can post steps when the isApproved property is provided. The provided isApproved will be ignored">
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource 6. Super user can get their Runs" time="0.0680" classclass="6. Super user can get their Runs">
     </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource Approval Gates tests A-Steps-0108 - Super User can post steps when the approvalRequestedAt property is provided. The provided approvalRequestedAt will be ignored" time="0.1800" classname="A-Steps-0108 - Super User can post steps when the approvalRequestedAt property is provided. The provided approvalRequestedAt will be ignored">
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource 9. Super user should be able post Runs for steps" time="2.8580" classclass="9. Super user should be able post Runs for steps">
     </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource Approval Gates tests A-Steps-0109 - Project Admin can post steps when the approvalRequestedAt property is provided. The provided approvalRequestedAt will be ignored" time="0.2370" classname="A-Steps-0109 - Project Admin can post steps when the approvalRequestedAt property is provided. The provided approvalRequestedAt will be ignored">
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource 10. Super user should be able post Runs for steps" time="0.9770" classclass="10. Super user should be able post Runs for steps">
     </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource Approval Gates tests A-Steps-0110 - Super User can put steps when the isApproved property is provided. The provided isApproved will be ignored" time="0.6530" classname="A-Steps-0110 - Super User can put steps when the isApproved property is provided. The provided isApproved will be ignored">
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0001. Super user can post steps" time="0.0890" classclass="A-Steps-0001. Super user can post steps">
     </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource Approval Gates tests A-Steps-0111 - Project Admin User can put steps when the isApproved property is provided. The provided isApproved will be ignored" time="0.6890" classname="A-Steps-0111 - Project Admin User can put steps when the isApproved property is provided. The provided isApproved will be ignored">
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-PO-PP-0027. Project Admin User should be able Post steps" time="0.1760" classclass="A-PO-PP-0027. Project Admin User should be able Post steps">
     </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource Approval Gates tests A-Steps-0112 - Super User can put steps when the approvalRequestedAt property is provided. The provided approvalRequestedAt will be ignored" time="0.5810" classname="A-Steps-0112 - Super User can put steps when the approvalRequestedAt property is provided. The provided approvalRequestedAt will be ignored">
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0002. Admin user cannot post steps" time="0.0410" classclass="A-Steps-0002. Admin user cannot post steps">
     </testcase>
-    <testcase name="API_STEPS - Steps API tests Below test cases uses pipelineSource Approval Gates tests A-Steps-0113 - Project Admin User can put steps when the approvalRequestedAt property is provided. The provided approvalRequestedAt will be ignored" time="0.4360" classname="A-Steps-0113 - Project Admin User can put steps when the approvalRequestedAt property is provided. The provided approvalRequestedAt will be ignored">
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0003. Member cannot post steps" time="0.0350" classclass="A-Steps-0003. Member cannot post steps">
     </testcase>
-  </testsuite>
-  <testsuite name="Step console logup tests" timestamp="2022-01-17T17:54:22" tests="3" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383632/setup_PreMatrix/tests/core/api/steps.js" time="92.9310" failures="0">
-    <testcase name="API_STEPS - Steps API tests Step console logup tests A-Steps-0101. User gets a complete step and isConsoleArchived set to true within five minutes of run completion (consoles are uploaded to Artifactory)." time="51.5140" classname="A-Steps-0101. User gets a complete step and isConsoleArchived set to true within five minutes of run completion (consoles are uploaded to Artifactory).">
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0004. Public user cannot post steps" time="0.0180" classclass="A-Steps-0004. Public user cannot post steps">
     </testcase>
-    <testcase name="API_STEPS - Steps API tests Step console logup tests A-Steps-0102. User is able to download archived step consoles from Artifactory (in a Bash step)." time="25.6470" classname="A-Steps-0102. User is able to download archived step consoles from Artifactory (in a Bash step).">
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0005. Super user can get their steps" time="0.0700" classclass="A-Steps-0005. Super user can get their steps">
     </testcase>
-    <testcase name="API_STEPS - Steps API tests Step console logup tests A-Steps-0103. User is able to get archived step consoles from API." time="0.2140" classname="A-Steps-0103. User is able to get archived step consoles from API.">
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-6531-0114. Users are able to use the include parameter while getting steps." time="0.0230" classclass="A-Steps-6531-0114. Users are able to use the include parameter while getting steps.">
     </testcase>
-  </testsuite>
-  <testsuite name="Steps to test build minutes constraints" timestamp="2022-01-17T17:55:55" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383632/setup_PreMatrix/tests/core/api/steps.js" time="0.0010" failures="0" skipped="2">
-    <testcase name="API_STEPS - Steps API tests Steps to test build minutes constraints A-Steps-6114-001. User&apos;s run is completed,as the total_build_minutes is below monthly build minutes quota." time="0.0000" classname="A-Steps-6114-001. User&apos;s run is completed,as the total_build_minutes is below monthly build minutes quota.">
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0006. Admin user can get their steps" time="0.2220" classclass="A-Steps-0006. Admin user can get their steps">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0007. Member can get their steps" time="0.2750" classclass="A-Steps-0007. Member can get their steps">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0008. Public user cannot get their steps" time="0.0180" classclass="A-Steps-0008. Public user cannot get their steps">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0009. superuser can get steps by Id" time="0.0230" classclass="A-Steps-0009. superuser can get steps by Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-6531-0115. Users are able to use the include parameter while getting steps by Id" time="0.0250" classclass="A-Steps-6531-0115. Users are able to use the include parameter while getting steps by Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0010. Admin user can get their steps by id" time="0.0410" classclass="A-Steps-0010. Admin user can get their steps by id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0011. Member can get their steps by id" time="0.0820" classclass="A-Steps-0011. Member can get their steps by id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0012. Public user cannot get their step by id" time="0.0370" classclass="A-Steps-0012. Public user cannot get their step by id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0013. Super user can get artifactUrl by step Id" time="0.0450" classclass="A-Steps-0013. Super user can get artifactUrl by step Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0014. Admin cannot get artifactUrl by step Id" time="0.0310" classclass="A-Steps-0014. Admin cannot get artifactUrl by step Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0015. Member cannot get artifactUrl by step Id" time="0.0280" classclass="A-Steps-0015. Member cannot get artifactUrl by step Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0016. Public user cannot get their artifactUrl by step Id" time="0.0180" classclass="A-Steps-0016. Public user cannot get their artifactUrl by step Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0017. Super user can get reports by step Id" time="0.1610" classclass="A-Steps-0017. Super user can get reports by step Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0018. Admin can get reports by step Id" time="0.1230" classclass="A-Steps-0018. Admin can get reports by step Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0019. Member can get reports by step Id" time="0.1450" classclass="A-Steps-0019. Member can get reports by step Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0020. Public user cannot get their reports by step Id" time="0.0280" classclass="A-Steps-0020. Public user cannot get their reports by step Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0021. Super user can update the step by id" time="0.1880" classclass="A-Steps-0021. Super user can update the step by id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-PO-PP-0040. User with project scope can update the step by id" time="0.2460" classclass="A-PO-PP-0040. User with project scope can update the step by id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-PUT-PP-0014. ProjectAdminUser should be able to update steps by its Id" time="0.3220" classclass="A-PUT-PP-0014. ProjectAdminUser should be able to update steps by its Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0022. Admin user can update steps by id" time="0.2330" classclass="A-Steps-0022. Admin user can update steps by id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0023. Member cannot update step by id" time="0.0530" classclass="A-Steps-0023. Member cannot update step by id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0024. Public user cannot update step by id" time="0.0200" classclass="A-Steps-0024. Public user cannot update step by id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0025. Id field in steps API should not be null and should be an integer" time="0.0000" classclass="A-Steps-0025. Id field in steps API should not be null and should be an integer">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0026. PipelineId field in steps API should not be null and should be an integer" time="0.0000" classclass="A-Steps-0026. PipelineId field in steps API should not be null and should be an integer">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0061. PipelineSourceId field in steps API should not be null and should be an integer" time="0.0000" classclass="A-Steps-0061. PipelineSourceId field in steps API should not be null and should be an integer">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0027. PipelineStepId field in steps API should not be null and should be an integer" time="0.0000" classclass="A-Steps-0027. PipelineStepId field in steps API should not be null and should be an integer">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0028. ProjectId field in steps API should not be null and should be an integer" time="0.0000" classclass="A-Steps-0028. ProjectId field in steps API should not be null and should be an integer">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0029. Name field in steps API should not be null and should be a string" time="0.0000" classclass="A-Steps-0029. Name field in steps API should not be null and should be a string">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0030. RunId field in steps API should not be null and should be an integer" time="0.0000" classclass="A-Steps-0030. RunId field in steps API should not be null and should be an integer">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0031. StatusCode field in steps API should not be null and should be an integer" time="0.0000" classclass="A-Steps-0031. StatusCode field in steps API should not be null and should be an integer">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0032. TypeCode field in steps API should not be null and should be an integer" time="0.0010" classclass="A-Steps-0032. TypeCode field in steps API should not be null and should be an integer">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0033. AffinityGroup field in steps API should be a string" time="0.0000" classclass="A-Steps-0033. AffinityGroup field in steps API should be a string">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0062. groupInProgress field in steps API should be a boolean" time="0.0000" classclass="A-Steps-0062. groupInProgress field in steps API should be a boolean">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0034. FileStoreProvider field in steps API should be an object" time="0.0000" classclass="A-Steps-0034. FileStoreProvider field in steps API should be an object">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0035. PipelineStateArtifactName field in steps API should be an object" time="0.0000" classclass="A-Steps-0035. PipelineStateArtifactName field in steps API should be an object">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0036. TriggeredByResourceVersionIdfield in steps API should be an object" time="0.0000" classclass="A-Steps-0036. TriggeredByResourceVersionIdfield in steps API should be an object">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0037. TriggeredByStepId field in steps API should be an object" time="0.0000" classclass="A-Steps-0037. TriggeredByStepId field in steps API should be an object">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0038. TriggeredByIdentityId field in steps API should be an integer" time="0.0000" classclass="A-Steps-0038. TriggeredByIdentityId field in steps API should be an integer">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0039. ConfigPropertyBag field in steps API should be an " time="0.0000" classclass="A-Steps-0039. ConfigPropertyBag field in steps API should be an ">
       <skipped/>
     </testcase>
-    <testcase name="API_STEPS - Steps API tests Steps to test build minutes constraints A-Steps-6114-002. User&apos;s run is skipped,as the total_build_minutes is above monthly build minutes quota." time="0.0000" classname="A-Steps-6114-002. User&apos;s run is skipped,as the total_build_minutes is above monthly build minutes quota.">
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0040. ExecPropertyBag field in steps API should be an object" time="0.0000" classclass="A-Steps-0040. ExecPropertyBag field in steps API should be an object">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0042. StaticPropertyBag field in steps API should be an " time="0.0000" classclass="A-Steps-0042. StaticPropertyBag field in steps API should be an ">
+      <skipped/>
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0043. TriggeredAt field in steps API should be a string" time="0.0000" classclass="A-Steps-0043. TriggeredAt field in steps API should be a string">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0044. TimeoutAt field in steps API should be a string" time="0.0000" classclass="A-Steps-0044. TimeoutAt field in steps API should be a string">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0045. QueuedAt field in steps API should be a string" time="0.0000" classclass="A-Steps-0045. QueuedAt field in steps API should be a string">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0046. EndedAt field in steps API should be a string" time="0.0000" classclass="A-Steps-0046. EndedAt field in steps API should be a string">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0047. StartedAt field in steps API should be a string" time="0.0000" classclass="A-Steps-0047. StartedAt field in steps API should be a string">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0048. PendingLogsComplete field in stepsAPI should not be null and should be a boolean" time="0.0000" classclass="A-Steps-0048. PendingLogsComplete field in stepsAPI should not be null and should be a boolean">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0049. ExternalBuildId field in steps API should be an object" time="0.0000" classclass="A-Steps-0049. ExternalBuildId field in steps API should be an object">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0050. ExternalBuildUrl field in steps API should be an object" time="0.0000" classclass="A-Steps-0050. ExternalBuildUrl field in steps API should be an object">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0051. CreatedAt field in steps API should not be null and should be a date" time="0.0010" classclass="A-Steps-0051. CreatedAt field in steps API should not be null and should be a date">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0052. UpdatedAt field in steps API should not be null and should be a date" time="0.0000" classclass="A-Steps-0052. UpdatedAt field in steps API should not be null and should be a date">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0063. Super user can get runStateArtifactUrl by steplet Id" time="0.2830" classclass="A-Steps-0063. Super user can get runStateArtifactUrl by steplet Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0064. Admin cannot get runStateArtifactUrl by step Id" time="0.0330" classclass="A-Steps-0064. Admin cannot get runStateArtifactUrl by step Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0064. Admin cannot get runStateArtifactUrl by step Id" time="0.0360" classclass="A-Steps-0064. Admin cannot get runStateArtifactUrl by step Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0065. Member cannot get runStateArtifactUrl by step Id" time="0.0360" classclass="A-Steps-0065. Member cannot get runStateArtifactUrl by step Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0066. Public user cannot get runStateArtifactUrl by step Id" time="0.0200" classclass="A-Steps-0066. Public user cannot get runStateArtifactUrl by step Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0067. Super user gets the `head` field inside the response body of runStateArtifactUrl by step Id" time="0.2310" classclass="A-Steps-0067. Super user gets the `head` field inside the response body of runStateArtifactUrl by step Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0068. Super user gets the `get` field inside the response body of runStateArtifactUrl by step Id" time="0.1800" classclass="A-Steps-0068. Super user gets the `get` field inside the response body of runStateArtifactUrl by step Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0069. Super user gets the `put` field inside the response body of runStateArtifactUrl by step Id" time="0.1730" classclass="A-Steps-0069. Super user gets the `put` field inside the response body of runStateArtifactUrl by step Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0070. Super user gets the `delete` field inside the response body of runStateArtifactUrl by step Id" time="0.1290" classclass="A-Steps-0070. Super user gets the `delete` field inside the response body of runStateArtifactUrl by step Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0071. Super user gets the `headOpts` field inside the response body of runStateArtifactUrl by step Id" time="0.0680" classclass="A-Steps-0071. Super user gets the `headOpts` field inside the response body of runStateArtifactUrl by step Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0072. Super user gets the `getOpts` field inside the response body of runStateArtifactUrl by step Id" time="0.0810" classclass="A-Steps-0072. Super user gets the `getOpts` field inside the response body of runStateArtifactUrl by step Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0073. Super user gets the `putOpts` field inside the response body of runStateArtifactUrl by step Id" time="0.2360" classclass="A-Steps-0073. Super user gets the `putOpts` field inside the response body of runStateArtifactUrl by step Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0074. Super user gets the `deleteOpts` field inside the response body of runStateArtifactUrl by step Id" time="0.3190" classclass="A-Steps-0074. Super user gets the `deleteOpts` field inside the response body of runStateArtifactUrl by step Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0075. Super user gets the `relativePath` field inside the response body of runStateArtifactUrl by step Id" time="0.2080" classclass="A-Steps-0075. Super user gets the `relativePath` field inside the response body of runStateArtifactUrl by step Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0076. Super user can get step executionEligibility by stepId" time="0.5970" classclass="A-Steps-0076. Super user can get step executionEligibility by stepId">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-PO-PP-0041. User with project scope can get step executionEligibility by stepId" time="0.2410" classclass="A-PO-PP-0041. User with project scope can get step executionEligibility by stepId">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0077. Admin user cannot get step executionEligibility by stepId" time="0.0500" classclass="A-Steps-0077. Admin user cannot get step executionEligibility by stepId">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0078. Member user cannot get step executionEligibility by stepId" time="0.0430" classclass="A-Steps-0078. Member user cannot get step executionEligibility by stepId">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0079. Public user cannot get step executionEligibility by stepId" time="0.0230" classclass="A-Steps-0079. Public user cannot get step executionEligibility by stepId">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0080. Response body of the getStepExecutionEligibility API should contain canExecuteStep field which shouldn’t be null and of type boolean" time="0.0010" classclass="A-Steps-0080. Response body of the getStepExecutionEligibility API should contain canExecuteStep field which shouldn’t be null and of type boolean">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0081. Response body of the getStepExecutionEligibility API should contain noNewVersion field which shouldn’t be null and of type boolean" time="0.0000" classclass="A-Steps-0081. Response body of the getStepExecutionEligibility API should contain noNewVersion field which shouldn’t be null and of type boolean">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0082. Response body of the getStepExecutionEligibility API should contain stepInTerminalState field which shouldn’t be null and of type boolean" time="0.0000" classclass="A-Steps-0082. Response body of the getStepExecutionEligibility API should contain stepInTerminalState field which shouldn’t be null and of type boolean">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0083. Response body of the getStepExecutionEligibility API should contain inconsistentInput field which shouldn’t be null and of type boolean" time="0.0000" classclass="A-Steps-0083. Response body of the getStepExecutionEligibility API should contain inconsistentInput field which shouldn’t be null and of type boolean">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0084. Super user can update step status by stepId" time="0.1300" classclass="A-Steps-0084. Super user can update step status by stepId">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0085. Admin user cannot update step status by stepId" time="0.0660" classclass="A-Steps-0085. Admin user cannot update step status by stepId">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0086. Member user cannot update step status by stepId" time="0.1030" classclass="A-Steps-0086. Member user cannot update step status by stepId">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0087. Public user cannot update step status by stepId" time="0.0210" classclass="A-Steps-0087. Public user cannot update step status by stepId">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource 8. Super user can get their RunStepConnections" time="0.0400" classclass="8. Super user can get their RunStepConnections">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource 9. ProjectAdminUser should be able to delete runStepConnection by its Id" time="0.0490" classclass="9. ProjectAdminUser should be able to delete runStepConnection by its Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource 10. Super user can delete RunStepConnections by Id" time="0.0300" classclass="10. Super user can delete RunStepConnections by Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0090. Super user is able to call POST /steps/management/timeoutSteps" time="0.0370" classclass="A-Steps-0090. Super user is able to call POST /steps/management/timeoutSteps">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0091. Project admin is not authorized to call POST /steps/management/timeoutSteps" time="0.0340" classclass="A-Steps-0091. Project admin is not authorized to call POST /steps/management/timeoutSteps">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0092. Admin is not authorized to call POST /steps/management/timeoutSteps" time="0.0540" classclass="A-Steps-0092. Admin is not authorized to call POST /steps/management/timeoutSteps">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0093. Member is not authorized to call POST /steps/management/timeoutSteps" time="0.0800" classclass="A-Steps-0093. Member is not authorized to call POST /steps/management/timeoutSteps">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0094. Public user is not authorized to call POST /steps/management/timeoutSteps" time="0.0190" classclass="A-Steps-0094. Public user is not authorized to call POST /steps/management/timeoutSteps">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0095. User sees that stuck waiting steps which were  queued before 30 mins get timeoutAt value set after calling this API" time="1.3750" classclass="A-Steps-0095. User sees that stuck waiting steps which were  queued before 30 mins get timeoutAt value set after calling this API">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0096. User sees that stuck waiting steps of a run which had the last step started at time was before (1hr + 40 min) gets timeoutAt value set after calling the API" time="1.2810" classclass="A-Steps-0096. User sees that stuck waiting steps of a run which had the last step started at time was before (1hr + 40 min) gets timeoutAt value set after calling the API">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0097. User sees that stuck steps which are queued, and have startedAt set, but not timeout set, get timed out after  1hr 40 min" time="0.0000" classclass="A-Steps-0097. User sees that stuck steps which are queued, and have startedAt set, but not timeout set, get timed out after  1hr 40 min">
+      <skipped/>
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0098. User sees that no steps are set to timeout if none of the steps in a run has groupInProgress value set to true" time="1.9050" classclass="A-Steps-0098. User sees that no steps are set to timeout if none of the steps in a run has groupInProgress value set to true">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0099. User sees that no steps are set to timeout if the last max startedAt value is less than an hour" time="0.0000" classclass="A-Steps-0099. User sees that no steps are set to timeout if the last max startedAt value is less than an hour">
+      <skipped/>
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0100. User sees that no steps are set to timeout if last queued at(no steps have started) is less than 30 mins" time="1.8730" classclass="A-Steps-0100. User sees that no steps are set to timeout if last queued at(no steps have started) is less than 30 mins">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0057. Public user cannot delete steps by PipelineId" time="0.0220" classclass="A-Steps-0057. Public user cannot delete steps by PipelineId">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0058. Member cannot delete steps by PipelineId" time="0.0360" classclass="A-Steps-0058. Member cannot delete steps by PipelineId">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0059. Admin cannot delete steps by PipelineId" time="0.0410" classclass="A-Steps-0059. Admin cannot delete steps by PipelineId">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-DEL-PP-0027. ProjectAdminUser cannot delete steps by its pipeline Id" time="0.0260" classclass="A-DEL-PP-0027. ProjectAdminUser cannot delete steps by its pipeline Id">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource A-Steps-0060. Super user can delete steps by PipelineId" time="0.1630" classclass="A-Steps-0060. Super user can delete steps by PipelineId">
+    </testcase>
+  </testsuite>
+  <testsuite class="Approval Gates tests" timestamp="2022-01-17T17:54:14" tests="10" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383632/setup_PreMatrix/tests/core/api/steps.js" time="8.3960" failures="0">
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource Approval Gates tests A-Steps-0104 - Super User can post steps when the requiresApproval property is provided. The provided requiresApproval will be ignored" time="0.1910" classclass="A-Steps-0104 - Super User can post steps when the requiresApproval property is provided. The provided requiresApproval will be ignored">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource Approval Gates tests A-Steps-0105 - Project Admin user can post steps when the requiresApproval property is provided. The provided requiresApproval will be ignored" time="0.1830" classclass="A-Steps-0105 - Project Admin user can post steps when the requiresApproval property is provided. The provided requiresApproval will be ignored">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource Approval Gates tests A-Steps-0106 - Super User can post steps when the isApproved property is provided. The provided isApproved will be ignored" time="0.2270" classclass="A-Steps-0106 - Super User can post steps when the isApproved property is provided. The provided isApproved will be ignored">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource Approval Gates tests A-Steps-0107 - Project Admin user can post steps when the isApproved property is provided. The provided isApproved will be ignored" time="0.2550" classclass="A-Steps-0107 - Project Admin user can post steps when the isApproved property is provided. The provided isApproved will be ignored">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource Approval Gates tests A-Steps-0108 - Super User can post steps when the approvalRequestedAt property is provided. The provided approvalRequestedAt will be ignored" time="0.1800" classclass="A-Steps-0108 - Super User can post steps when the approvalRequestedAt property is provided. The provided approvalRequestedAt will be ignored">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource Approval Gates tests A-Steps-0109 - Project Admin can post steps when the approvalRequestedAt property is provided. The provided approvalRequestedAt will be ignored" time="0.2370" classclass="A-Steps-0109 - Project Admin can post steps when the approvalRequestedAt property is provided. The provided approvalRequestedAt will be ignored">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource Approval Gates tests A-Steps-0110 - Super User can put steps when the isApproved property is provided. The provided isApproved will be ignored" time="0.6530" classclass="A-Steps-0110 - Super User can put steps when the isApproved property is provided. The provided isApproved will be ignored">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource Approval Gates tests A-Steps-0111 - Project Admin User can put steps when the isApproved property is provided. The provided isApproved will be ignored" time="0.6890" classclass="A-Steps-0111 - Project Admin User can put steps when the isApproved property is provided. The provided isApproved will be ignored">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource Approval Gates tests A-Steps-0112 - Super User can put steps when the approvalRequestedAt property is provided. The provided approvalRequestedAt will be ignored" time="0.5810" classclass="A-Steps-0112 - Super User can put steps when the approvalRequestedAt property is provided. The provided approvalRequestedAt will be ignored">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Below test cases uses pipelineSource Approval Gates tests A-Steps-0113 - Project Admin User can put steps when the approvalRequestedAt property is provided. The provided approvalRequestedAt will be ignored" time="0.4360" classclass="A-Steps-0113 - Project Admin User can put steps when the approvalRequestedAt property is provided. The provided approvalRequestedAt will be ignored">
+    </testcase>
+  </testsuite>
+  <testsuite class="Step console logup tests" timestamp="2022-01-17T17:54:22" tests="3" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383632/setup_PreMatrix/tests/core/api/steps.js" time="92.9310" failures="0">
+    <testcase class="API_STEPS - Steps API tests Step console logup tests A-Steps-0101. User gets a complete step and isConsoleArchived set to true within five minutes of run completion (consoles are uploaded to Artifactory)." time="51.5140" classclass="A-Steps-0101. User gets a complete step and isConsoleArchived set to true within five minutes of run completion (consoles are uploaded to Artifactory).">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Step console logup tests A-Steps-0102. User is able to download archived step consoles from Artifactory (in a Bash step)." time="25.6470" classclass="A-Steps-0102. User is able to download archived step consoles from Artifactory (in a Bash step).">
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Step console logup tests A-Steps-0103. User is able to get archived step consoles from API." time="0.2140" classclass="A-Steps-0103. User is able to get archived step consoles from API.">
+    </testcase>
+  </testsuite>
+  <testsuite class="Steps to test build minutes constraints" timestamp="2022-01-17T17:55:55" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383632/setup_PreMatrix/tests/core/api/steps.js" time="0.0010" failures="0" skipped="2">
+    <testcase class="API_STEPS - Steps API tests Steps to test build minutes constraints A-Steps-6114-001. User&apos;s run is completed,as the total_build_minutes is below monthly build minutes quota." time="0.0000" classclass="A-Steps-6114-001. User&apos;s run is completed,as the total_build_minutes is below monthly build minutes quota.">
+      <skipped/>
+    </testcase>
+    <testcase class="API_STEPS - Steps API tests Steps to test build minutes constraints A-Steps-6114-002. User&apos;s run is skipped,as the total_build_minutes is above monthly build minutes quota." time="0.0000" classclass="A-Steps-6114-002. User&apos;s run is skipped,as the total_build_minutes is above monthly build minutes quota.">
       <skipped/>
     </testcase>
   </testsuite>

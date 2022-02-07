@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="123.1820" tests="11" failures="2">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:50:59" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="123.1820" tests="11" failures="2">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:50:59" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="RESOURCES_BUILDINFO - BuildInfo Resource tests" timestamp="2022-01-17T17:50:59" tests="4" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383799/setup_PreMatrix/tests/core/resources/BuildInfo.js" time="0.0000" failures="2">
-    <testcase name="RESOURCES_BUILDINFO - BuildInfo Resource tests R-BuildInfo-0007. ONLY_SYNC User specifies invalid integration then Pipeline sync should fail" time="9.8090" classname="R-BuildInfo-0007. ONLY_SYNC User specifies invalid integration then Pipeline sync should fail">
+  <testsuite class="RESOURCES_BUILDINFO - BuildInfo Resource tests" timestamp="2022-01-17T17:50:59" tests="4" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383799/setup_PreMatrix/tests/core/resources/BuildInfo.js" time="0.0000" failures="2">
+    <testcase class="RESOURCES_BUILDINFO - BuildInfo Resource tests R-BuildInfo-0007. ONLY_SYNC User specifies invalid integration then Pipeline sync should fail" time="9.8090" classclass="R-BuildInfo-0007. ONLY_SYNC User specifies invalid integration then Pipeline sync should fail">
     </testcase>
-    <testcase name="RESOURCES_BUILDINFO - BuildInfo Resource tests R-BuildInfo-6832-001. The user provides a string as a pinned version for a BuildInfo resource. Pipeline Sync should fail." time="10.8970" classname="R-BuildInfo-6832-001. The user provides a string as a pinned version for a BuildInfo resource. Pipeline Sync should fail.">
+    <testcase class="RESOURCES_BUILDINFO - BuildInfo Resource tests R-BuildInfo-6832-001. The user provides a string as a pinned version for a BuildInfo resource. Pipeline Sync should fail." time="10.8970" classclass="R-BuildInfo-6832-001. The user provides a string as a pinned version for a BuildInfo resource. Pipeline Sync should fail.">
     </testcase>
-    <testcase name="RESOURCES_BUILDINFO - BuildInfo Resource tests R-BuildInfo-6832-002. The user provides a buildName and buildNumber to be used as a pinned version for a BuildInfo resource. Pipeline Sync should succeed. The resource should contain a pinnedVersionId." time="0.0280" classname="R-BuildInfo-6832-002. The user provides a buildName and buildNumber to be used as a pinned version for a BuildInfo resource. Pipeline Sync should succeed. The resource should contain a pinnedVersionId.">
+    <testcase class="RESOURCES_BUILDINFO - BuildInfo Resource tests R-BuildInfo-6832-002. The user provides a buildName and buildNumber to be used as a pinned version for a BuildInfo resource. Pipeline Sync should succeed. The resource should contain a pinnedVersionId." time="0.0280" classclass="R-BuildInfo-6832-002. The user provides a buildName and buildNumber to be used as a pinned version for a BuildInfo resource. Pipeline Sync should succeed. The resource should contain a pinnedVersionId.">
       <failure message="user cannot add PipelineSource 404" type="Error"><![CDATA[Error: user cannot add PipelineSource 404
     at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383799/setup_PreMatrix/tests/core/resources/BuildInfo.js:350:23
     at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383799/setup_PreMatrix/tests/_common/pipelines/Adapter.js:2650:9
@@ -24,7 +24,7 @@
     at endReadableNT (internal/streams/readable.js:1336:12)
     at processTicksAndRejections (internal/process/task_queues.js:82:21)]]></failure>
     </testcase>
-    <testcase name="RESOURCES_BUILDINFO - BuildInfo Resource tests R-BuildInfo-6832-003. Users should be able to declare a BuildInfo resource with a pinned version Id. Pipeline Sync should succeed. Resource should contain a pinnedVersionId." time="31.3490" classname="R-BuildInfo-6832-003. Users should be able to declare a BuildInfo resource with a pinned version Id. Pipeline Sync should succeed. Resource should contain a pinnedVersionId.">
+    <testcase class="RESOURCES_BUILDINFO - BuildInfo Resource tests R-BuildInfo-6832-003. Users should be able to declare a BuildInfo resource with a pinned version Id. Pipeline Sync should succeed. Resource should contain a pinnedVersionId." time="31.3490" classclass="R-BuildInfo-6832-003. Users should be able to declare a BuildInfo resource with a pinned version Id. Pipeline Sync should succeed. Resource should contain a pinnedVersionId.">
       <failure message="getPipelineSyncStatus is not defined" type="ReferenceError"><![CDATA[ReferenceError: getPipelineSyncStatus is not defined
     at _waitForSync (core/resources/BuildInfo.js:695:11)
     at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383799/setup_PreMatrix/tests/node_modules/async/dist/async.js:2952:28
@@ -48,24 +48,24 @@
     at processTicksAndRejections (internal/process/task_queues.js:82:21)]]></failure>
     </testcase>
   </testsuite>
-  <testsuite name="Below test cases use artifactory Project Integration" timestamp="2022-01-17T17:51:52" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383799/setup_PreMatrix/tests/core/resources/BuildInfo.js" time="0.0000" failures="0">
-    <testcase name="RESOURCES_BUILDINFO - BuildInfo Resource tests Below test cases use artifactory Project Integration R-BuildInfo-0008. ONLY_SYNC User is able to add a BuildInfo resource without buildName and pipeline sync is successful." time="27.3240" classname="R-BuildInfo-0008. ONLY_SYNC User is able to add a BuildInfo resource without buildName and pipeline sync is successful.">
+  <testsuite class="Below test cases use artifactory Project Integration" timestamp="2022-01-17T17:51:52" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383799/setup_PreMatrix/tests/core/resources/BuildInfo.js" time="0.0000" failures="0">
+    <testcase class="RESOURCES_BUILDINFO - BuildInfo Resource tests Below test cases use artifactory Project Integration R-BuildInfo-0008. ONLY_SYNC User is able to add a BuildInfo resource without buildName and pipeline sync is successful." time="27.3240" classclass="R-BuildInfo-0008. ONLY_SYNC User is able to add a BuildInfo resource without buildName and pipeline sync is successful.">
     </testcase>
-    <testcase name="RESOURCES_BUILDINFO - BuildInfo Resource tests Below test cases use artifactory Project Integration R-BuildInfo-0010. ONLY_SYNC User is able to add a BuildInfo resource without buildNumber and pipeline sync is successful." time="20.6480" classname="R-BuildInfo-0010. ONLY_SYNC User is able to add a BuildInfo resource without buildNumber and pipeline sync is successful.">
+    <testcase class="RESOURCES_BUILDINFO - BuildInfo Resource tests Below test cases use artifactory Project Integration R-BuildInfo-0010. ONLY_SYNC User is able to add a BuildInfo resource without buildNumber and pipeline sync is successful." time="20.6480" classclass="R-BuildInfo-0010. ONLY_SYNC User is able to add a BuildInfo resource without buildNumber and pipeline sync is successful.">
     </testcase>
-    <testcase name="RESOURCES_BUILDINFO - BuildInfo Resource tests Below test cases use artifactory Project Integration  1. User should be able to add new pipelineSources" time="21.7840" classname="1. User should be able to add new pipelineSources">
+    <testcase class="RESOURCES_BUILDINFO - BuildInfo Resource tests Below test cases use artifactory Project Integration  1. User should be able to add new pipelineSources" time="21.7840" classclass="1. User should be able to add new pipelineSources">
     </testcase>
   </testsuite>
-  <testsuite name="Below test cases uses pipelineSource for BuildInfo resource" timestamp="2022-01-17T17:53:01" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383799/setup_PreMatrix/tests/core/resources/BuildInfo.js" time="1.2160" failures="0">
-    <testcase name="RESOURCES_BUILDINFO - BuildInfo Resource tests Below test cases use artifactory Project Integration  Below test cases uses pipelineSource for BuildInfo resource R-BuildInfo-0001. User can get BuildInfo resource which is added in pipeline source" time="0.0340" classname="R-BuildInfo-0001. User can get BuildInfo resource which is added in pipeline source">
+  <testsuite class="Below test cases uses pipelineSource for BuildInfo resource" timestamp="2022-01-17T17:53:01" tests="5" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/resource_tests/4383799/setup_PreMatrix/tests/core/resources/BuildInfo.js" time="1.2160" failures="0">
+    <testcase class="RESOURCES_BUILDINFO - BuildInfo Resource tests Below test cases use artifactory Project Integration  Below test cases uses pipelineSource for BuildInfo resource R-BuildInfo-0001. User can get BuildInfo resource which is added in pipeline source" time="0.0340" classclass="R-BuildInfo-0001. User can get BuildInfo resource which is added in pipeline source">
     </testcase>
-    <testcase name="RESOURCES_BUILDINFO - BuildInfo Resource tests Below test cases use artifactory Project Integration  Below test cases uses pipelineSource for BuildInfo resource R-BuildInfo-0004. User should not able to add the same resource with the duplicate resource name" time="0.0960" classname="R-BuildInfo-0004. User should not able to add the same resource with the duplicate resource name">
+    <testcase class="RESOURCES_BUILDINFO - BuildInfo Resource tests Below test cases use artifactory Project Integration  Below test cases uses pipelineSource for BuildInfo resource R-BuildInfo-0004. User should not able to add the same resource with the duplicate resource name" time="0.0960" classclass="R-BuildInfo-0004. User should not able to add the same resource with the duplicate resource name">
     </testcase>
-    <testcase name="RESOURCES_BUILDINFO - BuildInfo Resource tests Below test cases use artifactory Project Integration  Below test cases uses pipelineSource for BuildInfo resource R-BuildInfo-0005. User should able to update the BuildInfo resource" time="0.0340" classname="R-BuildInfo-0005. User should able to update the BuildInfo resource">
+    <testcase class="RESOURCES_BUILDINFO - BuildInfo Resource tests Below test cases use artifactory Project Integration  Below test cases uses pipelineSource for BuildInfo resource R-BuildInfo-0005. User should able to update the BuildInfo resource" time="0.0340" classclass="R-BuildInfo-0005. User should able to update the BuildInfo resource">
     </testcase>
-    <testcase name="RESOURCES_BUILDINFO - BuildInfo Resource tests Below test cases use artifactory Project Integration  Below test cases uses pipelineSource for BuildInfo resource 2. User can delete resource by Id" time="0.1030" classname="2. User can delete resource by Id">
+    <testcase class="RESOURCES_BUILDINFO - BuildInfo Resource tests Below test cases use artifactory Project Integration  Below test cases uses pipelineSource for BuildInfo resource 2. User can delete resource by Id" time="0.1030" classclass="2. User can delete resource by Id">
     </testcase>
-    <testcase name="RESOURCES_BUILDINFO - BuildInfo Resource tests Below test cases use artifactory Project Integration  Below test cases uses pipelineSource for BuildInfo resource 3. User can delete pipelineSource by Id" time="0.9460" classname="3. User can delete pipelineSource by Id">
+    <testcase class="RESOURCES_BUILDINFO - BuildInfo Resource tests Below test cases use artifactory Project Integration  Below test cases uses pipelineSource for BuildInfo resource 3. User can delete pipelineSource by Id" time="0.9460" classclass="3. User can delete pipelineSource by Id">
     </testcase>
   </testsuite>
 </testsuites>

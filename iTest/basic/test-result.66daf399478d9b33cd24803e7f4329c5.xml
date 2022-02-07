@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="25.5470" tests="55" failures="7">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:57:03" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="25.5470" tests="55" failures="7">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:57:03" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="API_TEMPLATESOURCES - TemplateSources API tests" timestamp="2022-01-17T17:57:03" tests="6" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/api/templateSources.js" time="0.0000" failures="0">
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests A-templateSource-0049. Superuser should be able to trigger sync" time="0.0350" classname="A-templateSource-0049. Superuser should be able to trigger sync">
+  <testsuite class="API_TEMPLATESOURCES - TemplateSources API tests" timestamp="2022-01-17T17:57:03" tests="6" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/api/templateSources.js" time="0.0000" failures="0">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests A-templateSource-0049. Superuser should be able to trigger sync" time="0.0350" classclass="A-templateSource-0049. Superuser should be able to trigger sync">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests A-templateSource-0050. Project admin shouldn&apos;t be able to trigger sync" time="0.0510" classname="A-templateSource-0050. Project admin shouldn&apos;t be able to trigger sync">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests A-templateSource-0050. Project admin shouldn&apos;t be able to trigger sync" time="0.0510" classclass="A-templateSource-0050. Project admin shouldn&apos;t be able to trigger sync">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests A-templateSource-0051. Admin shouldn&apos;t be able to trigger sync" time="0.0360" classname="A-templateSource-0051. Admin shouldn&apos;t be able to trigger sync">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests A-templateSource-0051. Admin shouldn&apos;t be able to trigger sync" time="0.0360" classclass="A-templateSource-0051. Admin shouldn&apos;t be able to trigger sync">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests A-templateSource-0052. Member shouldn&apos;t be able to trigger sync" time="0.0410" classname="A-templateSource-0052. Member shouldn&apos;t be able to trigger sync">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests A-templateSource-0052. Member shouldn&apos;t be able to trigger sync" time="0.0410" classclass="A-templateSource-0052. Member shouldn&apos;t be able to trigger sync">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests A-templateSource-0053. Public user shouldn&apos;t be able to trigger sync" time="0.0230" classname="A-templateSource-0053. Public user shouldn&apos;t be able to trigger sync">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests A-templateSource-0053. Public user shouldn&apos;t be able to trigger sync" time="0.0230" classclass="A-templateSource-0053. Public user shouldn&apos;t be able to trigger sync">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests A-templateSource-0054. User sees an error if invalid payload is sent" time="0.0240" classname="A-templateSource-0054. User sees an error if invalid payload is sent">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests A-templateSource-0054. User sees an error if invalid payload is sent" time="0.0240" classclass="A-templateSource-0054. User sees an error if invalid payload is sent">
     </testcase>
   </testsuite>
-  <testsuite name="Below test cases need admin scm integration" timestamp="2022-01-17T17:57:03" tests="49" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/api/templateSources.js" time="25.2690" failures="7">
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0002. Project admin should not be able add templateSources" time="0.0350" classname="A-TemplateSources-0002. Project admin should not be able add templateSources">
+  <testsuite class="Below test cases need admin scm integration" timestamp="2022-01-17T17:57:03" tests="49" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/api/templateSources.js" time="25.2690" failures="7">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0002. Project admin should not be able add templateSources" time="0.0350" classclass="A-TemplateSources-0002. Project admin should not be able add templateSources">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0003. Admin should not be able add templateSources" time="0.0370" classname="A-TemplateSources-0003. Admin should not be able add templateSources">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0003. Admin should not be able add templateSources" time="0.0370" classclass="A-TemplateSources-0003. Admin should not be able add templateSources">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0004. Member should not be able add templateSources" time="0.0350" classname="A-TemplateSources-0004. Member should not be able add templateSources">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0004. Member should not be able add templateSources" time="0.0350" classclass="A-TemplateSources-0004. Member should not be able add templateSources">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0005. Public user should not be able add templateSources" time="0.0190" classname="A-TemplateSources-0005. Public user should not be able add templateSources">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0005. Public user should not be able add templateSources" time="0.0190" classclass="A-TemplateSources-0005. Public user should not be able add templateSources">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0007. User is not able to post a template source if invalid admin project integration is used" time="1.4580" classname="A-TemplateSources-0007. User is not able to post a template source if invalid admin project integration is used">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0007. User is not able to post a template source if invalid admin project integration is used" time="1.4580" classclass="A-TemplateSources-0007. User is not able to post a template source if invalid admin project integration is used">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0008. User is not able to post a template source if the repository doesn&apos;t exist" time="0.0240" classname="A-TemplateSources-0008. User is not able to post a template source if the repository doesn&apos;t exist">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0008. User is not able to post a template source if the repository doesn&apos;t exist" time="0.0240" classclass="A-TemplateSources-0008. User is not able to post a template source if the repository doesn&apos;t exist">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0009. User is not able to post a template source if the SCM admin project integration doesn&apos;t have admin access on the SCM repostiory" time="2.2260" classname="A-TemplateSources-0009. User is not able to post a template source if the SCM admin project integration doesn&apos;t have admin access on the SCM repostiory">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0009. User is not able to post a template source if the SCM admin project integration doesn&apos;t have admin access on the SCM repostiory" time="2.2260" classclass="A-TemplateSources-0009. User is not able to post a template source if the SCM admin project integration doesn&apos;t have admin access on the SCM repostiory">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0001. Superuser should be able add templateSources" time="0.0170" classname="A-TemplateSources-0001. Superuser should be able add templateSources">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0001. Superuser should be able add templateSources" time="0.0170" classclass="A-TemplateSources-0001. Superuser should be able add templateSources">
       <failure message="Cannot add templateSource 400" type="Error"><![CDATA[Error: Cannot add templateSource 400
     at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/globalWrapper/postAndSyncTemplateSource.js:41:13
     at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/_common/pipelines/Adapter.js:2650:9
@@ -48,7 +48,7 @@
     at endReadableNT (internal/streams/readable.js:1336:12)
     at processTicksAndRejections (internal/process/task_queues.js:82:21)]]></failure>
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0043. SuperUser can get templates" time="0.0330" classname="A-TemplateSources-0043. SuperUser can get templates">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0043. SuperUser can get templates" time="0.0330" classclass="A-TemplateSources-0043. SuperUser can get templates">
       <failure message="SuperUser failed to get template artifacts with error 400" type="Error"><![CDATA[Error: SuperUser failed to get template artifacts with error 400
     at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/api/templateSources.js:515:21
     at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/_common/pipelines/Adapter.js:2573:9
@@ -65,7 +65,7 @@
     at endReadableNT (internal/streams/readable.js:1336:12)
     at processTicksAndRejections (internal/process/task_queues.js:82:21)]]></failure>
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0044. SuperUser can download template Artifacts" time="0.0700" classname="A-TemplateSources-0044. SuperUser can download template Artifacts">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0044. SuperUser can download template Artifacts" time="0.0700" classclass="A-TemplateSources-0044. SuperUser can download template Artifacts">
       <failure message="SuperUser failed to download template artifacts with error 400 { id: 4003, message: &apos;Route parameter :id should be an integer&apos; }" type="Error"><![CDATA[Error: SuperUser failed to download template artifacts with error 400 { id: 4003, message: 'Route parameter :id should be an integer' }
     at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/api/templateSources.js:537:21
     at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/_common/pipelines/Adapter.js:2573:9
@@ -82,7 +82,7 @@
     at endReadableNT (internal/streams/readable.js:1336:12)
     at processTicksAndRejections (internal/process/task_queues.js:82:21)]]></failure>
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0048. ProjectAdmin can download template artifacts" time="0.0300" classname="A-TemplateSources-0048. ProjectAdmin can download template artifacts">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0048. ProjectAdmin can download template artifacts" time="0.0300" classclass="A-TemplateSources-0048. ProjectAdmin can download template artifacts">
       <failure message="ProjectAdmin failed to download template artifacts with error 400 { id: 4003, message: &apos;Route parameter :id should be an integer&apos; }" type="Error"><![CDATA[Error: ProjectAdmin failed to download template artifacts with error 400 { id: 4003, message: 'Route parameter :id should be an integer' }
     at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/api/templateSources.js:557:21
     at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/_common/pipelines/Adapter.js:2573:9
@@ -99,7 +99,7 @@
     at endReadableNT (internal/streams/readable.js:1336:12)
     at processTicksAndRejections (internal/process/task_queues.js:82:21)]]></failure>
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0045. Admin can download template Artifacts" time="0.0350" classname="A-TemplateSources-0045. Admin can download template Artifacts">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0045. Admin can download template Artifacts" time="0.0350" classclass="A-TemplateSources-0045. Admin can download template Artifacts">
       <failure message="Admin failed to download template artifacts with error 400 { id: 4003, message: &apos;Route parameter :id should be an integer&apos; }" type="Error"><![CDATA[Error: Admin failed to download template artifacts with error 400 { id: 4003, message: 'Route parameter :id should be an integer' }
     at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/api/templateSources.js:575:21
     at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/_common/pipelines/Adapter.js:2573:9
@@ -116,7 +116,7 @@
     at endReadableNT (internal/streams/readable.js:1336:12)
     at processTicksAndRejections (internal/process/task_queues.js:82:21)]]></failure>
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0046. Member can download template Artifacts" time="0.0720" classname="A-TemplateSources-0046. Member can download template Artifacts">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0046. Member can download template Artifacts" time="0.0720" classclass="A-TemplateSources-0046. Member can download template Artifacts">
       <failure message="Member failed to download template artifacts with error 400 { id: 4003, message: &apos;Route parameter :id should be an integer&apos; }" type="Error"><![CDATA[Error: Member failed to download template artifacts with error 400 { id: 4003, message: 'Route parameter :id should be an integer' }
     at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/core/api/templateSources.js:593:21
     at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/_common/pipelines/Adapter.js:2573:9
@@ -133,47 +133,47 @@
     at endReadableNT (internal/streams/readable.js:1336:12)
     at processTicksAndRejections (internal/process/task_queues.js:82:21)]]></failure>
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0047. Public user cannot download template artifacts" time="0.0220" classname="A-TemplateSources-0047. Public user cannot download template artifacts">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0047. Public user cannot download template artifacts" time="0.0220" classclass="A-TemplateSources-0047. Public user cannot download template artifacts">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0006. User is not able to add 2 template sources" time="0.0240" classname="A-TemplateSources-0006. User is not able to add 2 template sources">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0006. User is not able to add 2 template sources" time="0.0240" classclass="A-TemplateSources-0006. User is not able to add 2 template sources">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0010. Super user can get templateSources" time="0.0200" classname="A-TemplateSources-0010. Super user can get templateSources">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0010. Super user can get templateSources" time="0.0200" classclass="A-TemplateSources-0010. Super user can get templateSources">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-6531-0001. Users are able to use the include parameter while getting templateSources" time="0.0210" classname="A-TemplateSources-6531-0001. Users are able to use the include parameter while getting templateSources">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-6531-0001. Users are able to use the include parameter while getting templateSources" time="0.0210" classclass="A-TemplateSources-6531-0001. Users are able to use the include parameter while getting templateSources">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0011. Project admin can get templateSources" time="0.0440" classname="A-TemplateSources-0011. Project admin can get templateSources">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0011. Project admin can get templateSources" time="0.0440" classclass="A-TemplateSources-0011. Project admin can get templateSources">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0012. Admin can get templateSources" time="0.0820" classname="A-TemplateSources-0012. Admin can get templateSources">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0012. Admin can get templateSources" time="0.0820" classclass="A-TemplateSources-0012. Admin can get templateSources">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0013. Member can get templateSources" time="0.0720" classname="A-TemplateSources-0013. Member can get templateSources">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0013. Member can get templateSources" time="0.0720" classclass="A-TemplateSources-0013. Member can get templateSources">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0014. Public user cannot get templateSources" time="0.0150" classname="A-TemplateSources-0014. Public user cannot get templateSources">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0014. Public user cannot get templateSources" time="0.0150" classclass="A-TemplateSources-0014. Public user cannot get templateSources">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0015. Super user can get templateSource by id" time="0.0220" classname="A-TemplateSources-0015. Super user can get templateSource by id">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0015. Super user can get templateSource by id" time="0.0220" classclass="A-TemplateSources-0015. Super user can get templateSource by id">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0016. Project admin can get templateSource by id" time="0.0820" classname="A-TemplateSources-0016. Project admin can get templateSource by id">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0016. Project admin can get templateSource by id" time="0.0820" classclass="A-TemplateSources-0016. Project admin can get templateSource by id">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0017. Admin can get templateSource by id" time="0.0750" classname="A-TemplateSources-0017. Admin can get templateSource by id">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0017. Admin can get templateSource by id" time="0.0750" classclass="A-TemplateSources-0017. Admin can get templateSource by id">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0018. Member can get templateSource by id" time="0.0400" classname="A-TemplateSources-0018. Member can get templateSource by id">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0018. Member can get templateSource by id" time="0.0400" classclass="A-TemplateSources-0018. Member can get templateSource by id">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0019. Public user cannot get templateSource by id " time="0.0120" classname="A-TemplateSources-0019. Public user cannot get templateSource by id ">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0019. Public user cannot get templateSource by id " time="0.0120" classclass="A-TemplateSources-0019. Public user cannot get templateSource by id ">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0020. The response body of the get call on templateSources API should contain id field which shouldn’t be null and of type integer" time="0.0000" classname="A-TemplateSources-0020. The response body of the get call on templateSources API should contain id field which shouldn’t be null and of type integer">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0020. The response body of the get call on templateSources API should contain id field which shouldn’t be null and of type integer" time="0.0000" classclass="A-TemplateSources-0020. The response body of the get call on templateSources API should contain id field which shouldn’t be null and of type integer">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0021. The response body of the get call on templateSources API should contain projectIntegrationId field which shouldn’t be null and of type integer" time="0.0000" classname="A-TemplateSources-0021. The response body of the get call on templateSources API should contain projectIntegrationId field which shouldn’t be null and of type integer">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0021. The response body of the get call on templateSources API should contain projectIntegrationId field which shouldn’t be null and of type integer" time="0.0000" classclass="A-TemplateSources-0021. The response body of the get call on templateSources API should contain projectIntegrationId field which shouldn’t be null and of type integer">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0022. The response body of the get call on templateSources API should contain repositoryBranch field which shouldn’t be null and of type string" time="0.0000" classname="A-TemplateSources-0022. The response body of the get call on templateSources API should contain repositoryBranch field which shouldn’t be null and of type string">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0022. The response body of the get call on templateSources API should contain repositoryBranch field which shouldn’t be null and of type string" time="0.0000" classclass="A-TemplateSources-0022. The response body of the get call on templateSources API should contain repositoryBranch field which shouldn’t be null and of type string">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0023. The response body of the get call on templateSources API should contain repositoryFullName field which shouldn’t be null and of type string" time="0.0000" classname="A-TemplateSources-0023. The response body of the get call on templateSources API should contain repositoryFullName field which shouldn’t be null and of type string">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0023. The response body of the get call on templateSources API should contain repositoryFullName field which shouldn’t be null and of type string" time="0.0000" classclass="A-TemplateSources-0023. The response body of the get call on templateSources API should contain repositoryFullName field which shouldn’t be null and of type string">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0024. The response body of the get call on templateSources API should contain isSyncing field which shouldn’t be null and of type boolean" time="0.0000" classname="A-TemplateSources-0024. The response body of the get call on templateSources API should contain isSyncing field which shouldn’t be null and of type boolean">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0024. The response body of the get call on templateSources API should contain isSyncing field which shouldn’t be null and of type boolean" time="0.0000" classclass="A-TemplateSources-0024. The response body of the get call on templateSources API should contain isSyncing field which shouldn’t be null and of type boolean">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0025. The response body of the get call on templateSources API should contain createdAt field which shouldn’t be null and of type date" time="0.0000" classname="A-TemplateSources-0025. The response body of the get call on templateSources API should contain createdAt field which shouldn’t be null and of type date">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0025. The response body of the get call on templateSources API should contain createdAt field which shouldn’t be null and of type date" time="0.0000" classclass="A-TemplateSources-0025. The response body of the get call on templateSources API should contain createdAt field which shouldn’t be null and of type date">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0026. The response body of the get call on templateSources API should contain updatedAt field which shouldn’t be null and of type date" time="0.0000" classname="A-TemplateSources-0026. The response body of the get call on templateSources API should contain updatedAt field which shouldn’t be null and of type date">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0026. The response body of the get call on templateSources API should contain updatedAt field which shouldn’t be null and of type date" time="0.0000" classclass="A-TemplateSources-0026. The response body of the get call on templateSources API should contain updatedAt field which shouldn’t be null and of type date">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0027. User is able to force sync the template source" time="3.6930" classname="A-TemplateSources-0027. User is able to force sync the template source">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0027. User is able to force sync the template source" time="3.6930" classclass="A-TemplateSources-0027. User is able to force sync the template source">
       <failure message="sync templateSource is failing Error: The Sync status is failure
     at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/globalWrapper/getTemplateSyncStatusForTemplateSource.js:62:8
     at /var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/basic_tests/4383751/setup_PreMatrix/tests/_common/pipelines/Adapter.js:2573:9
@@ -223,35 +223,35 @@
     at endReadableNT (internal/streams/readable.js:1336:12)
     at processTicksAndRejections (internal/process/task_queues.js:82:21)]]></failure>
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0028. Super user can update templateSource by id" time="0.1290" classname="A-TemplateSources-0028. Super user can update templateSource by id">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0028. Super user can update templateSource by id" time="0.1290" classclass="A-TemplateSources-0028. Super user can update templateSource by id">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0029. Project admin should not be able update templateSources" time="0.0380" classname="A-TemplateSources-0029. Project admin should not be able update templateSources">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0029. Project admin should not be able update templateSources" time="0.0380" classclass="A-TemplateSources-0029. Project admin should not be able update templateSources">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0030. Admin should not be able update templateSources" time="0.0300" classname="A-TemplateSources-0030. Admin should not be able update templateSources">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0030. Admin should not be able update templateSources" time="0.0300" classclass="A-TemplateSources-0030. Admin should not be able update templateSources">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0031. Member should not be able to update templateSources" time="0.0390" classname="A-TemplateSources-0031. Member should not be able to update templateSources">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0031. Member should not be able to update templateSources" time="0.0390" classclass="A-TemplateSources-0031. Member should not be able to update templateSources">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0032. Public user should not be able to update templateSources" time="0.0150" classname="A-TemplateSources-0032. Public user should not be able to update templateSources">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0032. Public user should not be able to update templateSources" time="0.0150" classclass="A-TemplateSources-0032. Public user should not be able to update templateSources">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0033. User is able to update the project integration of the template source" time="5.3680" classname="A-TemplateSources-0033. User is able to update the project integration of the template source">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0033. User is able to update the project integration of the template source" time="5.3680" classclass="A-TemplateSources-0033. User is able to update the project integration of the template source">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0034. When super user updates the project integration of the template source, the underlying GitRepo&apos;s project integration is also update" time="5.4770" classname="A-TemplateSources-0034. When super user updates the project integration of the template source, the underlying GitRepo&apos;s project integration is also update">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0034. When super user updates the project integration of the template source, the underlying GitRepo&apos;s project integration is also update" time="5.4770" classclass="A-TemplateSources-0034. When super user updates the project integration of the template source, the underlying GitRepo&apos;s project integration is also update">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0035. User sees an error if the project integration being updated to is not an SCM integration" time="1.4190" classname="A-TemplateSources-0035. User sees an error if the project integration being updated to is not an SCM integration">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0035. User sees an error if the project integration being updated to is not an SCM integration" time="1.4190" classclass="A-TemplateSources-0035. User sees an error if the project integration being updated to is not an SCM integration">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0036. User sees an error if the project integration being updated to is not from the same provider" time="1.7930" classname="A-TemplateSources-0036. User sees an error if the project integration being updated to is not from the same provider">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0036. User sees an error if the project integration being updated to is not from the same provider" time="1.7930" classclass="A-TemplateSources-0036. User sees an error if the project integration being updated to is not from the same provider">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0037. User sees an error if the project integration that is being updated doesn&apos;t have admin access to the template source repository" time="2.0710" classname="A-TemplateSources-0037. User sees an error if the project integration that is being updated doesn&apos;t have admin access to the template source repository">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0037. User sees an error if the project integration that is being updated doesn&apos;t have admin access to the template source repository" time="2.0710" classclass="A-TemplateSources-0037. User sees an error if the project integration that is being updated doesn&apos;t have admin access to the template source repository">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0039. Project admin should not be able to delete templateSources" time="0.0350" classname="A-TemplateSources-0039. Project admin should not be able to delete templateSources">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0039. Project admin should not be able to delete templateSources" time="0.0350" classclass="A-TemplateSources-0039. Project admin should not be able to delete templateSources">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0040. Admin should not be able to delete templateSources" time="0.0430" classname="A-TemplateSources-0040. Admin should not be able to delete templateSources">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0040. Admin should not be able to delete templateSources" time="0.0430" classclass="A-TemplateSources-0040. Admin should not be able to delete templateSources">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0041. Member should not be able to delete templateSources" time="0.0290" classname="A-TemplateSources-0041. Member should not be able to delete templateSources">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0041. Member should not be able to delete templateSources" time="0.0290" classclass="A-TemplateSources-0041. Member should not be able to delete templateSources">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0042. Public user should not be able to delete templateSources" time="0.0220" classname="A-TemplateSources-0042. Public user should not be able to delete templateSources">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0042. Public user should not be able to delete templateSources" time="0.0220" classclass="A-TemplateSources-0042. Public user should not be able to delete templateSources">
     </testcase>
-    <testcase name="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0038. Super user can delete templateSource by id" time="0.4210" classname="A-TemplateSources-0038. Super user can delete templateSource by id">
+    <testcase class="API_TEMPLATESOURCES - TemplateSources API tests Below test cases need admin scm integration A-TemplateSources-0038. Super user can delete templateSource by id" time="0.4210" classclass="A-TemplateSources-0038. Super user can delete templateSource by id">
     </testcase>
   </testsuite>
 </testsuites>

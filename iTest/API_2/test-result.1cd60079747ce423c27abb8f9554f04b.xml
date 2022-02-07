@@ -1,332 +1,332 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="116.0960" tests="125" failures="0" skipped="58">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="116.0960" tests="125" failures="0" skipped="58">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="API_PROJECTINTEGRATIONS - Project Integration API tests" timestamp="2022-01-17T17:51:38" tests="46" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383745/setup_PreMatrix/tests/core/api/projectIntegrations.js" time="0.0000" failures="0">
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests 2. Super user posts PipelineSources to add pipelines" time="20.0250" classname="2. Super user posts PipelineSources to add pipelines">
+  <testsuite class="API_PROJECTINTEGRATIONS - Project Integration API tests" timestamp="2022-01-17T17:51:38" tests="46" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383745/setup_PreMatrix/tests/core/api/projectIntegrations.js" time="0.0000" failures="0">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests 2. Super user posts PipelineSources to add pipelines" time="20.0250" classclass="2. Super user posts PipelineSources to add pipelines">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0001. Super User can post project integration" time="11.4240" classname="A-projectIntegration-0001. Super User can post project integration">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0001. Super User can post project integration" time="11.4240" classclass="A-projectIntegration-0001. Super User can post project integration">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-PO-PP-0014. Project Admin User should be able post projectIntegrations " time="13.0820" classname="A-PO-PP-0014. Project Admin User should be able post projectIntegrations ">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-PO-PP-0014. Project Admin User should be able post projectIntegrations " time="13.0820" classclass="A-PO-PP-0014. Project Admin User should be able post projectIntegrations ">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0002. Admin cannot post project Integration" time="0.0760" classname="A-projectIntegration-0002. Admin cannot post project Integration">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0002. Admin cannot post project Integration" time="0.0760" classclass="A-projectIntegration-0002. Admin cannot post project Integration">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0003. Member cannot post project Integration" time="0.0520" classname="A-projectIntegration-0003. Member cannot post project Integration">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0003. Member cannot post project Integration" time="0.0520" classclass="A-projectIntegration-0003. Member cannot post project Integration">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0004. Public user cannot post project Integration" time="0.0270" classname="A-projectIntegration-0004. Public user cannot post project Integration">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0004. Public user cannot post project Integration" time="0.0270" classclass="A-projectIntegration-0004. Public user cannot post project Integration">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0013. SuperUser can get their project integration" time="0.6480" classname="A-projectIntegration-0013. SuperUser can get their project integration">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0013. SuperUser can get their project integration" time="0.6480" classclass="A-projectIntegration-0013. SuperUser can get their project integration">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0014. Admin can get their project integration" time="0.5750" classname="A-projectIntegration-0014. Admin can get their project integration">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0014. Admin can get their project integration" time="0.5750" classclass="A-projectIntegration-0014. Admin can get their project integration">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0015. Member can get their project integration" time="1.0110" classname="A-projectIntegration-0015. Member can get their project integration">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0015. Member can get their project integration" time="1.0110" classclass="A-projectIntegration-0015. Member can get their project integration">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0016. Public cannot get their project integration" time="0.0290" classname="A-projectIntegration-0016. Public cannot get their project integration">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0016. Public cannot get their project integration" time="0.0290" classclass="A-projectIntegration-0016. Public cannot get their project integration">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0017. SuperUser can update the project integration" time="1.5240" classname="A-projectIntegration-0017. SuperUser can update the project integration">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0017. SuperUser can update the project integration" time="1.5240" classclass="A-projectIntegration-0017. SuperUser can update the project integration">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-PUT-PP-0008. ProjectAdminUser should be able to update projectIntegrations by its Id" time="0.3770" classname="A-PUT-PP-0008. ProjectAdminUser should be able to update projectIntegrations by its Id">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-PUT-PP-0008. ProjectAdminUser should be able to update projectIntegrations by its Id" time="0.3770" classclass="A-PUT-PP-0008. ProjectAdminUser should be able to update projectIntegrations by its Id">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0018. Admin can update the project integration" time="0.0830" classname="A-projectIntegration-0018. Admin can update the project integration">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0018. Admin can update the project integration" time="0.0830" classclass="A-projectIntegration-0018. Admin can update the project integration">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0019. Member cannot update the project integration" time="0.1250" classname="A-projectIntegration-0019. Member cannot update the project integration">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0019. Member cannot update the project integration" time="0.1250" classclass="A-projectIntegration-0019. Member cannot update the project integration">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0020. Public user cannot update the project integration" time="0.0290" classname="A-projectIntegration-0020. Public user cannot update the project integration">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0020. Public user cannot update the project integration" time="0.0290" classclass="A-projectIntegration-0020. Public user cannot update the project integration">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0021. SuperUser can get project integration by Id" time="0.1150" classname="A-projectIntegration-0021. SuperUser can get project integration by Id">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0021. SuperUser can get project integration by Id" time="0.1150" classclass="A-projectIntegration-0021. SuperUser can get project integration by Id">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0022. Admin can get project integration by Id" time="0.2180" classname="A-projectIntegration-0022. Admin can get project integration by Id">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0022. Admin can get project integration by Id" time="0.2180" classclass="A-projectIntegration-0022. Admin can get project integration by Id">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0023. Member can get project integration by Id" time="0.2740" classname="A-projectIntegration-0023. Member can get project integration by Id">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0023. Member can get project integration by Id" time="0.2740" classclass="A-projectIntegration-0023. Member can get project integration by Id">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0024. Public user cannot get project integration by Id" time="0.0300" classname="A-projectIntegration-0024. Public user cannot get project integration by Id">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0024. Public user cannot get project integration by Id" time="0.0300" classclass="A-projectIntegration-0024. Public user cannot get project integration by Id">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0025. SuperUser can get their  projectIntegration by validateRepositoryOwnerToken" time="0.7990" classname="A-projectIntegration-0025. SuperUser can get their  projectIntegration by validateRepositoryOwnerToken">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0025. SuperUser can get their  projectIntegration by validateRepositoryOwnerToken" time="0.7990" classclass="A-projectIntegration-0025. SuperUser can get their  projectIntegration by validateRepositoryOwnerToken">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0026. Admin can get their projectIntegration by validateRepositoryOwnerToken" time="0.6250" classname="A-projectIntegration-0026. Admin can get their projectIntegration by validateRepositoryOwnerToken">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0026. Admin can get their projectIntegration by validateRepositoryOwnerToken" time="0.6250" classclass="A-projectIntegration-0026. Admin can get their projectIntegration by validateRepositoryOwnerToken">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0027. Member can get their projectIntegration by validateRepositoryOwnerToken" time="0.5480" classname="A-projectIntegration-0027. Member can get their projectIntegration by validateRepositoryOwnerToken">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0027. Member can get their projectIntegration by validateRepositoryOwnerToken" time="0.5480" classclass="A-projectIntegration-0027. Member can get their projectIntegration by validateRepositoryOwnerToken">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0028. Public user cannot get their projectIntegration by validateRepositoryOwnerToken" time="0.0220" classname="A-projectIntegration-0028. Public user cannot get their projectIntegration by validateRepositoryOwnerToken">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0028. Public user cannot get their projectIntegration by validateRepositoryOwnerToken" time="0.0220" classclass="A-projectIntegration-0028. Public user cannot get their projectIntegration by validateRepositoryOwnerToken">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0029. Id field in project integration API should not be null and should be an integer type" time="0.0000" classname="A-projectIntegration-0029. Id field in project integration API should not be null and should be an integer type">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0029. Id field in project integration API should not be null and should be an integer type" time="0.0000" classclass="A-projectIntegration-0029. Id field in project integration API should not be null and should be an integer type">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0030. MasterintegrationId field in project integration API should not be null and should be an integer type" time="0.0000" classname="A-projectIntegration-0030. MasterintegrationId field in project integration API should not be null and should be an integer type">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0030. MasterintegrationId field in project integration API should not be null and should be an integer type" time="0.0000" classclass="A-projectIntegration-0030. MasterintegrationId field in project integration API should not be null and should be an integer type">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0031. MasterintegrationName field in project integration API should be a string type" time="0.0000" classname="A-projectIntegration-0031. MasterintegrationName field in project integration API should be a string type">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0031. MasterintegrationName field in project integration API should be a string type" time="0.0000" classclass="A-projectIntegration-0031. MasterintegrationName field in project integration API should be a string type">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0032. MasterintegrationType field in project integration API should not be null and should be a string type" time="0.0000" classname="A-projectIntegration-0032. MasterintegrationType field in project integration API should not be null and should be a string type">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0032. MasterintegrationType field in project integration API should not be null and should be a string type" time="0.0000" classclass="A-projectIntegration-0032. MasterintegrationType field in project integration API should not be null and should be a string type">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0033. Name field in project integration API should not be null and should be a string type" time="0.0000" classname="A-projectIntegration-0033. Name field in project integration API should not be null and should be a string type">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0033. Name field in project integration API should not be null and should be a string type" time="0.0000" classclass="A-projectIntegration-0033. Name field in project integration API should not be null and should be a string type">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0034. ProjectId field in project integration API should not be null and should be an integer type" time="0.0000" classname="A-projectIntegration-0034. ProjectId field in project integration API should not be null and should be an integer type">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0034. ProjectId field in project integration API should not be null and should be an integer type" time="0.0000" classclass="A-projectIntegration-0034. ProjectId field in project integration API should not be null and should be an integer type">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0035. ProviderId field in project integration API should be an integer type" time="0.0000" classname="A-projectIntegration-0035. ProviderId field in project integration API should be an integer type">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0035. ProviderId field in project integration API should be an integer type" time="0.0000" classclass="A-projectIntegration-0035. ProviderId field in project integration API should be an integer type">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0036. PropertyBag field in project integration API should be an object type" time="0.0000" classname="A-projectIntegration-0036. PropertyBag field in project integration API should be an object type">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0036. PropertyBag field in project integration API should be an object type" time="0.0000" classclass="A-projectIntegration-0036. PropertyBag field in project integration API should be an object type">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0037. CreatedByUserName field in project integration API should not be null and should be a string type" time="0.0000" classname="A-projectIntegration-0037. CreatedByUserName field in project integration API should not be null and should be a string type">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0037. CreatedByUserName field in project integration API should not be null and should be a string type" time="0.0000" classclass="A-projectIntegration-0037. CreatedByUserName field in project integration API should not be null and should be a string type">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0038. UpdatedByUserName field in project integration API should not be null and should be a string type" time="0.0000" classname="A-projectIntegration-0038. UpdatedByUserName field in project integration API should not be null and should be a string type">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0038. UpdatedByUserName field in project integration API should not be null and should be a string type" time="0.0000" classclass="A-projectIntegration-0038. UpdatedByUserName field in project integration API should not be null and should be a string type">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0039. CreatedBy field in project integration API should not be null and should be an integer type" time="0.0000" classname="A-projectIntegration-0039. CreatedBy field in project integration API should not be null and should be an integer type">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0039. CreatedBy field in project integration API should not be null and should be an integer type" time="0.0000" classclass="A-projectIntegration-0039. CreatedBy field in project integration API should not be null and should be an integer type">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0040. UpdatedBy field in project integration API should not be null and should be a integer type" time="0.0000" classname="A-projectIntegration-0040. UpdatedBy field in project integration API should not be null and should be a integer type">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0040. UpdatedBy field in project integration API should not be null and should be a integer type" time="0.0000" classclass="A-projectIntegration-0040. UpdatedBy field in project integration API should not be null and should be a integer type">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0041. CreatedAt field in project integration API should not be null and should be a string type" time="0.0000" classname="A-projectIntegration-0041. CreatedAt field in project integration API should not be null and should be a string type">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0041. CreatedAt field in project integration API should not be null and should be a string type" time="0.0000" classclass="A-projectIntegration-0041. CreatedAt field in project integration API should not be null and should be a string type">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0042. UpdatedAt field in project integration API should not be null and should be a string type" time="0.0000" classname="A-projectIntegration-0042. UpdatedAt field in project integration API should not be null and should be a string type">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0042. UpdatedAt field in project integration API should not be null and should be a string type" time="0.0000" classclass="A-projectIntegration-0042. UpdatedAt field in project integration API should not be null and should be a string type">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0047. isInternal field in project integration API should not be null and should be a boolean type" time="0.0000" classname="A-projectIntegration-0047. isInternal field in project integration API should not be null and should be a boolean type">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0047. isInternal field in project integration API should not be null and should be a boolean type" time="0.0000" classclass="A-projectIntegration-0047. isInternal field in project integration API should not be null and should be a boolean type">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0048. permissions field in project integration API should be an object type" time="0.0000" classname="A-projectIntegration-0048. permissions field in project integration API should be an object type">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0048. permissions field in project integration API should be an object type" time="0.0000" classclass="A-projectIntegration-0048. permissions field in project integration API should be an object type">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0043. Public user cannot delete project integration by Id" time="0.0270" classname="A-projectIntegration-0043. Public user cannot delete project integration by Id">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0043. Public user cannot delete project integration by Id" time="0.0270" classclass="A-projectIntegration-0043. Public user cannot delete project integration by Id">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0044. Member user cannot delete project integration by Id" time="0.0810" classname="A-projectIntegration-0044. Member user cannot delete project integration by Id">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0044. Member user cannot delete project integration by Id" time="0.0810" classclass="A-projectIntegration-0044. Member user cannot delete project integration by Id">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0045. Admin can delete project integration by Id" time="0.0510" classname="A-projectIntegration-0045. Admin can delete project integration by Id">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0045. Admin can delete project integration by Id" time="0.0510" classclass="A-projectIntegration-0045. Admin can delete project integration by Id">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-DEL-PP-0012. ProjectAdminUser should be able to deleteprojectIntegrations by its Id" time="0.1910" classname="A-DEL-PP-0012. ProjectAdminUser should be able to deleteprojectIntegrations by its Id">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-DEL-PP-0012. ProjectAdminUser should be able to deleteprojectIntegrations by its Id" time="0.1910" classclass="A-DEL-PP-0012. ProjectAdminUser should be able to deleteprojectIntegrations by its Id">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0046. SuperUser can delete project integrations by Id" time="0.8570" classname="A-projectIntegration-0046. SuperUser can delete project integrations by Id">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0046. SuperUser can delete project integrations by Id" time="0.8570" classclass="A-projectIntegration-0046. SuperUser can delete project integrations by Id">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests 4. Super user deletes pipelineSource by Id" time="1.0800" classname="4. Super user deletes pipelineSource by Id">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests 4. Super user deletes pipelineSource by Id" time="1.0800" classclass="4. Super user deletes pipelineSource by Id">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0073. User should receive blank value in secured field when no value was provided while creating or editing the integration" time="4.5530" classname="A-projectIntegration-0073. User should receive blank value in secured field when no value was provided while creating or editing the integration">
-    </testcase>
-  </testsuite>
-  <testsuite name="Below test cases are for testing hook" timestamp="2022-01-17T17:52:37" tests="7" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383745/setup_PreMatrix/tests/core/api/projectIntegrations.js" time="0.0010" failures="0" skipped="7">
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing hook A-projectIntegration-0001. Super User can post project integration" time="0.0000" classname="A-projectIntegration-0001. Super User can post project integration">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing hook A-projectIntegration-0005. Super User can post to the project integration by hook" time="0.0000" classname="A-projectIntegration-0005. Super User can post to the project integration by hook">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing hook A-PO-PP-0015. Project Admin User should be able post hook for projectIntegration By Id" time="0.0000" classname="A-PO-PP-0015. Project Admin User should be able post hook for projectIntegration By Id">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing hook A-projectIntegration-0006. Admin user can post to the project integration by hook" time="0.0000" classname="A-projectIntegration-0006. Admin user can post to the project integration by hook">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing hook A-projectIntegration-0007. Member cannot post to project Integration by hook" time="0.0000" classname="A-projectIntegration-0007. Member cannot post to project Integration by hook">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing hook A-projectIntegration-0008. Public user cannot post to project integration by hook" time="0.0000" classname="A-projectIntegration-0008. Public user cannot post to project integration by hook">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing hook 1. User can delete incoming project integrations by Id" time="0.0000" classname="1. User can delete incoming project integrations by Id">
-      <skipped/>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests A-projectIntegration-0073. User should receive blank value in secured field when no value was provided while creating or editing the integration" time="4.5530" classclass="A-projectIntegration-0073. User should receive blank value in secured field when no value was provided while creating or editing the integration">
     </testcase>
   </testsuite>
-  <testsuite name="Below test cases are for testing SendEmail Route" timestamp="2022-01-17T17:52:37" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383745/setup_PreMatrix/tests/core/api/projectIntegrations.js" time="0.0000" failures="0" skipped="2">
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route 2. User can add SMTP project Integration" time="0.0000" classname="2. User can add SMTP project Integration">
+  <testsuite class="Below test cases are for testing hook" timestamp="2022-01-17T17:52:37" tests="7" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383745/setup_PreMatrix/tests/core/api/projectIntegrations.js" time="0.0010" failures="0" skipped="7">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing hook A-projectIntegration-0001. Super User can post project integration" time="0.0000" classclass="A-projectIntegration-0001. Super User can post project integration">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route 3. Super user can post their pipelineSources to add Steps" time="0.0000" classname="3. Super user can post their pipelineSources to add Steps">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing hook A-projectIntegration-0005. Super User can post to the project integration by hook" time="0.0000" classclass="A-projectIntegration-0005. Super User can post to the project integration by hook">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing hook A-PO-PP-0015. Project Admin User should be able post hook for projectIntegration By Id" time="0.0000" classclass="A-PO-PP-0015. Project Admin User should be able post hook for projectIntegration By Id">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing hook A-projectIntegration-0006. Admin user can post to the project integration by hook" time="0.0000" classclass="A-projectIntegration-0006. Admin user can post to the project integration by hook">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing hook A-projectIntegration-0007. Member cannot post to project Integration by hook" time="0.0000" classclass="A-projectIntegration-0007. Member cannot post to project Integration by hook">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing hook A-projectIntegration-0008. Public user cannot post to project integration by hook" time="0.0000" classclass="A-projectIntegration-0008. Public user cannot post to project integration by hook">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing hook 1. User can delete incoming project integrations by Id" time="0.0000" classclass="1. User can delete incoming project integrations by Id">
       <skipped/>
     </testcase>
   </testsuite>
-  <testsuite name="Below test cases uses pipeline source" timestamp="2022-01-17T17:52:37" tests="11" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383745/setup_PreMatrix/tests/core/api/projectIntegrations.js" time="0.0000" failures="0" skipped="11">
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route Below test cases uses pipeline source 4. Super user can get their pipelineSteps" time="0.0000" classname="4. Super user can get their pipelineSteps">
+  <testsuite class="Below test cases are for testing SendEmail Route" timestamp="2022-01-17T17:52:37" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383745/setup_PreMatrix/tests/core/api/projectIntegrations.js" time="0.0000" failures="0" skipped="2">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route 2. User can add SMTP project Integration" time="0.0000" classclass="2. User can add SMTP project Integration">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route Below test cases uses pipeline source 5. Super user can trigger pipelineSteps by Id" time="0.0000" classname="5. Super user can trigger pipelineSteps by Id">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route Below test cases uses pipeline source 6. Super user can get their steps" time="0.0000" classname="6. Super user can get their steps">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route Below test cases uses pipeline source 7. Super user should be able to get their steplets" time="0.0000" classname="7. Super user should be able to get their steplets">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route Below test cases uses pipeline source A-projectIntegration-0009. SuperUser can post project Integration By SendEmail" time="0.0000" classname="A-projectIntegration-0009. SuperUser can post project Integration By SendEmail">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route Below test cases uses pipeline source A-PO-PP-0016. Project Admin User should be able send an Email for projectIntegration By Id" time="0.0000" classname="A-PO-PP-0016. Project Admin User should be able send an Email for projectIntegration By Id">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route Below test cases uses pipeline source A-projectIntegration-0010. Admin can post project Integration By SendEmail" time="0.0000" classname="A-projectIntegration-0010. Admin can post project Integration By SendEmail">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route Below test cases uses pipeline source A-projectIntegration-0011. Member cannot post project Integration By SendEmail" time="0.0000" classname="A-projectIntegration-0011. Member cannot post project Integration By SendEmail">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route Below test cases uses pipeline source A-projectIntegration-0012. Public user cannot post project  Integration By SendEmail" time="0.0000" classname="A-projectIntegration-0012. Public user cannot post project  Integration By SendEmail">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route Below test cases uses pipeline source 10. Super user can delete pipelineSource by Id" time="0.0000" classname="10. Super user can delete pipelineSource by Id">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route Below test cases uses pipeline source 11. User can delete project integrations by Id" time="0.0000" classname="11. User can delete project integrations by Id">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route 3. Super user can post their pipelineSources to add Steps" time="0.0000" classclass="3. Super user can post their pipelineSources to add Steps">
       <skipped/>
     </testcase>
   </testsuite>
-  <testsuite name="Below test cases are for new projects support" timestamp="2022-01-17T17:52:37" tests="32" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383745/setup_PreMatrix/tests/core/api/projectIntegrations.js" time="0.0020" failures="0" skipped="32">
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0050. Project admin can POST a projectIntegration using a project object with name instead of project ID" time="0.0000" classname="A-ProjectIntegrations-0050. Project admin can POST a projectIntegration using a project object with name instead of project ID">
+  <testsuite class="Below test cases uses pipeline source" timestamp="2022-01-17T17:52:37" tests="11" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383745/setup_PreMatrix/tests/core/api/projectIntegrations.js" time="0.0000" failures="0" skipped="11">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route Below test cases uses pipeline source 4. Super user can get their pipelineSteps" time="0.0000" classclass="4. Super user can get their pipelineSteps">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0051. Default Project admin can POST a projectIntegration using a project object instead of project ID" time="0.0000" classname="A-ProjectIntegrations-0051. Default Project admin can POST a projectIntegration using a project object instead of project ID">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route Below test cases uses pipeline source 5. Super user can trigger pipelineSteps by Id" time="0.0000" classclass="5. Super user can trigger pipelineSteps by Id">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0052. Project admin cannot POST a projectIntegration using a project object without a name attribute" time="0.0000" classname="A-ProjectIntegrations-0052. Project admin cannot POST a projectIntegration using a project object without a name attribute">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route Below test cases uses pipeline source 6. Super user can get their steps" time="0.0000" classclass="6. Super user can get their steps">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0053. A non-default project admin cannot POST a projectIntegration with isInternal=true" time="0.0000" classname="A-ProjectIntegrations-0053. A non-default project admin cannot POST a projectIntegration with isInternal=true">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route Below test cases uses pipeline source 7. Super user should be able to get their steplets" time="0.0000" classclass="7. Super user should be able to get their steplets">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0054. ProjectAdmin can POST a projectIntegration with no environments, resulting in the default environment being assigned" time="0.0000" classname="A-ProjectIntegrations-0054. ProjectAdmin can POST a projectIntegration with no environments, resulting in the default environment being assigned">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route Below test cases uses pipeline source A-projectIntegration-0009. SuperUser can post project Integration By SendEmail" time="0.0000" classclass="A-projectIntegration-0009. SuperUser can post project Integration By SendEmail">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0055. ProjectAdmin can POST a projectIntegration with environments" time="0.0000" classname="A-ProjectIntegrations-0055. ProjectAdmin can POST a projectIntegration with environments">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route Below test cases uses pipeline source A-PO-PP-0016. Project Admin User should be able send an Email for projectIntegration By Id" time="0.0000" classclass="A-PO-PP-0016. Project Admin User should be able send an Email for projectIntegration By Id">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0056. ProjectAdmin can PUT an existing projectIntegration, changing the environment" time="0.0000" classname="A-ProjectIntegrations-0056. ProjectAdmin can PUT an existing projectIntegration, changing the environment">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route Below test cases uses pipeline source A-projectIntegration-0010. Admin can post project Integration By SendEmail" time="0.0000" classclass="A-projectIntegration-0010. Admin can post project Integration By SendEmail">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0057. ProjectAdmin cannot POST a projectIntegration to a project they do not have access to" time="0.0000" classname="A-ProjectIntegrations-0057. ProjectAdmin cannot POST a projectIntegration to a project they do not have access to">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route Below test cases uses pipeline source A-projectIntegration-0011. Member cannot post project Integration By SendEmail" time="0.0000" classclass="A-projectIntegration-0011. Member cannot post project Integration By SendEmail">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0058. ProjectAdmin cannot POST a projectIntegration to a project in which he is not an admin" time="0.0000" classname="A-ProjectIntegrations-0058. ProjectAdmin cannot POST a projectIntegration to a project in which he is not an admin">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route Below test cases uses pipeline source A-projectIntegration-0012. Public user cannot post project  Integration By SendEmail" time="0.0000" classclass="A-projectIntegration-0012. Public user cannot post project  Integration By SendEmail">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0059. SuperAdmin of artifactory can POST a projectIntegration to a project to which he does not have explicit access" time="0.0000" classname="A-ProjectIntegrations-0059. SuperAdmin of artifactory can POST a projectIntegration to a project to which he does not have explicit access">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route Below test cases uses pipeline source 10. Super user can delete pipelineSource by Id" time="0.0000" classclass="10. Super user can delete pipelineSource by Id">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0060. ProjectAdmin cannot PUT an existing projectIntegration in a project they do not have access to" time="0.0000" classname="A-ProjectIntegrations-0060. ProjectAdmin cannot PUT an existing projectIntegration in a project they do not have access to">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0061. ProjectAdmin cannot PUT a projectIntegration in a project to which they are not an admin of" time="0.0000" classname="A-ProjectIntegrations-0061. ProjectAdmin cannot PUT a projectIntegration in a project to which they are not an admin of">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0062. Project Developer can GET /projectIntegrations with projectIds=&lt;id&gt; and receive only the integrations in their project" time="0.0000" classname="A-ProjectIntegrations-0062. Project Developer can GET /projectIntegrations with projectIds=&lt;id&gt; and receive only the integrations in their project">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0063. Project Developer can GET /projectIntegrations with no query. This results in an array containing only integrations that are in their project and environment" time="0.0000" classname="A-ProjectIntegrations-0063. Project Developer can GET /projectIntegrations with no query. This results in an array containing only integrations that are in their project and environment">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0064. Project Developer cannot GET /projectIntegrations using ID of a project they do not have access to" time="0.0000" classname="A-ProjectIntegrations-0064. Project Developer cannot GET /projectIntegrations using ID of a project they do not have access to">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0065. Project Developer of two projects can GET /projectIntegrations and will retrieve integrations for all projects they have access to" time="0.0000" classname="A-ProjectIntegrations-0065. Project Developer of two projects can GET /projectIntegrations and will retrieve integrations for all projects they have access to">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0066. Project Developer cannot get a projectIntegration by ID that is assigned to an environment they do not have access to" time="0.0000" classname="A-ProjectIntegrations-0066. Project Developer cannot get a projectIntegration by ID that is assigned to an environment they do not have access to">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0067. PProjectAdmin can GET /projectIntegrations and will only see integrations in projects they have access to" time="0.0000" classname="A-ProjectIntegrations-0067. PProjectAdmin can GET /projectIntegrations and will only see integrations in projects they have access to">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0068. Project Developer cannot DELETE an existing projectIntegration in their project" time="0.0000" classname="A-ProjectIntegrations-0068. Project Developer cannot DELETE an existing projectIntegration in their project">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0069. ProjectAdmin can DELETE an existing projectIntegration in their project" time="0.0000" classname="A-ProjectIntegrations-0069. ProjectAdmin can DELETE an existing projectIntegration in their project">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0070. ProjectAdmin cannot DELETE an existing projectIntegration in a project they do not have access to" time="0.0000" classname="A-ProjectIntegrations-0070. ProjectAdmin cannot DELETE an existing projectIntegration in a project they do not have access to">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0071. Super user can get projectIntegrations from multiple projects with ***." time="0.0000" classname="A-ProjectIntegrations-0071. Super user can get projectIntegrations from multiple projects with ***.">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0072. Project admin can only get projectIntegrations for user&apos;s projects with ***." time="0.0000" classname="A-ProjectIntegrations-0072. Project admin can only get projectIntegrations for user&apos;s projects with ***.">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-6524-001. User tries to add a Project Integration using a name that does not follow the naming convention. User gets an error and the project integration is not created." time="0.0000" classname="A-ProjectIntegrations-6524-001. User tries to add a Project Integration using a name that does not follow the naming convention. User gets an error and the project integration is not created.">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-6524-002. User tries to update a Project Integration name. User gets an error and the Project Integration is not changed." time="0.0000" classname="A-ProjectIntegrations-6524-002. User tries to update a Project Integration name. User gets an error and the Project Integration is not changed.">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-6524-003. User tries to add a Project Integration to the default project using the same name of an existing Project Integration in a project. User gets an error and the Project Integration is not created." time="0.0000" classname="A-ProjectIntegrations-6524-003. User tries to add a Project Integration to the default project using the same name of an existing Project Integration in a project. User gets an error and the Project Integration is not created.">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegration-6525-001. Project Admin should be able to share a project integration with another project." time="0.0000" classname="A-ProjectIntegration-6525-001. Project Admin should be able to share a project integration with another project.">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegration-6525-002. Project member should not be able to share a project integration with another project." time="0.0000" classname="A-ProjectIntegration-6525-002. Project member should not be able to share a project integration with another project.">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegration-6525-003. User should be able to see a project integration that belongs to another project and is shared with the users project." time="0.0000" classname="A-ProjectIntegration-6525-003. User should be able to see a project integration that belongs to another project and is shared with the users project.">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegration-6525-004. User should not be able to see a project integration that belongs to another project and is not shared with the users project." time="0.0000" classname="A-ProjectIntegration-6525-004. User should not be able to see a project integration that belongs to another project and is not shared with the users project.">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegration-6525-005. Project Admin User should not be able to update a project integration that belongs to another project and is shared with the users project." time="0.0000" classname="A-ProjectIntegration-6525-005. Project Admin User should not be able to update a project integration that belongs to another project and is shared with the users project.">
-      <skipped/>
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support 2. Super User should be able to delete projectIntegrations by Id" time="0.0000" classname="2. Super User should be able to delete projectIntegrations by Id">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SendEmail Route Below test cases uses pipeline source 11. User can delete project integrations by Id" time="0.0000" classclass="11. User can delete project integrations by Id">
       <skipped/>
     </testcase>
   </testsuite>
-  <testsuite name="Below test cases are to test Project user permissions over admin integrations" timestamp="2022-01-17T17:52:37" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383745/setup_PreMatrix/tests/core/api/projectIntegrations.js" time="2.8960" failures="0">
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are to test Project user permissions over admin integrations A-G-PI-6108-0074. When Project users do GET call on ProjectIntegration where internal=truethen verify that secured information is not available." time="2.6520" classname="A-G-PI-6108-0074. When Project users do GET call on ProjectIntegration where internal=truethen verify that secured information is not available.">
+  <testsuite class="Below test cases are for new projects support" timestamp="2022-01-17T17:52:37" tests="32" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383745/setup_PreMatrix/tests/core/api/projectIntegrations.js" time="0.0020" failures="0" skipped="32">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0050. Project admin can POST a projectIntegration using a project object with name instead of project ID" time="0.0000" classclass="A-ProjectIntegrations-0050. Project admin can POST a projectIntegration using a project object with name instead of project ID">
+      <skipped/>
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are to test Project user permissions over admin integrations A-G-PI-6108-0075. When Project users do GET call on ProjectIntegration by id where internal=truethen verify that secured information is not available." time="0.0510" classname="A-G-PI-6108-0075. When Project users do GET call on ProjectIntegration by id where internal=truethen verify that secured information is not available.">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0051. Default Project admin can POST a projectIntegration using a project object instead of project ID" time="0.0000" classclass="A-ProjectIntegrations-0051. Default Project admin can POST a projectIntegration using a project object instead of project ID">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0052. Project admin cannot POST a projectIntegration using a project object without a name attribute" time="0.0000" classclass="A-ProjectIntegrations-0052. Project admin cannot POST a projectIntegration using a project object without a name attribute">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0053. A non-default project admin cannot POST a projectIntegration with isInternal=true" time="0.0000" classclass="A-ProjectIntegrations-0053. A non-default project admin cannot POST a projectIntegration with isInternal=true">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0054. ProjectAdmin can POST a projectIntegration with no environments, resulting in the default environment being assigned" time="0.0000" classclass="A-ProjectIntegrations-0054. ProjectAdmin can POST a projectIntegration with no environments, resulting in the default environment being assigned">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0055. ProjectAdmin can POST a projectIntegration with environments" time="0.0000" classclass="A-ProjectIntegrations-0055. ProjectAdmin can POST a projectIntegration with environments">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0056. ProjectAdmin can PUT an existing projectIntegration, changing the environment" time="0.0000" classclass="A-ProjectIntegrations-0056. ProjectAdmin can PUT an existing projectIntegration, changing the environment">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0057. ProjectAdmin cannot POST a projectIntegration to a project they do not have access to" time="0.0000" classclass="A-ProjectIntegrations-0057. ProjectAdmin cannot POST a projectIntegration to a project they do not have access to">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0058. ProjectAdmin cannot POST a projectIntegration to a project in which he is not an admin" time="0.0000" classclass="A-ProjectIntegrations-0058. ProjectAdmin cannot POST a projectIntegration to a project in which he is not an admin">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0059. SuperAdmin of artifactory can POST a projectIntegration to a project to which he does not have explicit access" time="0.0000" classclass="A-ProjectIntegrations-0059. SuperAdmin of artifactory can POST a projectIntegration to a project to which he does not have explicit access">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0060. ProjectAdmin cannot PUT an existing projectIntegration in a project they do not have access to" time="0.0000" classclass="A-ProjectIntegrations-0060. ProjectAdmin cannot PUT an existing projectIntegration in a project they do not have access to">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0061. ProjectAdmin cannot PUT a projectIntegration in a project to which they are not an admin of" time="0.0000" classclass="A-ProjectIntegrations-0061. ProjectAdmin cannot PUT a projectIntegration in a project to which they are not an admin of">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0062. Project Developer can GET /projectIntegrations with projectIds=&lt;id&gt; and receive only the integrations in their project" time="0.0000" classclass="A-ProjectIntegrations-0062. Project Developer can GET /projectIntegrations with projectIds=&lt;id&gt; and receive only the integrations in their project">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0063. Project Developer can GET /projectIntegrations with no query. This results in an array containing only integrations that are in their project and environment" time="0.0000" classclass="A-ProjectIntegrations-0063. Project Developer can GET /projectIntegrations with no query. This results in an array containing only integrations that are in their project and environment">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0064. Project Developer cannot GET /projectIntegrations using ID of a project they do not have access to" time="0.0000" classclass="A-ProjectIntegrations-0064. Project Developer cannot GET /projectIntegrations using ID of a project they do not have access to">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0065. Project Developer of two projects can GET /projectIntegrations and will retrieve integrations for all projects they have access to" time="0.0000" classclass="A-ProjectIntegrations-0065. Project Developer of two projects can GET /projectIntegrations and will retrieve integrations for all projects they have access to">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0066. Project Developer cannot get a projectIntegration by ID that is assigned to an environment they do not have access to" time="0.0000" classclass="A-ProjectIntegrations-0066. Project Developer cannot get a projectIntegration by ID that is assigned to an environment they do not have access to">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0067. PProjectAdmin can GET /projectIntegrations and will only see integrations in projects they have access to" time="0.0000" classclass="A-ProjectIntegrations-0067. PProjectAdmin can GET /projectIntegrations and will only see integrations in projects they have access to">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0068. Project Developer cannot DELETE an existing projectIntegration in their project" time="0.0000" classclass="A-ProjectIntegrations-0068. Project Developer cannot DELETE an existing projectIntegration in their project">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0069. ProjectAdmin can DELETE an existing projectIntegration in their project" time="0.0000" classclass="A-ProjectIntegrations-0069. ProjectAdmin can DELETE an existing projectIntegration in their project">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0070. ProjectAdmin cannot DELETE an existing projectIntegration in a project they do not have access to" time="0.0000" classclass="A-ProjectIntegrations-0070. ProjectAdmin cannot DELETE an existing projectIntegration in a project they do not have access to">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0071. Super user can get projectIntegrations from multiple projects with ***." time="0.0000" classclass="A-ProjectIntegrations-0071. Super user can get projectIntegrations from multiple projects with ***.">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-0072. Project admin can only get projectIntegrations for user&apos;s projects with ***." time="0.0000" classclass="A-ProjectIntegrations-0072. Project admin can only get projectIntegrations for user&apos;s projects with ***.">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-6524-001. User tries to add a Project Integration using a name that does not follow the naming convention. User gets an error and the project integration is not created." time="0.0000" classclass="A-ProjectIntegrations-6524-001. User tries to add a Project Integration using a name that does not follow the naming convention. User gets an error and the project integration is not created.">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-6524-002. User tries to update a Project Integration name. User gets an error and the Project Integration is not changed." time="0.0000" classclass="A-ProjectIntegrations-6524-002. User tries to update a Project Integration name. User gets an error and the Project Integration is not changed.">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegrations-6524-003. User tries to add a Project Integration to the default project using the same name of an existing Project Integration in a project. User gets an error and the Project Integration is not created." time="0.0000" classclass="A-ProjectIntegrations-6524-003. User tries to add a Project Integration to the default project using the same name of an existing Project Integration in a project. User gets an error and the Project Integration is not created.">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegration-6525-001. Project Admin should be able to share a project integration with another project." time="0.0000" classclass="A-ProjectIntegration-6525-001. Project Admin should be able to share a project integration with another project.">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegration-6525-002. Project member should not be able to share a project integration with another project." time="0.0000" classclass="A-ProjectIntegration-6525-002. Project member should not be able to share a project integration with another project.">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegration-6525-003. User should be able to see a project integration that belongs to another project and is shared with the users project." time="0.0000" classclass="A-ProjectIntegration-6525-003. User should be able to see a project integration that belongs to another project and is shared with the users project.">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegration-6525-004. User should not be able to see a project integration that belongs to another project and is not shared with the users project." time="0.0000" classclass="A-ProjectIntegration-6525-004. User should not be able to see a project integration that belongs to another project and is not shared with the users project.">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support A-ProjectIntegration-6525-005. Project Admin User should not be able to update a project integration that belongs to another project and is shared with the users project." time="0.0000" classclass="A-ProjectIntegration-6525-005. Project Admin User should not be able to update a project integration that belongs to another project and is shared with the users project.">
+      <skipped/>
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for new projects support 2. Super User should be able to delete projectIntegrations by Id" time="0.0000" classclass="2. Super User should be able to delete projectIntegrations by Id">
+      <skipped/>
     </testcase>
   </testsuite>
-  <testsuite name="Below test cases are for test integration connection" timestamp="2022-01-17T17:52:39" tests="15" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383745/setup_PreMatrix/tests/core/api/projectIntegrations.js" time="30.4960" failures="0">
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegration-0001. SuperUser can test the project Integration" time="3.0380" classname="A-projectIntegration-testIntegration-0001. SuperUser can test the project Integration">
+  <testsuite class="Below test cases are to test Project user permissions over admin integrations" timestamp="2022-01-17T17:52:37" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383745/setup_PreMatrix/tests/core/api/projectIntegrations.js" time="2.8960" failures="0">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are to test Project user permissions over admin integrations A-G-PI-6108-0074. When Project users do GET call on ProjectIntegration where internal=truethen verify that secured information is not available." time="2.6520" classclass="A-G-PI-6108-0074. When Project users do GET call on ProjectIntegration where internal=truethen verify that secured information is not available.">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegration-0002. Project Admin can test the project Integration" time="3.0620" classname="A-projectIntegration-testIntegration-0002. Project Admin can test the project Integration">
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegration-0003. Admin cannot test the project Integration" time="0.0550" classname="A-projectIntegration-testIntegration-0003. Admin cannot test the project Integration">
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegration-0004. Member cannot test the project Integration" time="0.0240" classname="A-projectIntegration-testIntegration-0004. Member cannot test the project Integration">
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegration-0005. Public user cannot test the project Integration" time="0.0200" classname="A-projectIntegration-testIntegration-0005. Public user cannot test the project Integration">
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegration-0006. Response body should only contain &quot;result&quot; &amp; &quot;message&quot; properties" time="3.0350" classname="A-projectIntegration-testIntegration-0006. Response body should only contain &quot;result&quot; &amp; &quot;message&quot; properties">
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegration-0007. Request for /projectIntegrations should timeout in ~3 seconds for unreachableexternal systems" time="3.0340" classname="A-projectIntegration-testIntegration-0007. Request for /projectIntegrations should timeout in ~3 seconds for unreachableexternal systems">
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegrationById-0001. SuperUser can test the project Integration by id" time="3.0910" classname="A-projectIntegration-testIntegrationById-0001. SuperUser can test the project Integration by id">
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegrationById-0002. Project Admin can test the project Integration by id" time="3.0890" classname="A-projectIntegration-testIntegrationById-0002. Project Admin can test the project Integration by id">
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegrationById-0003. Admin cannot test the project Integration by id" time="0.0570" classname="A-projectIntegration-testIntegrationById-0003. Admin cannot test the project Integration by id">
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegrationById-0004. Member cannot test the project Integration by id" time="0.0330" classname="A-projectIntegration-testIntegrationById-0004. Member cannot test the project Integration by id">
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegrationById-0005. Public cannot test the project Integration by id" time="0.0240" classname="A-projectIntegration-testIntegrationById-0005. Public cannot test the project Integration by id">
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegrationById-0006. User gets 404 when project integration id is invalid" time="0.1020" classname="A-projectIntegration-testIntegrationById-0006. User gets 404 when project integration id is invalid">
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegrationById-0003. Response body should only contain &quot;result&quot; &amp; &quot;message&quot; properties" time="3.0490" classname="A-projectIntegration-testIntegrationById-0003. Response body should only contain &quot;result&quot; &amp; &quot;message&quot; properties">
-    </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegrationById-0004. Request for /projectIntegrations/:id should timeout in ~3 seconds for unreachable external systems" time="3.0440" classname="A-projectIntegration-testIntegrationById-0004. Request for /projectIntegrations/:id should timeout in ~3 seconds for unreachable external systems">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are to test Project user permissions over admin integrations A-G-PI-6108-0075. When Project users do GET call on ProjectIntegration by id where internal=truethen verify that secured information is not available." time="0.0510" classclass="A-G-PI-6108-0075. When Project users do GET call on ProjectIntegration by id where internal=truethen verify that secured information is not available.">
     </testcase>
   </testsuite>
-  <testsuite name="Below test cases are for testing SMTP integration - PIPE-4493" timestamp="2022-01-17T17:53:10" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383745/setup_PreMatrix/tests/core/api/projectIntegrations.js" time="11.4410" failures="0">
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SMTP integration - PIPE-4493 I-SMTPCreds-4493-0001 - User can set the following options when posting (POST) SMTPCreds project integration: emailAuthPassword, emailAuthUser, emailSender, hostname" time="5.0130" classname="I-SMTPCreds-4493-0001 - User can set the following options when posting (POST) SMTPCreds project integration: emailAuthPassword, emailAuthUser, emailSender, hostname">
+  <testsuite class="Below test cases are for test integration connection" timestamp="2022-01-17T17:52:39" tests="15" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383745/setup_PreMatrix/tests/core/api/projectIntegrations.js" time="30.4960" failures="0">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegration-0001. SuperUser can test the project Integration" time="3.0380" classclass="A-projectIntegration-testIntegration-0001. SuperUser can test the project Integration">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SMTP integration - PIPE-4493 I-SMTPCreds-4493-0002 - User can set emailAuthPassword option when posting (POST) SMTPCreds project integration. The stored emailAuthPassword value will be masked." time="6.4270" classname="I-SMTPCreds-4493-0002 - User can set emailAuthPassword option when posting (POST) SMTPCreds project integration. The stored emailAuthPassword value will be masked.">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegration-0002. Project Admin can test the project Integration" time="3.0620" classclass="A-projectIntegration-testIntegration-0002. Project Admin can test the project Integration">
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegration-0003. Admin cannot test the project Integration" time="0.0550" classclass="A-projectIntegration-testIntegration-0003. Admin cannot test the project Integration">
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegration-0004. Member cannot test the project Integration" time="0.0240" classclass="A-projectIntegration-testIntegration-0004. Member cannot test the project Integration">
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegration-0005. Public user cannot test the project Integration" time="0.0200" classclass="A-projectIntegration-testIntegration-0005. Public user cannot test the project Integration">
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegration-0006. Response body should only contain &quot;result&quot; &amp; &quot;message&quot; properties" time="3.0350" classclass="A-projectIntegration-testIntegration-0006. Response body should only contain &quot;result&quot; &amp; &quot;message&quot; properties">
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegration-0007. Request for /projectIntegrations should timeout in ~3 seconds for unreachableexternal systems" time="3.0340" classclass="A-projectIntegration-testIntegration-0007. Request for /projectIntegrations should timeout in ~3 seconds for unreachableexternal systems">
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegrationById-0001. SuperUser can test the project Integration by id" time="3.0910" classclass="A-projectIntegration-testIntegrationById-0001. SuperUser can test the project Integration by id">
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegrationById-0002. Project Admin can test the project Integration by id" time="3.0890" classclass="A-projectIntegration-testIntegrationById-0002. Project Admin can test the project Integration by id">
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegrationById-0003. Admin cannot test the project Integration by id" time="0.0570" classclass="A-projectIntegration-testIntegrationById-0003. Admin cannot test the project Integration by id">
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegrationById-0004. Member cannot test the project Integration by id" time="0.0330" classclass="A-projectIntegration-testIntegrationById-0004. Member cannot test the project Integration by id">
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegrationById-0005. Public cannot test the project Integration by id" time="0.0240" classclass="A-projectIntegration-testIntegrationById-0005. Public cannot test the project Integration by id">
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegrationById-0006. User gets 404 when project integration id is invalid" time="0.1020" classclass="A-projectIntegration-testIntegrationById-0006. User gets 404 when project integration id is invalid">
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegrationById-0003. Response body should only contain &quot;result&quot; &amp; &quot;message&quot; properties" time="3.0490" classclass="A-projectIntegration-testIntegrationById-0003. Response body should only contain &quot;result&quot; &amp; &quot;message&quot; properties">
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for test integration connection A-projectIntegration-testIntegrationById-0004. Request for /projectIntegrations/:id should timeout in ~3 seconds for unreachable external systems" time="3.0440" classclass="A-projectIntegration-testIntegrationById-0004. Request for /projectIntegrations/:id should timeout in ~3 seconds for unreachable external systems">
     </testcase>
   </testsuite>
-  <testsuite name="Below test cases are for testing SMTP integration - PIPE-6159" timestamp="2022-01-17T17:53:21" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383745/setup_PreMatrix/tests/core/api/projectIntegrations.js" time="9.5820" failures="0">
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SMTP integration - PIPE-6159 I-SMTPCreds-6159-0001 - Super user can set ignoreTLS option when posting (POST) SMTPCreds project integration" time="3.6660" classname="I-SMTPCreds-6159-0001 - Super user can set ignoreTLS option when posting (POST) SMTPCreds project integration">
+  <testsuite class="Below test cases are for testing SMTP integration - PIPE-4493" timestamp="2022-01-17T17:53:10" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383745/setup_PreMatrix/tests/core/api/projectIntegrations.js" time="11.4410" failures="0">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SMTP integration - PIPE-4493 I-SMTPCreds-4493-0001 - User can set the following options when posting (POST) SMTPCreds project integration: emailAuthPassword, emailAuthUser, emailSender, hostname" time="5.0130" classclass="I-SMTPCreds-4493-0001 - User can set the following options when posting (POST) SMTPCreds project integration: emailAuthPassword, emailAuthUser, emailSender, hostname">
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SMTP integration - PIPE-6159 I-SMTPCreds-6159-0002 - Super user can update ignoreTLS option when updating (PUT) SMTPCreds project integration" time="5.9160" classname="I-SMTPCreds-6159-0002 - Super user can update ignoreTLS option when updating (PUT) SMTPCreds project integration">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SMTP integration - PIPE-4493 I-SMTPCreds-4493-0002 - User can set emailAuthPassword option when posting (POST) SMTPCreds project integration. The stored emailAuthPassword value will be masked." time="6.4270" classclass="I-SMTPCreds-4493-0002 - User can set emailAuthPassword option when posting (POST) SMTPCreds project integration. The stored emailAuthPassword value will be masked.">
     </testcase>
   </testsuite>
-  <testsuite name="Below test cases are for testing Include params for GET calls" timestamp="2022-01-17T17:53:31" tests="6" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383745/setup_PreMatrix/tests/core/api/projectIntegrations.js" time="2.7960" failures="0" skipped="6">
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing Include params for GET calls A-Projectintegration-6687-0001. User able get their projectintegrations with include param id." time="0.0000" classname="A-Projectintegration-6687-0001. User able get their projectintegrations with include param id.">
+  <testsuite class="Below test cases are for testing SMTP integration - PIPE-6159" timestamp="2022-01-17T17:53:21" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383745/setup_PreMatrix/tests/core/api/projectIntegrations.js" time="9.5820" failures="0">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SMTP integration - PIPE-6159 I-SMTPCreds-6159-0001 - Super user can set ignoreTLS option when posting (POST) SMTPCreds project integration" time="3.6660" classclass="I-SMTPCreds-6159-0001 - Super user can set ignoreTLS option when posting (POST) SMTPCreds project integration">
+    </testcase>
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing SMTP integration - PIPE-6159 I-SMTPCreds-6159-0002 - Super user can update ignoreTLS option when updating (PUT) SMTPCreds project integration" time="5.9160" classclass="I-SMTPCreds-6159-0002 - Super user can update ignoreTLS option when updating (PUT) SMTPCreds project integration">
+    </testcase>
+  </testsuite>
+  <testsuite class="Below test cases are for testing Include params for GET calls" timestamp="2022-01-17T17:53:31" tests="6" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383745/setup_PreMatrix/tests/core/api/projectIntegrations.js" time="2.7960" failures="0" skipped="6">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing Include params for GET calls A-Projectintegration-6687-0001. User able get their projectintegrations with include param id." time="0.0000" classclass="A-Projectintegration-6687-0001. User able get their projectintegrations with include param id.">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing Include params for GET calls A-Projectintegration-6687-0002. User able get their projectintegration by id with include param id." time="0.0000" classname="A-Projectintegration-6687-0002. User able get their projectintegration by id with include param id.">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing Include params for GET calls A-Projectintegration-6687-0002. User able get their projectintegration by id with include param id." time="0.0000" classclass="A-Projectintegration-6687-0002. User able get their projectintegration by id with include param id.">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing Include params for GET calls A-Projectintegration-6687-0003. User should not able to get formJSONValues in response when fetch project integrationById is called with include param id, projectId." time="0.0000" classname="A-Projectintegration-6687-0003. User should not able to get formJSONValues in response when fetch project integrationById is called with include param id, projectId.">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing Include params for GET calls A-Projectintegration-6687-0003. User should not able to get formJSONValues in response when fetch project integrationById is called with include param id, projectId." time="0.0000" classclass="A-Projectintegration-6687-0003. User should not able to get formJSONValues in response when fetch project integrationById is called with include param id, projectId.">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing Include params for GET calls A-Projectintegration-6687-0004. User should able to get formJSONValues in response when fetch project integrationById is called with include param id, projectId, formJSONValues." time="0.0000" classname="A-Projectintegration-6687-0004. User should able to get formJSONValues in response when fetch project integrationById is called with include param id, projectId, formJSONValues.">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing Include params for GET calls A-Projectintegration-6687-0004. User should able to get formJSONValues in response when fetch project integrationById is called with include param id, projectId, formJSONValues." time="0.0000" classclass="A-Projectintegration-6687-0004. User should able to get formJSONValues in response when fetch project integrationById is called with include param id, projectId, formJSONValues.">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing Include params for GET calls A-Projectintegration-6687-0005. User should not able to get formJSONValues in response when fetch project integrations is called with include param id, projectId." time="0.0000" classname="A-Projectintegration-6687-0005. User should not able to get formJSONValues in response when fetch project integrations is called with include param id, projectId.">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing Include params for GET calls A-Projectintegration-6687-0005. User should not able to get formJSONValues in response when fetch project integrations is called with include param id, projectId." time="0.0000" classclass="A-Projectintegration-6687-0005. User should not able to get formJSONValues in response when fetch project integrations is called with include param id, projectId.">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing Include params for GET calls A-Projectintegration-6687-0006. User should able to get formJSONValues in response when fetch project integrations is called with include param id, projectId, formJSONValues." time="0.0000" classname="A-Projectintegration-6687-0006. User should able to get formJSONValues in response when fetch project integrations is called with include param id, projectId, formJSONValues.">
+    <testcase class="API_PROJECTINTEGRATIONS - Project Integration API tests Below test cases are for testing Include params for GET calls A-Projectintegration-6687-0006. User should able to get formJSONValues in response when fetch project integrations is called with include param id, projectId, formJSONValues." time="0.0000" classclass="A-Projectintegration-6687-0006. User should able to get formJSONValues in response when fetch project integrations is called with include param id, projectId, formJSONValues.">
       <skipped/>
     </testcase>
   </testsuite>

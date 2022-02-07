@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="189.2790" tests="3" failures="0" skipped="1">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:48" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="189.2790" tests="3" failures="0" skipped="1">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:48" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="GENERIC_BASH - 2 out of 7 - Generic Bash tests " timestamp="2022-01-17T17:51:48" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383600/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/BashGeneric9.js" time="0.0000" failures="0">
+  <testsuite class="GENERIC_BASH - 2 out of 7 - Generic Bash tests " timestamp="2022-01-17T17:51:48" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383600/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/BashGeneric9.js" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="Below test cases are for default project project variables" timestamp="2022-01-17T17:51:49" tests="3" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383600/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/BashGeneric9.js" time="189.0020" failures="0" skipped="1">
-    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  Below test cases are for default project project variables S_Bash_0580. A user runs a step in the default project and sees that the step_url variable is correct." time="0.0000" classname="S_Bash_0580. A user runs a step in the default project and sees that the step_url variable is correct.">
+  <testsuite class="Below test cases are for default project project variables" timestamp="2022-01-17T17:51:49" tests="3" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383600/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/BashGeneric9.js" time="189.0020" failures="0" skipped="1">
+    <testcase class="GENERIC_BASH - 2 out of 7 - Generic Bash tests  Below test cases are for default project project variables S_Bash_0580. A user runs a step in the default project and sees that the step_url variable is correct." time="0.0000" classclass="S_Bash_0580. A user runs a step in the default project and sees that the step_url variable is correct.">
       <skipped/>
     </testcase>
-    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  Below test cases are for default project project variables S_Bash_0581. A user runs a step in the default project and sees that the “project_name” variable is “default,” the “project_id” variable is correct, and the “project_key” variable is empty." time="97.4920" classname="S_Bash_0581. A user runs a step in the default project and sees that the “project_name” variable is “default,” the “project_id” variable is correct, and the “project_key” variable is empty.">
+    <testcase class="GENERIC_BASH - 2 out of 7 - Generic Bash tests  Below test cases are for default project project variables S_Bash_0581. A user runs a step in the default project and sees that the “project_name” variable is “default,” the “project_id” variable is correct, and the “project_key” variable is empty." time="97.4920" classclass="S_Bash_0581. A user runs a step in the default project and sees that the “project_name” variable is “default,” the “project_id” variable is correct, and the “project_key” variable is empty.">
     </testcase>
-    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  Below test cases are for default project project variables S_Bash_0582. A user runs a Bash step in the default project and sees that the “JFROG_CLI_BUILD_PROJECT” variable is empty." time="91.5040" classname="S_Bash_0582. A user runs a Bash step in the default project and sees that the “JFROG_CLI_BUILD_PROJECT” variable is empty.">
+    <testcase class="GENERIC_BASH - 2 out of 7 - Generic Bash tests  Below test cases are for default project project variables S_Bash_0582. A user runs a Bash step in the default project and sees that the “JFROG_CLI_BUILD_PROJECT” variable is empty." time="91.5040" classclass="S_Bash_0582. A user runs a Bash step in the default project and sees that the “JFROG_CLI_BUILD_PROJECT” variable is empty.">
     </testcase>
   </testsuite>
 </testsuites>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="214.3890" tests="2" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:21" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="214.3890" tests="2" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:21" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="WORKFLOW_TESTS - 4 out of 4 - step workFlow tests " timestamp="2022-01-17T17:51:21" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests_1/4383785/setup_PreMatrix/tests/core/workFlow/step/stepWorkflow28.js" time="0.0000" failures="0">
+  <testsuite class="WORKFLOW_TESTS - 4 out of 4 - step workFlow tests " timestamp="2022-01-17T17:51:21" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests_1/4383785/setup_PreMatrix/tests/core/workFlow/step/stepWorkflow28.js" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="Below test cases are for conditional workflows with intermediate statuses" timestamp="2022-01-17T17:51:21" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests_1/4383785/setup_PreMatrix/tests/core/workFlow/step/stepWorkflow28.js" time="214.2340" failures="0">
-    <testcase name="WORKFLOW_TESTS - 4 out of 4 - step workFlow tests  Below test cases are for conditional workflows with intermediate statuses S-WF-7289-001. A step configured to run when an input step is cancelled is not skipped when the input step is cancelling." time="99.0390" classname="S-WF-7289-001. A step configured to run when an input step is cancelled is not skipped when the input step is cancelling.">
+  <testsuite class="Below test cases are for conditional workflows with intermediate statuses" timestamp="2022-01-17T17:51:21" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests_1/4383785/setup_PreMatrix/tests/core/workFlow/step/stepWorkflow28.js" time="214.2340" failures="0">
+    <testcase class="WORKFLOW_TESTS - 4 out of 4 - step workFlow tests  Below test cases are for conditional workflows with intermediate statuses S-WF-7289-001. A step configured to run when an input step is cancelled is not skipped when the input step is cancelling." time="99.0390" classclass="S-WF-7289-001. A step configured to run when an input step is cancelled is not skipped when the input step is cancelling.">
     </testcase>
-    <testcase name="WORKFLOW_TESTS - 4 out of 4 - step workFlow tests  Below test cases are for conditional workflows with intermediate statuses S-WF-7289-002. A step configured to run when an input step is timed out is not skipped when the input step is timing out." time="115.1900" classname="S-WF-7289-002. A step configured to run when an input step is timed out is not skipped when the input step is timing out.">
+    <testcase class="WORKFLOW_TESTS - 4 out of 4 - step workFlow tests  Below test cases are for conditional workflows with intermediate statuses S-WF-7289-002. A step configured to run when an input step is timed out is not skipped when the input step is timing out." time="115.1900" classclass="S-WF-7289-002. A step configured to run when an input step is timed out is not skipped when the input step is timing out.">
     </testcase>
   </testsuite>
 </testsuites>

@@ -1,91 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="2.0460" tests="36" failures="0" skipped="12">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="2.0460" tests="36" failures="0" skipped="12">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:38" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="API_PROJECTS - Project API tests" timestamp="2022-01-17T17:51:38" tests="36" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383737/setup_PreMatrix/tests/core/api/project.js" time="2.0400" failures="0" skipped="12">
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0001. Super user can post projects" time="0.0000" classname="A-Projects-0001. Super user can post projects">
+  <testsuite class="API_PROJECTS - Project API tests" timestamp="2022-01-17T17:51:38" tests="36" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_2/4383737/setup_PreMatrix/tests/core/api/project.js" time="2.0400" failures="0" skipped="12">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0001. Super user can post projects" time="0.0000" classclass="A-Projects-0001. Super user can post projects">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-PO-PP-0033. ProjectAdminUser cannot Post the project" time="0.0000" classname="A-PO-PP-0033. ProjectAdminUser cannot Post the project">
+    <testcase class="API_PROJECTS - Project API tests A-PO-PP-0033. ProjectAdminUser cannot Post the project" time="0.0000" classclass="A-PO-PP-0033. ProjectAdminUser cannot Post the project">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0002. Admin cannot post projects" time="0.0000" classname="A-Projects-0002. Admin cannot post projects">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0002. Admin cannot post projects" time="0.0000" classclass="A-Projects-0002. Admin cannot post projects">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0003. Member cannot post projects" time="0.0000" classname="A-Projects-0003. Member cannot post projects">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0003. Member cannot post projects" time="0.0000" classclass="A-Projects-0003. Member cannot post projects">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0004. Public user cannot post projects" time="0.0000" classname="A-Projects-0004. Public user cannot post projects">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0004. Public user cannot post projects" time="0.0000" classclass="A-Projects-0004. Public user cannot post projects">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0013. Super user can get projects" time="0.0720" classname="A-Projects-0013. Super user can get projects">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0013. Super user can get projects" time="0.0720" classclass="A-Projects-0013. Super user can get projects">
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-6531-0001. Users are able to use the include parameter while getting projects" time="0.1860" classname="A-Projects-6531-0001. Users are able to use the include parameter while getting projects">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-6531-0001. Users are able to use the include parameter while getting projects" time="0.1860" classclass="A-Projects-6531-0001. Users are able to use the include parameter while getting projects">
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-6687-0001. User able get their projects with include param id." time="0.0000" classname="A-Projects-6687-0001. User able get their projects with include param id.">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-6687-0001. User able get their projects with include param id." time="0.0000" classclass="A-Projects-6687-0001. User able get their projects with include param id.">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-G-PP-0006. ProjectAdminUser should be able to GET the projects" time="0.1430" classname="A-G-PP-0006. ProjectAdminUser should be able to GET the projects">
+    <testcase class="API_PROJECTS - Project API tests A-G-PP-0006. ProjectAdminUser should be able to GET the projects" time="0.1430" classclass="A-G-PP-0006. ProjectAdminUser should be able to GET the projects">
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0014. Admin can get projects" time="0.0800" classname="A-Projects-0014. Admin can get projects">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0014. Admin can get projects" time="0.0800" classclass="A-Projects-0014. Admin can get projects">
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0015. Member can get projects" time="0.1320" classname="A-Projects-0015. Member can get projects">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0015. Member can get projects" time="0.1320" classclass="A-Projects-0015. Member can get projects">
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0016. Public user cannot get projects" time="0.0220" classname="A-Projects-0016. Public user cannot get projects">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0016. Public user cannot get projects" time="0.0220" classclass="A-Projects-0016. Public user cannot get projects">
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0005. Super user can get projects by Id" time="0.1250" classname="A-Projects-0005. Super user can get projects by Id">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0005. Super user can get projects by Id" time="0.1250" classclass="A-Projects-0005. Super user can get projects by Id">
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-G-PP-0007. ProjectAdminUser should be able to GET the projects by Id" time="0.2190" classname="A-G-PP-0007. ProjectAdminUser should be able to GET the projects by Id">
+    <testcase class="API_PROJECTS - Project API tests A-G-PP-0007. ProjectAdminUser should be able to GET the projects by Id" time="0.2190" classclass="A-G-PP-0007. ProjectAdminUser should be able to GET the projects by Id">
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0006. Admin can get projects by Id" time="0.1540" classname="A-Projects-0006. Admin can get projects by Id">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0006. Admin can get projects by Id" time="0.1540" classclass="A-Projects-0006. Admin can get projects by Id">
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0007. Member can get projects by Id" time="0.0810" classname="A-Projects-0007. Member can get projects by Id">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0007. Member can get projects by Id" time="0.0810" classclass="A-Projects-0007. Member can get projects by Id">
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0008. Public user cannot get projects by Id" time="0.0260" classname="A-Projects-0008. Public user cannot get projects by Id">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0008. Public user cannot get projects by Id" time="0.0260" classclass="A-Projects-0008. Public user cannot get projects by Id">
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-6687-0002. User able get their projects by id with include param id." time="0.0000" classname="A-Projects-6687-0002. User able get their projects by id with include param id.">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-6687-0002. User able get their projects by id with include param id." time="0.0000" classclass="A-Projects-6687-0002. User able get their projects by id with include param id.">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0009. Super user can update the project by Id" time="0.0000" classname="A-Projects-0009. Super user can update the project by Id">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0009. Super user can update the project by Id" time="0.0000" classclass="A-Projects-0009. Super user can update the project by Id">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-PUT-PP-0017. ProjectAdminUser should be able to update theproject by ID" time="0.0000" classname="A-PUT-PP-0017. ProjectAdminUser should be able to update theproject by ID">
+    <testcase class="API_PROJECTS - Project API tests A-PUT-PP-0017. ProjectAdminUser should be able to update theproject by ID" time="0.0000" classclass="A-PUT-PP-0017. ProjectAdminUser should be able to update theproject by ID">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0010. Admin cannot update the project by Id" time="0.0000" classname="A-Projects-0010. Admin cannot update the project by Id">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0010. Admin cannot update the project by Id" time="0.0000" classclass="A-Projects-0010. Admin cannot update the project by Id">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0011. Member cannot update the project by Id" time="0.0000" classname="A-Projects-0011. Member cannot update the project by Id">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0011. Member cannot update the project by Id" time="0.0000" classclass="A-Projects-0011. Member cannot update the project by Id">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0012. Public user cannot update the project by Id" time="0.0000" classname="A-Projects-0012. Public user cannot update the project by Id">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0012. Public user cannot update the project by Id" time="0.0000" classclass="A-Projects-0012. Public user cannot update the project by Id">
       <skipped/>
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0017. Id field in project API should not be null and should be an integer type" time="0.0000" classname="A-Projects-0017. Id field in project API should not be null and should be an integer type">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0017. Id field in project API should not be null and should be an integer type" time="0.0000" classclass="A-Projects-0017. Id field in project API should not be null and should be an integer type">
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0018. IsOrphaned field in project API should be a boolean type" time="0.0000" classname="A-Projects-0018. IsOrphaned field in project API should be a boolean type">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0018. IsOrphaned field in project API should be a boolean type" time="0.0000" classclass="A-Projects-0018. IsOrphaned field in project API should be a boolean type">
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0019. Name field in project API should not be null and should be a string type" time="0.0000" classname="A-Projects-0019. Name field in project API should not be null and should be a string type">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0019. Name field in project API should not be null and should be a string type" time="0.0000" classclass="A-Projects-0019. Name field in project API should not be null and should be a string type">
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0020. SystemPropertyBag field in project API should be an object type" time="0.0000" classname="A-Projects-0020. SystemPropertyBag field in project API should be an object type">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0020. SystemPropertyBag field in project API should be an object type" time="0.0000" classclass="A-Projects-0020. SystemPropertyBag field in project API should be an object type">
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0021. ConfigPropertyBag field in project API should be an object type" time="0.0000" classname="A-Projects-0021. ConfigPropertyBag field in project API should be an object type">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0021. ConfigPropertyBag field in project API should be an object type" time="0.0000" classclass="A-Projects-0021. ConfigPropertyBag field in project API should be an object type">
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0022. ProviderId field in project API should not be null and should be an integer type" time="0.0000" classname="A-Projects-0022. ProviderId field in project API should not be null and should be an integer type">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0022. ProviderId field in project API should not be null and should be an integer type" time="0.0000" classclass="A-Projects-0022. ProviderId field in project API should not be null and should be an integer type">
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0023. SourceId field in project API should not be null and should be a string type" time="0.0000" classname="A-Projects-0023. SourceId field in project API should not be null and should be a string type">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0023. SourceId field in project API should not be null and should be a string type" time="0.0000" classclass="A-Projects-0023. SourceId field in project API should not be null and should be a string type">
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0024. CreatedAt field in project API should not be null and should be a string" time="0.0000" classname="A-Projects-0024. CreatedAt field in project API should not be null and should be a string">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0024. CreatedAt field in project API should not be null and should be a string" time="0.0000" classclass="A-Projects-0024. CreatedAt field in project API should not be null and should be a string">
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0025. UpdatedAt field in project API should not be null and should be a string" time="0.0000" classname="A-Projects-0025. UpdatedAt field in project API should not be null and should be a string">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0025. UpdatedAt field in project API should not be null and should be a string" time="0.0000" classclass="A-Projects-0025. UpdatedAt field in project API should not be null and should be a string">
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0026. Admin User can&apos;t see secrets in projects response." time="0.0650" classname="A-Projects-0026. Admin User can&apos;t see secrets in projects response.">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0026. Admin User can&apos;t see secrets in projects response." time="0.0650" classclass="A-Projects-0026. Admin User can&apos;t see secrets in projects response.">
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0027. Project User can&apos;t see secrets in projects response." time="0.1790" classname="A-Projects-0027. Project User can&apos;t see secrets in projects response.">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0027. Project User can&apos;t see secrets in projects response." time="0.1790" classclass="A-Projects-0027. Project User can&apos;t see secrets in projects response.">
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0028. Admin User can&apos;t see secrets in projects/:projectId response." time="0.1420" classname="A-Projects-0028. Admin User can&apos;t see secrets in projects/:projectId response.">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0028. Admin User can&apos;t see secrets in projects/:projectId response." time="0.1420" classclass="A-Projects-0028. Admin User can&apos;t see secrets in projects/:projectId response.">
     </testcase>
-    <testcase name="API_PROJECTS - Project API tests A-Projects-0029. Project User can&apos;t see secrets in projects/:projectId response." time="0.1000" classname="A-Projects-0029. Project User can&apos;t see secrets in projects/:projectId response.">
+    <testcase class="API_PROJECTS - Project API tests A-Projects-0029. Project User can&apos;t see secrets in projects/:projectId response." time="0.1000" classclass="A-Projects-0029. Project User can&apos;t see secrets in projects/:projectId response.">
     </testcase>
   </testsuite>
 </testsuites>

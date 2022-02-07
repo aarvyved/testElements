@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="0.1980" tests="3" failures="0" skipped="3">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:49" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="0.1980" tests="3" failures="0" skipped="3">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:49" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="GENERIC_BASH - 2 out of 7 - Generic Bash tests " timestamp="2022-01-17T17:51:49" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383622/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/BashGeneric10.js" time="0.0000" failures="0">
+  <testsuite class="GENERIC_BASH - 2 out of 7 - Generic Bash tests " timestamp="2022-01-17T17:51:49" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383622/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/BashGeneric10.js" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="Below test cases are for non-default project project variables" timestamp="2022-01-17T17:51:49" tests="3" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383622/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/BashGeneric10.js" time="0.0090" failures="0" skipped="3">
-    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  Below test cases are for non-default project project variables S_Bash_0583. A user runs a step in a non-default project and sees that the step_url variable is correct." time="0.0000" classname="S_Bash_0583. A user runs a step in a non-default project and sees that the step_url variable is correct.">
+  <testsuite class="Below test cases are for non-default project project variables" timestamp="2022-01-17T17:51:49" tests="3" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383622/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/BashGeneric10.js" time="0.0090" failures="0" skipped="3">
+    <testcase class="GENERIC_BASH - 2 out of 7 - Generic Bash tests  Below test cases are for non-default project project variables S_Bash_0583. A user runs a step in a non-default project and sees that the step_url variable is correct." time="0.0000" classclass="S_Bash_0583. A user runs a step in a non-default project and sees that the step_url variable is correct.">
       <skipped/>
     </testcase>
-    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  Below test cases are for non-default project project variables S_Bash_0584. A user runs a Bash step in a non-default project and sees that the “project_name,” “project_id, ” and “project_key” variables are correct for the project." time="0.0000" classname="S_Bash_0584. A user runs a Bash step in a non-default project and sees that the “project_name,” “project_id, ” and “project_key” variables are correct for the project.">
+    <testcase class="GENERIC_BASH - 2 out of 7 - Generic Bash tests  Below test cases are for non-default project project variables S_Bash_0584. A user runs a Bash step in a non-default project and sees that the “project_name,” “project_id, ” and “project_key” variables are correct for the project." time="0.0000" classclass="S_Bash_0584. A user runs a Bash step in a non-default project and sees that the “project_name,” “project_id, ” and “project_key” variables are correct for the project.">
       <skipped/>
     </testcase>
-    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  Below test cases are for non-default project project variables S_Bash_0585. A user runs a Bash step in a non-default project and sees that the “JFROG_CLI_BUILD_PROJECT” variable is the project key." time="0.0000" classname="S_Bash_0585. A user runs a Bash step in a non-default project and sees that the “JFROG_CLI_BUILD_PROJECT” variable is the project key.">
+    <testcase class="GENERIC_BASH - 2 out of 7 - Generic Bash tests  Below test cases are for non-default project project variables S_Bash_0585. A user runs a Bash step in a non-default project and sees that the “JFROG_CLI_BUILD_PROJECT” variable is the project key." time="0.0000" classclass="S_Bash_0585. A user runs a Bash step in a non-default project and sees that the “JFROG_CLI_BUILD_PROJECT” variable is the project key.">
       <skipped/>
     </testcase>
   </testsuite>

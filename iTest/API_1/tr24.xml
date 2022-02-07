@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="16.5560" tests="2" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:36" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="16.5560" tests="2" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:36" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="API_NODE_STATS - nodeStats API tests" timestamp="2022-01-17T17:51:36" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383635/setup_PreMatrix/tests/core/api/nodeStats.js" time="0.0000" failures="0">
+  <testsuite class="API_NODE_STATS - nodeStats API tests" timestamp="2022-01-17T17:51:36" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383635/setup_PreMatrix/tests/core/api/nodeStats.js" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="Below test cases are related to node identity during node reset" timestamp="2022-01-17T17:51:36" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383635/setup_PreMatrix/tests/core/api/nodeStats.js" time="16.2870" failures="0">
-    <testcase name="API_NODE_STATS - nodeStats API tests Below test cases are related to node identity during node reset A-NodeStats-6033-0001. Users with build-node scope should be able to post node stats." time="0.1920" classname="A-NodeStats-6033-0001. Users with build-node scope should be able to post node stats.">
+  <testsuite class="Below test cases are related to node identity during node reset" timestamp="2022-01-17T17:51:36" tests="2" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/API_tests_1/4383635/setup_PreMatrix/tests/core/api/nodeStats.js" time="16.2870" failures="0">
+    <testcase class="API_NODE_STATS - nodeStats API tests Below test cases are related to node identity during node reset A-NodeStats-6033-0001. Users with build-node scope should be able to post node stats." time="0.1920" classclass="A-NodeStats-6033-0001. Users with build-node scope should be able to post node stats.">
     </testcase>
-    <testcase name="API_NODE_STATS - nodeStats API tests Below test cases are related to node identity during node reset A-NodeStats-0002. Public user should not be able to post nodeStats" time="0.0210" classname="A-NodeStats-0002. Public user should not be able to post nodeStats">
+    <testcase class="API_NODE_STATS - nodeStats API tests Below test cases are related to node identity during node reset A-NodeStats-0002. Public user should not be able to post nodeStats" time="0.0210" classclass="A-NodeStats-0002. Public user should not be able to post nodeStats">
     </testcase>
   </testsuite>
 </testsuites>

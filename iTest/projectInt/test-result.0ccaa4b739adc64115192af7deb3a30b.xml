@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="21.4600" tests="6" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:52:10" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="21.4600" tests="6" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:52:10" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="PROJECTINTEGRATIONS_NEWRELIC - NewRelic integration tests" timestamp="2022-01-17T17:52:10" tests="6" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383808/setup_PreMatrix/tests/core/projectIntegrations/NewRelic.js" time="21.4540" failures="0">
-    <testcase name="PROJECTINTEGRATIONS_NEWRELIC - NewRelic integration tests I-NewRelic-0001. User can add NewRelic project Integration" time="18.7850" classname="I-NewRelic-0001. User can add NewRelic project Integration">
+  <testsuite class="PROJECTINTEGRATIONS_NEWRELIC - NewRelic integration tests" timestamp="2022-01-17T17:52:10" tests="6" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383808/setup_PreMatrix/tests/core/projectIntegrations/NewRelic.js" time="21.4540" failures="0">
+    <testcase class="PROJECTINTEGRATIONS_NEWRELIC - NewRelic integration tests I-NewRelic-0001. User can add NewRelic project Integration" time="18.7850" classclass="I-NewRelic-0001. User can add NewRelic project Integration">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_NEWRELIC - NewRelic integration tests I-NewRelic-0002. NewRelic integration name must adhere to theregular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/" time="0.2260" classname="I-NewRelic-0002. NewRelic integration name must adhere to theregular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/">
+    <testcase class="PROJECTINTEGRATIONS_NEWRELIC - NewRelic integration tests I-NewRelic-0002. NewRelic integration name must adhere to theregular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/" time="0.2260" classclass="I-NewRelic-0002. NewRelic integration name must adhere to theregular expression /^[a-zA-Z_][a-zA-Z0-9_]*$/">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_NEWRELIC - NewRelic integration tests I-NewRelic-0003. User cannot update the Name field in NewRelicintegration " time="0.1980" classname="I-NewRelic-0003. User cannot update the Name field in NewRelicintegration ">
+    <testcase class="PROJECTINTEGRATIONS_NEWRELIC - NewRelic integration tests I-NewRelic-0003. User cannot update the Name field in NewRelicintegration " time="0.1980" classclass="I-NewRelic-0003. User cannot update the Name field in NewRelicintegration ">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_NEWRELIC - NewRelic integration tests I-NewRelic-0004. User can update the URL field in NewRelicintegration " time="0.9100" classname="I-NewRelic-0004. User can update the URL field in NewRelicintegration ">
+    <testcase class="PROJECTINTEGRATIONS_NEWRELIC - NewRelic integration tests I-NewRelic-0004. User can update the URL field in NewRelicintegration " time="0.9100" classclass="I-NewRelic-0004. User can update the URL field in NewRelicintegration ">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_NEWRELIC - NewRelic integration tests I-NewRelic-0005. User can update the Token field in NewRelicintegration " time="0.6830" classname="I-NewRelic-0005. User can update the Token field in NewRelicintegration ">
+    <testcase class="PROJECTINTEGRATIONS_NEWRELIC - NewRelic integration tests I-NewRelic-0005. User can update the Token field in NewRelicintegration " time="0.6830" classclass="I-NewRelic-0005. User can update the Token field in NewRelicintegration ">
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_NEWRELIC - NewRelic integration tests I-NewRelic-0006. Users should be able to delete NewRelic integration if it is not dependent on any steps." time="0.4080" classname="I-NewRelic-0006. Users should be able to delete NewRelic integration if it is not dependent on any steps.">
+    <testcase class="PROJECTINTEGRATIONS_NEWRELIC - NewRelic integration tests I-NewRelic-0006. Users should be able to delete NewRelic integration if it is not dependent on any steps." time="0.4080" classclass="I-NewRelic-0006. Users should be able to delete NewRelic integration if it is not dependent on any steps.">
     </testcase>
   </testsuite>
 </testsuites>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="239.3570" tests="4" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:51:49" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="239.3570" tests="4" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:51:49" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="GENERIC_BASH - 2 out of 7 - Generic Bash tests " timestamp="2022-01-17T17:51:49" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383621/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/BashGeneric8.js" time="0.0000" failures="0">
+  <testsuite class="GENERIC_BASH - 2 out of 7 - Generic Bash tests " timestamp="2022-01-17T17:51:49" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383621/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/BashGeneric8.js" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="Below test cases Verify the Bash Step runs on node pool" timestamp="2022-01-17T17:51:49" tests="4" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383621/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/BashGeneric8.js" time="239.1410" failures="0">
-    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  Below test cases Verify the Bash Step runs on node pool S-Bash-0010. Verify Bash Step runs on default node pool, if none is specified in YAML." time="107.3110" classname="S-Bash-0010. Verify Bash Step runs on default node pool, if none is specified in YAML.">
+  <testsuite class="Below test cases Verify the Bash Step runs on node pool" timestamp="2022-01-17T17:51:49" tests="4" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/bash_tests_3/4383621/setup_PreMatrix/tests/core/steps/Bash/BashGeneric/BashGeneric8.js" time="239.1410" failures="0">
+    <testcase class="GENERIC_BASH - 2 out of 7 - Generic Bash tests  Below test cases Verify the Bash Step runs on node pool S-Bash-0010. Verify Bash Step runs on default node pool, if none is specified in YAML." time="107.3110" classclass="S-Bash-0010. Verify Bash Step runs on default node pool, if none is specified in YAML.">
     </testcase>
-    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  Below test cases Verify the Bash Step runs on node pool S-Bash-0012. If specified node pool doesnot exist   then Pipeline sync should fail" time="11.0090" classname="S-Bash-0012. If specified node pool doesnot exist   then Pipeline sync should fail">
+    <testcase class="GENERIC_BASH - 2 out of 7 - Generic Bash tests  Below test cases Verify the Bash Step runs on node pool S-Bash-0012. If specified node pool doesnot exist   then Pipeline sync should fail" time="11.0090" classclass="S-Bash-0012. If specified node pool doesnot exist   then Pipeline sync should fail">
     </testcase>
-    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  Below test cases Verify the Bash Step runs on node pool S-Bash-0011. Verify Bash Step runs on the node pool which is  specified in YAML." time="78.2920" classname="S-Bash-0011. Verify Bash Step runs on the node pool which is  specified in YAML.">
+    <testcase class="GENERIC_BASH - 2 out of 7 - Generic Bash tests  Below test cases Verify the Bash Step runs on node pool S-Bash-0011. Verify Bash Step runs on the node pool which is  specified in YAML." time="78.2920" classclass="S-Bash-0011. Verify Bash Step runs on the node pool which is  specified in YAML.">
     </testcase>
-    <testcase name="GENERIC_BASH - 2 out of 7 - Generic Bash tests  Below test cases Verify the Bash Step runs on node pool S-Bash-0530. If users add a command under the execution section in the bash step. If the command is enclosed with “{{ }}”  thenverify the pipeline step is successful and the command should notbe templated as {{gitbranch}} (which gives the branch name)." time="42.5160" classname="S-Bash-0530. If users add a command under the execution section in the bash step. If the command is enclosed with “{{ }}”  thenverify the pipeline step is successful and the command should notbe templated as {{gitbranch}} (which gives the branch name).">
+    <testcase class="GENERIC_BASH - 2 out of 7 - Generic Bash tests  Below test cases Verify the Bash Step runs on node pool S-Bash-0530. If users add a command under the execution section in the bash step. If the command is enclosed with “{{ }}”  thenverify the pipeline step is successful and the command should notbe templated as {{gitbranch}} (which gives the branch name)." time="42.5160" classclass="S-Bash-0530. If users add a command under the execution section in the bash step. If the command is enclosed with “{{ }}”  thenverify the pipeline step is successful and the command should notbe templated as {{gitbranch}} (which gives the branch name).">
     </testcase>
   </testsuite>
 </testsuites>

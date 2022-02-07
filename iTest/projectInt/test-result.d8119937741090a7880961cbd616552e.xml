@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="0.1650" tests="7" failures="0" skipped="7">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:52:11" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="0.1650" tests="7" failures="0" skipped="7">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:52:11" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="PROJECTINTEGRATIONS_AZUREKEYS - AzureKeys integration tests" timestamp="2022-01-17T17:52:11" tests="7" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383830/setup_PreMatrix/tests/core/projectIntegrations/AzureKeys.js" time="0.1570" failures="0" skipped="7">
-    <testcase name="PROJECTINTEGRATIONS_AZUREKEYS - AzureKeys integration tests I-AzureKeys-0001. user can add AzureKeys project Integration" time="0.0000" classname="I-AzureKeys-0001. user can add AzureKeys project Integration">
+  <testsuite class="PROJECTINTEGRATIONS_AZUREKEYS - AzureKeys integration tests" timestamp="2022-01-17T17:52:11" tests="7" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/projectIntegration_tests/4383830/setup_PreMatrix/tests/core/projectIntegrations/AzureKeys.js" time="0.1570" failures="0" skipped="7">
+    <testcase class="PROJECTINTEGRATIONS_AZUREKEYS - AzureKeys integration tests I-AzureKeys-0001. user can add AzureKeys project Integration" time="0.0000" classclass="I-AzureKeys-0001. user can add AzureKeys project Integration">
       <skipped/>
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_AZUREKEYS - AzureKeys integration tests I-AzureKeys-0002. AzureKeys integration name must adhereto the regular  expression /^[a-zA-Z_][a-zA-Z0-9_]*$/" time="0.0000" classname="I-AzureKeys-0002. AzureKeys integration name must adhereto the regular  expression /^[a-zA-Z_][a-zA-Z0-9_]*$/">
+    <testcase class="PROJECTINTEGRATIONS_AZUREKEYS - AzureKeys integration tests I-AzureKeys-0002. AzureKeys integration name must adhereto the regular  expression /^[a-zA-Z_][a-zA-Z0-9_]*$/" time="0.0000" classclass="I-AzureKeys-0002. AzureKeys integration name must adhereto the regular  expression /^[a-zA-Z_][a-zA-Z0-9_]*$/">
       <skipped/>
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_AZUREKEYS - AzureKeys integration tests I-AzureKeys-0003. User cannot update the name field in AzureKeys integration " time="0.0000" classname="I-AzureKeys-0003. User cannot update the name field in AzureKeys integration ">
+    <testcase class="PROJECTINTEGRATIONS_AZUREKEYS - AzureKeys integration tests I-AzureKeys-0003. User cannot update the name field in AzureKeys integration " time="0.0000" classclass="I-AzureKeys-0003. User cannot update the name field in AzureKeys integration ">
       <skipped/>
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_AZUREKEYS - AzureKeys integration tests I-AzureKeys-0004. User can update the appId field in AzureKeys integration " time="0.0000" classname="I-AzureKeys-0004. User can update the appId field in AzureKeys integration ">
+    <testcase class="PROJECTINTEGRATIONS_AZUREKEYS - AzureKeys integration tests I-AzureKeys-0004. User can update the appId field in AzureKeys integration " time="0.0000" classclass="I-AzureKeys-0004. User can update the appId field in AzureKeys integration ">
       <skipped/>
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_AZUREKEYS - AzureKeys integration tests I-AzureKeys-0005. User can update the password field in AzureKeys integration " time="0.0000" classname="I-AzureKeys-0005. User can update the password field in AzureKeys integration ">
+    <testcase class="PROJECTINTEGRATIONS_AZUREKEYS - AzureKeys integration tests I-AzureKeys-0005. User can update the password field in AzureKeys integration " time="0.0000" classclass="I-AzureKeys-0005. User can update the password field in AzureKeys integration ">
       <skipped/>
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_AZUREKEYS - AzureKeys integration tests I-AzureKeys-0006. User can update the tenant field in AzureKeys integration " time="0.0000" classname="I-AzureKeys-0006. User can update the tenant field in AzureKeys integration ">
+    <testcase class="PROJECTINTEGRATIONS_AZUREKEYS - AzureKeys integration tests I-AzureKeys-0006. User can update the tenant field in AzureKeys integration " time="0.0000" classclass="I-AzureKeys-0006. User can update the tenant field in AzureKeys integration ">
       <skipped/>
     </testcase>
-    <testcase name="PROJECTINTEGRATIONS_AZUREKEYS - AzureKeys integration tests I-AzureKeys-0008. User can delete AzureKeys integration by Id" time="0.0000" classname="I-AzureKeys-0008. User can delete AzureKeys integration by Id">
+    <testcase class="PROJECTINTEGRATIONS_AZUREKEYS - AzureKeys integration tests I-AzureKeys-0008. User can delete AzureKeys integration by Id" time="0.0000" classclass="I-AzureKeys-0008. User can delete AzureKeys integration by Id">
       <skipped/>
     </testcase>
   </testsuite>

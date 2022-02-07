@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="924.8190" tests="1" failures="1">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:50:59" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="924.8190" tests="1" failures="1">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:50:59" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="WORKFLOW_TESTS - pipeline workFlow tests " timestamp="2022-01-17T17:50:59" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383771/setup_PreMatrix/tests/core/workFlow/pipeline/trigger/pipelineWorkFlowComplexPipelines1.js" time="0.0000" failures="0">
+  <testsuite class="WORKFLOW_TESTS - pipeline workFlow tests " timestamp="2022-01-17T17:50:59" tests="0" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383771/setup_PreMatrix/tests/core/workFlow/pipeline/trigger/pipelineWorkFlowComplexPipelines1.js" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="Test cases with complex pipelines in workflow tests" timestamp="2022-01-17T17:50:59" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383771/setup_PreMatrix/tests/core/workFlow/pipeline/trigger/pipelineWorkFlowComplexPipelines1.js" time="924.6590" failures="1">
-    <testcase name="WORKFLOW_TESTS - pipeline workFlow tests  Test cases with complex pipelines in workflow tests SMOKE_TEST. P_WF_0027. Complex pipeline" time="924.6540" classname="SMOKE_TEST. P_WF_0027. Complex pipeline">
+  <testsuite class="Test cases with complex pipelines in workflow tests" timestamp="2022-01-17T17:50:59" tests="1" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/workflow_tests/4383771/setup_PreMatrix/tests/core/workFlow/pipeline/trigger/pipelineWorkFlowComplexPipelines1.js" time="924.6590" failures="1">
+    <testcase class="WORKFLOW_TESTS - pipeline workFlow tests  Test cases with complex pipelines in workflow tests SMOKE_TEST. P_WF_0027. Complex pipeline" time="924.6540" classclass="SMOKE_TEST. P_WF_0027. Complex pipeline">
       <failure message="Max number of back-offs reached" type="Error"><![CDATA[Error: Max number of back-offs reached
     at Backoff.<anonymous> (globalWrapper/getRunStatusForQuery.js:101:11)
     at Backoff.backoff (node_modules/backoff/lib/backoff.js:41:14)

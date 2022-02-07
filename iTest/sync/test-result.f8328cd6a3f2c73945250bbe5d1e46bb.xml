@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="40.1020" tests="4" failures="0">
-  <testsuite name="Root Suite" timestamp="2022-01-17T17:50:41" tests="0" time="0.0000" failures="0">
+<testsuites class="Mocha Tests" time="40.1020" tests="4" failures="0">
+  <testsuite class="Root Suite" timestamp="2022-01-17T17:50:41" tests="0" time="0.0000" failures="0">
   </testsuite>
-  <testsuite name="SYNC_HELMBLUGREENROLESWITCH_STEP - HelmBlueGreenRoleSwitch Sync Tests" timestamp="2022-01-17T17:50:41" tests="4" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/step_sync_tests/4383652/setup_PreMatrix/tests/core/steps/Sync/HelmBlueGreenRoleSwitch.js" time="40.0970" failures="0">
-    <testcase name="SYNC_HELMBLUGREENROLESWITCH_STEP - HelmBlueGreenRoleSwitch Sync Tests S-SYC-HBGRoleSwitch-5978-0001 User adds a pipeline Source with HelmBlueGreenRoleSwitch step with all required configuration properties. Verify if pipeline Sync goes to succeed." time="10.4140" classname="S-SYC-HBGRoleSwitch-5978-0001 User adds a pipeline Source with HelmBlueGreenRoleSwitch step with all required configuration properties. Verify if pipeline Sync goes to succeed.">
+  <testsuite class="SYNC_HELMBLUGREENROLESWITCH_STEP - HelmBlueGreenRoleSwitch Sync Tests" timestamp="2022-01-17T17:50:41" tests="4" file="/var/opt/jfrog/pipelines/data/iTest/runs/521732/steps/step_sync_tests/4383652/setup_PreMatrix/tests/core/steps/Sync/HelmBlueGreenRoleSwitch.js" time="40.0970" failures="0">
+    <testcase class="SYNC_HELMBLUGREENROLESWITCH_STEP - HelmBlueGreenRoleSwitch Sync Tests S-SYC-HBGRoleSwitch-5978-0001 User adds a pipeline Source with HelmBlueGreenRoleSwitch step with all required configuration properties. Verify if pipeline Sync goes to succeed." time="10.4140" classclass="S-SYC-HBGRoleSwitch-5978-0001 User adds a pipeline Source with HelmBlueGreenRoleSwitch step with all required configuration properties. Verify if pipeline Sync goes to succeed.">
     </testcase>
-    <testcase name="SYNC_HELMBLUGREENROLESWITCH_STEP - HelmBlueGreenRoleSwitch Sync Tests S-SYC-HBGRoleSwitch-5978-0002 User adds a pipeline Source with HelmBlueGreenRoleSwitch missing deployStep property. verify if pipeline sync fails." time="9.7510" classname="S-SYC-HBGRoleSwitch-5978-0002 User adds a pipeline Source with HelmBlueGreenRoleSwitch missing deployStep property. verify if pipeline sync fails.">
+    <testcase class="SYNC_HELMBLUGREENROLESWITCH_STEP - HelmBlueGreenRoleSwitch Sync Tests S-SYC-HBGRoleSwitch-5978-0002 User adds a pipeline Source with HelmBlueGreenRoleSwitch missing deployStep property. verify if pipeline sync fails." time="9.7510" classclass="S-SYC-HBGRoleSwitch-5978-0002 User adds a pipeline Source with HelmBlueGreenRoleSwitch missing deployStep property. verify if pipeline sync fails.">
     </testcase>
-    <testcase name="SYNC_HELMBLUGREENROLESWITCH_STEP - HelmBlueGreenRoleSwitch Sync Tests S-SYC-HBGRoleSwitch-5978-0003 User adds pipeline source with HelmBlueGreenRoleSwitch missing kubernetes integration. verify if pipeline sync fails." time="9.7470" classname="S-SYC-HBGRoleSwitch-5978-0003 User adds pipeline source with HelmBlueGreenRoleSwitch missing kubernetes integration. verify if pipeline sync fails.">
+    <testcase class="SYNC_HELMBLUGREENROLESWITCH_STEP - HelmBlueGreenRoleSwitch Sync Tests S-SYC-HBGRoleSwitch-5978-0003 User adds pipeline source with HelmBlueGreenRoleSwitch missing kubernetes integration. verify if pipeline sync fails." time="9.7470" classclass="S-SYC-HBGRoleSwitch-5978-0003 User adds pipeline source with HelmBlueGreenRoleSwitch missing kubernetes integration. verify if pipeline sync fails.">
     </testcase>
-    <testcase name="SYNC_HELMBLUGREENROLESWITCH_STEP - HelmBlueGreenRoleSwitch Sync Tests S-SYC-HBGRoleSwitch-5978-0004 User adds pipeline source with HelmBlueGreenRoleSwitch only. Verify if pipelines sync fails." time="10.1090" classname="S-SYC-HBGRoleSwitch-5978-0004 User adds pipeline source with HelmBlueGreenRoleSwitch only. Verify if pipelines sync fails.">
+    <testcase class="SYNC_HELMBLUGREENROLESWITCH_STEP - HelmBlueGreenRoleSwitch Sync Tests S-SYC-HBGRoleSwitch-5978-0004 User adds pipeline source with HelmBlueGreenRoleSwitch only. Verify if pipelines sync fails." time="10.1090" classclass="S-SYC-HBGRoleSwitch-5978-0004 User adds pipeline source with HelmBlueGreenRoleSwitch only. Verify if pipelines sync fails.">
     </testcase>
   </testsuite>
 </testsuites>
